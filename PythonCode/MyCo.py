@@ -1,6 +1,9 @@
 # import flask dependencies
-from flask import Flask, request, make_response, jsonify
+from flask import Flask, request, make_response, jsonify, render_template
 from datetime import datetime
+import json
+
+from elasticsearch import Elasticsearch
 
 # initialize the flask app
 app = Flask(__name__)
@@ -14,6 +17,7 @@ def index():
 
 # function for responses
 def results():
+    es = Elasticsearch()
     # build a request object
     req = request.get_json(force=True)
 
@@ -22,20 +26,66 @@ def results():
     print(action)
     print(req)
     topic = req.get('queryResult').get('parameters').get('Topic')
-    geocountry = req.get('queryResult').get('parameters').get('geo-country')
+    geocountry = str(req.get('queryResult').get('parameters').get('geo-country'))
     subtopic = req.get('queryResult').get('parameters').get('Subtopic')
     topic1 = req.get('queryResult').get('parameters').get('Topic1')
     timestamp = datetime.now()
+    term = "\"" + topic +" "+" "+ geocountry+" "+" "+subtopic+ "\""
+    print(term)
+    if term is not None:
+        resp = es.search(index="test-index", body={
+            "size": 10,
+            "query": {
 
+                "bool": {
+                    "must": {
+                        "multi_match": {
+                            "type": "best_fields",
+                            "query": term,
+                            "fields": ["text"]
+
+                        }
+                    }
+                }
+
+            }
+
+        })
+
+
+    print(resp)
     print('topic: ' + topic)
-    print('geo-location:' + geocountry)
+    print('geo-location: ' + geocountry)
     print('Subtopic: ' + subtopic)
     print('topic 1: ' + topic1)
     print('timestamp: ' + str(timestamp))
 
-    # return a fulfillment response
-    return {
-        'fulfillmentText': 'you where looking for topic: ' + topic + '\n and topic 1: ' + topic1 + '\n and Subtopic: ' + subtopic + ' in: ' + geocountry}
+    # Historie anlegen
+    with open('data.json', "r") as json_file:
+        data = json.load(json_file)
+
+    print(data)
+    lenght = len(data['history'])
+    data['history'].append(
+        {"id": lenght + 1, "topic": topic, "geocountry": geocountry, "subtopic": subtopic, "topic1": topic1,
+         "timestamp": str(timestamp)})
+    print(data)
+    print(len(data['history']))
+    with open('data.json', 'w') as file:
+        json.dump(data, file)
+
+        # return a fulfillment response
+    #return {'fulfillmentText': 'you where looking for topic: ' + topic + '\n and topic 1: ' + topic1 + '\n and Subtopic: ' + subtopic + ' in: ' + geocountry}
+    returntext =""
+    for doc in resp['hits']['hits']:
+        #print('document '+str(doc['_source']["id"])+': '+doc['_source']['text'])
+        returntext = returntext + 'document '+str(doc['_source']["id"]) + ': '+str(doc['_source']['text'])
+    #print(resp['hits']['hits'])
+    text = '{'+returntext +'}'
+    print(text)
+    return {'fulfillmentText': returntext}
+
+
 
 
 # create a route for webhook
