@@ -60,6 +60,17 @@ def results():
     print('topic 1: ' + topic1)
     print('timestamp: ' + str(timestamp))
 
+    # Letzen Aufruf der Topics Finden
+
+    lasttime = ""
+    with open('data.json', 'r') as file:
+        data = json.load(file)
+        for person in data['history']:
+            # print(person)
+            if person['topic'] == topic:
+                lasttime = "Zum letzten mal wurde das Thema gesucht am: " + person['timestamp']
+                i = (person['id'])
+
     # Historie anlegen
     with open('data.json', "r") as json_file:
         data = json.load(json_file)
@@ -74,6 +85,7 @@ def results():
     with open('data.json', 'w') as file:
         json.dump(data, file)
 
+
         # return a fulfillment response
     #return {'fulfillmentText': 'you where looking for topic: ' + topic + '\n and topic 1: ' + topic1 + '\n and Subtopic: ' + subtopic + ' in: ' + geocountry}
     returntext =""
@@ -83,7 +95,7 @@ def results():
     #print(resp['hits']['hits'])
     text = '{'+returntext +'}'
     print(text)
-    return {'fulfillmentText': returntext}
+    return {'fulfillmentText': lasttime+" Dokumente passend zur Anfrage sind: "+ returntext}
 
 
 
