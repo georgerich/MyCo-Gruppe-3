@@ -358,6 +358,17 @@ Abb.17: Sprachassistent
 ---
 
 
+---
+| Name       | Sprachassistent starten           | 
+| ------------- |:-------------:| 
+| Ziel      | Das starten des Sprachassistenten | 
+| Vorbedingung     | Der Nutzer verfügt über ein Google-Home gerät oder ein Gerät, auf welchem Google Assistant verfügbar ist      | 
+| Nachbedingung| Der Sprachassistent ist gestartet  | 
+| Nachbedingung im Sonderfall | - | 
+| Akteuer | Nutzer | 
+| Normalablauf | Der Nutzer startet Google Assistant über Google-Home oder ein anderes kompatibeles Gerät |
+| Sonderfälle | - |
+---
 
 ---
 | Name       | Themenanfrage           | 
