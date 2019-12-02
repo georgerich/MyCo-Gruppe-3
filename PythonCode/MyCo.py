@@ -15,7 +15,7 @@ def index():
     return render_template('index.html')
 
 
-# function for responses
+# function for responsesdata.json
 def results():
     es = Elasticsearch()
     # build a request object
@@ -30,7 +30,7 @@ def results():
     subtopic = req.get('queryResult').get('parameters').get('Subtopic')
     topic1 = req.get('queryResult').get('parameters').get('Topic1')
     timestamp = datetime.now()
-    term = "\"" + topic +" "+" "+ geocountry+" "+" "+subtopic+ "\""
+    term = "\"" + topic + " " + " " + geocountry + " " + " " + subtopic + "\""
     print(term)
     if term is not None:
         resp = es.search(index="test-index", body={
@@ -51,7 +51,6 @@ def results():
             }
 
         })
-
 
     print(resp)
     print('topic: ' + topic)
@@ -85,19 +84,16 @@ def results():
     with open('data.json', 'w') as file:
         json.dump(data, file)
 
-
         # return a fulfillment response
-    #return {'fulfillmentText': 'you where looking for topic: ' + topic + '\n and topic 1: ' + topic1 + '\n and Subtopic: ' + subtopic + ' in: ' + geocountry}
-    returntext =""
+    # return {'fulfillmentText': 'you where looking for topic: ' + topic + '\n and topic 1: ' + topic1 + '\n and Subtopic: ' + subtopic + ' in: ' + geocountry}
+    returntext = ""
     for doc in resp['hits']['hits']:
-        #print('document '+str(doc['_source']["id"])+': '+doc['_source']['text'])
-        returntext = returntext + 'document '+str(doc['_source']["id"]) + ': '+str(doc['_source']['text'])
-    #print(resp['hits']['hits'])
-    text = '{'+returntext +'}'
+        # print('document '+str(doc['_source']["id"])+': '+doc['_source']['text'])
+        returntext = returntext + 'document ' + str(doc['_source']["id"]) + ': ' + str(doc['_source']['text']) + ' //// '
+    # print(resp['hits']['hits'])
+    text = '{' + returntext + '}'
     print(text)
-    return {'fulfillmentText': lasttime+" Dokumente passend zur Anfrage sind: "+ returntext}
-
-
+    return {'fulfillmentText': lasttime + " Dokumente passend zur Anfrage sind: " + returntext}
 
 
 # create a route for webhook
