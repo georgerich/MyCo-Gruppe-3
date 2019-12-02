@@ -16,7 +16,7 @@ Datum: 03.12.2019
 
 
 
-**
+
 
 ## Inhaltsverzeichnis
 
@@ -64,6 +64,7 @@ Ziel des Projektes ist es im Rahmen der Vorlesung CloudComputing des Masterstudi
 
 ![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/4.JPG)
 
+Abb.1: Grobstruktur Zielsystem
 
 **1.1 Rahmenbedingungen**
 
@@ -74,6 +75,7 @@ Die für die erfolgreiche Bearbeitung des Projekts nötigen Kenntnisse bauen auf
 **1.2 Beschreibung des Zielsystems**
 
 ![Abb. 2: Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Zielsystem.JPG)
+Abb.2: Zielsystem
 
 In Abbildung 2 beschreiben wir unser Zielsystem und dessen Aufbau. Das System soll wie folgt aufgebaut sein. Dialogflow soll die Eingabe des Users, sei es eine Sprach- oder Texteingabe, erkennen und einen JSON-String mit dem angesprochenen Thema erzeugen und senden. Ngrok baut einen Tunnel zwischen dem lokalen Host und dem Server durch den der JSON-String gesendet wird. Flask nimmt dann den JSON-String, der von Dialogflow gesendet wurde, entgegen und leitet ihn weiter an Pythonskript. Das Pythonskript erkennt die gesuchten Begriffe aus dem JSON-String und durchsucht mit einer Volltextsuche den Datensatz, also sprich die Dokumente, nach passenden Dokumenten und gibt diese zurück. Flask leitet dann die Ausgabe von Pythonskript über den immer noch bestehenden Tunnel von Ngrok zurück an Dilogflow. Dialogflow erkennt den zurückgegebenen JSON-String und gibt dem User die Dokumente aus.
 
@@ -88,11 +90,11 @@ Wir entschieden im Team, uns immer montags und freitags zusammenzusetzen und uns
 Zu beginn wollten wir die Aufgaben klar abgrenzen und einteilen. Jedoch wurde schnell klar das dies nicht der effektivste Weg bei diesem Projekt war. Wir entschieden uns daher für unser Team für eine agile Arbeitsweise bei denen wir wöchentliche Treffen mit den aktuellen Status besprechen und zudem auch die wöchentlichen Meetings bei den Professoren wahrnehmen (s. Abb. 3). Wir in unserem Team haben uns dazu entschlossen alle gemeinschaftlich mit dem gleichen Anteil an den Aufgaben zu arbeiten sodass jeder das gleiche Verständnis zu der Fallstudie und der Aufgabe aufbauen kann (s. Abb. 4). Diese Arbeitsweise half uns dabei Probleme schneller zu erkennen und zu lösen, insbesondere dann wenn ein Gruppenmitglied Schwierigkeiten bei einer Aufgabe hatte.
 
 ![Abb.3:Sprechstunden](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/1.JPG)
-
+Abb.3: Sprechstunden 
 
 
 ![Abb.4: AUfgabenverteilung](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/2.JPG)
-
+Abb.4: Aufgabenverteilung
 
 
 ## 2.0 Projektphasen
@@ -100,26 +102,28 @@ Zu beginn wollten wir die Aufgaben klar abgrenzen und einteilen. Jedoch wurde sc
 Die Projektarbeit unterteilt sich in 3 Meilensteine mit mehreren Unteraufgaben (s.Abb. 5). Auf diese wird im folgenden Kapitel näher eingegangen und diese beschrieben.
 
 ![Abb. 5: Meilensteine](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/3.JPG)
+Abb.5: Meilensteine
 
 **2.1 Meilenstein 1**
 
 Der erste Meilenstein (s.Abb.6) gliedert sich in zwei Teilaufgaben und beschäftigt sich mit einigen Organisatorischen Gesichtspunkten. Daher beinhaltet dieser Meilenstein die erfolgreiche Teilnahme an der ersten Auftaktveranstaltung an diesem Projekt sowie die Registrierung für diesen Kurs via Moodle. Des weiteren erfolgte die Aufstellung von Teilaufgaben bzw. das überlegen einer Strategie/Vorgehensweise für das anstehende Projekt. Ebenfalls wurde ein GitHub Repository (s. Kap. 4.1.1) eingerichtet um für die Teammitglieder sowie einen Dauerhaften zugriff auf hochgeladene und geteilte Dokumente zu gewähren.
 
 ![Abb. 6: Meilenstein 1](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Meilenstein%201.JPG)
-
+Abb.6: Meilenstein 1
 
 **2.2 Meilenstein 2**
 
 Der Meilenstein 2 (s. Abb.7)gliedert sich in drei Teilaufgaben und befasst sich mit dem Start der Realisierung der Fallstudie durch Dialogflow und den damit kooperierenden Programmen, die in Kapitel 4.0 erläutert werden. Die Demonstration der bisherigen abgearbeiteten Meilensteinen erfolgt live bei der Projektpräsentation am 03.12.2019. Das “Peer-Feedback” ist ebenfalls Teil von Meilenstein 2 und dient der gegenseitig und anonym Bewertung der Projektmitglieder.
 
 ![Abb.7: Meilenstein 2](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Meilenstein%202.JPG)
-
+Abb.7: Meilenstein 2
 
 **2.3 Meilenstein 3**
 
-IIn Meilenstein 3 (s. Abb. 8) der sich ebenfalls in drei Teilaufgaben gliedert, erfolgt die Umsetzung des bisherigen Projekts in Tensorflow. Zudem wird das abgeschlossene Projekt auf der Medianight demonstriert
+In Meilenstein 3 (s. Abb. 8) der sich ebenfalls in drei Teilaufgaben gliedert, erfolgt die Umsetzung des bisherigen Projekts in Tensorflow. Zudem wird das abgeschlossene Projekt auf der Medianight demonstriert
 
 ![Abb.8: Meilenstein 3](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Meilenstein%203.JPG)
+Abb.8: Meilenstein 3
 
 ## **3.0 Hinweise für Entwickler**
 
@@ -158,11 +162,11 @@ Folgende Werkzeuge wurden zur Realisierung des Systems benutzt:
 
 
 
-**
+
 
 ## 4.0 Installationshinweise
 
-**
+
 Für die Realisierung und Vereinfachung des Projektes, sind einige Plugins und Programme notwendig. Diese Programme sind zum einen für die Entwicklung relevant sowie für die Teaminterne Kommunikation.
 
 **4.1 Benötigte Programme**
@@ -209,16 +213,19 @@ Im Folgenden wird in einer Klickanleitung beschrieben, wie man einen Intent anle
 Als erstes klickt man in der linken Menüleiste auf den Punkt Intent (s. Abb. 9) und oben auf den Button “Create Intent”.
 
 ![Abb. 9: Create Intent](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Dialog1.jpeg)
+Abb.9: Create Intent
 
 Im unteren Bereich sieht man die bereits ausgewählten bzw. angelegten Intents. Hier zum Beispiel “Book a flight ticket”, “Default Fallback Intent” und “Default Welcome Intent”. Wenn man auf den Button Create Intent geklickt hat, öffnet sich ein neuer Intent (s. Abb. 10)
 
 ![Abb. 10: Neuer Intent](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Dialog2.jpeg)
+Abb.10: Neuer Intent
 
 Als muss man dem Intent in der obersten Zeile einen Namen geben. In dem Abbildungs Beispiel hat der Intent den Namen “Find Subject”.
 Unter dem Punkt “Training Phrases” werden mögliche Eingaben des Users vordefiniert. Man sieht hier auch schon farblich markierte Parameter, die als Entitys angelegt werden. Wie man ein Entity anlegt wird in Kapitel 4.1.3.2 erklärt.
 Man hat außerdem die Möglichkeit Antworten auf Eingaben zu definieren (s. Abb. 11).
 
 ![Abb. 11: Responses](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Dialog5.jpeg)
+Abb.11: Responses
 
 In unserem Beispiel wurden keine Antworten für dieses Intent hinzugefügt, da es sonst Probleme mit der Übergabe der Daten gibt. Wichtig ist für unser Intent außerdem unter dem Punkt Fulfillment den Punkt “Enable webhook call for this intent” aktiv zu setzen.
 
@@ -230,15 +237,21 @@ Entitys werden benötigt, um in einem Intent ein Thema zu erkennen. im Folgenden
 Um ein Entity anzulegen klickt man in der linken Menüleiste auf den Punkt Entites (s. Abb. 12). Als erstes wird dem Entity ein Name gegeben, welcher in unserem Fall Topic ist. wir haben hier die Topics financ, politic, tech, scien und health definiert. Für jedes Topic wurden mehrer mögliche Schreibweisen definiert. Im Anschluss kann im Intent auf dieses Entity verwiesen werden und dadurch die Themen erkannt werden, über die gesprochen werden möchte.
 
 ![Abb. 12: Entity anlegen](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Dialog4.jpeg)
+Abb.12: Entity anlegen
+
 
 		4.1.3.3 Anlegen von Agents
 Einen Agent benötigt man um Intents und Entitys anlegen zu können. Einen Agent kann man durchaus als Projekt bezeichnen. Das Anlegen wird im Folgenden beschrieben (s. Abb.13).	
 
 ![Abb. 13: Anlegen von Agents](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Dialog6.jpeg) 
+Abb.13: Anlegen von Agents
+
 
 Um einen neuen Agent anzulegen, muss man in der linken Menüleiste das Dropdown Menü öffnen und unten auf “Create new Agent” klicken. Daraufhin öffnet sich folgendes Fenster (s. Abb. 14).
 
 ![Abb.14: Create new Agent](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Dialog3.jpeg) 
+Abb.14: Create new Agent
+
 
 Hier kann man den Agent benennen, die Sprache und die Zeitzone einstellen. Im Anschluss klickt man auch “Create” und der Agent ist erstellt.
 
@@ -266,6 +279,8 @@ Suchanfragen werden als JSON-Dokumente über eine REST-Schnittstelle an Elastics
  - "ngrok http 5000" ausführen (s.Abb.15)
  
  ![Abb.15: nGrok http 500](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/NGrok.png)
+ 
+ Abb.15: nGrok http 500
  
  - Markierte URL kopierte oder aufschreiben
 
@@ -297,11 +312,12 @@ Suchanfragen werden als JSON-Dokumente über eine REST-Schnittstelle an Elastics
 Im folgenden Kapitel werden die erstellten Diagramme dargestellt. Die Diagramme wurden mit Hilfe von “StarUML” erstellt. Das erste Diagramm (s. Abb. 16 ) zeigt den Gesprächskontext.
 
 ![Abb.16:Gesprächskontext](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Klassendiagramm%20Gespr%C3%A4chskontext.jpg)
+Abb.16: Gesprächskontext
 
 Die folgende Abbildung (s. Abb.17 ) zeigt den Use Case “Sprachassistent”.
 
 ![Abb.17:Sprachassistent](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Use%20Case%20Sprachassistent.jpg)
-
+Abb.17: Sprachassistent
 
 ## 5.0 Zusammenfassung
 Wir glauben das im aktuellen Reuters Testdatensatz der über Keras bezogen wird es unserer Ansicht nach keine andere Möglichkeit gibt als dies als Volltextsuche zu implementieren da der Datensatz nicht kategorisiert ist. Daher war dies die bestmöglichste Lösung für uns da wir uns für eine Suche entschieden haben die zum Datensatz passt und funktioniert.
