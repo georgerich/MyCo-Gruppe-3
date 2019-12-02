@@ -4,7 +4,7 @@ Cloud Computing | Gruppe 3  | WS 2019-2020|
 ---
 | Gruppenmitglieder        | Matrikelnummer           | Kürzel  |
 | ------------- |:-------------:| -----:|
-| Georg Erich      | 39255 | ge007 | 
+| Georg Erich      | 39255 | ge009 | 
 | Lisa Kryszewski     | 38943      | lk157 |
 | Michael Schulz|  39579  | ms560 |
 | Philipp Stransky | 39068 | ps136 |
