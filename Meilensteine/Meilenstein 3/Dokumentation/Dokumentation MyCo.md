@@ -319,6 +319,68 @@ Die folgende Abbildung (s. Abb.17 ) zeigt den Use Case “Sprachassistent”.
 ![Abb.17:Sprachassistent](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilensteine/Meilenstein%203/BilderDoku/Use%20Case%20Sprachassistent.jpg)
 Abb.17: Sprachassistent
 
+| Name       | Dokumentenanfrage           | 
+| ------------- |:-------------:| 
+| Ziel      |  Google Assistant identifiziert das gewünschte Dokument für den Nutzer  | 
+| Vorbedingung     | Der Nutzer verfügt über ein Google-Home gerät oder ein Gerät, auf welchem Google Assistent verfügbar ist und der Google Assistant wurde gestartet ; Der Nutzer führt eine Spracheingabe durch, in welcher der Nutzer nach dem gewünschten Dokument anfragt       | 
+| Nachbedingung| Der Sprachassistent identifiziert das gewünschte Dokument und zeigt dieses dem Nutzer an  | 
+| Nachbedingung im Sonderfall | Google Assistant verfügt nicht über das gewünschte Dokument und kann somit das Dokument nicht ausgeben | 
+| Akteuer | Nutzer | 
+| Normalablauf | Der Nutzer benutz Google Assistant und fragt nach einen Dokument. Diese Anfrage wird unmittelbar verarbeitet und das System identifiziert das Dokument  und teilt dies dem Nutzer mit |
+| Sonderfälle |Das gewünschte Dokument des Nutzers kann nicht identifiziert werden, da es nicht im Datensatz vorhanden ist |
+---
+
+
+
+---
+| Name       | Dokumentenbestätigung           | 
+| ------------- |:-------------:| 
+| Ziel      |  Google Assistant identifiziert das gewünschte Dokument für den Nutzer und zeigt dies dem Nutzer an  | 
+| Vorbedingung     | Der Nutzer verfügt über ein Google-Home gerät oder ein Gerät, auf welchem Google Assistant verfügbar ist und der Google Assistant wurde gestartet ; Der Nutzer führt eine Spracheingabe durch, in welcher der Nutzer nach dem gewünschten Dokument anfragt       | 
+| Nachbedingung| Der Sprachassistent identifiziert das gewünschte Dokument und stellt dies für die Konsumierung zur Verfügung  | 
+| Nachbedingung im Sonderfall | Google Assistent verfügt nicht über das gewünschte Dokument und kann somit das Dokument nicht ausgeben | 
+| Akteuer | Nutzer | 
+| Normalablauf | Der Nutzer benutz Google Assistant und fragt nach einen Dokument. Diese Anfrage wird unmittelbar verarbeitet und das System identifiziert das Dokument  zeigt dies dem Nutzer an |
+| Sonderfälle |Das gewünschte Dokument des Nutzers kann nicht identifiziert werden, da es nicht im Datensatz vorhanden ist |
+---
+
+
+---
+| Name       | Spracheingabe           | 
+| ------------- |:-------------:| 
+| Ziel      | Die Spracheingabe zu Google Assistant | 
+| Vorbedingung     | Der Nutzer verfügt über ein Google-Home gerät oder ein Gerät, auf welchem Google Assistant verfügbar ist und der Google Assistant wurde gestartet      | 
+| Nachbedingung| Der Sprachassistent verarbeitet die Gesprächseingabe des Nutzers  | 
+| Nachbedingung im Sonderfall |Das System kann die Spracheingabe nicht verarbeiten und meldet dem Nutzer einen Fehler | 
+| Akteuer | Nutzer | 
+| Normalablauf | Der Nutzer benutz Google Assistant, indem dieser eine Spracheingabe tätigt. Diese Spracheingabe wird anschließend vom Google Assistant verarbeitet |
+| Sonderfälle |Die Spracheingabe kann nicht verarbeitet werden auf Grund undeutiger Spracheingabe, falscher Eingabesprache oder einen Hardwaredefekt (z.B. Mikrofon) |
+---
+
+
+
+---
+| Name       | Themenanfrage           | 
+| ------------- |:-------------:| 
+| Ziel      |  Google Assistant identifiziert das gewünschte Thema des Nutzers  | 
+| Vorbedingung     | Der Nutzer verfügt über ein Google-Home gerät oder ein Gerät, auf welchem Google Assistant verfügbar ist und der Google Assistant wurde gestartet ; Der Nutzer führt eine Spracheingabe durch, in welcher der Nutzer nach seinem gewünschten Thema anfragt       | 
+| Nachbedingung| Der Sprachassistent identifiziert das gewünschte Thema des Nutzers  | 
+| Nachbedingung im Sonderfall | Google Assistant kann das Thema nicht identifizieren | 
+| Akteuer | Nutzer | 
+| Normalablauf | Der Nutzer benutz Google Assistant und fragt nach einen Thema. Diese Anfrage wird unmittelbar verarbeitet und das System identifiziert das Thema und teilt dies dem Nutzer mit |
+| Sonderfälle |Das gewünschte Thema des Nutzers kann nicht identifiziert werden, da es nicht im Datensatz vorhanden ist |
+---
+
+
+
+
+
+
+
+
+
+
+
 ## 5.0 Zusammenfassung
 Wir glauben das im aktuellen Reuters Testdatensatz der über Keras bezogen wird es unserer Ansicht nach keine andere Möglichkeit gibt als dies als Volltextsuche zu implementieren da der Datensatz nicht kategorisiert ist. Daher war dies die bestmöglichste Lösung für uns da wir uns für eine Suche entschieden haben die zum Datensatz passt und funktioniert.
 
