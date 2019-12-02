@@ -15,9 +15,13 @@ Philipp Stransky, Michael Schulz, Christoph Zeltwanger, Lisa Kryszewski, Georg E
 ## AGENDA
 
 1.0 Erläuterung unseres Zielsystems
+
 2.0 Use Case Sprachassistent
+
 3.0 Klassendiagramm Gesprächskontext
+
 4.0 Verwendete Tools
+
 5.0 Demonstration
 
 
@@ -55,4 +59,5 @@ Philipp Stransky, Michael Schulz, Christoph Zeltwanger, Lisa Kryszewski, Georg E
 		→ kommunizieren
 
 **5.0 Demonstration**
+
 --> Live Demonstration am 03.12.19 vor Ort
