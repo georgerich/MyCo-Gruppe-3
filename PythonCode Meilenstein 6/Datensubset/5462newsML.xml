@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5462" id="root" date="1996-08-21" xml:lang="en">
+<title>NETHERLANDS: SCHUTTERSVELD FIRST-HALF NET RISES.</title>
+<headline>SCHUTTERSVELD FIRST-HALF NET RISES.</headline>
+<dateline>ZEIST, Netherlands 1996-08-21</dateline>
+<text>
+<p>Six months to June 30,</p>
+<p>1996 (in millions of guilders unless otherwise stated)</p>
+<p>    Net per shr (guilders)	     3.34 vs   3.07</p>
+<p>    Net profit			    14.9  vs  13.3</p>
+<p>    Turnover			     481.3  vs 397.8</p>
+<p>    Operating profit		    29.2  vs  29.1</p>
+<p>    Interest charges		     6.3  vs   8.9</p>
+<p>    Tax					8.0  vs   6.8</p>
+<p>NOTE - Industrial group Schuttersveld Holding NV previously</p>
+<p>said it expected higher profits in 1996.</p>
+<p>-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZEIST, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

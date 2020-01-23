@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5522" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Right Start sees no profits in near term.</title>
+<headline>Right Start sees no profits in near term.</headline>
+<dateline>WESTLAKE VILLAGE 1996-08-21</dateline>
+<text>
+<p>Right Start Inc said on Wednesday it does not expect to report profits within the near term due recent investments in its business.</p>
+<p>&quot;Due to significant long-term investment that we have made in human resources and infrastructure, we do not expect to be profitable in the near term,&quot; the company said in a statement.</p>
+<p>The company sells clothes for infants and children up to age four. It had been a catalog company up until fiscal 1996, which ended June 1, when it began to open retail stores.</p>
+<p>Earlier, the company reported a fiscal fourth quarter loss of $0.34 a share versus a loss of $0.01 a share one year ago.</p>
+<p>Right Start did not say exactly what the near term was in its loss forecast and company officials were not available to comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I6560003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTLAKE VILLAGE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

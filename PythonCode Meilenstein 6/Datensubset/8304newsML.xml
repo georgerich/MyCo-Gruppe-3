@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8304" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Flow International Corp Q1 net rises.</title>
+<headline>Flow International Corp Q1 net rises.</headline>
+<dateline>KENT, Wash. 1996-08-22</dateline>
+<text>
+<p>(unaudited;$ in thousands, except per share data)</p>
+<p>					  Three Months Ended</p>
+<p>						 July 31,</p>
+<p>					 1996		1995</p>
+<p> Revenues			  40,929	    33,013</p>
+<p> Operating income		 3,772	     3,159</p>
+<p> Net income			 2,232	     2,060</p>
+<p>Earnings per common and</p>
+<p>  equivalent shares		 .15		 .14</p>
+<p>Weighted average</p>
+<p>  shares outstanding	   15,025	    15,002</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KENT, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

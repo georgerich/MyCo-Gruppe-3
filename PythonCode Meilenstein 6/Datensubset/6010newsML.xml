@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6010" id="root" date="1996-08-21" xml:lang="en">
+<title>POLAND: Polish bourse kerb bond deals - August 21.</title>
+<headline>Polish bourse kerb bond deals - August 21.</headline>
+<dateline>WARSAW 1996-08-21</dateline>
+<text>
+<p>Turnover in kerb bond deals through the Warsaw bourse was 216.3 million zlotys on Wednesday up from Tuesday's 1.2 million zlotys.</p>
+<p>Here is a summary of block transactions made on the Warsaw Stock Exchange:</p>
+<p>* 105,181 fixed-interest five-year bonds maturing on October 12, 2000 traded at 90.50.</p>
+<p>* 26,355 fixed-interest five-year bonds maturing on October 12, 2000 traded at 90.45.</p>
+<p>* 31,473 variable-interest three-year bonds maturing on February 7, 1998 traded at 103.70. @</p>
+<p>* 6,060 variable-interest three-year bonds maturing on November 9, 1997 traded at 103.50.</p>
+<p>* 423,064 variable-interest three-year bonds maturing on November 6, 1998 traded at 104.10.</p>
+<p>* 325,332 variable-interest three-year bonds maturing on November 6, 1998 traded at 104.20.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

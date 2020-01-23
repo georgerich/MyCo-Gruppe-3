@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8475" id="root" date="1996-08-22" xml:lang="en">
+<title>DENMARK: Denmark sees unemployment at 9.0 pct by end-1996.</title>
+<headline>Denmark sees unemployment at 9.0 pct by end-1996.</headline>
+<dateline>COPENHAGEN 1996-08-22</dateline>
+<text>
+<p>Denmark's economy ministry said on Thursday it expected unemployment of 9.0 percent by the end of 1996.</p>
+<p>The forecast, published in the latest ministry economic review, compared with projections last May of a 9.2 percent 1996 jobless rate.</p>
+<p>In June 1996 Danish unemployment stood at 8.7 percent on a year-to-year basis, against 1995's average 10.3 percent.</p>
+<p>Thursday's survey saw 8.6 percent jobless at the end of 1997,  compared to May's forecast of 8.7 percent.</p>
+<p>--Chris Follett, Copenhagen newsroom +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

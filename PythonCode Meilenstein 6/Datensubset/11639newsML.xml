@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11639" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: Euromarket turnover fell in week to August 23.</title>
+<headline>Euromarket turnover fell in week to August 23.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Turnover in the Eurobond and related markets fell to $815.75 billion in the week to August 23 from $823.50 billion the previous week, International Securities Market Association figures show (in billions of dollars).</p>
+<p>					 Latest week	Previous week</p>
+<p> Primary market:		    40.71		45.48</p>
+<p> Of which U.S. dollar issues    22.47		22.31</p>
+<p> Secondary market:		 775.04	     778.02</p>
+<p> Of which U.S. dollar issues   151.08	     152.40</p>
+<p> Cleared through Euroclear     586.17	     584.80</p>
+<p> Cleared through Cedel	   229.59	     238.70</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11859" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: UBS says initiates three tech stocks.</title>
+<headline>UBS says initiates three tech stocks.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>UBS Securities analyst Joseph Farley said he initiated coverage of Red Brick Systems Inc, Prism Solutions and Arbor Software Corp with hold ratings.</p>
+<p>In research notes, he said that Red Brick's advantages over its competition were reflected in its current valuation.</p>
+<p>He said that while Prism &quot;plays in one of the hottest spaces in the warehousing market we have never been convinced of its ability to move beyond the niche role of tactical vendor.&quot;</p>
+<p>Farley said of Arbor that &quot;at valuations around 20 times trailing revenues, we think the shares could be exposed beyond our comfort level to the vagaries of the marketplace.&quot;</p>
+<p>Red Brick was unchanged at 24, Prism was up 1/4 at 15-3/4 and Arbor fell 7/16 to 40-1/16.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

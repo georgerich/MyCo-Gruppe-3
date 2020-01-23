@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9055" id="root" date="1996-08-22" xml:lang="en">
+<title>ETHIOPIA: Ethiopia's Awash river recedes - agency.</title>
+<headline>Ethiopia's Awash river recedes - agency.</headline>
+<dateline>ADDIS ABABA 1996-08-22</dateline>
+<text>
+<p>The waters of Awash river, which recently threatened to flood an area where 150,000 people live, have started receding, the state-run Ethiopian news agency said on Thursday.</p>
+<p>The agency quoted Mesfin Teshome, manager of the nearby Koka Dam, as saying the volume of water entering the dam from the river was much less than it had been three days ago.</p>
+<p>On Tuesday, Ethiopian authorities said they had prepared shelters for 150,000 people threatened by expected flooding of the Awash River.</p>
+<p>The Awash River, fed by rains from the highlands, was threatening to overflow and destroy thousands of hectares of sugar estates at Shoa, Wonji and Metharar along its banks some 100 km (65 miles) east of Addis Ababa, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADDIS ABABA"/>
+<dc element="dc.creator.location.country.name" value="ETHIOPIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

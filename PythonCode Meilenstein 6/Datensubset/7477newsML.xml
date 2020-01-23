@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7477" id="root" date="1996-08-21" xml:lang="en">
+<title>IRAQ: PRESS DIGEST - Iraq - Aug 21.</title>
+<headline>PRESS DIGEST - Iraq - Aug 21.</headline>
+<dateline>BAGHDAD 1996-08-21</dateline>
+<text>
+<p>These are the leading stories in the official Iraqi press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>JUMHOURIYA</p>
+<p>- Canadian businessmen to arrive in Baghdad on Thursday.</p>
+<p>- Iraq refutes Iranian allegations that it is not implementing an agreement between the two sides on prisoners of war and remains of soldiers killed in the Iraq-Iran 1980-88 war.</p>
+<p>- A Greek trade delegation to arrive in Baghdad on Friday.</p>
+<p>- Culture and information minister meets ultra-nationalist leader Vladimir Zhirinovsky.</p>
+<p>IRAQ</p>
+<p>- Chairman of Istanbul Chamber of Commerce says trade exchange with Iraq will increase by the end of this year to pre- Gulf War level.</p>
+<p>- Iraq's health minister meets in Baghdad his Iranian counterpart.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

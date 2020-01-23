@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8796" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Northwest Airlines, Mahalo Air in pact.</title>
+<headline>Northwest Airlines, Mahalo Air in pact.</headline>
+<dateline>MINNEAPOLIS 1996-08-22</dateline>
+<text>
+<p>Northwest Airlines Inc said Thursday it signed a cooperative marketing agreement with Mahalo Air which will include code-sharing on flights in the Honolulu-West Maui and Honolulu-Molokai markets.</p>
+<p>The code-share service with Mahalo, a Hawaii-based carrier, will be effective September 15. Northwest has an existing cooperative agreement with Hawaiian Airlines Inc.</p>
+<p>Northwest's flight code will be published and sold on Mahalo's daily service between Honolulu and Kapalua, West Maui, and between Honolulu and Molokai.</p>
+<p>The code-share service is valid for connections at Honolulu to and from cities served by non-stop Northwest flights, including Los Angeles, San Francisco, Seattle, Minneapolis/St. Paul and, in Japan, Tokyo, Osaka, Nagoya and Fukuoka.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

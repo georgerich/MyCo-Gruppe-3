@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5567" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Terrace Holdings ends Yofarm merger talks.</title>
+<headline>Terrace Holdings ends Yofarm merger talks.</headline>
+<dateline>FORT LAUDERDALE 1996-08-21</dateline>
+<text>
+<p>Terrace Holdings Inc said Wednesday it broke off merger talks with yogurt manufacturer Yofarm Corp.</p>
+<p>&quot;After reviewing the financial statements of both companies, projections for Yofarm and other elements of the proposed transaction, we have decided that it is in the best interest of our stockholders not to proceed at this time,&quot; said Terrace's President Samuel Lasko.</p>
+<p>Terrace, which organizes Pasover holiday vactions and owns a Kosher restaurant, said it will continue to seek other acquisition candidates.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

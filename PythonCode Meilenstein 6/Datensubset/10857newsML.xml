@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10857" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Shuffle Master in pact with Intl Game.</title>
+<headline>Shuffle Master in pact with Intl Game.</headline>
+<dateline>MINNEAPOLIS 1996-08-23</dateline>
+<text>
+<p>Shuffle Master Inc said Friday it had finalized an agreement for International Game Technology to develop and market Shuffle Master's specialty game, Let It Ride, in a wide-area progressive video format.</p>
+<p>International Game has about 75,000 video slot machines in use in North America. Of that total, it has an installed base of 37 progressive systems which link over 8,500 slot machines in North America.  </p>
+<p>International Game will distribute and operate the video Let It Ride progressive systems in North American markets. The resulting game systems will be managed jointly, with profits split evenly.</p>
+<p>Jackpot payments for the video Let It Ride progressive system will be made in annual installments.</p>
+<p>International Game's &quot;resources and installed base will allow for expansion on an ambitious scale that would be difficult to match on our own,&quot; said Joseph Lahti, president of Shuffle Master, in a statement.</p>
+<p>International Game, based in Reno, Nev., develops and makes microprocessor-based gaming products and software systems.</p>
+<p>Earlier today Shuffle Master reported higher fiscal third quarter results.</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

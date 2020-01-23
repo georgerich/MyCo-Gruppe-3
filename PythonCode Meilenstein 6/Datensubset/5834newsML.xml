@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5834" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: MacMillan Bloedel names new chairman.</title>
+<headline>MacMillan Bloedel names new chairman.</headline>
+<dateline>VANCOUVER 1996-08-21</dateline>
+<text>
+<p>MacMillan Bloedel Ltd said on Wednesday that Richard Haskayne has been named chairman effective October 1.</p>
+<p>Calgary, Alberta-born Haskayne has been on the MacMillan Bloedel board since 1994. He succeeds Ray Smith who announced his retirement last month. Haskayne is a past chairman and chief executive of Interhome Energy Inc, the parent of Interprovincial Pipe Line and Home Oil.</p>
+<p>&quot;I...want to state clearly that I have great confidence in CEO Bob Findlay and his management team,&quot; Haskayne said in a statement.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

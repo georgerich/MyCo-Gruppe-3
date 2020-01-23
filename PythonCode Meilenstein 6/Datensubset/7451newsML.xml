@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7451" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: Trigem Computer in 24-for-100 rights.</title>
+<headline>Trigem Computer in 24-for-100 rights.</headline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>South Korea's Trigem Computer said on Wednesday that it planned to offer a 24-for-100 rights issue in November to raise funds for facility investment.</p>
+<p>Trigem will issue 2.1 milion new common shares and 20 percent of them will be offered to its employees. The rest will be allocated to its shareholders as of October 21 for rights.</p>
+<p>Subscription is set for November 22 and 23, with payment due by November 26.</p>
+<p>The rights issue will be made at a 25 percent discount to a base issue price to be announced at a later date.</p>
+<p>With the rights issue offer, paid-in capital in the company will rise to 45 billion won from 34.6 billion at present.</p>
+<p>Shares of Trigem were unchanged at 32,000 won in early Wednesday trading. -- Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

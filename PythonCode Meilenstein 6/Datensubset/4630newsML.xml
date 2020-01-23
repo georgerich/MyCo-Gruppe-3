@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4630" id="root" date="1996-08-20" xml:lang="en">
+<title>SINGAPORE: Asian Brent/Dubai widens after Brent futures rally.</title>
+<headline>Asian Brent/Dubai widens after Brent futures rally.</headline>
+<dateline>SINGAPORE 1996-08-20</dateline>
+<text>
+<p>Brent/Dubai paper talk pushed the spread wider on Tuesday in the aftermath of a further Brent rally on the International Petroleum Exchange (IPE) in London.</p>
+<p>Traders assessed the Brent/Dubai for October out at $1.90/$2.00 per barrel compared with a day-earlier $1.70/$1.90.</p>
+<p>October Brent rallied on the IPE on Monday by 32 cents per barrel to settle at $20.85. It added to the 54 cents rally on Friday.  </p>
+<p>Meanwhile, intermonth Dubai spreads were assessed as steady with October/November and November/December both at 28-32 cents compared with a day-earlier October/November at 30-32 cents and November/December at 29-33 cents.</p>
+<p>Paper Tapis for September was bid at $20.05 per barrel, up 10/15 cents from a day-earlier, which some traders said lagged the Brent hike.</p>
+<p>--Singapore Newsroom (+65 870 3081)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

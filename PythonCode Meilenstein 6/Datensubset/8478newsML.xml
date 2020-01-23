@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8478" id="root" date="1996-08-22" xml:lang="en">
+<title>DENMARK: Danish economy ministry sees 1.8 pct 96 GDP growth.</title>
+<headline>Danish economy ministry sees 1.8 pct 96 GDP growth.</headline>
+<dateline>COPENHAGEN 1996-08-22</dateline>
+<text>
+<p>Denmark's economy ministry said on Thursday it expected 1996 gross domestic product (GDP) to grow by 1.8 percent, unchanged from its last survey in May.</p>
+<p>In a new review of the Danish economic outlook, the ministry predicted 1997 GDP growth of 3.0 percent, the same as in the May forecast.</p>
+<p>--Chris Follett, Copenhagen newsroom +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

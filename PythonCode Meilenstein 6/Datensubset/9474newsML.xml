@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9474" id="root" date="1996-08-22" xml:lang="en">
+<title>TURKEY: Turkish money/forex/bond closing report.</title>
+<headline>Turkish money/forex/bond closing report.</headline>
+<dateline>ISTANBUL 1996-08-22</dateline>
+<text>
+<p>Turkey's central bank funded banks with 11.2 trillion lira of overnight money at 75 percent at the close after o/n rates moved between 70-74.75 percent during the day.</p>
+<p>The market had opened 6.9 trillion lira short of cash.</p>
+<p>Despite a cash shortage, the lira weakened to 86,400 per dollar from Wednesday's 85,950 due to the U.S. dollar's rise.</p>
+<p>The central bank gradually raised its dollar rate for bank's compulsory currency transfers by 450 lira to 86,400 lira at the close on a rising dollar/mark.</p>
+<p>Bankers said the currency market, which was very quiet in the morning, became active as volatility rose after the Bundesbank cut its key repo rate.</p>
+<p>In the t-bill market, rates firmed after the central bank cancelled its repo auction.</p>
+<p>The most active February 26 paper yield rose to 128.15 percent from Wednesday's 126.56 percent. --Tulin Aygunes, Istanbul newsroom +90-212-275 08 75</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

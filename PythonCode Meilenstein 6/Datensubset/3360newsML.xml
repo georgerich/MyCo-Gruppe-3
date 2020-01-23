@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3360" id="root" date="1996-08-20" xml:lang="en">
+<title>CHILE: Chile's Enersis renegotiates loan terms.</title>
+<headline>Chile's Enersis renegotiates loan terms.</headline>
+<dateline>SANTIAGO 1996-08-21</dateline>
+<text>
+<p>Energy invest firm Enersis SA said it renegotiated the repayment terms of a $50 million syndicated loan it signed with creditor banks last year.</p>
+<p>Under the renegotiated terms, the interest rate to be paid by Enersis will be 0.37 percent above Libor, or about half that originally negotiated, it said.</p>
+<p>The five-year loan with 23 Asian, European and North American banks was signed in August last year. The five-year repayment program will stay in effect, meaning the credit will come due in August 2001 instead of 2000 as originally signed.</p>
+<p>The largest participant in the loan was Chemical Bank, which loaned $8 million, said an Enersis statement.</p>
+<p>-- Roger Atwood, Santiago newsroom +56-2-699-5595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

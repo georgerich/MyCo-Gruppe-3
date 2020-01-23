@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7391" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Japan 10-year JGB auction lowest price at 99.80.</title>
+<headline>Japan 10-year JGB auction lowest price at 99.80.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>The Ministry of Finance said the results of its 3.1 percent 189th 10-year Japanese government bond (JGB) auction on Wednesday, covering 60 percent of the 1.0 trillion yen issue, were as follows:</p>
+<p> Lowest price	 99.80    Stop rate     3.126 pct</p>
+<p> Average price	99.86    Average yield 3.118 pct</p>
+<p> Total bids	   1.7693 trillion yen</p>
+<p> Accepted bids	590.83 billion yen</p>
+<p> Bid to cover ratio		2.99 times</p>
+<p> Bids accepted at lowest price 9.2954 pct</p>
+<p> Issue date   Sept 20, 1996   Maturity   Sept 20, 2006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

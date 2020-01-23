@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7217" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Woolworths in A$150 mln debt facility.</title>
+<headline>RTRS-Woolworths in A$150 mln debt facility.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Woolworths Ltd said it had executed a A$150 million syndicated working capital facility with Chase Securities Australia Ltd as the agent/arranger.  </p>
+<p>&quot;This facility replaces a similar facility taken out at the time of the float of the company in 1993 and which was cancelled at June 1995,&quot; Woolworths said in a statement accompanying its 1995/96 results.</p>
+<p>Woolworths earlier reported a slight increase in net profit to A$233.6 million in the 52 weeks to June 23, 1996.</p>
+<p>-- Sydney newsroom 61-2 373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

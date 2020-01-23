@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5572" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Cohesant says cannot predict Q3, Q4 impact.</title>
+<headline>Cohesant says cannot predict Q3, Q4 impact.</headline>
+<dateline>CLEVELAND 1996-08-21</dateline>
+<text>
+<p>Cohesant Technologies Inc said on Wednesday it is too early to estimate the effect a recent fire at a subsidiary's plant may have on the third and fourth quarter earnings.</p>
+<p>The company said it expects the third quarter to be a profitable one.</p>
+<p>On Aug. 6, a portion of a subsidiary's St. Louis production facility was damaged in a fire. The plant is closed until investigations and capital repairs are completed, the company said.  </p>
+<p>The fire, in a section that handles solvent-based materials, injured three employees. During repairs, the company said production of solvent-based adhesives and sealants is outsourced and product deliveries are on schedule.</p>
+<p>Production of the company's other adhesives and sealants has not been affected, Cohesant said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

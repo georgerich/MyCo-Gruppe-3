@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11187" id="root" date="1996-08-23" xml:lang="en">
+<title>CHILE: Chile closes the book on Spanish diplomat's murder.</title>
+<headline>Chile closes the book on Spanish diplomat's murder.</headline>
+<dateline>SANTIAGO 1996-08-23</dateline>
+<text>
+<p>The Chilean Supreme Court lifted all charges on Friday against two retired army officers accused of murdering a Spanish diplomat during Chile's former military regime, applying a 1978 amnesty to the case.</p>
+<p>The court said the grisly murder in 1976 of Carmelo Soria was covered by an amnesty dictated by the former military government of General Augusto Pinochet. The amnesty benefited officers who committed human rights abuses during his rule.</p>
+<p>The ruling effectively ended the Soria family's hopes of prosecuting the case, a frequent point of friction between Chile and Spain, in Chilean courts. The ruling cannot be appealed.</p>
+<p>Soria, a Spanish diplomat who worked for the Santiago-based U.N. Economic Commission on Latin America (CEPAL), was found in a ravine with his backbone snapped. There were also indications he had been severely tortured.</p>
+<p>Two now-retired army officers, Jose Rios San Martin and Guillermo Salinas, were charged with kidnapping and torture in the case.</p>
+<p>Soria's family said the murder was not covered by the amnesty because he held diplomatic status, an argument rejected both by military and civilian courts.</p>
+<p>The family's arguments amounted to &quot;mere affirmations by witnesses, without any documented, official backing,&quot; said the court's ruling. It added that Soria's position at CEPAL was not high enough to give him the benefits of diplomatic status.</p>
+<p>Evidence presented in the case showed that Soria was abducted by agents of Pinochet's feared secret police, the DINA, on June 14, 1976, and was later tortured to death.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

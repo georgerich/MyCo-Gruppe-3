@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7420" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Shibuya Kogyo shares up on earnings upgrade.</title>
+<headline>Shibuya Kogyo shares up on earnings upgrade.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Bottling plant operator Shibuya Kogyo Co Ltd's shares were higher by midday on Wednesday, after the company raised its earnings forecast, brokers said.</p>
+<p>At midday, its shares were 100 yen higher at 1,700 yen. Trade volume was 61,000 shares.</p>
+<p>On Tuesday, Shibuya Kogyo revised upward its current parent forecast to 3.0 billion yen for the year ending June 1997 from a previous forecast of 1.16 billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

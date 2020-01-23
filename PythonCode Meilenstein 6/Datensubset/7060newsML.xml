@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7060" id="root" date="1996-08-21" xml:lang="en">
+<title>SPAIN: INDICATORS - Spain - updated August 21.</title>
+<headline>INDICATORS - Spain - updated August 21.</headline>
+<text>
+<p>INDICATORS - monthly     MTH/MTH   PVS    YR-AGO  INDEX TOTAL</p>
+<p>CPI (%)		Jul    +0.1    -0.1     +0.0    119.3**   -</p>
+<p> Yr/yr Inflation (%)	+3.7    +3.6     +4.7    119.3     -</p>
+<p>Core Inflation		+0.1    +0,2     +0,2	-	 -</p>
+<p> Yr/yr rise		   +3.5    +3.6     +5.2	-	 -</p>
+<p>JOBLESS (INEM)     Jul  -63,913  -33,149  -65,345    -     2.17M</p>
+<p> Rate (%)		     13.67   14.15    15.19     -	 -</p>
+<p>BALANCE OF PAYMENTS</p>
+<p> Trade (bln pts)   May   -196.8   -180.6   -279.9    -	  -</p>
+<p> Cur Acc (bln pts) May     -9.5    -42.0   -110.4    -	  -</p>
+<p>RESERVES ($MLN)    Jul   +1,161   +400.9    +310.4   -  54,703.0</p>
+<p>PRODUCER PRICES(%) Jun     -0.2     +0.1     +0.2    119.6**   -</p>
+<p> Yr/yr rise (%)		+1.2     +1.5     +7.1    119.6     -</p>
+<p>INDUSTRIAL PROD.   May	 -	 -	  -	 -	  -</p>
+<p> Yr/yr figures (%)	   -3.2     +1.0     +9.8    108.4**   -</p>
+<p>M4 MONEY SUPPLY(%) Jul     +2.6     +4.2R   +10.8	-	 -</p>
+<p> Total M4 adj. (trln pts)    -	 -	  -	  -  75.912</p>
+<p>TRADE BALANCE</p>
+<p> Exports (bln pts) May  1,164.1   1,097.1    962.2     -	 -</p>
+<p> Imports (bln pts) May  1,433.4   1,342.4  1,306.0     -	 -</p>
+<p> Deficit/surplus   May   -269.3    -245.3   -343.8     -	 -</p>
+<p> Deficit yr to date    -1,119.0    -849.7 -1,172.6     -	 -</p>
+<p>GOVT.BUDGET (bln pts)					Govt.Fcast 96</p>
+<p> Deficit/surplus   Jul   +282.1    -380.6   +230.4     -</p>
+<p> Def./surplus to date  -1,184.0  -1,466.1 -1,456.7     -2.6 trln</p>
+<p>---------------------------------------------------------------</p>
+<p>INDICATORS - quarterly   QUARTER   PVS QTR   YR-AGO    -	-</p>
+<p>EPA		    Q2   +168,130   +31,230   +167,330   12.3 million</p>
+<p>GDP</p>
+<p> Yr-yr  (%)	  Q1	+1.9	+2.3R    +3.4     -	-</p>
+<p> Absolute amount(trln pts) 18.1	17.8     16.9     -   69.7</p>
+<p>INTEREST RATES	   Latest rate  Pvs rate  Date changed</p>
+<p> Key rate (%)		   7.25	7.50    04/06/96</p>
+<p>NOTES - Bank of Spain announces balance of payments. Jobless figures are registered unemployed at labour ministry. Trade data are customs-cleared, published by economy ministry. Latest M4, currency reserves, industrial production data are provisional.</p>
+<p>GDP figures are quarterly on annualised basis. EPA - Quarterly survey of employment levels (INE). Data give variation in employed persons, in thousands. Last column -TOTAL- is latest for jobless and accumulated for the rest (GDP total amount corresponds to 1995). Government budget figures relate to central government finances only. **General Consumer Price Index (100=1992), Producer Prices Index and Industrial Production Index (100=1990).</p>
+<p>Madrid newsroom + 34 1 585-8315</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

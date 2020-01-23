@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11852" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. FAA proposes changes in B-737 control systems.</title>
+<headline>U.S. FAA proposes changes in B-737 control systems.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>U.S. aviation officials proposed on Thursday to modify the flight control systems in popular Boeing 737 model airplanes that have suffered two unexplained crashes.</p>
+<p>&quot;They are designed to make a safe plane safer,&quot; said Federal Aviation Administrator David Hinson, but none was of such urgency to require immediate action.</p>
+<p>FAA officials said the changes, some of which could cost airlines up to $5 million a plane, stemmed from a review of the aircraft prompted by the two 737 accidents.</p>
+<p>In both -- one near Pittsburgh in 1994 that killed 132 people and the other in Colarado Springs, Colorado, in 1991, that killed 25 people -- the planes veered off and crashed, leading investigators to suspect control problems.</p>
+<p>But the review team found the 737 in compliance with all FAA airworthiness requirements and uncovered no design flaws could have caused either accident.</p>
+<p>The FAA said, however, the review team made several recommendations for changes to give the crew improved control over the plane under certain conditions.</p>
+<p>It said that some modifications, to go into effect after a 60-day comment period, would only apply to older 737s, some to the newer models and others to the entire 737 fleet of 2,380 planes worldwide and 1,037 U.S. aircraft.</p>
+<p>Tom McSweeny, FAA director of aircraft certification services, said that with the plane's long and wide use -- more than 3,000 built and flown for more than 30 years, and with few accidents -- some areas could be found for improvement.</p>
+<p>&quot;These changes seem like prudent things to do,&quot; he said, but added &quot;We do not see any of them being in any way related to the cause of these two accidents.&quot;</p>
+<p>The agency said the various modifications of the flight control systems would go into effect in between three months and three years.</p>
+<p>McSweeny said two of the most important would be to the plane's yaw damper and its standby rudder.</p>
+<p>He said the FAA wanted parts of the yaw damper, which automatically moves the rudder slightly to try to prevent the plane from fishtailing, to be recoated to reduce corrosion.</p>
+<p>In both the Pittsburgh and Colorado Springs crashes, malfunctioning yaw dampers had been suspect, but the causes have not yet been been determined.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

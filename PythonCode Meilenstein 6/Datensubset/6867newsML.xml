@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6867" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Seer Technologies names Wilson president.</title>
+<headline>Seer Technologies names Wilson president.</headline>
+<dateline>CARY, N.C. 1996-08-21</dateline>
+<text>
+<p>Seer Technologies Inc said Wednesday it had named Thomas Wilson as president and chief executive officer.  </p>
+<p>The software company said Wilson was replacing Gene Bedell, a Seer founder who will become a company director.</p>
+<p>It said Wilson was president of LiveWorks Inc, a Xerox Corp company, before accepting the offer from Seer.</p>
+<p>Seer said it had sold convertible preferred stock to its major shareholder, Welsh, Carson, Anderson &amp; Stowe LP and a number of its affiliates. It said it would use the $12.5 million it earned from the sale for &quot;general corporate purposes&quot;.</p>
+<p>Seer also said it would restructure its line of credit facility with NationBank, increasing available borrowings to $32.5 million from $20 million and extending the expiration date to September 30, 1997.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARY, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

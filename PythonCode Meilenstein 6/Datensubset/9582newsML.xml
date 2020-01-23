@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9582" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CME says to add seven cross-rate futures to GLOBEX.</title>
+<headline>CME says to add seven cross-rate futures to GLOBEX.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>The Chicago Mercantile Exchange (CME) said it will add seven cross-rate currency futures to its GLOBEX electronic trading system, the first time it has offered a contract on GLOBEX but not in the trading pit.</p>
+<p>&quot;We are going to have these cross rates that we trade only on GLOBEX,&quot; said a CME spokesman in response to an inquiry. &quot;They are the (CME's) first all-electronic products.&quot;</p>
+<p>He said the seven contracts, which all will be crosses versus the German mark, will include three cross contracts CME tried but withdrew from the trading pit - yen, Swiss franc and Sterling - plus four new cross futures - Swedish crown, French franc, Italian lira and Spanish peseta.</p>
+<p>The new futures already have regulatory approval, he said.</p>
+<p>The spokesman said the contracts, which the CME expects to launch on GLOBEX during the fourth quarter 1996, will open each day at 1430 CDT/1930 GMT and trade overnight until 1100 CDT/1600 GMT the following day.</p>
+<p>&quot;The reason for the break (in trading) is Reuters has to do a system maintenance,&quot; he said. &quot;Otherwise, we might have traded them 24 hours.&quot;</p>
+<p>The CME, Reuters Holdings Plc and Marche a Terme International de France are partners in GLOBEX, the afterhours electronic futures trading system launched in June 1992. --Derivatives Desk 312-408-8750 E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

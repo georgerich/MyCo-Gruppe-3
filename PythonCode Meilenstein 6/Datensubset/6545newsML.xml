@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6545" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: German grain harvest hampered by rainfall.</title>
+<headline>German grain harvest hampered by rainfall.</headline>
+<dateline>BONN 1996-08-21</dateline>
+<text>
+<p>The German grain harvest has been hampered and delayed by rainfall in the past two weeks, farmers' federation DBV said.</p>
+<p>But the harvest is still likely to equal last year's record of roughly 40 million tonnes, as the sown area was up by two to three percent.</p>
+<p>While in 1995 the harvest had been largely completed by the end of August, this year a large portion of the grain remains in the fields, a DBV official said.</p>
+<p>In many regions, the winter wheat is not yet even ripe.</p>
+<p>Farmers are likely to encounter higher costs for drying and processing their grain.</p>
+<p>Wheat accounts for 45 percent of sown area, and wet weather is causing problems for farmers, and delays of three to four weeks. Real progress has been made only in the southwest, but yields are at or above last year's.</p>
+<p>Wheat prices are about 20 marks a tonne higher.</p>
+<p>The winter barley harvest is nearly complete, with yields at or below last year's levels. The grain stayed dry in the southwest, but rain in other areas caused later ripening and high moisture content.</p>
+<p>Barley prices are about 10 marks per tonne above last year's level.</p>
+<p>The quality and yield of the brewers' barley is satisfactory, and the harvest is complete in early areas. Yields were up to 20 percent above last year.</p>
+<p>The brewers' barley harvest continues in the northern and eastern regions.</p>
+<p>Contract prices are about 320 marks per tonne, and free-market bids are about 20 marks lower.</p>
+<p>Conditions for rye vary greatly by region. The harvest is two-thirds complete in southern and western regions, including North Rhine-Westphalia. Quality in those areas harvested before the rainfall is good, with ergot levels below last year's.</p>
+<p>Rye prices are about 15 marks a tonne above last year's level due to high quality.</p>
+<p>Rapeseed was especially hard hit by the poor weather conditions.</p>
+<p>--Terence Gallagher, Bonn newsroom, 49 228 2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

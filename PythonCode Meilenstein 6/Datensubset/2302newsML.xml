@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2302" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Ohio Blue Cross approves $299.5 mln Columbia/HCA deal.</title>
+<headline>Ohio Blue Cross approves $299.5 mln Columbia/HCA deal.</headline>
+<dateline>CLEVELAND</dateline>
+<text>
+<p>Columbia/HCA Healthcare Corp.'s proposed $299.5 million acquisition of most of Blue Cross &amp; Blue Shield of Ohio cleared a hurdle Tuesday when the health insurer's policyholders approved the deal at a special meeting, Blue Cross said.</p>
+<p>About 60 protestors outside the meeting outnumbered the 38 who attended it. Most proxies were mailed in advance of the meeting, a Blue Cross spokesman said.</p>
+<p>Protestors, carrying signs reading, &quot;Stop the Merger,&quot; said they represented retirees, trade union members and others. Blue Cross is currently a not-for-profit entity.</p>
+<p>Blue Cross and Columbia have said the acquisition will reduce health care costs and improve care.</p>
+<p>&quot;This could be a role model for the entire country,&quot; Blue Cross Chairman and Chief Executive Officer John Burry said at the meeting. &quot;This an opportunity to get doctors, hospitals and insurers to work together for the benefit of the patient.&quot;</p>
+<p>Questions about the deal have been raised by consumer activists, some policyholders, the Ohio attorney general, the national Blue Cross and Blue Shield Association and others.</p>
+<p>Last week, Ohio Congressman Sherrod Brown said he asked the Federal Trade Commission to review the proposal.</p>
+<p>Brown said he was concerned that the merger could reduce competition and restrain trade. He said he was also concerned that all Blue Cross patients might be treated at hospitals owned by Columbia.</p>
+<p>Columbia is the largest U.S. hospital chain, with 349 hospitals, including three in northeast Ohio, Blue Cross's coverage area. Columbia revenues last year were $17.7 billion.</p>
+<p>The health insurer has 64,000 policyholders, insures 1.5 million people and generates $2 billion in annual premiums.</p>
+<p>Under the joint venture agreement, Columbia will form a new company to acquire most of the insurer's operating businesses.</p>
+<p>Blue Cross will continue to operate, providing reinsurance, guaranteeing policies written by the new company and retaining most national accounts. A federal employee programme will be retained by Blue Cross but managed by the new company, Columbia and Blue Cross said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

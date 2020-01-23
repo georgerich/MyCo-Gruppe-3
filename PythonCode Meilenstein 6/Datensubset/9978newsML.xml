@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9978" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia June qtr capital expenditure jumps.</title>
+<headline>RTRS-Australia June qtr capital expenditure jumps.</headline>
+<dateline>CANBERRA 1996-08-22</dateline>
+<text>
+<p>Australian private new capital expenditure rose 16.0 percent, seasonally-adjusted, in the June quarter to an estimated A$10.37 billion from A$8.95 billion (revised) in the March quarter, the Australian Bureau of Statistics said.</p>
+<p>This compares with A$8.46 billion a year earlier. Figures are at average 1989/90 prices.</p>
+<p>The third estimate for capex in 1996/97 is A$39.48 billion, a 9.7 percent increase over the second estimate last quarter of A$36.00 billion. The market had expected a rise in June quarter CAPEX of around 2.0 percent.  </p>
+<p>Actual private new capital expenditure (in billion A$, seasonally adjusted constant prices):</p>
+<p>  INDUSTRY		June qtr 96  March qtr 96 June qtr 95</p>
+<p>Mining			 1.87	  1.60	 1.56</p>
+<p>Manufacturing		2.38	  2.54	 2.38</p>
+<p>Other industries	   6.13	  4.80	 4.52</p>
+<p>ASSET</p>
+<p>Building, structures     3.10	  2.26	 2.17</p>
+<p>Equipment, plant, mach   7.28	  6.69	 6.29</p>
+<p>    Total		   10.37	  8.95	 8.46</p>
+<p>Total capital expenditure for the 1995/96 fiscal year ending June 30 was A$37.83 billion, on a current price unadjusted basis, against A$34.34 billion in 1994/95.</p>
+<p>-- Sydney newsroom 61-2 373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

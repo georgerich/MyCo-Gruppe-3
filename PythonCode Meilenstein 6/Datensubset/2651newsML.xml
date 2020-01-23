@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2651" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: SOCCER-GRAY, O'NEILL AND LENNON RECALLED BY NORTHERN IRELAND.</title>
+<headline>SOCCER-GRAY, O'NEILL AND LENNON RECALLED BY NORTHERN IRELAND.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>Northern Ireland recalled three players to their squad to face the Ukraine in a World Cup qualifier in Belfast on August 31.</p>
+<p>Neil Lennon of premier league Leicester, Michael O'Neill of Coventry and French-based striker Phil Gray are back in the 18-man party after missing the 1-1 home draw against Germany in a friendly in May.</p>
+<p>There was no place in the squad for experienced internationals Steve Morrow of Arsenal and Alan McDonald of Queens Park Rangers.</p>
+<p>Squad:</p>
+<p>Alan Fettis, Aidan Davison, Danny Griffin, Nigel Worthington, Keith Rowland, Colin Hill, Barry Hunter, Pat McGibbon, Steve Lomas, Neil Lennon, Jim Magilton, Gerard McMahon, Michael O'Neill, Keith Gillespie, Michael Hughes, Iain Dowie, Phil Gray, George O'Boyle</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4247" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Harman International Q4 net rises.</title>
+<headline>Harman International Q4 net rises.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>Harman International Industries Inc</p>
+<p>		(In Thousands Except Earnings Per Share)</p>
+<p>						     PERIOD ENDED</p>
+<p> FOURTH QUARTER		   Jun 30, 1996	 Jun 30, 1995</p>
+<p> Net Sales				$373,113	     $342,406</p>
+<p> Operating Income			 30,961		 25,418</p>
+<p> Net income				 16,789		 13,695</p>
+<p> Earnings per common share		0.97		   0.84</p>
+<p> Avg shrs				   17,314		 16,233</p>
+<p>FULL YEAR</p>
+<p> Net Sales			     1,361,595	    1,170,224</p>
+<p> Operating Income			105,378		 87,449</p>
+<p>Earnings before</p>
+<p>   extraordinary items		  52,042		 41,435</p>
+<p> Net Income				 52,042		 41,161</p>
+<p>Earnings per share of common stock</p>
+<p>   before extraordinary items	   3.16		   2.60</p>
+<p> Earnings per common share		3.16		   2.58</p>
+<p> Avg shrs				   16,474		 15,980</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8135" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. Oilmill data - Census Bureau.</title>
+<headline>U.S. Oilmill data - Census Bureau.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>U.S. Census Bureau oilmill</p>
+<p>stocks (X-1,000 Bu, Y-Mln Lbs, Z-Short Tons, R-Revised).</p>
+<p>			 Jul 96     Jun 96	Jul 95</p>
+<p>	Soybeans-X   57,473     70,444	55,095</p>
+<p> Soy Crude Oil-Y    833.9	781.6	 452.0</p>
+<p>  Soycake/Meal-Z  248,381    358,193     208,331</p>
+<p>  Soy Millfeed-Z   50,920     57,899	43,705</p>
+<p>SOYOIL FACTORY AND WAREHOUSE STOCKS (Mln Lbs):</p>
+<p>	   Crude    1,795.0    1,673.7	 906.3</p>
+<p>	 Refined	206.6	217.0	 235.7</p>
+<p>	   Total    2,001.6    1,890.6     1,142.0</p>
+<p>    ------OUTPUT:			    Jan-Jul 96  Jan-Jul 95</p>
+<p> SOY PRODUCTS--Crushings (1,000 Bu)	 787,327     819,456</p>
+<p>		   Crude Oil (Mln Lbs)	8,829,293   9,104,212</p>
+<p>		   Cake/Meal (Short Tons)  17,417,829  18,086,708</p>
+<p>		    Millfeed (Short Tons)   1,325,472   1,314,333</p>
+<p>CRUSHINGS OF OTHER OILSEEDS:</p>
+<p>		    Cottonseed (Shrt Tons)  2,264,889   2,432,007</p>
+<p>			 Peanuts (Shrt Tons)    270,163     276,128</p>
+<p>		 Sunflowerseed (Shrt Tons)     W	    781,296</p>
+<p>W-Withheld  </p>
+<p>OILSEED PRODUCT OUTPUT:</p>
+<p>					  Jan-Jul 96  Jan-Jul 95</p>
+<p> CRUDE OILS-X ----- Cottonseed	 847.8	     W</p>
+<p>		     Sunflowerseed	   W		 W</p>
+<p>				  Corn     1,227.6     1,324.3</p>
+<p>				Peanut	 228.3	 231.3</p>
+<p> CAKE/MEAL-Y -------Cottonseed   1,032,913   1,093,287</p>
+<p>		     Sunflowerseed	   W		 W</p>
+<p>				Peanut     152,348     150,617</p>
+<p>X-Mln Lbs. Y-Short Tons. W-Withheld  </p>
+<p>SOYBEAN PRODUCT OUTPUT AT MILLS:</p>
+<p>			 Jul 96	Jun 96	 Jul 95</p>
+<p>   Crushings-X    111,906     106,331	108,379</p>
+<p>   Crude Oil-Y    1,263.3     1,220.9	1,204.7</p>
+<p>   Cake/Meal-Z  2,444,289   2,376,016    2,389,767</p>
+<p>   Millfeed-Z     195,222     190,220	175,586</p>
+<p>	 CRUSHINGS OF OTHER OILSEEDS (Short Tons):</p>
+<p>   Cottonseed     209,205     223,703	310,003</p>
+<p>   Peanut	    37,369	38,136	  32,474</p>
+<p> Sunflowerseed	  W	  24,491		W</p>
+<p>X-1,000 Bu. Y-Mln Lbs. Z-Short Tons. R-Revised. W-Withheld.  </p>
+<p>STOCKS OF OTHER OILSEEDS (Short Tons):</p>
+<p>			  Jul 96	Jun 96	 Jul 95</p>
+<p>    Cottonseed     489,334     702,016	548,514</p>
+<p>	 Peanuts	64,220	     W	 31,986</p>
+<p> Sunflowerseed	    W		W		W</p>
+<p> Safflowerseed	    W		W		W</p>
+<p>N/A-not available. R-Revised. W-Withheld to avoid disclosing data for individual companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

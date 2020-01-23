@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5356" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: HORSE RACING-YORKSHIRE OAKS RESULT.</title>
+<headline>HORSE RACING-YORKSHIRE OAKS RESULT.</headline>
+<dateline>YORK, England 1996-08-21</dateline>
+<text>
+<p>Result on Wednesday of the</p>
+<p>group one Yorkshire Oaks, for fillies aged three and upwards,</p>
+<p>run over 12 furlongs (2.4 km):</p>
+<p>1. Key Change (ridden by Johnny Murtagh) 7-1</p>
+<p>2. Papering (Kevin Darley) 8-1</p>
+<p>3. Mezzogiorno (Michael Hills) 16-1</p>
+<p>4. Shamadara (Gerald Mosse) 2-1 favourite</p>
+<p>Nine ran. Distances: One and three quarter lengths, three</p>
+<p>lengths, neck.</p>
+<p>Winner owned by Lady Clague and trained in Ireland by John</p>
+<p>Oxx. Value to winner 78,800 pounds ($122,000).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORK, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

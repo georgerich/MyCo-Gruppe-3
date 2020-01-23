@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9368" id="root" date="1996-08-22" xml:lang="en">
+<title>TAIWAN: Taiwan ruling party vows to carry out reforms.</title>
+<headline>Taiwan ruling party vows to carry out reforms.</headline>
+<dateline>TAIPEI 1996-08-22</dateline>
+<text>
+<p>Taiwan's ruling Nationalist Party's starts a two-day congress on Friday vowing to commit itself to reforms seen as crucial to boosting its appeal, party secretary-general Wu Poh-hsiung said on Thursday.</p>
+<p>The Nationalists, who have 2.6 million members, have ruled Taiwan since they lost a civil war to communist China and fled to the island in 1949.</p>
+<p>But their once unshaken power began weakening after Taiwan allowed new political parties in the late 1980s.</p>
+<p>The Nationalists now hold only a razor-thin majority in the Legislative Yuan, or parliament.</p>
+<p>On Thursday, Wu told reporters the proposed reforms would include restructuring party organisations, raising the party's competitiveness, encouraging people's participation and promoting inter-party cooperation.</p>
+<p>A fast-growing number of young and well-educated Taiwanese have joined the New Party, formed in 1993 by former Nationalist elite members who accused the Nationalists of failing to carry out internal reforms.</p>
+<p>Delegates at the congress would also elect members of the Central Standing Committee, and President Lee Teng-hui, who doubles as the Nationalist chairman, may nominate two acting party vice-chairmen, Wu said.</p>
+<p>In December 1995, the ruling party expelled two maverick vice-chairmen, Lin Yang-kang and Hau Pei-tsun, after they campaigned for the New Party in parliamentary elections.</p>
+<p>Lin and Hau later ran as a pair to challenge President Lee in the island's first direct presidential election in March. Lee won the election by a landslide 54 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

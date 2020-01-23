@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7259" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Caltex half yr net profit A$30.3 mln.</title>
+<headline>RTRS-Caltex half yr net profit A$30.3 mln.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Net				     30.31 vs 11.95</p>
+<p>    Dividend (cents)		     11.0 vs nil</p>
+<p>NOTE: Caltex Australia Ltd is a petroleum refiner and marketer and is 75 percent owned by Caltex Petroleum Corp which is 50 percent owned each by Chevron Corp and Texaco Inc.  </p>
+<p>    Operating profit (pre-tax)	  30.35 vs 12.14</p>
+<p>    Extraordinary items	     gain 5.34 vs nil</p>
+<p>Net profit after extraordinaries  35.36 vs 11.95</p>
+<p>    Sales				     28.38 vs 25.27</p>
+<p>    Other income			    34.53 vs 39.15</p>
+<p>    Shr (cents)			     16.84 vs 6.64</p>
+<p>    Abnormal items			    nil vs nil</p>
+<p>Dividend is 100 pct franked</p>
+<p>Reg date Sep 4</p>
+<p>    Tax					 nil vs 0.47</p>
+<p>    Interest				 7.90 vs 26.05</p>
+<p>    Depreciation			   0.38 vs nil</p>
+<p>    Minorities			     0.04 vs 0.11</p>
+<p>NOTE: Caltex's main business is its 50 percent stake in Australian Petroleum Pty Ltd which followed a merger in 1994 of its petroleum retailing and refining operations with those of Ampol, Pioneer International's petroleum arm.</p>
+<p>-- Sydney newsroom 61-2 373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11382" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Four U.S. wildfires contained, but more feared.</title>
+<headline>Four U.S. wildfires contained, but more feared.</headline>
+<dateline>SAN FRANCISCO 1996-08-23</dateline>
+<text>
+<p>Several major wildfires in the Western United States were contained on Friday but authorities warned that lightning storms building in the parched region could spark new blazes.</p>
+<p>The National Interagency Fire Centre said firefighters contained four large fires in California, Colorado, Idaho and Nevada although one new fire was reported in California.</p>
+<p>As of Friday there were 21 large fires on 283,115 acres (114,570 hectares) in six Western states, compared with 46 large fires affecting 502,970 acres (203,500 hectares) in eight states last Sunday, the centre said.</p>
+<p>An army of 20,600 firefighters were battling the blazes across the West on Friday with support from 171 helicopters and 21 airtankers, the centre said.</p>
+<p>&quot;The firefighters have had four good days in a row. The lines that they've been building are holding,&quot; said Ed Waldapfel, a spokesman for the fire centre. &quot;But it looks like there are weather systems coming that are going to bring thunder storm activity. With that comes lightning. The potential for fires starting from lightning will be high.&quot;</p>
+<p>The fire centre said it was on the watch for dry lightning, particularly in central and southern Nevada as well as central Oregon.</p>
+<p>The new wildfire reported on Friday was in Riverside County in southern California but authorities there said the 548 acre (221 hectares) blaze was already 80 percent contained and was no longer a threat to the nearby community of Twin Pines.</p>
+<p>In northern California, thousands of firefighters and more than 600 soldiers continued to gain ground on the so-called Fork fire about 100 miles (160 km) north of San Francisco. The fire expanded slightly overnight to 82,000 acres (33,184 hectares), but the fire was 50 percent contained and authorities said they expected to fully contain the blaze on Saturday night.</p>
+<p>Crews continued on Friday to battle several fires burning in and near Yosemite National Park in California. The fires were scorching 21,653 acres (8,762 hectares) and were 20 percent contained. The campgrounds in the popular park have remained open.</p>
+<p>Firefighters said they fully contained a wildfire in San Luis Obispo County, midway between San Francisco and Los Angeles that consumed 106,668 acres (43,167 hectares).</p>
+<p>In southwest Utah, near Cedar City, a wildfire expanded slightly to 14,094 acres (5,703 hectares) on Friday, threatening some private properties near the blaze. Local ranchers moved an estimated 800 range cattle from the area, Utah fire officials said.</p>
+<p>In Oregon, seven wildfires were still ablaze, threatening some private lands and powerlines. But the largest fire in the state, located in the Hells Canyon National Recreation Area, was now 75 percent contained. That fire has burned nearly 59,000 acres (23,876 hectares).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

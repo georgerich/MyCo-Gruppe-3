@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11349" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: FORECAST -- U.S. economic indicators -- Aug 26 wk.</title>
+<headline>FORECAST -- U.S. economic indicators -- Aug 26 wk.</headline>
+<text>
+<p>DATE   EDT/GMT    Indicator     Period  Avg Fcast  Prev Report</p>
+<p>08/26 1000/1400  Existing Homes  July     4.10 million    4.18 million</p>
+<p>08/27 0900/1300  Mitsubishi     w/e 08/24		 -0.3 pct</p>
+<p>08/27 1000/1400  Consumer Conf   Aug	104.4	    107.2</p>
+<p>08/27 1455/1855  Redbook	  w/e 08/24		 +1.2 pct</p>
+<p>08/29 0830/1230  Jobless Claims  w/e 8/24  330,000     327,000</p>
+<p>08/29 0830/1230  Real GDP	  Q2-Rev  +4.2 pct     +4.2 pct</p>
+<p>			Price Index		+2.1 pct     +2.1 pct</p>
+<p>			Impl Deflator	    +1.9 pct     +1.8 pct</p>
+<p>08/29 1000/1400  Help Wanted     July	 NA	    85 pct</p>
+<p>08/29 1000/1400  New Home Sales  July     728,000	734,000</p>
+<p>DATE   EDT/GMT    Indicator     Period  Avg Fcast  Prev Report</p>
+<p>08/30 0830/1230  Personal Inc    July    -0.1 pct     +0.9 pct</p>
+<p>			 Consumption	     +0.2 pct     -0.2 pct</p>
+<p>08/30 1000/1400  Factory Orders  July    +1.0 pct     -0.9 pct</p>
+<p>08/30 1000/1400  Chicago PMI     Aug	51.9		51.2</p>
+<p>---------------------FOLLOWING WEEK'S DATA--------------------</p>
+<p>09/03 1000/1400  NAPM		Aug	 NA		 50.2</p>
+<p>09/06 0830/1230  Payroll Employ  July    +238,000     +193,000</p>
+<p>			 Unemploy Rate	    5.3 pct	5.4 pct</p>
+<p>			 Avg Hrly Earns	  +0.3 pct     -0.2 pct</p>
+<p>			 Avg Workwk		 34.5 hrs    34.3 hrs</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

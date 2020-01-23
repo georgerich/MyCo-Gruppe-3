@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11828" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Hershey rating raised.</title>
+<headline>RESEARCH ALERT - Hershey rating raised.</headline>
+<text>
+<p>-- EVEREN Securites Inc said Friday it raised its rating on Hershey Foods Corp to a long-term outperform from market perform. Its intermediate term rating remains market perform.</p>
+<p>-- &quot;Promising new products, regular market share gains in both confectionery and pasta, tighter expense controls and aggressive stock repurchases are important elements of the brighter outlook at Hershey,&quot; EVEREN said in a report.</p>
+<p>-- Earnings per share estimates are $3.95 for 1996 and $4.40 for 1997.</p>
+<p>-- The six-month price objective is $94 a share and 18-month objective is $108, on a pre-split basis.</p>
+<p>-- Hershey shares fell 1/4 at 87.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3071" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: LCE white sugar finishes firmer, adds to gains.</title>
+<headline>LCE white sugar finishes firmer, adds to gains.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>London white sugar futures closed firmer on Tuesday, adding to gains seen the previous day.</p>
+<p>Most active October finished $1.50 higher at $353.30 per tonne after trading between $354.00 and $351.90.</p>
+<p>December ended 70 cents firmer at $346.50.</p>
+<p>Turnover was 2,069 lots.</p>
+<p>Traders said prices were expected to consolidate after they broke out of their recent trading range.</p>
+<p>Once the market gathered enough strength, it could challenge resistance at $355.50, above where stops are said to be lurking.</p>
+<p>Support is pegged at $352, then $350.</p>
+<p>In Paris, October closed $1.20 stronger at $353.00 and December was also $1.20 higher at $347.50.</p>
+<p>--London Newsroom +44 171 542 8065</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

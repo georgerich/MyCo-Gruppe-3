@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11565" id="root" date="1996-08-23" xml:lang="en">
+<title>GREECE: IONIAN LEASING OPENS BRANCH IN THESSALONIKI.</title>
+<headline>IONIAN LEASING OPENS BRANCH IN THESSALONIKI.</headline>
+<dateline>ATHENS 1996-08-23</dateline>
+<text>
+<p>Ionian Leasing, a subsidiary of Ionian Bank , said its new branch in Thessaloniki, at Dragoumi 15 opened for business August 1 aiming to expand the company's presence in northern Greece.</p>
+<p>Ionian Leasing had 5.0 billion drachmas of new leasing contracts in the first half and expects around 9.0 billion by year end. It estimates profits will rise to 1.5 billion drachmas this year, it said. --George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

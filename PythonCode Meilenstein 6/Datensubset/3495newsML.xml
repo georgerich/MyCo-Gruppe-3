@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3495" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: Australia Budget - Spending measures summary.</title>
+<headline>Australia Budget - Spending measures summary.</headline>
+<dateline>CANBERRA 1996-08-20</dateline>
+<text>
+<p>This is a summary of spending measures announced by Australian Treasurer Peter Costello in his Tuesday budget for the year to June 30, 1997.</p>
+<p>The impact of each measure on the coming four fiscal years is also shown, in A$ millions and with a minus sign indicating additional spending. The measures are ordered roughly by size.</p>
+<p>				 1996/97   1997/98   1998/99   1999/00</p>
+<p>NET SPENDING MEASURES	2,929     5,197     4,847     6,065</p>
+<p>----------------------------------------------------------</p>
+<p>SPENDING CUTS</p>
+<p>    TOTAL CUTS		 4,449     7,223     7,036     8,012</p>
+<p>MISCELLANEOUS. The budget includes a huge number of programme cuts too small to itemise. Together, these miscellaneous items account for more than half of all cuts:</p>
+<p>				   2,464     3,829     4,354     5,260</p>
+<p>LABOUR MARKET PROGRAMMES. Less funds allocated and the system will be condensed into fewer programmes.</p>
+<p>				     575	 956	 130	 175</p>
+<p>STATES' CONTRIBUTIONS. The temporary cut in states' grants announced at the Premiers' Conference and Loans Council.</p>
+<p>				     619	 640	 300	   -</p>
+<p>PATHOLOGY. Spending capped with entitlements to be varied as necessary.</p>
+<p>					62	 127	 174	 223</p>
+<p>CHILDCARE. Tighter targetting, for example reduced assistance for more than 50 hours a week.</p>
+<p>					17	 147	 170	 170</p>
+<p>HIGHWAY SPENDING. Cut.</p>
+<p>				     113	 138	 157	 214</p>
+<p>AUSTUDY. Tighter eligibility for student support.</p>
+<p>					56	 123	 136	 143</p>
+<p>STUDENT CHARGES. Higher payments under the Higher Education Contributions Scheme for certain courses.</p>
+<p>				     133	 373	 569	 694</p>
+<p>TWO-PERCENT RUNNING COSTS REDUCTION. This includes the reduced public service staffing levels.</p>
+<p>				     187	 188	 190	 194</p>
+<p>EXTENDED WAITING PERIOD FOR MIGRANT SOCIAL SECURITY.</p>
+<p>					28	 140	 188	 194</p>
+<p>AGED AND COMMUNITY CARE. Various reforms, including an income test for some benefits.</p>
+<p>					 6	 141	 190	 231</p>
+<p>DEVELOPMENT IMPORT FINANCE FACILITY. A form of overseas business aid, now abolished.</p>
+<p>					94	 126	 130	 134</p>
+<p>UNEMPLOYMENT BENEFITS CRACKDOWN. Further efforts to ensure claimants are looking for work.</p>
+<p>					39	 105	 110	 115</p>
+<p>EXPORT MARKET DEVELOPMENT GRANT. Expenditure capped.</p>
+<p>					 -	  77	 122	 145</p>
+<p>----------------------------------------------------------</p>
+<p>EXTRA SPENDING</p>
+<p>TOTAL EXTRA SPENDING</p>
+<p>SPORTS FUNDING</p>
+<p>				     -36	 -36	 -37	 -37</p>
+<p>UNIVERSITY RESEARCH</p>
+<p>					-9	 -31	 -59	 -37</p>
+<p>OFFICE OF EMPLOYMENT ADVOCATE. An institution under the new industrial relations system.</p>
+<p>				     -12	 -12	 -12	 -13</p>
+<p>NATIONAL FIREARMS PROGRAMME. To buy back self-loading guns.</p>
+<p>				    -500	   -	   -	   -</p>
+<p>NEW RESEARCH AND DEVELOPMENT PROGRAMME</p>
+<p>				     -40	-100	-100	-100</p>
+<p>				  -1,520    -2,026    -2,189    -1,947</p>
+<p>PRIVATE HEALTH INSURANCE INCENTIVES</p>
+<p>					-6	-489	-494	-500</p>
+<p>FAMILY TAX INITIATIVE. About half of the initiative appears here as spending. The remainder is on the revenue side of the budget.</p>
+<p>				    -248	-483	-484	-486</p>
+<p>SCIENCE FUNDING. Extra for the government's CSIRO.</p>
+<p>					-9	 -32	 -35	 -39</p>
+<p>ROAD SAFETY</p>
+<p>				     -36	 -37	 -38	 -38</p>
+<p>DROUGHT MEASURES</p>
+<p>				     -90	  -1	   -	   -</p>
+<p>MISCELLANEOUS</p>
+<p>				    -548	-818	-941	-711</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

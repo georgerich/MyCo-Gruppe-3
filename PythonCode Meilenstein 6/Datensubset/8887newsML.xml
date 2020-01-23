@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8887" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Lanvision Systems Q2 shr loss unchanged.</title>
+<headline>Lanvision Systems Q2 shr loss unchanged.</headline>
+<dateline>CINCINNATI, Ohio 1996-08-22</dateline>
+<text>
+<p>LANVISION SYSTEMS, INC.</p>
+<p>				STATEMENTS OF OPERATIONS</p>
+<p>			    Three Months Ended   Six Months Ended</p>
+<p>				   July 31,		July 31,</p>
+<p>			    1996     1995	    1996	 1995</p>
+<p>Total revenues</p>
+<p>		     3,370,000  1,182,000    5,484,000  1,584,000</p>
+<p>Net operating loss</p>
+<p>		     (139,000) (129,000)     (919,000)  (486,000)</p>
+<p>Loss per common share</p>
+<p>			  (0.02)    (0.02)	  (0.12)     (0.08)</p>
+<p>Number of shares used</p>
+<p>  in per	   8,896,500  6,190,325    7,664,288  6,190,325</p>
+<p>common share</p>
+<p>computation</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

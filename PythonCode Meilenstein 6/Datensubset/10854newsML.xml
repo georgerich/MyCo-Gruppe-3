@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10854" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: International Standards Q3 full results.</title>
+<headline>International Standards Q3 full results.</headline>
+<dateline>BOCA RATON, Fla. 1996-08-23</dateline>
+<text>
+<p>Quarter Ended June 30</p>
+<p>						 1996		   1995</p>
+<p> Revenues			    $3,846,166	    $1,083,676</p>
+<p> Cost of Revenues		   3,123,862		 792,731</p>
+<p> Gross Profit			   722,304		 290,945</p>
+<p> SG&amp;A				   2,448,154	     1,050,199</p>
+<p> Depreciation and Amortization    296,802		 132,862</p>
+<p>Loss from Continuing Operations</p>
+<p>					(2,022,652)	     (892,116)</p>
+<p> Loss Per Common Share		 (0.07)		  (0.06)</p>
+<p>Average Common Shares Outstanding</p>
+<p>					 29,245,730	    16,120,937</p>
+<p>					   Nine Months Ended June 30</p>
+<p>						 1996		   1995</p>
+<p> Revenues				6,735,981	    2,935,252</p>
+<p> Cost of Revenues		    5,533,572	    2,311,518</p>
+<p> Gross Profit			  1,202,409		623,734</p>
+<p> SG&amp;A				    4,756,001	    2,641,145</p>
+<p> Depreciation and Amortization     506,635		395,941</p>
+<p>Loss from Continuing Operations</p>
+<p>					 (4,060,227)	  (2,413,352)</p>
+<p> Loss per Common Share		  (0.19)		 (0.17)</p>
+<p>Average Common Shares Outstanding</p>
+<p>					  22,986,167	   15,661,263</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOCA RATON, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

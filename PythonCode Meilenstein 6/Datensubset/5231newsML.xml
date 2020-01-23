@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5231" id="root" date="1996-08-21" xml:lang="en">
+<title>POLAND: WARSAW BOURSE CLEARS BANK KOMUNALNY FOR MAIN FLOOR.</title>
+<headline>WARSAW BOURSE CLEARS BANK KOMUNALNY FOR MAIN FLOOR.</headline>
+<dateline>WARSAW 1996-08-21</dateline>
+<text>
+<p>The Warsaw Bourse's board cleared shares of Bank Komunalny SA w Gdyni&gt;for trade on the main market, it said in a statement.</p>
+<p>The bourse also cleared 1.25 million D series shares of PPABank SA for trade on the main floor.</p>
+<p>It said however, that confectioner Jutrzenka SA  did not fulfil requirements to move from the parallel market to the main floor.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

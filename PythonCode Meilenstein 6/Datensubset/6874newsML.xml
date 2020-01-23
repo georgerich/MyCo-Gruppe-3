@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6874" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: K.C. Fed manufacturing index falls to 6 in July.</title>
+<headline>K.C. Fed manufacturing index falls to 6 in July.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The Federal Reserve Bank of Kansas said its quarterly manufacturing survey showed area factory sector conditions were showing expansion in most areas during July but at a slower pace than in April.</p>
+<p>			    July     Drop	Unch     Rise   April</p>
+<p>Production		   6	28	  37	 34	 21</p>
+<p>Shipments		    5	32	  31	 37	 21</p>
+<p>New Orders		   1	29	  40	 30	 16</p>
+<p>Unfilled Orders	   -2	24	  53	 22	  5</p>
+<p>Employment		  13	16	  55	 29	 12</p>
+<p>Workweek		     1	17	  65	 18	  5</p>
+<p>Prices received	    2	11	  74	 13	  4</p>
+<p>Prices paid		 13	12	  62	 25	 15</p>
+<p>Delivery time	     -2	 5	  89	  3	  1</p>
+<p>New export orders	  4	10	  60	 14	  8</p>
+<p>Materials inventories    1	24	  48	 25	  4</p>
+<p>Product inventories	0	23	  50	 23	  5</p>
+<p>Perception of industry  -1	24	  53	 23	 16</p>
+<p>nationally  </p>
+<p>The survey, which the Kansas City Fed began publishing last fall, takes a snapshot of manufacturing during the first month of each quarter by asking plant managers about a variety of indicators.</p>
+<p>The diffusion index was calculated by subtracting the percentage of total respondents reporting decreases in a given indicator from the percentage of those reporting increases.</p>
+<p>Index values greater than zero generally suggest expansion, while values less than zero indicate contraction.</p>
+<p>The closer index values are to 100, the more widespread are increases among respondents. The closer it is to -100, the more widespread are decreases.</p>
+<p>The July survey included 198 responses from plants in the Tenth Federal Reserve District's seven states.</p>
+<p>-- Washington newsroom, 202-898-8300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

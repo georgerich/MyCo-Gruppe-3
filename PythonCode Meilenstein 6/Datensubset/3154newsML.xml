@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3154" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH AFRICA: Barlows buys Courtaulds paint firm.</title>
+<headline>Barlows buys Courtaulds paint firm.</headline>
+<dateline>JOHANNESBURG 1996-08-20</dateline>
+<text>
+<p>Barlow Ltd said on Tuesday it had acquired Australia's third biggest decorative and architectural paint producer, Taubmans Australia, from Britain's Courtaulds Plc for about 135 million rand.  </p>
+<p>The deal, which is effective from September 28, will have no material effect on group profits in the short term, Barlows said in a statement.  </p>
+<p>Taubmans distributes coatings throughout Australia and operates a large paint factory at Villawood, Sydney. It will be integrated into Barlows' South African-based Plascon group.</p>
+<p>Chairman Warren Clewlow said the acquisition fitted with the company's policy of geographical diversification, and would further hedge it against rand fluctuations.</p>
+<p>&quot;Barlows derives a quarter of its attributable earnings from its international interests. This development will increase this contribution in the future to give Barlows a stronger rand hedge profile,&quot; he said.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I25510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

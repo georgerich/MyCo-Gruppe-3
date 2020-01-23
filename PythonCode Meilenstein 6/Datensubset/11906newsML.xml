@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11906" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Dynamotion/ATI sells ATI product line.</title>
+<headline>Dynamotion/ATI sells ATI product line.</headline>
+<dateline>SANTA ANA, Calif. 1996-08-23</dateline>
+<text>
+<p>Dynamotion/ATI Corp said on Friday it had sold the assets of its ATI router product line.</p>
+<p>The company said in a statement that it would operate solely under the name Dynamotion.</p>
+<p>The ATI product line was sold to a newly formed corporation for about $2 million. The new company will operate under the name Advanced Technology Industries, or ATI, and is based in Carlstadt, N.J.</p>
+<p>Along with all assets of the ATI line, Dynamotion sold the right to the ATI name.</p>
+<p>Dynamotion chairman and chief executive Jon R. Hopper said, &quot;The sale of ATI is a positive move for Dynamotion. We have spent the last year cleaning up the company and attempting to re-focus our resources.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA ANA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

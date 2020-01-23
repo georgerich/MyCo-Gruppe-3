@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6879" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: IDM Environmental sees higher 1996 revs.</title>
+<headline>IDM Environmental sees higher 1996 revs.</headline>
+<dateline>SOUTH RIVER, N.J. 1996-08-21</dateline>
+<text>
+<p>IDM Environmental Corp said Wednesday it expects to post higher 1996 revenues in the range of $60 million to $65 million.</p>
+<p>The company said it also expects to sustain a pretax profit margin of eight percent to 12 percent.</p>
+<p>The projected $60 million to $65 million in revenues for 1996 would represent an increase of between 50 percent and 65 percent from the previous year, the company said.</p>
+<p>IDM is an environmental remediation company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTH RIVER, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

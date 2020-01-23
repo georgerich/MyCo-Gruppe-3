@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11510" id="root" date="1996-08-23" xml:lang="en">
+<title>ITALY: Italy seen auctioning 13-15 trln lire in new paper.</title>
+<headline>Italy seen auctioning 13-15 trln lire in new paper.</headline>
+<dateline>MILAN 1996-08-23</dateline>
+<text>
+<p>Italy's treasury is expected to announce on Monday it will offer 13 to 15 trillion lire in new paper next week against 16 trillion lire of floating-rate Ccts and fixed-rate Btps coming due, market sources said.</p>
+<p>The treasury is also expected to make 6.5 trillion lire of coupon payments at the beginning of September.</p>
+<p>The consensus forecast is for 14.2 trillion lire of new paper comprising 6.7 trillion lire of Ccts, 2.8 trillion lire of three-year Btps, 2.6 trillion lire of five-year Btps and 2.1 trillion lire of 10-year Btps.</p>
+<p>&quot;The treasury has more than 76 trillion lire at its disposal on its account. This allows it to make limited issues,&quot; said one analyst who expected 13 trillion lire to be offered.</p>
+<p>&quot;September is cyclically a heavy month for the treasury, which has to deal with a large borrowing requirement,&quot; said another market analyst who predicted the treasury would issue 15 trillion lire in new paper.</p>
+<p>Analysts said that by retapping current issues, the treasury would help yields align themselves with those of previous issues.</p>
+<p>&quot;Many people, in order to write profits into their books, sold old issues in order to buy new ones, not withstanding the lower yields. The latter now have higher prices which the new offerings will depress,&quot; said an analyst.</p>
+<p>			     CCT     BTP 3yr  BTP 5yr  BTP 10yr  TOTAL</p>
+<p>(in trillions of lire)</p>
+<p>Banca di Roma	    7.0     3.0	 2.5	2.5	15.0</p>
+<p>Bank of America	  7.0     3.0	 3.0	2.0	15.0</p>
+<p>Banque Indosuez	  6.0     3.0	 2.5	1.5	13.0</p>
+<p>Caboto		     6.0     2.5	 2.5	2.0	13.0</p>
+<p>Credito Italiano	 6.5     2.5	 2.5	2.5	14.0</p>
+<p>Unnamed primary dealer 7.5     3.0	 2.5	2.0	15.0</p>
+<p>Consensus		  6.7     2.8	 2.6	2.1	14.2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

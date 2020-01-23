@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7435" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: Two S.Korean flour firms seek 23,000T wheat.</title>
+<headline>Two S.Korean flour firms seek 23,000T wheat.</headline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>South Korea's Dongah Flour Mills Co Ltd and Cheiljedang Corp on Wednesday invited tenders for a combined total of 23,000 tonnes of U.S. wheat by 1:00 p.m. (0400 GMT), traders said.</p>
+<p>Cheiljedang was seeking 11,000 tonnes at basis over December futures on the Chicago Board of Trade, they said.</p>
+<p>Shipment was set for October 25-November 25 to the western port city of Inchon.</p>
+<p>--Seoul Newsroom (822) 727 5651</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

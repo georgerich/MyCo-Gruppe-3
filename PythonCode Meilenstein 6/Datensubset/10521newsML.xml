@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10521" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: Pinatton issues opinion on French media stocks.</title>
+<headline>Pinatton issues opinion on French media stocks.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>French brokerage Jean-Pierre Pinatton on Friday published a study on French media stocks and recommended to go underweight on Canal Plus and M6 .</p>
+<p>It advised to buy TF1, Pathe and Generale des Eaux and to keep Lyonnaise des Eaux. Pinatton was neutral on Havas.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

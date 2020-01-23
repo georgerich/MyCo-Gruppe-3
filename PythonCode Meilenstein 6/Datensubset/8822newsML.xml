@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8822" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: On-Site Sourcing Q2 shr $0.03 vs $0.01.</title>
+<headline>On-Site Sourcing Q2 shr $0.03 vs $0.01.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>On-Site Sourcing, Inc.</p>
+<p>				 Financial Highlights</p>
+<p>				   (Unaudited)</p>
+<p>			    6 months ended     3 months ended</p>
+<p>			    June 30,			     June 30,</p>
+<p>			 1996	1995	   1996	    1995</p>
+<p> Revenues    $3,726,561 $2,252,401   $1,929,541    $1,100,683</p>
+<p> Net Earnings   180,528     79,516	 88,867	  23,607</p>
+<p> Per Share	   0.07	 O.O3	   0.03	    0.01</p>
+<p>Average number</p>
+<p>common shares</p>
+<p>and equivalents</p>
+<p>outstanding</p>
+<p>		 2,648,377*  2,648,377   2,648,377*     2,648,377</p>
+<p>*Does not include 2,208,400 common shares issued upon completion of initial public offering on July 9, 1996.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

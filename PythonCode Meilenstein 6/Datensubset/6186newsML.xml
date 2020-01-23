@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6186" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia's Fahey says Telstra sale improves.</title>
+<headline>RTRS-Australia's Fahey says Telstra sale improves.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Australian Finance Minister John Fahey said on Thursday the resignation of an opposition Labor Party senator could let the government sell one-third of telecommunications carrier Telstra Corp.</p>
+<p>&quot;Perhaps the events in the Senate this week in terms of one particular Labor member may assist ultimately that going through,&quot; Fahey told a business breakfast.  </p>
+<p>The government plans to raise about A$8 billion from the partial privatisation of Telstra.</p>
+<p>But the sale plan has been opposed by the opposition Labor Party and minority parties in the Senate, where the conservative government of Prime Minister John Howard does not have a majority and needs two more votes.</p>
+<p>The defection of one Labor senator, Queensland's Mal Colston, to the cross benches earlier this week makes the government's chances of passing legislation in the Senate a touch easier. -- Sydney Newsroom 16-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8158" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CME cattle and pork complex pre-opening calls.</title>
+<headline>CME cattle and pork complex pre-opening calls.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>CME cattle and pork complex pre-opening calls as of 0800 CDT, analysts said.</p>
+<p>LIVE CATTLE - Up 0.200 to off 0.100 cent. Market factors strong but light trade seen ahead of cattle-on-feed report.</p>
+<p>FEEDER CATTLE - Up 0.200 to off 0.100 cent. Likely follow lead of live cattle. Easier corn call supportive.</p>
+<p>LIVE HOGS - Off 0.100 to 0.300 cent. Cash markets continue weak but market near technical support level.</p>
+<p>PORK BELLIES - Off 2.000 cent limit to steady. August seen down limit on weak cash. Backs held technical support.</p>
+<p>--Jerry Bieszk 312-408-8725</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

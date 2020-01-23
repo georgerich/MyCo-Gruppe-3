@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5623" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Acx Technologies to make acquisitions.</title>
+<headline>Acx Technologies to make acquisitions.</headline>
+<dateline>GOLDEN, Colo 1996-08-21</dateline>
+<text>
+<p>ACX Technologies Inc said Wednesday it plans to acquire a majority interest in Photocomm Inc from New World Power Corp.</p>
+<p>ACX plans to buy a 46 percent interest in Photocomm, while its subsidiary, Golden Technologies Co Inc, has reached an agreement in principle to purchase an addition two million shares of Photocomm stock.</p>
+<p>The transactions combined would give ACX with a 51 percent majority interest in Photocomm, a solar electric systems company.</p>
+<p>As part of the agreement, ACX also agreed to acquire from New World its 51 percent stake in the privately held Solartec SA, the largest manufacturer and distributor of solar electric systems and products in Argentina.</p>
+<p>Photocomm is a manufacturer and marketer of wireless solar electric power systems and products.</p>
+<p>The deal will cost an estimated $18.5 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOLDEN, Colo"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

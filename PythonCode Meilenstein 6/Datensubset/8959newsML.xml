@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8959" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: Israeli dies at sea off Britain despite son's SOS.</title>
+<headline>Israeli dies at sea off Britain despite son's SOS.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>An Israeli yachtsman died in hospital on Thursday despite being plucked from stormy seas by a rescue helicopter alerted by his distraught teenage son, British coastguards said.</p>
+<p>The 13-year-old boy, who was not named, had been sleeping and woke to find his father had disappeared overboard six miles (10 km) off the Cornish coast of southwestern England. They were believed to have a distant relative in the county of Cornwall.</p>
+<p>Coastguards said an hour elapsed before the boy sent an SOS and it took navy rescue helicopters another two hours to locate the man. Efforts to revive him on the way to hospital failed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

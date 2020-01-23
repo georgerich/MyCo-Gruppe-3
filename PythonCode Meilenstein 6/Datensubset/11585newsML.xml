@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11585" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: European cotton buyers stirring after holiday lull.</title>
+<headline>European cotton buyers stirring after holiday lull.</headline>
+<dateline>LIVERPOOL, England 1996-08-23</dateline>
+<text>
+<p>Demand for raw cotton continued to rise in Europe as more mills resumed work after the holidays, industry sources said on Friday.</p>
+<p>The main activity was in Germany and Austria, while some traders reported increased enquiry from France.</p>
+<p>Italian buyers are expected to begin filling their outstanding needs for the fourth quarter, which is assumed to be largely uncovered.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERPOOL, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

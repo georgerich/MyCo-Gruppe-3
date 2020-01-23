@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8087" id="root" date="1996-08-22" xml:lang="en">
+<title>ISRAEL: Israel approves Arafat's flight to West Bank.</title>
+<headline>Israel approves Arafat's flight to West Bank.</headline>
+<dateline>JERUSALEM 1996-08-22</dateline>
+<text>
+<p>Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank, ending a brief Israeli-PLO crisis, an Arafat adviser said.</p>
+<p>&quot;The problem is over. The president's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday,&quot; Nabil Abu Rdainah told Reuters.  </p>
+<p>Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader's helicopters.</p>
+<p>Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded.</p>
+<p>Arafat subsequently cancelled a meeting between Israeli and PLO officials, on civilian affairs, at the Allenby Bridge crossing between Jordan and the West Bank.</p>
+<p>Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday, after Israel lifted the ban, because he had a busy schedule in Gaza and would not be free until Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8243" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: NCI Building Systems Inc Q3 net rises.</title>
+<headline>NCI Building Systems Inc Q3 net rises.</headline>
+<dateline>HOUSTON 1996-08-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.85		    $0.67</p>
+<p> Net			  7,139		    4,523</p>
+<p> Revs			91,980		   58,941</p>
+<p> Avg shrs		   8,393		    6,759</p>
+<p>	   9 MONTHS</p>
+<p> Shr			  $1.99		    $1.73</p>
+<p> Net			 16,212		   11,664</p>
+<p> Revs		     231,501		  167,116</p>
+<p> Avg shrs		   8,138		    6,747</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>--New York Newsdesk, 212/859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32040">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

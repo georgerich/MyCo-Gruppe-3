@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4232" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Roanoke Electric sees improved Q4 EPS.</title>
+<headline>Roanoke Electric sees improved Q4 EPS.</headline>
+<dateline>ROANOKE, Va. 1996-08-20</dateline>
+<text>
+<p>Roanoke Electric Steel Corp Chairman Donald Smith said on Tuesday the company expects its fourth quarter earnings to improve over the third quarter, adding that it sees 1996 as its second best year on record.&quot;</p>
+<p>&quot;Although the lower selling prices for bar products are expected to affect fourth quarter earnings, business conditions continue to be strong for fabricated products and the backlog for bar products remains good,&quot; he said in a statement. &quot;We expect fourth quarter earnings to improve over the third quarter and look for 1996 to be our second best year on record,&quot; he said.</p>
+<p>Earlier, The company reported earnings of $0.39 per share for the third quarter, compared to $0.65 a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROANOKE, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

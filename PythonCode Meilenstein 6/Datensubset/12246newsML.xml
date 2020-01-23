@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12246" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH KOREA: S.Korea to delay state bonds issue till October.</title>
+<headline>S.Korea to delay state bonds issue till October.</headline>
+<dateline>SEOUL 1996-08-23</dateline>
+<text>
+<p>South Korea's Finance and Economy Ministry said on Friday it has decided to delay 835 billion won worth of state bond issues until October.</p>
+<p>The bonds, which have from maturities from one to seven years, were orginally scheduled to be issued on August 28 and September 21. &quot;Given recently soaring interest rates, we have to issue the bonds with high rates. So we decided to delay the plan,&quot; said a ministry official.</p>
+<p>Growing corporate money demand ahead of Chusok holidays, the Korean Thanksgiving, pushed the benchmark three-year corporate bond yields to a year high of 12.58 percent on Thursday.  </p>
+<p>Heavy spending is usual around Chusok, which falls between September 26 and 29 this year.</p>
+<p>The official said interest rates traditionally fall after the national holiday.</p>
+<p>South Korea has issued 5.38 trillion won worth of state bonds out of a total of 8.7 trillion won worth planned.</p>
+<p>-- Seoul newsroom (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

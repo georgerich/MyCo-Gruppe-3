@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7776" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: NASD warns investors on Net risks, rewards.</title>
+<headline>NASD warns investors on Net risks, rewards.</headline>
+<byline>Gene Ramos</byline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The National Association of Securities Dealers Thursday launched a campaign aimed at alerting investors to the risks and benefits of using the Internet and online services in making investment decisions.</p>
+<p>In announcing the drive, Mary Schapiro, president of NASD's regulatory arm, acknowledged the big help investors get from surfing cyberspace, but warned they could be had if they are not careful.</p>
+<p>&quot;It's absolutely critical for investors to understand that information and messages posted anonymously online should be viewed with caution and a healthy dose of scepticism,&quot; she told a news conference.</p>
+<p>Schapiro said NASD Regulation Inc.'s own World Wide Web site -- http://www.nasdr.com -- could be accessed free of charge beginning Thursday. Tips on investing wisely, explanations on how and where customers may file complaints and other helpful information are available at the site.</p>
+<p>By mid-September, investors will be able to file complaints directly to NASD Regulation via the Web site. They can also obtain a brochure on the issue titled &quot;http://www.invest.carefully&quot; by calling NASDR's hot line, 800-289-9999.</p>
+<p>The NASD is a self-regulatory organisation mandated by law to oversee the over-the-counter market. It is the parent of NASD Regulation and Nasdaq Stock Market Inc. and is under the oversight of the Securities and Exchange Commission.</p>
+<p>Schapiro said the NASD's campaign was sparked by regulators' probe early this year into a penny stock, Comparator Systems Inc., whose price went through the roof on record volume one day in May.</p>
+<p>&quot;There was a strong correlation between the (trading) volume and postings about the stock on the Internet,&quot; she said, adding that the posted messages were almost all bullish.</p>
+<p>The SEC has charged the company and three of its executives with allegedly lying about its finances and stealing a fingerprint identification device. Nasdaq delisted the stock in mid-June.</p>
+<p>Since then, six other so-called small-cap stocks have been studied by Schapiro's office. There were indications that changes in trading price and volume closely correlated with the number of messages about those stocks posted on the Internet. Schapiro did not name the companies.</p>
+<p>She stressed that, while NASD Regulation will look into possible fraud and manipulation cases as part of its market surveillance, &quot;we are not censors.&quot; At the same time, she noted, the regulatory arm has authority only over 510,000 brokers and 5,400 brokerage firms.</p>
+<p>She said she expected NASD members to provide her office with suggestions on whether regulation was necessary involving brokers' and their firms' activities involving Internet.</p>
+<p>Motley Fool, the most popular online personal investment forum, which is available on America Online Inc.'s service, joined NASD Regulation in its drive.</p>
+<p>Motley Fool officials said they have posted a warning message on their boards and set-up an e-mail connection to NASD Regulation that investors can use to get help. Two other online services, CompuServe Corp.'s Investor's Forum and Prodigy's Money Talk bulletin board have posted similar warnings.</p>
+<p>Big Wall Street firms such as Merrill Lynch, Charles Schwab Inc., Smith Barney Inc., PaineWebber Inc. and Dean Witter Reynolds Inc., will include NASD Regulation's brochure in their communcations or statements to their customers, Schapiro said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

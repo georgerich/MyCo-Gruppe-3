@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4028" id="root" date="1996-08-20" xml:lang="en">
+<title>BAHRAIN: Bahrain to appoint new Shura council members.</title>
+<headline>Bahrain to appoint new Shura council members.</headline>
+<dateline>MANAMA 1996-08-20</dateline>
+<text>
+<p>Bahrain will appoint new members to its consultative Shura council in September who may include people selected from boards of national societies, a government official said on Tuesday.</p>
+<p>&quot;The political leaders take into consideration popular representation in choosing members of the Shura council. Those members might have been elected members in societies and institutions,&quot; the official said.</p>
+<p>&quot;It was expected that the names of new members would be announced in September ahead of the new session of the Shura council,&quot; he told Reuters. The official declined to say how many members of the 30-member council would be replaced or give further details.</p>
+<p>The official was commenting on a report in Akhbar al-Khaleej newspaper on Tuesday which said half the members of the council were expected to be selected from boards of national societies.</p>
+<p>Bahrain's Emir Sheikh Isa bin Sulman al-Khalifa promised in June to develop the Shura council and give it more say in the Gulf state's affairs.</p>
+<p>He said Bahrain would increase the membership of the council to widen popular representation and increase its power to &quot;study requirements of the citizens and the services provided to them&quot;.</p>
+<p>Restoration of an elected assembly dissolved in 1975 was a key demands by dissidents in anti-government protests which began in Bahrain, the Gulf's mainly financial centre, in December 1994.</p>
+<p>The Shura council was appointed in 1992 to help the government run the island's political and economic affairs.</p>
+<p>It gives views on draft laws submitted by Bahrain's cabinet before they are sent to the Emir for final approval.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

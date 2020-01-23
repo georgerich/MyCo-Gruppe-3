@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8397" id="root" date="1996-08-22" xml:lang="en">
+<title>MALTA: Malta to issue 2.1 mln lira 28-day t-bills Friday.</title>
+<headline>Malta to issue 2.1 mln lira 28-day t-bills Friday.</headline>
+<dateline>VALLETTA 1996-08-22</dateline>
+<text>
+<p>The Malta treasury said it will issue on Friday 2.1 million Maltese lira of 28-day treasury bills maturing on September 20.</p>
+<p>The weighted average yield is 4.9961 percent, resulting from a weighted average bid price of 99.6182, unchanged from the previous 28-day issue on August 9.</p>
+<p>The treasury will also issue 391,000 Maltese lira of 91-day bills maturing on November 22 at a weighted average rate of 4.9974 percent per annum, equivalent to a weighted average bid price of 98.7694, slightly lower than the 4.9978 percent average rate on the previous 91-day issue on August 9. (LM1=$2.78)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

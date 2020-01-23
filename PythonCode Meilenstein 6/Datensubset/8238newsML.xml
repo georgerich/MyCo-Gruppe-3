@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8238" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: IPO FILING -- Transcend Therapeutics Inc.</title>
+<headline>IPO FILING -- Transcend Therapeutics Inc.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Company Name	    Transcend Therapeutics Inc</p>
+<p>Nasdaq Stock symbol	     TSND.O</p>
+<p>Estimated price range	   $12-$14/shr</p>
+<p>Total shares to be offered    2 million</p>
+<p>Shrs outstanding after ipo    5,749,126</p>
+<p>Lead Underwriter    Vector Securities International Inc</p>
+<p>Underwriters over-allotment  300,000 shrs Business: develops pharmaceuticals for treatment of diseases caused by oxidative stress and resultant tissue damage with a particular therapeutic focus on critical care. Use of Proceeds: to fund clinical trials, research development programs and for other general corporate purposes.</p>
+<p>Financial Data in 000s:     1995		 1994</p>
+<p>   - Revenue		    N/A		   N/A</p>
+<p>   - Net Income (loss)    ($4,450)	   ($3,603)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

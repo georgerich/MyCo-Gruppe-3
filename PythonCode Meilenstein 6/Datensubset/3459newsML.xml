@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3459" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-LISA welcomes Australian pension changes.</title>
+<headline>RTRS-LISA welcomes Australian pension changes.</headline>
+<dateline>CANBERRA 1996-08-21</dateline>
+<text>
+<p>The Australian government's changes to superannuation in Tuesday's budget made the system fairer and more equitable, the Life Investment and Superannuation Association of Australia (LISA) said.</p>
+<p>&quot;Changes to make the superannuation system fairer and more equitable including ironing our some current anomalies are understandable given budgetary circumstances,&quot; LISA Executive Director John Maroney said in a statement.</p>
+<p>On Tuesday the government announced a reduction in the tax concession for superannuation payments by the wealthy and granted banks and others the right to offer Retirement Savings Accounts (RSAs), which compete on the same tax terms as conventional superannuation funds.</p>
+<p>Maroney said he welcomed the introduction of RSAs.</p>
+<p>&quot;They are a potentially useful extension as new instruments of choice and competition in the financial system,&quot; he said.</p>
+<p>However Macquarie Bank said that while welcoming the introduction of RSAs, it was concerned that investors who kept contributing to RSAs would be short-changed when they retired.</p>
+<p>&quot;We're concerned that sums of around A$10,000 -- which is the point at which a long term investment strategy really begins working -- will be left to lanquish in RSAs earning low rates of interest,&quot; Macquarie Investment Services Director Brian Thomas said in a statement.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I8150214">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7562" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Oklahoma sues tobacco industry.</title>
+<headline>Oklahoma sues tobacco industry.</headline>
+<dateline>OKLAHOMA CITY, Okla. 1996-08-22</dateline>
+<text>
+<p>Oklahoma Attorney General Drew Edmondson said the state sued the tobacco industry Thursday, seeking to recover costs of treating smoking-related illnesses paid by the state.</p>
+<p>Oklahoma, which becomes the 14th state to file suit against the industry, is seeking unspecified damages in a civil suit filed in a Cleveland County court against tobacco companies, trade groups, public relations and law firms, he said.</p>
+<p>&quot;Conservative figures indicate Oklahoma is due hundreds of millions of dollars in Medicaid funds for treatment of smoking-related illnesses since 1980,&quot; a spokesman said.</p>
+<p>Three other states, Kansas, Arizona and Michigan, also filed lawsuits this week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OKLAHOMA CITY, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

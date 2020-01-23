@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10233" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Air crash investigator silent on explosives report.</title>
+<headline>Air crash investigator silent on explosives report.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>The chief investigator of the crash of TWA Flight 800 refused on Friday to confirm a report in The New York Times that a trace of explosives had been found in the wreckage of the passenger cabin.</p>
+<p>&quot;I'm not going to comment at all on this report,&quot; Robert Francis of the National Transportation Safety Board said on NBC-TV's &quot;Today&quot; programme.</p>
+<p>The New York Times reported in Friday's edition that traces of PETN, a chemical in plastic explosives, had been found in pieces of the wreckage pulled from the Atlantic Ocean off Long Island.</p>
+<p>The newspaper cited as sources three senior officials deeply involved in the investigation who spoke on condition of anonymity.</p>
+<p>TWA's Flight 800 from New York to Paris exploded and crashed on July 17. All 230 passengers and crew aboard were killed.</p>
+<p>Francis said the NTSB and the FBI were still trying to determine if the explosion was caused by a bomb, a missile or mechanical failure. &quot;We need more evidence,&quot; he said.</p>
+<p>Chemists at the Federal Bureau of Investigation crime laboratory found PETN on a piece of wreckage retrieved from the jet's passenger cabin between seat rows 17 and 27, the Times reported.</p>
+<p>The new test result comes from a piece of wreckage that was in the exact area of the passenger cabin where investigators said the centre of the blast was. One official described the wreckage as part of a seat.</p>
+<p>The finding came after weeks of investigation into the cause of the crash by the FBI, the National Transportation Safety Board and other agencies.</p>
+<p>Officials have repeatedly said there was no definitive evidence to indicate which one of the three leading possible causes -- a bomb, a missile or mechanical failure -- was behind the crash.</p>
+<p>While the new finding provides evidence that the plane was destroyed by an explosive device, a senior official said PETN, or pentaerythritol tetranitrate, was an explosive component commonly found both in many bombs and surface-to-air missiles, the newspaper said.</p>
+<p>It said it was still impossible to know which type of explosive device destroyed the Boeing 747.</p>
+<p>An FBI spokesman in Washington had no comment on the report.</p>
+<p>Francis said on Thursday that experts who studied the 1986 space shuttle Challenger explosion would test debris from the TWA crash to determine whether a bomb or an accident caused the plane to explode.</p>
+<p>Francis told reporters the plane appeared to have been rocked by an explosion in the centre fuel tank area. He added it was not clear whether that was the primary explosion that brought the plane down or a secondary blast.</p>
+<p>The bodies of 209 victims have been recovered.</p>
+<p>The discovery meets the FBI's previously stated standard for declaring that the plane was brought down by a criminal act, the newspaper said.</p>
+<p>An investigator and other senior officials said they hoped to find additional forensic evidence as salvage workers continued to retrieve wreckage from the Atlantic.</p>
+<p>They are particularly interested in finding metal fragments showing shock waves -- physical damage left by a blast that indicates what type of device exploded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

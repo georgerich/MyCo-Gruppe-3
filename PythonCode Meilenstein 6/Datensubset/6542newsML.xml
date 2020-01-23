@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6542" id="root" date="1996-08-21" xml:lang="en">
+<title>SPAIN: Madrid stocks weaken in tandem with bonds.</title>
+<headline>Madrid stocks weaken in tandem with bonds.</headline>
+<dateline>MADRID 1996-08-21</dateline>
+<text>
+<p>Madrid stocks closed lower in lacklustre trade, dragged lower by a drop in bonds triggered by a fall in German bunds below important technical support. * General index fell 1.89 points, 0.53 percent, to 352.14. * Ibex-35 index lost 24.45 points, 0.61 percent, to 3,997.45. * Telefonica fell 10 pesetas to 2,255 with more than two million shares traded. Repsol lost 20 pesetas to 4,070 with 518,000 shares exchanging hands.</p>
+<p>Traders said expectations of a cut in the German repo rate on Thursday had fallen after a stronger-than-expected Ifo July business climate index.  </p>
+<p>The Ibex-35 index broke below support at 4,000, but traders saw nearby support at 3,980.</p>
+<p>Volume was 25 billion pesetas, up from recent sessions, of which a large part was in Telefonica, Iberdrola and Repsol.</p>
+<p>There was some arbitrage activity in morning trade, with traders selling Ibex stocks and buying futures, but this slackened off later in the session.</p>
+<p>Pryca gained 45 pesetas to 3,070, with 456,000 shares traded, on talk of strong first half results and rumours that Carrefour was to buy out the Spanish retailer.</p>
+<p>--Madrid Newsroom +34 1 585 2161</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7412" id="root" date="1996-08-21" xml:lang="en">
+<title>CHINA: Yuan closes down against US dollar in Shanghai.</title>
+<headline>Yuan closes down against US dollar in Shanghai.</headline>
+<dateline>SHANGHAI 1996-08-21</dateline>
+<text>
+<p>The Chinese yuan closed down on a technical correction that began on Tuesday, at 8.3072 against the U.S. dollar on Wednesday, from Tuesday's 8.3065, on the Shanghai-based interbank foreign exchange market.</p>
+<p>The yuan opened slightly up at an intra-day high of 8.3063 and fell to move in a narrow range around 8.3070 for most of the session, hitting an intraday low of 8.3074 late in the session.</p>
+<p>Trading was active, with most done at 8.3070, traders said.</p>
+<p>Dealers said the yuan's uptrend was capped below 8.3050 over the past two days, after rising sharply in the past month.  </p>
+<p>&quot;Pro-yuan sentiment was weakened by intervention at 8.3050 by the People's Bank of China,&quot; one dealer said. &quot;But demand for yuan remained strong.&quot;</p>
+<p>Dealers expect the yuan to move in a range of 8.3060 to 8.3070 on Thursday.</p>
+<p>The yuan closed up at 7.6552 from 7.6804 against 100 Japanese yen, and up slightly at 1.0735 from 1.0740 against the Hong Kong dollar.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

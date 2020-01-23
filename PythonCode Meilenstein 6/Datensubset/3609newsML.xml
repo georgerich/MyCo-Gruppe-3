@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3609" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Growth hormones for short children may be overused.</title>
+<headline>Growth hormones for short children may be overused.</headline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>Doctors are too quick to prescribe growth hormones for short children, American researchers said on Tuesday.</p>
+<p>A team at Case Western University in Ohio analysed surveys sent to 434 pediatric endocrinologists and estimated that four out of 10 children undergoing the controversial and expensive therapy did not have the conditions that warrant it.</p>
+<p>The U.S. Food and Drug Administration has approved the therapy, which costs between $13,000 and $16,000 per year, only for the estimated 14,000 children in the country with growth hormone deficiency and chronic renal failure.</p>
+<p>But there are no generally accepted guidelines for the therapy and it may be applied for non-medical reasons such as pressure brought by family or the physician's beliefs, Leona Cuttler, a pediatrician at the university and colleagues wrote in this week's Journal of the American Medical Association.</p>
+<p>Hormone therapy increases the rate of growth for as many as 90 percent of children treated but its effect on adult height and its adverse effects are uncertain, they said.</p>
+<p>In an accompanying editorial in the journal, Barry Bercu of the University of South Florida blamed overuse partly on what he termed the &quot;cultural 'heightism' that permeates American society,&quot; adding that short people generally adapt.</p>
+<p>&quot;The potential psychological damage to the child with unrealistic expectations of what final height will be achieved should also be considered,&quot; he wrote. Children undergoing treatment may also come to believe they are sick.</p>
+<p>&quot;One must ask whether a three to five cm (one to two inch) improvement in height is an acceptable outcome of intervention; it would appear to be less expensive to provide further education, job training or professional psychological counselling,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

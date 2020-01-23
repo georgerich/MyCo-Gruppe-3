@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2945" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: U.S. to sell $24 billion of 3-, 6-mo bills Aug 26.</title>
+<headline>U.S. to sell $24 billion of 3-, 6-mo bills Aug 26.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>The Treasury Department said on Tuesday it will auction $24 billion of three- and six-month bills on August 26 to pay down $2.525 billion as $26.528 billion of bills are maturing.</p>
+<p>The weekly bill sale will be equally divided between the two maturities. The bills will be issued Aug. 29. The three-month bills mature Nov. 29 and the six-month bills mature Feb. 27, 1997.</p>
+<p>The CUSIP number for the three-month bills is 9127943Q5 and for the six-month bills is 9127944A9.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

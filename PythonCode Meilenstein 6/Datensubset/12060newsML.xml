@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12060" id="root" date="1996-08-23" xml:lang="en">
+<title>NETHERLANDS: FUGRO H1 NET PROFIT JUMPS.</title>
+<headline>FUGRO H1 NET PROFIT JUMPS.</headline>
+<dateline>AMSTERDAM 1996-08-23</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>(in millions of guilders unless otherwise stated)</p>
+<p>    Net profit			     9.6  vs   1.1</p>
+<p>    Turnover			     368.9  vs 331.3</p>
+<p>NOTE - Engineering consultancy Fugro NV said in June it</p>
+<p>expected 1996 first-half results to show an improvement.</p>
+<p>    Operating result		    16.7  vs   7.3</p>
+<p>    Interest charges		     4.5  vs   4.9</p>
+<p>    Tax					2.0  vs   1.9</p>
+<p>    Cash flow			     35.1  vs  22.8</p>
+<p>    Capital expenditure		 28.5  vs  24.1</p>
+<p>Fugro said the earnings recovery had restored profits to</p>
+<p>pre-1995 levels, when they slumped sharply.</p>
+<p>    Minorities		   charge  0.6  vs   0.6 gain</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

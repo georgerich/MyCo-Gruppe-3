@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6177" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: INSTANT VIEW-NZ Labour cost index mildly positive.</title>
+<headline>INSTANT VIEW-NZ Labour cost index mildly positive.</headline>
+<dateline>WELLINGTON 1996-08-22</dateline>
+<text>
+<p>Here are economists' initial reactions to the June quarter Labour Cost Index published on Thursday by Statistics New Zealand.</p>
+<p>The index, measuring salary and wage rates, rose 0.3 percent in the quarter and 1.9 percent for the year, compared with mean forecasts of 0.53 percent and 2.2 percent respectively in a Reuters poll of economists.</p>
+<p>BANKERS TRUST ECONOMIST DAVID PLANK</p>
+<p>&quot;It was a bit weaker than was expected. The fact that it has stopped going up will be of some comfort to people. Even though the labour markets remain fairly tight, there has been no acceleration in wages above that 2.0 percent level, so that's a good sign, but it's difficult to interpret compared to the quarterly employment survey. Because it was below the market's expectations it's probably mildly positive, but it's not going to have a big impact. It may cause a one or two point rally in the short end.&quot;</p>
+<p>DOYLE PATERSON BROWN ECONOMIST STEPHEN TOPLIS</p>
+<p>&quot;It's slightly lower than everyone expected. Last week's employment number always lags growth and we have only just started in the March and June quarters to see a significant slowdown in employment growth.</p>
+<p>&quot;It will be mildly positive for the Reserve Bank. They are still interested to see what's happening to average hourly earnings figures.</p>
+<p>&quot;There is some debate as to how useful this index is. It's certainly not negative but it's nothing to get too excited because there is enough uncertainty about there in the Reserve Bank's minds about what's happening to inflation.  </p>
+<p>&quot;If you get a whole swag of these numbers coming in below expectations then you are going to see the Reserve Bank bring forward the easing (rather) than put it back.</p>
+<p>&quot;There have been a significant number of bits of information that are now suggesting the economy is slowing down more than people may have anticipated. The problem is we are still getting the odd statistic out there which is showing a slightly different picture, one being last week's employment number. The housing numbers from yesterday, seasonally adjusted they were down from June to July but they sure as hell were up a long way from where they were last year...  </p>
+<p>&quot;There is enough uncertainty out there to keep them (the Reserve Bank) on tenterhooks.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5354" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: CYCLING-SICK OBREE RULED OUT OF WORLD TITLE DEFENCE.</title>
+<headline>CYCLING-SICK OBREE RULED OUT OF WORLD TITLE DEFENCE.</headline>
+<dateline>MANCHESTER, England 1996-08-21</dateline>
+<text>
+<p>Sick world track cycling champion Graeme Obree has been denied the chance to defend his title next week.</p>
+<p>Obree, whose Olympic medal hopes in Atlanta were also ruined by ill-health, has been suffering since May with a viral infection.</p>
+<p>The Scot won the world 4,000 metres pursuit title for the second time last year.</p>
+<p>But national coach Doug Dailey said on Wednesday: &quot;He is still suffering with post-viral problems and after a day of medical tests a specialist advised him not to compete.&quot;</p>
+<p>Obree hopes he can recover in time to race in the world time trial championship in Lugano in October.</p>
+<p>The five-day track championships start next Wednesday at the Manchester Velodrome. One of the highpoints was to have been the projected clash between Obree and fellow Briton Chris Boardman, the 1992 Olympic champion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

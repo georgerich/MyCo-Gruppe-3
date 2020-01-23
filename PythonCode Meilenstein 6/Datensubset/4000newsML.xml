@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4000" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: P&amp;I clubs aim to cut reinsurance bill.</title>
+<headline>P&amp;I clubs aim to cut reinsurance bill.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>P&amp;I clubs are planning a campaign to reduce their reinsurance costs next year from the approximately $330 million paid this year.</p>
+<p>&quot;Shipowners cannot tolerate so much money going out on reinsurance. There must be a change,&quot; John Lyras, chairman of the London Club, told a news conference called to unveil the club's 1996 annual report.</p>
+<p>Protection and indemnity (P&amp;I) clubs are mutual organisations formed by shipowners to insure their vessels. There are 14 clubs worldwide which together are known as the Group.</p>
+<p>P&amp;I clubs have already increased the level of self insurance to 15 percent from 10 percent in an effort to inject competition and bring costs down.</p>
+<p>Bryan Gaze, deputy chairman and finance director of the London Club's managing agent A Bilborough &amp; Co Ltd, said his personal view was that the cost of reinsurance for P&amp;I clubs could be cut to around $200 million next year.</p>
+<p>&quot;The reinsurance market has softened and softened and I anticipate a very significant reduction in premiums for next year...The Group has paid far too much for reinsurance over the past five years,&quot; he said.</p>
+<p>P&amp;I sources said reinsurers had not lost money on the P&amp;I account over the last ten years, adding that they were planning a sustained campaign over the coming months to bring down their reinsurance costs.</p>
+<p>However, some said they considered the target of $200 million was optimistic.</p>
+<p>Most P&amp;I reinsurance is placed in the Lloyd's of London market. The P&amp;I initiative to cut their reinsurance bill will add to pressures on marine insurers, who are already concerned about falling rates.</p>
+<p>-- John Sanders, Reuters Insurance News 44 171 542 2769</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

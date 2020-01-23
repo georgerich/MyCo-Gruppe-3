@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5573" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Deere unit files $1.0 bln shelf debt/warrants.</title>
+<headline>Deere unit files $1.0 bln shelf debt/warrants.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>John Deere Capital Corp, a unit of Deere &amp; Co, filed Wednesday a shelf registration with the Securities and Exchange Commission for up to $1.0 billion in debt securities and warrants to buy debt securities.</p>
+<p>The Deere unit said that when combined with previous registrations, it will have up to $1,208,850,000 in debt securities available for sale.</p>
+<p>It said net proceeds will be used for working capital and other general corporate purposes.</p>
+<p>The offering will be made through Merrill Lynch &amp; Co, Goldman Sachs &amp; Co and Salomon Bros Inc.</p>
+<p>John Deer Capital provides financing for retail purchases of new and used John Deere agricultural, industrial, commercial and consumer equipment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

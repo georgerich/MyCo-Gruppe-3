@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7130" id="root" date="1996-08-21" xml:lang="en">
+<title>SWEDEN: Custos sells stake in Trygg-Hansa.</title>
+<headline>Custos sells stake in Trygg-Hansa.</headline>
+<dateline>STOCKHOLM 1996-08-21</dateline>
+<text>
+<p>Swedish investment company Custos said on Wednesday it had sold its holding of 2.37 million shares in insurer Trygg-Hansa. The holding corresponds to 2.9 percent of capital and 2.4 percent of votes.  </p>
+<p>Custos said in a statement its strategy was to hold &quot;meaningful&quot; stakes in a limited number of larger, and primarily listed, companies.</p>
+<p>&quot;Custos has thus disposed of all of its holding in Trygg-Hansa,&quot; it said.</p>
+<p>The sale would mean a liquidity boost of 271 million crowns and a capital gain of 68 million crowns, Custos said.</p>
+<p>-- Stockholm newsroom, +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

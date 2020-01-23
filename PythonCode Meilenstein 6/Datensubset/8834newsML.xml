@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8834" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Vikonics says it cannot meet bills.</title>
+<headline>Vikonics says it cannot meet bills.</headline>
+<dateline>TETERBORO, N.J. 1996-08-22</dateline>
+<text>
+<p>Vikonics Inc said on Thursday that it presently does not have the ability to meet its obligations, but it is trying to negotiate payment terms.</p>
+<p>The company has aggregate amounts due to private investors, ex-directors and the company's legal counsel of $570,000 plus accrued interest due in June, Vikonics said.</p>
+<p>At June 30, 1996, the company had cash on hand of $5,000, a working capital deficit of $1,372,000 and a shareholders' deficit of $1,369,000.</p>
+<p>Vikonics said there can be no assurance that it will succeed in negotiating payment terms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TETERBORO, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

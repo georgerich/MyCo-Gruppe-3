@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4272" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: K&amp;G Men's Q2 net rises.</title>
+<headline>K&amp;G Men's Q2 net rises.</headline>
+<dateline>ATLANTA 1996-08-20</dateline>
+<text>
+<p>K&amp;G MEN'S CENTER, INC.</p>
+<p>		 Consolidated Statements of Earnings</p>
+<p>For the Three Months Ended and Six Months Ended</p>
+<p>	    July 28, 1996 and July 30, 1995</p>
+<p>			  (Unaudited)</p>
+<p>							Three Months Ended</p>
+<p>						  7/28/96	   7/30/95</p>
+<p> Net sales				 $18,217,000    $12,666,000</p>
+<p> Net income				    720,000	  494,000</p>
+<p>Dividends on redeemable Common Stock,</p>
+<p>   Series B					    0	   70,000</p>
+<p>Net income applicable to Common Stock,</p>
+<p>   Series A shareholders		   720,000	  424,000</p>
+<p>Net income per common and common</p>
+<p>  equivalent share				0.11	     0.09</p>
+<p>Weighted average common and common</p>
+<p>  equivalent shares outstanding	6,377,500	5,250,000</p>
+<p>							Six Months Ended</p>
+<p>						   7/28/96	  7/30/95</p>
+<p> Net sales				 $35,745,000    $25,103,000</p>
+<p> Net income				  1,489,000	1,189,000</p>
+<p>Dividends on redeemable Common Stock,</p>
+<p>   Series B					    0	   70,000</p>
+<p>Net income applicable to Common Stock,</p>
+<p>   Series A shareholders		 1,489,000	1,119,000</p>
+<p>Net income per common and common</p>
+<p>  equivalent share				0.23	     0.23</p>
+<p>Weighted average common and common</p>
+<p>  equivalent shares outstanding	6,377,500	5,250,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

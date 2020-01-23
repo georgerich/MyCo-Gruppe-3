@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4563" id="root" date="1996-08-20" xml:lang="en">
+<title>PHILIPPINES: Manila call loan rate rises for second day.</title>
+<headline>Manila call loan rate rises for second day.</headline>
+<dateline>MANILA 1996-08-20</dateline>
+<text>
+<p>---------------------- Aug 20 --------------------------</p>
+<p>* Banks lock money in long-term bills</p>
+<p>---------------------------------------------------------</p>
+<p>Philippine interbank call loan rates rose for the second straight day on Tuesday to 11.84375 percent from 11.0625 as most banks were experiencing a temporary tightness in liquidity, traders said.</p>
+<p>&quot;Many banks had locked in their money in long-term bills,&quot; said one dealer.  </p>
+<p>Rates ranged from a high of 12.78125 percent to a low of 11.0. Volume thinned to 22.244 billion pesos from 26.086 billion.</p>
+<p>Since last week, banks had been aggresively buying long-term bills in view of the expected drop in inflation and consequently, interest rates.</p>
+<p>This view was reinforced Tuesday when the central bank cut its rate by 0.125 percentage point each on its term reverse repos of one to two months, traders said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

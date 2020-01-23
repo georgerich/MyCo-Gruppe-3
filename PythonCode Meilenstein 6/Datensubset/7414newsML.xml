@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7414" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Japan finance firm files for bankruptcy.</title>
+<headline>Japan finance firm files for bankruptcy.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Japanese consumer finance firm Minami Kyushu Credit Co Ltd said on Wednesday that it had filed for bankruptcy this morning with debts of 108 billion yen.</p>
+<p>Minami Kyushu Credit is an unlisted firm.  </p>
+<p>Minami Kyushu Credit, which was formed in 1983, saw its profits rise until 1990, when business started declining due to new rules on loans to non-banks, private research firm Tokyo Shoko Research said in a statement.</p>
+<p>Companies to which Minami Kyushu Credit extended loans went bankrupt due to the bursting of the &quot;bubble&quot; economy of inflated land and share prices in the early 1990s and that also had a negative impact on Minami Kyushu Credit's business, Tokyo Shoko Research said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

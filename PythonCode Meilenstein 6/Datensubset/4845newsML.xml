@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4845" id="root" date="1996-08-20" xml:lang="en">
+<title>CYPRUS: PRESS DIGEST - Cyprus - Aug 20.</title>
+<headline>PRESS DIGEST - Cyprus - Aug 20.</headline>
+<dateline>NICOSIA 1996-08-20</dateline>
+<text>
+<p>These are some of the leading stories in the Cyprus newspapers on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>ALITHIA</p>
+<p>- American proposal for military talks is to be discussed at National Council session this afternoon.</p>
+<p>- The Greek-Cyprus defence cooperation &quot;dogma&quot; will only be invoked in case the Cyprus military force is attacked, says government spokesman Yiannakis Cassoulides.</p>
+<p>HARAVGHI</p>
+<p>- The United States instists on military talks; President Clerides rejects proposal for a meeting with Turkish Cypriot leader Rauf Denktash.</p>
+<p>- Cyprus Airways crisis still on, flight delays continue.</p>
+<p>PHILELEFTHEROS</p>
+<p>- Full parliamentary control over semi-governmental organisations. All decisions by management councils will have to be approved by parliament.</p>
+<p>- Plenty of money in the market, not enough demand for loans, says A. Afxentiou, governor of Cyprus Central Bank.</p>
+<p>SIMERINI</p>
+<p>- Nicosia rejects a proposal put forward by U.N. Secretary-General Boutros Boutros-Ghali for a meeting between President Clerides and Turkish Cypriot leader Rauf Denktash.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5304" id="root" date="1996-08-21" xml:lang="en">
+<title>FINLAND: Chess-Karpov to take on world in Internet chess game.</title>
+<headline>Chess-Karpov to take on world in Internet chess game.</headline>
+<dateline>HELSINKI 1996-08-21</dateline>
+<text>
+<p>Russian chess veteran Anatoly Karpov will challenge the rest of the world in an historic virtual chess game on the Internet on August 26, Finnish host Telecom Finland said on Wednesday.</p>
+<p>After every move by Karpov, the rest of the world has 10 minutes to enter moves against him through the Internet. A server will select the most frequently proposed move and execute it.</p>
+<p>&quot;Surfers&quot; who want to play can go to http://www.tele.fi/karpov on Monday, August 26, at 1000 GMT.</p>
+<p>Karpov retained his title as International Chess Federation world champion in July when he defeated Russian-born U.S. grandmaster Gata Kamsky in a match held in the former Soviet republic of Kalmykia.</p>
+<p>World number one Garry Kasparov did not challenge because of a split with the federation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

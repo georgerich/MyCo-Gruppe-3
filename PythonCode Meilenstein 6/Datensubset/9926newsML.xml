@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9926" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS - Budget cuts to boost Australia savings - RBA.</title>
+<headline>RTRS - Budget cuts to boost Australia savings - RBA.</headline>
+<dateline>CANBERRA 1996-08-22</dateline>
+<text>
+<p>The Australian government's plans to slash its budget deficit should make a useful contribution to national savings, the Reserve Bank of Australia (RBA) said in its annual report.</p>
+<p>&quot;The government's announced plans to balance the budget, if realised, would make a useful contribution to raising national savings,&quot; the RBA said.</p>
+<p>The bank said there were concerns fiscal consolidation would unduly restrict growth, but evidence was ambiguous.  </p>
+<p>In its 1996/97 budget announced on Tuesday, the Australian Coalition government announced an underlying budget deficit of A$5.65 billion, and pledged to return the underlying budget balance to surplus by 1998/99.</p>
+<p>The budget deficit was A$10.3 billion in 1995/96.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800  </p>
+<p>&quot;Determined and credible efforts to rein in unsustainable fiscal positions (are) often rewarded by rising confidence, giving favourable effects on economic activity even in the short term,&quot; it said.</p>
+<p>&quot;More generally, the long-term effects of fiscal consolidation are clearly positive, with higher saving tending to promote economic growth by raising investment and lowering long-term real interest rates,&quot; the RBA said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

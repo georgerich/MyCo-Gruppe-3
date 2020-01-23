@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11708" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Kansas feedlot cattle roundup - USDA.</title>
+<headline>Kansas feedlot cattle roundup - USDA.</headline>
+<dateline>DODGE CITY 1996-08-23</dateline>
+<text>
+<p>USDA said trade was very slow late Thursday. Few sales of slaughter steers and heifers closed steady.</p>
+<p>Inquiry and demand rather were light. Sales confirmed on 800 slaughter steers and 400 slaughter heifers Thursday. For the week to date 136,000 head confirmed including 26,100 head or about 19 percent previously contracted or formulated cattle and CME delivery cattle.</p>
+<p>Steers - select and choice 2-3 1200-1250 lbs 68.00, pen</p>
+<p>Select to mostly choice 1310 lbs 68.00.</p>
+<p>Heifers - few select and choice 2-3 1050-1100 lbs 68.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6013" id="root" date="1996-08-21" xml:lang="en">
+<title>POLAND: Polish c.bank sells PLN 120 mln bonds at outright.</title>
+<headline>Polish c.bank sells PLN 120 mln bonds at outright.</headline>
+<dateline>WARSAW 1996-08-21</dateline>
+<text>
+<p>The National Bank of Poland said it sold 111 million zlotys worth of 17 percent two-year fixed bonds maturing on July 12, 1997, after investors bid for 156 million.</p>
+<p>The NBP also sold nine million zlotys of 14 percent five year bonds maturing on July 12, 2000, after investors bid for 32 million zlotys of the paper. The central bank offered 150 million zlotys of the shorter bonds and 150 million zlotys of the longer paper.</p>
+<p>The minimum price of the two-year bonds was 99.14, up from 98.60 at the last tender on August 9 and the average price was 99.20, up from 98.65.</p>
+<p>The minimum price of the five-year paper was 89.99, up from 89.60, the average price was 90.09, up from 89.62.</p>
+<p>Settlement is due by 0900 local time on August 22, 1996.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

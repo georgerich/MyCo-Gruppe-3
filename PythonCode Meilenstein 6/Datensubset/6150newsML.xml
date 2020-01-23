@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6150" id="root" date="1996-08-21" xml:lang="en">
+<title>BRAZIL: Brazil industrial production up 0.5 pct in June.</title>
+<headline>Brazil industrial production up 0.5 pct in June.</headline>
+<dateline>RIO DE JANEIRO 1996-08-21</dateline>
+<text>
+<p>Brazil's National Statistics Institute (IBGE) said industrial production rose 0.5 percent in June from the previous month, a local news agency said.</p>
+<p>The figure indicates a recovery in industrial output following May's 0.6 percent decline, according to Invest News.  </p>
+<p>The IBGE described the rise in June as moderate, saying the improvement was more evident when comparing the second quarter of 1996 with the first quarter.</p>
+<p>Full industrial output figures for June are scheduled to be released later today.</p>
+<p>-- Simona de Logu, Rio de Janeiro Newsroom 5521 507 4151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

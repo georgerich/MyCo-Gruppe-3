@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3292" id="root" date="1996-08-20" xml:lang="en">
+<title>RUSSIA: Civilians flee Grozny, say Russian assault begun.</title>
+<headline>Civilians flee Grozny, say Russian assault begun.</headline>
+<dateline>GROZNY, Russia 1996-08-20</dateline>
+<text>
+<p>Thousands of civilians struggled out of the Chechen capital any way they could on Tuesday and many said Russian forces had already started carrying out a threat to bomb the city to drive out rebels.</p>
+<p>&quot;The whole city is on its way out. We've been in a basement for 14 or 15 days and couldn't stand it any more,&quot; said Nina Madayeva, who added that 12 planes had bombed a district to the south west overnight. The acting commander of Russian forces in Chechnya has given civilians until Thursday to leave.  </p>
+<p>Civilians have been trying to flee Grozny for the past two weeks, since the rebels sparked a flare-up in fighting by attacking the city. But on Tuesday there appeared to be more than on any of the previous days.</p>
+<p>Most of them were on foot rather than in cars and buses.</p>
+<p>Konstantin Pulikovksy, acting commander of Russian forces in Chechnya, on Monday gave civilians 48 hours to leave before he unleashes an all-out bombardment. He said on Tuesday that the situation could only be resolved by force.</p>
+<p>Itar-Tass news agency quoted Pulikovsky as saying artillery had already opened up in Grozny with &quot;pinpoint strikes&quot; against the rebels, who control most of the city, but that aircraft were not being used.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GROZNY, Russia"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

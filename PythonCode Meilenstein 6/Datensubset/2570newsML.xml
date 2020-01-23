@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2570" id="root" date="1996-08-20" xml:lang="en">
+<title>BELGIUM: Europe Online logs off for good after talks fail.</title>
+<headline>Europe Online logs off for good after talks fail.</headline>
+<dateline>BRUSSELS 1996-08-20</dateline>
+<text>
+<p>Bankrupt online information service Europe Online SA logged off on Tuesday after last-ditch talks with Deutsche Telekom and others to keep the Luxembourg-based operation running finally bit the dust.</p>
+<p>&quot;Europe Online has ceased to operate. No agreement was reached by a deadline this morning so we had to close it down,&quot; Albert Wildgen, a member of the team of Europe Online's liquidators, told Reuters. He declined to give further details.</p>
+<p>The company suffered a major financial blow when its biggest single shareholder, German publisher Burda, said in July it was pulling the plug on further funding.</p>
+<p>Desperate attempts followed to find new investors or shareholders, which included negotiations with rival U.S. online company CompuServe and Deutsche Telekom, but no deal was reached and the company was declared bankrupt on August 2.</p>
+<p>A legal source close to the liquidation process, who asked not to be named, said German telecommunications company Deutsche Telekom had decided late last week against salvaging the operation, adding, &quot;It would have been a pure asset deal.&quot;</p>
+<p>Similar talks had continued with two other, unnamed parties but these too failed, the source said.</p>
+<p>Deutsche Telekom, which was owed money by Europe Online for access to its own data network, said at the beginning of August that it remained interested in cooperation with the company.</p>
+<p>&quot;Deutsche Telekom wants to go international and one option was to chose the assets of Europe Online. But in the end they decided it was not worth it,&quot; the legal source said.</p>
+<p>&quot;Europe Online broke down at an early stage of its development -- it had brilliant ideas, but not enough substance (for Deutsche Telekom),&quot; he added. Deutsche Telekom's own successful T-Online service has over a million German customers.</p>
+<p>With about 25,000 subscribers altogether, Europe Online had national services in Germany, Britain and Luxembourg, as well as an international service in English, which included news, weather, travel, sports and entertainment.</p>
+<p>Liquidators said all that was left now was to sell off the individual assets of the company. They said that at the time of its bankruptcy, Europe Online had debts of about $40 million, of which about $30 million in the form of loans by shareholders.</p>
+<p>Besides Burda, with a 26-percent direct stake in Europe Online and a further seven percent in trust, shareholders included two U.S. companies, AT&amp;T and Meigher Communications, Britain's Pearson Plc, and Luxembourg's Banque et Caisse d'Epargne de l'Etat (BCEE) and Societe Nationale de Credit et d'Investissement (SNCI).</p>
+<p>-- Lorrayne Smith, Brussels Newsroom +32 2 287 6812, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

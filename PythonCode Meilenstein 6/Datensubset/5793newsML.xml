@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5793" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: BA says still considering USAir move.</title>
+<headline>BA says still considering USAir move.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>British Airways said on Wednesday it was still considering the implications of the announcement today by estranged partner USAir Group that the U.S. domestic carrier has applied to fly its own services to London Heathrow.</p>
+<p>BA noted that USAir's application is in anticipation of Britain and the U.S. agreeing an &quot;open skies&quot; trade pact, which would open up London Heathrow to USAir and other U.S. carriers.</p>
+<p>&quot;We welcome USAir's support for an open skies agreement ...and will now be considering the implications of the announcement on the wider alliance between BA and USAir,&quot; a senior company spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

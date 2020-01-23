@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11474" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Cantor Fitzgerald &amp; Co sends 4 salespeople to Conn.</title>
+<headline>Cantor Fitzgerald &amp; Co sends 4 salespeople to Conn.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>In a move to strengthen its institutional equity operations, Cantor Fitzgerald &amp; Co said on Friday it plans to relocate four institutional salespersons from New York City headquarters to the firm's Stamford, Conn. office, next to its newly-acquired Parallax Group.</p>
+<p>The firm currently has one institutional salesperson in Stamford and 80 nationwide, most based in New York.</p>
+<p>The rapidly increasing number of institutional investors based in southern Connecticut prompted the move to provide the best service to customers, the company said.</p>
+<p>Cantor Fitzgerald &amp; Co plans more expansion of its Stamford office in the near future including more institutional salesperson hires, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

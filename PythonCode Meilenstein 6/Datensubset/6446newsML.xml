@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6446" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: CSCE world sugar ends mixed and prices rangebound.</title>
+<headline>CSCE world sugar ends mixed and prices rangebound.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>CSCE world sugar futures ended narrowly mixed as the market remained stuck in its recent trading range.</p>
+<p>Trade selling at the highs and speculative buying at the lows framed today's activity, floor sources said. The failure of the October contract to pierce its recent high of 11.87 Tuesday, triggered today's action.</p>
+<p>Traders expect buying interest to emerge in the 11.60 cent a lb range. Activity is likely to pick up as the October contract nears its expiry in about five weeks. Until that time, market sources see a dearth of fundamental news.</p>
+<p>October closed up 0.01 at 11.82, having ranged from 11.85 to 11.72. March finished off 0.01 at 11.46, while the back months ended 0.07 to 0.02 lower.</p>
+<p>LCE white sugar futures also closed mixed in rangebound dealings. The October contract ended up 20 cents at $353.50. December finished 40 cents weaker at $346.40.</p>
+<p>-- Suzanne Rostler, New York Commodities, 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

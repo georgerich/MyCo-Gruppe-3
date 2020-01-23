@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8286" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Sportmart names top executives.</title>
+<headline>Sportmart names top executives.</headline>
+<dateline>WHEELING, Ill. 1996-08-22</dateline>
+<text>
+<p>Sportmart Inc said Thursday that Andrew Hochberg, president, had been named chief executive officer.</p>
+<p>As CEO Hochberg succeeds his father Larry Hochberg, who remains chairman.</p>
+<p>The company said Mark Scott was named president and elected to the board of directors. He joined Sportmart in July 1995 and had been an executive vice president.  </p>
+<p>Sportmart said John Lowenstein was named to the newly created position of chief operating officer. Lowenstein had been executive vice president, operations.</p>
+<p>Thomas Hendrickson has been promoted to executive vice president and continues as chief financial officer. He had been senior vice president and CFO since April 1995.</p>
+<p>Sportmart operates 70 Sportmart sporting goods superstores, up from 59 at the end of the 1995 second quarter.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHEELING, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

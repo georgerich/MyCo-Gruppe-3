@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4759" id="root" date="1996-08-20" xml:lang="en">
+<title>PHILIPPINES: DMCI building orders up at 8.1 bln pesos.</title>
+<headline>DMCI building orders up at 8.1 bln pesos.</headline>
+<dateline>MANILA 1996-08-20</dateline>
+<text>
+<p>The contract backlog of Philippine construction giant DMCI Holdings Inc rose sharply to 8.1 billion pesos as of August this year due to the flurry of construction activity in the country, an official of the company said on Tuesday.</p>
+<p>&quot;Our contract orders has risen to 8.1 billion pesos as of August from only 2.2 billion pesos as of June 1995,&quot; the official told Reuters in a phone interview.  </p>
+<p>DMCI's share price jumped 75 centavos to close at 17.75 pesos on Tuesday on talk of the robust growth in the firm's contract backlog.</p>
+<p>&quot;The sharp increase in our contract orders indicates the level of construction activity in the country and DMCI's increased construction capability,&quot; the DMCI official said.</p>
+<p>The increase in DMCI's construction capability could be gauged from the rise in its manpower to 16,000 from 9,000 last year, she said.</p>
+<p>--Manila newsroom (632) 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

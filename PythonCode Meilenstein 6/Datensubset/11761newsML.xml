@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11761" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. says still committed to Cuba migration pacts.</title>
+<headline>U.S. says still committed to Cuba migration pacts.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The United States said on Thursday it remained committed to migration accords with Cuba and would continue to repatriate intercepted Cuban migrants who attempted to enter U.S. territory illegally.</p>
+<p>A State Department statement appeared in part a response to Cuban complaints that Washington was jeopardising the accords by failing to return some of the Cubans involved in recent illegal migration incidents.</p>
+<p>&quot;The United States reiterates its full commitment to the implementation&quot; of the accords signed by the two countries in 1994 and 1995, said the statement by spokesman Glyn Davies.</p>
+<p>&quot;The United States will continue to return Cuban migrants intercepted at sea who seek to enter the United States or the Guantanamo Naval Base illegally,&quot; it said. Washington would also take &quot;prompt and effective law enforcement action&quot; against alien smuggling and hijackings from Cuba, it added.</p>
+<p>Davies told reporters the statement would be distributed in the Cuban exile community in Miami &quot;to remind everyone of the importance of abiding by the accords and avoiding dangerous attempts to cross the straits&quot; from Cuba to Florida.</p>
+<p>Havana's complaints centred on an incident in which a boatload of emigrants capsized in the Florida Straits last week and two recent aircraft hijackings from Cuba. Sixteen of those picked up from the boat were returned to Cuba but eight were taken to the United States and three to Guantanamo Bay, a U.S. base on Cuba, until they emigrated to another nation.</p>
+<p>The most recent hijacking, last Friday, involved three hijackers and the pilot of a small aircraft. Davies said on Tuesday the pilot could soon return to Cuba but U.S. authorities planned to try the hijackers.</p>
+<p>In an incident on July 7, a Cuban interior ministry official hijacked a commercial plane and sought aylum at Guantanamo Bay. Davies said he knew of no plans to return the man to Cuba.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

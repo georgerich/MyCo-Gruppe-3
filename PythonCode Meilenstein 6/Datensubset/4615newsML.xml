@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4615" id="root" date="1996-08-20" xml:lang="en">
+<title>SINGAPORE: Sunken ship off Singapore discharged oil, official.</title>
+<headline>Sunken ship off Singapore discharged oil, official.</headline>
+<dateline>SINGAPORE 1996-08-20</dateline>
+<text>
+<p>A Maltese bulk carrier that sank off Singapore after a collison leaked a small quantity of oil, an official of Singapore's Maritime and Port Authority said on Tuesday.</p>
+<p>&quot;The leak was minimal and most of the opening from which the oil leaked has been plugged,&quot; the official told Reuters.</p>
+<p>&quot;The oil has not reached Singapore's shore,&quot; he said.</p>
+<p>The Maltese-flagged 14,114 dwt Herceg Novi sank after it was in collision with the 29,873 gross ton Tawainese container ship Ming Galaxy just before midnight on Sunday.</p>
+<p>The bulk carrier had been carrying 12,000 tonnes of scrap iron and 450 tonnes of fuel and diesel oil.</p>
+<p>&quot;Investigation has begun into the circustances leading to the collision,&quot; the official said.</p>
+<p>The collision occurred 5.5 km (3.4 miles) east of Singapore's Raffles lighthouse at the southern tip of Singapore.</p>
+<p>The official said the port authority had issued a notice of removal to the owner and agent of the Herceg Novi to remove the sunken vessel as soon as possible.</p>
+<p>The port official said the 32 crew members on board the stricken ship had been rescued.  </p>
+<p>The Taiwanese ship, now anchored off Johor shoal,  sustained little damage, while the Herceg Novi sank about two-and-a-half hours after the collision.</p>
+<p>The Ming Galaxy was bound for Singapore from the Malacca Strait, while the Herceg Novi was headed for Chittagong in Bangladesh from Singapore, the offical said.</p>
+<p>-- Singapore newsroom (65-870-3080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

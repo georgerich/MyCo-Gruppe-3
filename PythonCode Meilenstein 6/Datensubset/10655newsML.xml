@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10655" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Canada economic indicators survey August 26-30.</title>
+<headline>Canada economic indicators survey August 26-30.</headline>
+<text>
+<p>DATE   EDT/GMT    INDICATOR	 PERIOD AVG-FORECAST PREV</p>
+<p>08/28 0830/1230  IPPI		  July    +0.1 pct  -0.4 pct</p>
+<p>08/28 0830/1230  Raw Materials     July     0.0 pct  -2.3 pct</p>
+<p>08/29 0830/1230  Avg wkly earns    June    +2.1 pct  +2.4 pct</p>
+<p>08/30 0830/1230  Real GDP	    June    +0.3 pct  +0.2 pct</p>
+<p>08/30 0830/1230  Real GDP	     Q2     +0.7 pct  +0.3 pct</p>
+<p>08/30 0830/1230  GDP price defl     Q2     +0.2 pct  -0.2 pct</p>
+<p>08/30 0830/1230  Curr acct	    Q2   +C$0.5 Bln  -C$1.94 B</p>
+<p>Bank	    IPPI    Raw Mat    Avg Wk Ern   GDP (mnthly)</p>
+<p>Tech Data     +0.2     -0.4	  +1.9	   +0.3</p>
+<p>MMS Intl	-0.1     +0.2	   N/A	   +0.1</p>
+<p>Nesbitt	 +0.3     +0.5	  +2.0	   +0.1</p>
+<p>Lehman	  +0.1     +0.5	   N/A	   +0.1</p>
+<p>Montreal	 0.0	N/A	   N/A	   +0.1</p>
+<p>Scotia	  -0.2     -1.3	   N/A	    N/A</p>
+<p>Deutsche	+0.5     +0.5	  +2.3	   +0.8</p>
+<p>Bank	   GDP (Q2)    GDP price defl     Curr Acct</p>
+<p>Tech Data     +0.5	    +0.1		+C$0.6   BLN</p>
+<p>MMS Intl	+1.0	    +0.2		-C$0.042 BLN</p>
+<p>Nesbitt	 +0.7	    +0.5		+C$0.1   BLN</p>
+<p>Lehman	  +0.6	    +0.4		+C$1.1   BLN</p>
+<p>Montreal	+0.7	     N/A		+C$1.0   BLN</p>
+<p>Scotia	   N/A	     N/A		  N/A</p>
+<p>Deutsche	+0.9	    -0.3		+C$0.2   BLN</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3136" id="root" date="1996-08-20" xml:lang="en">
+<title>NIGERIA: Food shares lead on Nigerian bourse.</title>
+<headline>Food shares lead on Nigerian bourse.</headline>
+<dateline>LAGOS 1996-08-20</dateline>
+<text>
+<p>Food company shares led trade on the Nigerian stock exchange on Tuesday after a series of impressive company results, dealers said.</p>
+<p>The all-share index closed at 6048.38 from 6040.16 on Monday.</p>
+<p>Dealers said food shares had performed well in an economy still in the grips of recession, also pointing to the petroleum marketing sector as one that could sit out hard times.</p>
+<p>Flour Mills closed 15 kobo up at 10.55 naira. Northern Nigerian Flour Mills rose 15 kobo to 9.50 naira. Union Dicon Salt advanced by the same margin to 30.45 naira.</p>
+<p>Unipetrol gained 10 kobo to 32.50 naira. Total was eight kobo higher at 42.20 naira.</p>
+<p>PZ Industries gained 10 kobo to 31.20 naira.</p>
+<p>Packaging firms Delta Glass and Studio Press both fell two kobo to close at 6.32 naira and 1.46 naira respectively.</p>
+<p>Allied Bank fell two kobo to 50 kobo while Niger Insurance dropped one kobo to 1.54 naira.</p>
+<p>($1=80 naira)</p>
+<p>-- Lagos newsroom +234 1 263 03 17</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9121" id="root" date="1996-08-22" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</headline>
+<dateline>BUCHAREST 1996-08-22</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* Leading board of ruling Party of Social Democracy (PDSR) to discuss proposals for new health and culture ministers this afternoon starting 4pm. The government is to decide on the two new ministers to be appointed in its next cabinet meeting.</p>
+<p>* Foreign policy commission of upper house of Senate had a first debate on the draft of the Romanian-Hungarian treaty, said commission chairman Sergiu Nicolaescu.</p>
+<p>* Foreign Minister Teodor Melescanu would present the draft of the Romanian-Hungarian treaty in the next cabinet meeting, due on Friday, and only afterwards attend debates in the Senate's foreign policy commission on the treaty, said foreign ministry spokesman Sorin Ducaru.</p>
+<p>Ducaru said Melescanu would present the draft treaty also in a meeting with parliamentary parties. --Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

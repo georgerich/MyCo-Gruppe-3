@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12367" id="root" date="1996-08-23" xml:lang="en">
+<title>CHINA: Yuan closes down against US dollar on rate cut.</title>
+<headline>Yuan closes down against US dollar on rate cut.</headline>
+<dateline>SHANGHAI 1996-08-23</dateline>
+<text>
+<p>The Chinese yuan closed down on Friday because of a cut in bank interest rates, at 8.3071 against the U.S dollar, from Thursday's 8.3050, on the Shanghai-based interbank foreign exchange market, traders said.</p>
+<p>China cut deposit and lending rates by an average of 1.5 and 1.2 percentage points as from Friday, the People's Bank of China, the central bank, announced late on Thursday.</p>
+<p>Dealers said that the cuts weakened strong pro-yuan sentiment, but their impact was less than expected.</p>
+<p>The yuan opened down at 8.3060 and hit an intra-day high of 8.3059 early in the session.  </p>
+<p>It then fell on consolidation around 8.3070 for the rest session, touching an intra-day low of 8.3081 in the midsession.</p>
+<p>Trading was active early in the session but dull later, with most activity at 8.3070, traders said.</p>
+<p>&quot;Heavy selling emerged at about 8.3060, which capped the yuan's rise,&quot; said one dealer. &quot;The rate cut was expected to reduce strong demand for the yuan in the foreign exchange market and to make it more stable.&quot;</p>
+<p>&quot;But the reaction was not so strong,&quot; a second dealer said. &quot;It seems that there is now no close relationship between interest rates and the exchange rate in China.&quot;  </p>
+<p>Dealers expect the yuan to be stable around 8.3070 early next week.</p>
+<p>The yuan ended little changed at 7.6625 from 7.6600 against 100 Japanese yen and down at 1.0745 from 1.0730 against the Hong Kong dollar.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

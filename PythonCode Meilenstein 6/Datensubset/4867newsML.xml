@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4867" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - Algeria - Aug 20.</title>
+<headline>PRESS DIGEST - Algeria - Aug 20.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>These are the leading stories in the Algerian press on Tuesday as reported by the official Algerian news agency APS. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN</p>
+<p>- The interior ministry denies London-based Arabic newspaper al-Hayat's report on massacre in the Algerian region of Batna.</p>
+<p>EL MOUDJAHID</p>
+<p>- Algeria commemorates the uprising of Aug 20, 1956, against French colonial rule in Constantine areas.</p>
+<p>AL CHAAB</p>
+<p>- The revolutionary family of former nationalist fighters gather at Ifri in the eastern town of Bejaia to remember the Aug 20, 1956, events which helped Algeria win the liberation war.</p>
+<p>L'OPINION</p>
+<p>- Representatives of opposition Rally for Culture and Democracy party suspend participation in joint committees debating political reforms to seek advice from the party leadership.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

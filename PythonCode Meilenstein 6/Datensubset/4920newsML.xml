@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4920" id="root" date="1996-08-20" xml:lang="en">
+<title>NETHERLANDS: FORECAST - Dutch company results week Aug 19-23.</title>
+<headline>FORECAST - Dutch company results week Aug 19-23.</headline>
+<dateline>AMSTERDAM 1996-08-20</dateline>
+<text>
+<p>Analysts' estimates of Dutch company earnings to be reported in the week beginning August 19:</p>
+<p>DATE--COMPANY---------PERIOD----CONSENSUS--RANGE-------PVS</p>
+<p>20/08 Van Ommeren	H1	   43.3   38.8-48	 38.7</p>
+<p>20/08 Pakhoed	    H1	   58.8     55-63	 62.0</p>
+<p>21/08 Nedlloyd	   Q2	  -10.8    -20- 0	 19.0</p>
+<p>22/08 Aegon		H1	  690.1    679-699     614.7</p>
+<p>22/08 ING		  H1	 1517.0   1460-1560   1184</p>
+<p>22/08 Nutricia	   H1	   86.5   78.6-102	64.2</p>
+<p>22/08 Intern. Muller   H1	   44.3     41-46.5     40.3</p>
+<p>23/08 KPN		  H1	 1223.0   1210-1236   1114</p>
+<p>23/08 Boskalis	   H1	   30.1     20-37.3     41.4</p>
+<p>Earnings figures refer to net profit before extraordinary items in millions of guilders unless otherwise stated.</p>
+<p>Estimates contributed by: Amstgeld, Bangert Pontier, BZW, Delta Lloyd, Generale Bank, ING Barings, Kempen &amp; Co, MeesPierson, Van Lanschot, Rabo/IRIS, and Strating.</p>
+<p>Banks and brokers interested in contributing to this regular Reuters survey can contact the Amsterdam newsroom on +31-20-504-5000 or fax their forecasts to +31-20-504 5040.</p>
+<p>For the week of August 26-30 we need forecasts for IHC Caland, HBG, VNU, Heidemij, BolsWessanen, KBB, Hagemeyer, Fortis, Stork and Frans Maas. -- Amsterdam newsroom, +31 20 504 5000 (FAX 31-20-504-5040)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I77003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6817" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: Canada C$1.6 bln 21-day yields avg 4.096 pct.</title>
+<headline>Canada C$1.6 bln 21-day yields avg 4.096 pct.</headline>
+<dateline>OTTAWA 1996-08-21</dateline>
+<text>
+<p>The Bank of Canada said its C$1.6 billion auction of 21-day T-bills due September 12 produced the following results:</p>
+<p>				 YIELD</p>
+<p>			  AVG   4.096   PCT AT</p>
+<p>			  LO    4.067   HI YLD</p>
+<p>			  HI    4.120   13.33333</p>
+<p>The bills will be dated and delivered on August 22.</p>
+<p>The Bank of Canada said it bought none of the bills.</p>
+<p>-- Reuters Toronto bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

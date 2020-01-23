@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3043" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: HFNC Financial sets cash div, OKs buyback. [CORRECTED 16:35 GMT]</title>
+<headline>HFNC Financial sets cash div, OKs buyback. [CORRECTED 16:35 GMT]</headline>
+<dateline>CHARLOTTE, N.C. 1996-08-20</dateline>
+<text>
+<p>HFNC Financial Corp said Tuesday its board of directors have set its first quarterly cash dividend at $0.05 per share.</p>
+<p>The company's board of directors also authorized a buyback of up to 859,625 shares, or about 5 percent, of the company's outstanding common stock.</p>
+<p>The dividend is to be payable on Sept 16 (corrects from Sept 3) to stockholders of record as of Sept 3 (corrects from &quot;of record on that day&quot;). The quarterly cash dividend policy was initiated by its board of directors at its Aug 19 meeting.</p>
+<p>The repurchases have been authorized to be made from time to time in open-market transactions during the rest of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

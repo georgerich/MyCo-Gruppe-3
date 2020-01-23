@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3035" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: XXsys Technologies Inc Q3 full results.</title>
+<headline>XXsys Technologies Inc Q3 full results.</headline>
+<dateline>SAN DIEGO 1996-08-20</dateline>
+<text>
+<p>Fiscal Quarter	 Nine Months</p>
+<p>			     Ended June 30,     Ended June 30,</p>
+<p>			  1996	1995	   1996	   1995</p>
+<p> Revenues	  $152,543   $38,441     $489,228     $320,492</p>
+<p>Operating Expenses</p>
+<p>			819,280   496,805    2,125,455    1,475,685</p>
+<p>Net Operating Loss</p>
+<p>		    (666,737) (458,364)  (1,636,227)  (1,155,193)</p>
+<p>Other Income/(Expense)</p>
+<p>			  8,459  (13,729)	388,701     (22,986)</p>
+<p> Net Loss	 (658,278) (472,093)  (1,247,526)  (1,178,179)</p>
+<p>Net Loss Per Share</p>
+<p>			 (0.11)    (0.08)	 (0.20)	 (0.23)</p>
+<p>Weighted Average Number</p>
+<p>		    6,212,181 5,774,000    6,145,995    5,128,000</p>
+<p>of Shares Outstanding</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

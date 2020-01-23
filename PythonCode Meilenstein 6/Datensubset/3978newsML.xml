@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3978" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: Nederlandse Gasunie sets 200 mln mark 5-year bond.</title>
+<headline>Nederlandse Gasunie sets 200 mln mark 5-year bond.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>The following bond was announced by joint lead managers Rabobank and SBC Warburg.</p>
+<p> BORROWER   NEDERLANDSE GASUNIE</p>
+<p> AMT    200 MLN DEM   COUPON     5.25	MATURITY    02.OCT.01</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  101.655   PAY DATE    02.OCT.96</p>
+<p> FULL FEES  2.00	REOFFER    99.905    SPREAD	+17 BP</p>
+<p> MOODY	AAA	 LISTING    LONDON    PAY FREQ    =</p>
+<p> S&amp;P	  AAA	 DENOMS (K) 1-10-100  SALE LIMITS =</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   IPMA 2</p>
+<p> GOV LAW    DUTCH     HOME CTRY  NETHER    TAX PROVS   =</p>
+<p> MGT/UND    0.25	SELL CONC  1.75	PRAECIP     =</p>
+<p>UNDERLYING GOVT BOND BOBL 118</p>
+<p> NOTES	ISSUED OFF EMTN PROGRAMME</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

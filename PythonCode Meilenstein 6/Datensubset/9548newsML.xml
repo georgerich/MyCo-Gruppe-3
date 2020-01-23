@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9548" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: US late spot LPGs narrowly mixed in sleepy trade.</title>
+<headline>US late spot LPGs narrowly mixed in sleepy trade.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Spot LPG prices were narrowly mixed in lethargic activity late Thursday, with traders saying stronger NYMEX crude prevented kept propane on a fairly even keel.</p>
+<p>Mont Belvieu propane was pegged at between 38.75 and 39.00 cents a gallon, 0.25 cent weaker than Wednesday, with Conway material unchanged at 38.25/38.50 cents.</p>
+<p>&quot;It would have been weaker if it wasn't for NYMEX,&quot; one Houston LPG trader said. &quot;Most shorts already covered earlier this week for August, so a lot of the prompt demand has been spent,&quot; he added.</p>
+<p>Belvieu normal butane, meanwhile, slipped a half cent to 46.75/47.25 cents, players said. Conway material was sold for 44.87 cents, a touch lower, they added.</p>
+<p>-- New York Energy Desk +1 212 859-1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

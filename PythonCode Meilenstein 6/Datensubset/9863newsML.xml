@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9863" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: Indian copper prices extend losses, nickel gains.</title>
+<headline>Indian copper prices extend losses, nickel gains.</headline>
+<dateline>BOMBAY 1996-08-22</dateline>
+<text>
+<p>Indian copper prices fell, nickel regained lost ground while other base metals were unchanged in metals trading on Thursday, dealers said.</p>
+<p>&quot;Ready copper fell by 100 rupees to 12,700 rupees per quintal on fresh arrivals,&quot; one dealer said.</p>
+<p>Nickel on the other hand recovered from earlier falls, gaining by 200 rupees to 37,500 rupees per quintal on fresh support from the stainless steel industry.</p>
+<p>Aluminium, zinc and lead were firm at previous levels. Tin was steady at 36,000 rupees per quintal in nominal trade.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

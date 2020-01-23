@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5746" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: ValuJet has no comment on destination plans.</title>
+<headline>ValuJet has no comment on destination plans.</headline>
+<dateline>ATLANTA 1996-08-21</dateline>
+<text>
+<p>ValuJet Inc on Wednesday declined to comment on a news report which said renewed service would include flights to Washington Dulles and three Florida cities -- Orlando, Tampa and Fort Lauderdale.</p>
+<p>The discount carrier, which has yet to win approval from the U.S. Department of Transportation and the Federal Aviation Administration, said earlier in the day that it would miss a planned target date for resuming operations, set for Friday.</p>
+<p>The Atlanta Journal-Constitution reported that ValuJet employees were told the four destinations would be among the first five to be serviced once federal approval was gained.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

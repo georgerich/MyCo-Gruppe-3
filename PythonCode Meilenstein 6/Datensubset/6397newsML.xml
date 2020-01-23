@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6397" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: National U.S. avg prices for farmer-owned reserve.</title>
+<headline>National U.S. avg prices for farmer-owned reserve.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>USDA reported farmer-owned reserve national five day average prices through Aug 20 as follows (in dollars/bu, sorghum in dollars/cwt):</p>
+<p>	   Average  Level  Release Price</p>
+<p> Wheat    4.41    IV	4.00</p>
+<p> Corn     3.97    IV	2.75</p>
+<p> Oats     1.90    IV	1.45</p>
+<p> Barley   2.59    IV	2.36</p>
+<p> Sorghum  n/a     IV	4.66</p>
+<p>Note - The 1985 farm bill mandates the trigger release price as the higher of 140 pct of the nonrecourse loan rate for a commodity or target price.</p>
+<p>Levels I, II and III have matured.</p>
+<p>Level IV includes feedgrain entered after Oct 4, 1991, and wheat after July 23, 1981.</p>
+<p>Levels V and VI have nil release prices.</p>
+<p>Level V includes wheat and barley entered after May 14, 1982, and corn and sorghum after July 1, 1982.</p>
+<p>Level VI includes wheat entered after Jan 19, 1984.</p>
+<p>The 1985 farm bill eliminated reserve commodity calls.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

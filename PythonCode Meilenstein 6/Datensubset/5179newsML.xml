@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5179" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Missing wire prompts new Maine nuclear plant probe.</title>
+<headline>Missing wire prompts new Maine nuclear plant probe.</headline>
+<byline>Allan Dowd</byline>
+<dateline>PORTLAND, Maine 1996-08-21</dateline>
+<text>
+<p>Engineers are investigating why an important wire was removed from a key cooling system of the Maine Yankee nuclear power plant, officials said Wednesday.</p>
+<p>Officials shut down the plant in Wiscasset, Maine, Sunday after discovering that 15 feet of wire was missing from a circuit used to activate a pump automatically in the emergency core-cooling system.</p>
+<p>The wire could have been removed by mistake during an earlier modification of the 24-year-old plant and not been detected until testing procedures were updated this year, said Bill Olson, a Nuclear Regulatory Commission resident inspector.</p>
+<p>&quot;That could be the simple answer to it. Possibly there could be a tampering or sabotage. Again, that would be very speculative,&quot; Olson told Maine Public Radio.</p>
+<p>Maine Yankee spokeswoman Leann Diehl said the wire was supposed to be in a panel in the facility's control room, which is staffed by plant operators 24 hours a day and has a constant security guard.</p>
+<p>Officials said the pump could still have been activated manually in the event of an accident. The cooling system is designed to prevent the reactor core from melting down in the event of problems in the main coolant system.</p>
+<p>It was unclear when Maine Yankee would be restarted, officials said. The plant was in the process of restarting from an earlier repair-related shutdown when the wire problem was discovered.</p>
+<p>Maine Yankee has been the focus of extensive NRC scrutiny since late last year, when allegations surfaced that engineers improperly manipulated a computer code used to test the emergency core-cooling system in the late 1980s.</p>
+<p>The 910-megawatt plant had been limited to operating at 90 percent capacity while tests with a new computer code were evaluated.</p>
+<p>Maine Yankee denied that its engineers had acted improperly.</p>
+<p>The plant has had a difficult summer. It was shut down July 19 after engineers discovered a potential design problem in the containment cooling system. Design problems were later found in another key control system.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

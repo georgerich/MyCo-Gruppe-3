@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4817" id="root" date="1996-08-20" xml:lang="en">
+<title>CHINA: China Textile Machinery interim down 67 percent.</title>
+<headline>China Textile Machinery interim down 67 percent.</headline>
+<dateline>SHANGHAI 1996-08-20</dateline>
+<text>
+<p>Half-year ended June 30, 1996</p>
+<p>(figures in millions of yuan unless stated)</p>
+<p> Turnover     93.557	vs	 164.58</p>
+<p> Net profit    3.293	vs	   9.94</p>
+<p> Net asset per share     1.85 yuan (no comparative figure)</p>
+<p> Earnings per share	0.01 yuan (no comparative figure)</p>
+<p>Company name: China Textile Machinery Co</p>
+<p>Note: the figures were unaudited.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6320" id="root" date="1996-08-21" xml:lang="en">
+<title>IRAN: Iran sets plan to boost petrochemicals, gas income.</title>
+<headline>Iran sets plan to boost petrochemicals, gas income.</headline>
+<dateline>TEHRAN 1996-08-21</dateline>
+<text>
+<p>Iran has set ambitious plans to boost revenue from petrochemicals and natural gas over the next 10 years despite U.S. efforts to choke its oil industry, the Iranian oil minister said in remarks published on Wednesday.</p>
+<p>Gholamreza Aghazadeh told the Iran newspaper that Tehran would boost annual income from petrochemical exports to $6 billion from a current $408 million by more than tripling output to 35 million tonnes in 10 years.</p>
+<p>Aghazadeh said Iran expected to earn annually $2 billion to $3 billion from gas exports by the year 2000.</p>
+<p>Iran last week signed a $23 billion natural gas deal with Turkey which angered Ankara's NATO ally the United States and on Tuesday concluded a $1.2 billion deal to build a joint refinery in Pakistan.</p>
+<p>Washington said earlier this month it would slap sanctions on companies investing $40 million or more a year in oil and gas projects in Iran and Libya, calling them &quot;two supporters of terrorism.&quot; Tehran and Tripoli deny the charges.</p>
+<p>Tehran is also discussing with Islamabad a $3.5 billion pipeline deal to supply Iranian gas to Pakistan and India.</p>
+<p>U.S. Senator Alfonse D'Amato, an architect of the new sanctions, has warned foreign firms against involvement in the pipeline project. The European Union and other world states have criticised the unilateral U.S. sanctions.</p>
+<p>Aghazadeh said Iran was also planning to boost income by exporting oil industry services, adding that Iranian experts were working in Senegal on oil exploration projects and doing repairs on wells in Libya.</p>
+<p>Talks are underway for building refineries and exploration in Bangladesh, the Philippines and Vietnam, Aghazadeh added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

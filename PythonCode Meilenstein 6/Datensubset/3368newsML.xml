@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3368" id="root" date="1996-08-20" xml:lang="en">
+<title>MEXICO: Mexico's TIIE 28-day rate unchanged at 27.85 pct.</title>
+<headline>Mexico's TIIE 28-day rate unchanged at 27.85 pct.</headline>
+<dateline>MEXICO CITY 1996-08-20</dateline>
+<text>
+<p>Mexico's 28-day interbank interest rate held steady at 27.85 percent on Tuesday, the same as Monday's rate, the Mexican Stock Exchange said.</p>
+<p>The TIIE is a market-weighted average interbank rate.</p>
+<p>-- Mexico City newsroom (525) 728-9558</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

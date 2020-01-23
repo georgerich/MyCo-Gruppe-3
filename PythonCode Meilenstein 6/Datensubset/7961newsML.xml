@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7961" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: Hong Kong stocks weaker in London in slow trading..</title>
+<headline>Hong Kong stocks weaker in London in slow trading..</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Hong Kong shares were weaker in London on light trading volume on Thursday.</p>
+<p>The Hang Seng London Reference index was down 28.98 points at 11,449.79 at 1350 GMT.</p>
+<p>In Hong Kong, the Hang Seng Index rose 42.27 points to 11,478.77.</p>
+<p>Dealers said most interest was centered on shares in Cheung Kong, which rose after the company reported better-than-expected earnings after Hong Kong markets closed.</p>
+<p>The company posted interest net profit of HK$8.16 billion, exceeding analysts' estimates of about HK$7.0 billion.</p>
+<p>Cheung Kong's shares were up 1.28 at 58.025 in London.</p>
+<p>Lower-than-expected profits of HK$7.84 billion from Hutchinson Whampoa, meanwhile, weighed on Hutchinson shares early on, dealers said.</p>
+<p>The shares have since recovered to unchanged at 48.95.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

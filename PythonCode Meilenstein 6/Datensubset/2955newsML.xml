@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2955" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Microsoft sees browser deal with Sprint.</title>
+<headline>Microsoft sees browser deal with Sprint.</headline>
+<dateline>SEATTLE 1996-08-20</dateline>
+<text>
+<p>Microsoft Corp expects Sprint Corp's new Internet access service to offer the software company's Internet Explorer as an option, a Microsoft official said Tuesday.</p>
+<p>Mike Ahern, a Microsoft group product manager, said he hoped an agreement between the two companies could be announced soon. He declined to discuss details.</p>
+<p>&quot;We're absolutely talking to Sprint,&quot; Ahern said. &quot;We fully expect Sprint will be offering Internet Explorer with their Internet access service.&quot;  </p>
+<p>Earlier Sprint said it would offer Netscape Communications Corp's Navigator browser for customers of its new service.</p>
+<p>But Sprint did not say the relationship was exclusive, and Ahern said he expected an arrangement that would allow customers to choose which browser they use.</p>
+<p>Microsoft and Netscape both launched new versions of their Internet browsers this week, marking a new phase in the rivalry between the two companies.</p>
+<p>-- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

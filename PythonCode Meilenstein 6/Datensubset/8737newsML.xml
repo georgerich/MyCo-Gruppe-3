@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8737" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Indigo Q2 shr loss widens with charges.</title>
+<headline>Indigo Q2 shr loss widens with charges.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>INDIGO N.V. and SUBSIDIARIES</p>
+<p>	     Condensed Consolidated Statements of Operations</p>
+<p>(In Thousands and in U.S. Dollars, except loss per share)</p>
+<p>			 (unaudited)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>					     June 30	  June 30</p>
+<p>				     1996     1995     1996	1995</p>
+<p> Total revenues		29,250   42,810    57,526   85,383</p>
+<p> Operating loss	    (24,215)  (5,400)  (43,975)  (4,714)</p>
+<p>Weighted average number</p>
+<p>  of shares outstanding    59,674   51,416    56,788   50,872</p>
+<p> Loss per share		(0.43)   (0.13)    (0.83)   (0.15)</p>
+<p>NOTE - Q2 in 1996 includes charges for restructuring and litigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302013">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

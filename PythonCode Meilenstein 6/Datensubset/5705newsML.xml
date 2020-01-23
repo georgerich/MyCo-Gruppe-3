@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5705" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Avitar Inc Q3 shr profit vs loss.</title>
+<headline>Avitar Inc Q3 shr profit vs loss.</headline>
+<dateline>WALLINGFORD, Conn 1996-08-21</dateline>
+<text>
+<p>AVITAR, INC.</p>
+<p>		     SUMMARY OF FINANCIAL RESULTS</p>
+<p>	     (in thousands, except per share amounts)</p>
+<p>			    Three Months Ended</p>
+<p>				   June 30,</p>
+<p>			  Actual	   Pro Forma</p>
+<p>			   1996	     1995(a)</p>
+<p> Total Revenues	1,592	    1,356</p>
+<p> Net Income profit	41	loss (857)</p>
+<p> Net Per Share profit  .01	loss (.17)</p>
+<p>Weighted Average</p>
+<p>Number of Common</p>
+<p>and Common Equivalent</p>
+<p> Shares Outstanding   5,785,495   5,038,718</p>
+<p>NOTE - (a) Amounts are presented as if the merger had taken place on October 1, 1994.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLINGFORD, Conn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

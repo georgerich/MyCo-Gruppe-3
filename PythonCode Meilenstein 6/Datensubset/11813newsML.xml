@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11813" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US West Coast distillates rise modestly late.</title>
+<headline>US West Coast distillates rise modestly late.</headline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>U.S. West Coast distillate prices rose modestly late on Thursday as repairs at Unocal's Los Angeles refinery and a flurry of buying ahead of pipeline scheduling lent support.</p>
+<p>&quot;There seemed some some scheduling-inspired buying at the end of the day,&quot; one dealer said.</p>
+<p>Operators shut Unocal's 125,000 barrel per day crude unit early Thursday but expected it back on-line in three days.</p>
+<p>Bids for jet fuel in Los Angeles rose 0.50 cent from midday to 71.50 cents a gallon.</p>
+<p>CARB diesel bids also rose a half cent to 71.50 cents.  </p>
+<p>Meanwhile, low sulphur material was unchanged at 68.50/69.50 cents.</p>
+<p>Conventional-grade gasoline in Los Angeles remained flat after rising a half cent early, staying 66/67 cents a gallon.</p>
+<p>Premium stayed seven cents higher.</p>
+<p>CARB-grade gasoline also flattened, ranging 69.50/70.50 cents.</p>
+<p>CARB and conventional grade gasolines in San Francisco were 3.50 cents below Los Angeles material.</p>
+<p>-- David Brinkerhoff, Los Angeles Bureau 213 380-2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

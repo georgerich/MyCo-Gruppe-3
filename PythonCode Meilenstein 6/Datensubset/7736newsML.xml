@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7736" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Malaysia backs southern Philippine peace deal.</title>
+<headline>Malaysia backs southern Philippine peace deal.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>Malaysian Deputy Prime Minister Anwar Ibrahim on Thursday welcomed the Philippines' peace deal with Moslem rebels, saying this could spur foreign investment in the south of the country.</p>
+<p>Anwar, on a visit to the Philippines, said he had conveyed to President Fidel Ramos Kuala Lumpur's support for the peace accord aimed at ending a 24-year Moslem rebellion in the Mindanao region.</p>
+<p>&quot;We consider this to be a major move...in the settlement of hostility in the Philippines,&quot; Anwar told reporters.</p>
+<p>He said this would benefit Southeast Asia as a whole and he expected countries in the area to help in the reconstruction of the Philippine provinces affected by the conflict.</p>
+<p>&quot;I would certainly appeal to the Malaysian investors also to come ... and I think we would certainly see a more aggressive flow of investments and tourism into the region,&quot; Anwar added.</p>
+<p>Ramos said Anwar told him the Malaysian cabinet at its meeting on Wednesday &quot;lauded the peace efforts of the (Philippine) government and that Malaysia is pooling support (for) our initiatives&quot;.</p>
+<p>He said Anwar expected more Malaysian investments would go into Mindanao where Malaysian businessmen are already involved in tourism, energy and steel projects.</p>
+<p>An interim peace accord between Manila and the Moro National Liberation Front calls for the setting up of a rebel-led administrative council which will supervise development projects in 14 southern provinces.</p>
+<p>Officials say they expect a final peace agreement to be signed in Jakarta by the end of this month with a ceremonial signing to be held in Manila in the first week of September. Indonesia heads an Islamic panel that is mediating the talks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8281" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Charming Shoppes Q2 shr profit nil.</title>
+<headline>Charming Shoppes Q2 shr profit nil.</headline>
+<dateline>BENSALEM, Pa. 1996-08-22</dateline>
+<text>
+<p>CHARMING SHOPPES INC</p>
+<p>    SECOND QUARTER ENDED	    8/3/1996	    7/29/1995</p>
+<p>					    (13 weeks)	  (13 weeks)</p>
+<p>    Net EPS (Loss)		     $0.00	     ($0.03)</p>
+<p>    Net Sales			 $266,678	    $268,448</p>
+<p>    Other Income			 1,571		 1,920</p>
+<p>    Total Revenue		    268,249	     270,368</p>
+<p>Cost of Goods Sold,</p>
+<p>	Buying &amp; Occupancy	   204,601    76.7   207,731</p>
+<p>Selling, General &amp;</p>
+<p>     Administrative		   61,624    23.1    69,023</p>
+<p>    Interest Expense		   1,606     0.6	 481</p>
+<p>	Total Expenses		 267,831   100.4   277,235</p>
+<p>Income (Loss) Before</p>
+<p>     Income Taxes			  418     0.2    (6,867)</p>
+<p>Less Income</p>
+<p>     Taxes (Benefit)		     114     0.1    (3,734)</p>
+<p>    Net Income (Loss)		    304    0.1%    (3,133)</p>
+<p>    Wgtd Avg Shrs		107,018,245	  103,001,599</p>
+<p>	   (in thousands except shares and per share amounts)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BENSALEM, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

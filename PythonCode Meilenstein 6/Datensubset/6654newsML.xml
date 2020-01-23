@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6654" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: SBC Warburg leads a $100 mln securitised FRN.</title>
+<headline>SBC Warburg leads a $100 mln securitised FRN.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>The following remittance-backed certificate issue was announced by joint lead managers SBC Warburg Inc and SBC Warburg London.</p>
+<p> BORROWER   BANCO INTERNACIONAL GRANTOR TRUST 1996-A (BITAL)</p>
+<p> AMT    $100 MLN	SPREAD     275 BP    MATURITY    1999</p>
+<p> TYPE	 FRN	 BASE	 3M LIBOR  PAY DATE    28.AUG.96</p>
+<p> FULL FEES  UNDISC    ISS PRICE  PAR	 AVER LIFE   2.0 YRS</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

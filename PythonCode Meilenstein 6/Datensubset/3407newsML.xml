@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3407" id="root" date="1996-08-20" xml:lang="en">
+<title>BRAZIL: Brazil posts $334 million trade deficit in July.</title>
+<headline>Brazil posts $334 million trade deficit in July.</headline>
+<dateline>BRASILIA 1996-08-20</dateline>
+<text>
+<p>Brazil posted a $334 million trade deficit in July, with exports totalling $4.459 billion and imports at $4.793 billion, the Ministry of Industry and Commerce said in a statement.  </p>
+<p>The ministry said July results brought the year-to-date trade gap to $630 million, versus a deficit of $4.226 billion in the January-July period of 1995.</p>
+<p>It said that the July exports were 11.36 percent higher than in July a year ago, and represented the highest export figure ever recorded in that month.</p>
+<p>Imports were up 19.8 percent over July 1995, it said.</p>
+<p>In July 1995, Brazil posted a $3.0 million trade surplus.</p>
+<p>-- Michael Christie, Brasilia newsroom 5561-223-0358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

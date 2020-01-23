@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7287" id="root" date="1996-08-21" xml:lang="en">
+<title>INDONESIA: Indonesia's Pertamina confirms tanker sinks.</title>
+<headline>Indonesia's Pertamina confirms tanker sinks.</headline>
+<dateline>JAKARTA 1996-08-22</dateline>
+<text>
+<p>Indonesian state oil company Pertamina said on Wednesday a small tanker carrying 350 kilolitres of marine fuel oil (mfo) sunk near Matak island in South China Sea on Saturday.</p>
+<p>&quot;The Batamas III tanker carrying 350 kilolitres of mfo sunk near Matak island due to bad weather. The mfo was for oil field operations in that area,&quot; a Pertamina official, who asked not to be named, said.</p>
+<p>&quot;Pertamina and other related institutions are now cleaning the spill. Certainly the spill has caused some environment problems but they are only small,&quot; the official said.</p>
+<p>&quot;No one died in the accident,&quot; he added, giving no further details.</p>
+<p>The Kompas daily said on Wednesday the 500 dead weight tonnes Batamas III was owned by an Indonesian company, PT Budi Segara, but flew under a Belize flag.</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

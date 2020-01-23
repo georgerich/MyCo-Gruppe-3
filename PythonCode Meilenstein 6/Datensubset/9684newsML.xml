@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9684" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CBOT soybeans mostly lower on crop tour data.</title>
+<headline>CBOT soybeans mostly lower on crop tour data.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>CBOT soybean futures were mostly lower at midsession on bearish input from data released overnight from a crop tour of Illinois, a key U.S. soy producing state, traders said.</p>
+<p>&quot;Results from the crop tour and the weather are good,&quot; a trader said referring to the rationale behind the slide in soybean futures.</p>
+<p>Crop scouts on the Professional Farmers of America tour of Illlinois overnight indicated the crop was making satisfactory progress. The average pod count from 189 fields was 1,075.7 in a three-foot by three-foot square.</p>
+<p>That tally was down slightly from the tour's five-year average of 1,164.5 pods and down from last year's count of 1,171.6.</p>
+<p>Overall good crop weather in the U.S. Midwest also pressured the market.</p>
+<p>&quot;The crop is improving, the weather has been beneficial to the crop,&quot; said Steve Bruce of E.D. and F. Man International.</p>
+<p>Nearby September soybeans were higher on overall firm cash basis markets this week and tight supplies of soybeans.</p>
+<p>At 1128 CDT, soybeans were 3-3/4 cents per bushel lower to 2-3/4 higher, with September up 2-3/4 at $8.03.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

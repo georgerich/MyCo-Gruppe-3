@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5977" id="root" date="1996-08-21" xml:lang="en">
+<title>BELARUS: Belarus Jan-July GDP rises 0.2 pct vs year ago.</title>
+<headline>Belarus Jan-July GDP rises 0.2 pct vs year ago.</headline>
+<dateline>MINSK 1996-08-21</dateline>
+<text>
+<p>Belarus's gross domestic product for the first seven months of 1996 totalled 85.90 trillion Belarussian roubles, up 0.2 percent from a year ago in inflation-adjusted terms, the Statistics Ministry said on Wednesday.</p>
+<p>GDP in July rose two percent to stand three percent higher than a year earlier.</p>
+<p>    BELARUS GDP		   JULY 96    JUNE 96    JULY 95</p>
+<p>    month-on-month pct change +2.0 pct   +15.0 pct  n/a</p>
+<p>    year-on-year pct change   +3	   +2	   -12.0</p>
+<p>--Kiev Newsroom +380 22 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

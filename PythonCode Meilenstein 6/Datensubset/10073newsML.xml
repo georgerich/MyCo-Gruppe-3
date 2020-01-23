@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10073" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Tokyo stocks end up but recovery still cautious.</title>
+<headline>Tokyo stocks end up but recovery still cautious.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Tokyo stocks closed marginally higher on Thursday, extending their recent recovery streak to a fourth day. But the market lacked confidence about the strength of the current rebound, as participants failed to find a sector which could generate further gains, brokers said.</p>
+<p>The key 225-share Nikkei average closed up 88.22 points, or 0.41 percent, at 21,363.24. Its September futures advanced by 120 points to finish at 21,380.</p>
+<p>&quot;We have growing relief that the bottom side is solid,&quot; said Harushige Kobayashi, deputy general manager at Yamaichi Securities Co Ltd.  </p>
+<p>Promise jumped 300 yen to close at 5,150.</p>
+<p>Acom Co Ltd, another consumer finance firm, ended 50 yen higher at 4,000.</p>
+<p>Brokers said sentiment concerning these firms was encouraged after Takefuji Corp, Japan's largest consumer financing firm which is due to list next week, attracted more bids than expected for its shares.</p>
+<p>In the over-the-counter market, shares of Nippon Shikizai rose after media reports of a boom in peel-off facial treatment masks, brokers said.</p>
+<p>The manufacturer's shares jumped 150 yen to close at 2,400.  </p>
+<p>The second section index gained 7.52 points to end at 2,119.34, with 11.17 million shares traded.</p>
+<p>The over-the-counter (OTC) index firmed 1.89 points to finish at 1,620.93.</p>
+<p>-- Hiroko Nakata, Tokyo Equities Desk (81-3-3432-8027)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

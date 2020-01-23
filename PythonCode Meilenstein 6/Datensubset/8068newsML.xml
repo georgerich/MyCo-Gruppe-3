@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8068" id="root" date="1996-08-22" xml:lang="en">
+<title>ISRAEL: Arel Q2 loss per share $0.16.</title>
+<headline>Arel Q2 loss per share $0.16.</headline>
+<dateline>TEL AVIV 1996-08-22</dateline>
+<text>
+<p>Arel Communications and Software Ltd.</p>
+<p>			     (In dollars)</p>
+<p>				Q2 96    Q2 95	6-MTH 96   6-MTH 95</p>
+<p>Revenue		     755,946  1,364,332  2,526,361 2,522,927</p>
+<p>Operating profit (loss) (940,887)  192,862   (743,383)  332,740</p>
+<p>Net profit (loss)	 (884,065)  265,467   (682,193)  459,098</p>
+<p>Earnings (loss) per shr   (0.16)     0.05	(0.12)     0.08</p>
+<p>Arel noted in a statement that the net loss, the first in eight years, was previously estimated by the company on July 8.</p>
+<p>It said the loss arose from &quot;the decreased level of revenues in the second quarter as well as from an increased level of research and development and marketing expenses relating primarily to the company's IDEAL system and the integration of its i-fax technology into its product line&quot;.</p>
+<p>&quot;The company expects that it will return to profitability after it has successfully marketed its IDEAL system and successfully integrated the i-fax technology into its product line.&quot;</p>
+<p>Arel is a maker of value-added telecommunication network service systems. It also makes IDEAL, interactive distance learning solutions for the training and educational markets.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

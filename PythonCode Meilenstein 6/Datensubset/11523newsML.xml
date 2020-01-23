@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11523" id="root" date="1996-08-23" xml:lang="en">
+<title>INDIA: * India overseas country funds rates - August 23.</title>
+<headline>* India overseas country funds rates - August 23.</headline>
+<text>
+<p>------------------INDIA COUNTRY FUNDS------------------</p>
+<p>NAME			    SIZE  ISSUE  NAV    NAV   INDICATIVE</p>
+<p>(ISSUER/LAUNCH)  LISTING ($million) PRICE  DATE   ($)   MKTPRICE($)</p>
+<p>					   ($)</p>
+<p>INDIA FUND A	    O  GBP75  P1.05  19/08 P2.85   P2.80/2.90</p>
+<p>(UTI/Jul'86)</p>
+<p>INDIA FUND B	    O  GBP41  P1.06  19/08 P1.05   P1.02/1.12</p>
+<p>(UTI/Oct'86)</p>
+<p>INDIA GROWTH FUND     C     65  12.00  14/08 12.16  11.75/12.25</p>
+<p>(UTI/Aug'88)</p>
+<p>INDIA MAGNUM FD A     C    205  20.00  09/08 46.96  42.00/45.00</p>
+<p>(SBI/Oct'89)</p>
+<p>INDIA MAGNUM FD B     C    205  20.00  09/08 46.96  42.00/45.00</p>
+<p>HIMALAYAN FUND	  C    105  11.00  14/08 13.58  11.75/12.75</p>
+<p>JF INDIA TRUST FUND   O    310  N.A    22/08  N/A   21.74/23.00</p>
+<p>(J.Fleming/May'93)</p>
+<p>BOMBAY FUND	     O     30  11.39  13/08  9.50   9.00/10.00</p>
+<p>(BZW/Aug'93)</p>
+<p>INDIA OPPORTUNITIES   O    100  10.35  14/08  9.36   9.35/9.85</p>
+<p>(Martin Currie/Jul'93)</p>
+<p>INDIA INVESTMENT CO   O    160  10.00  20/08  6.21	 194.89</p>
+<p>(F &amp; Colonial/Oct'93)</p>
+<p>INDIA FUND, INC.	C    510  15.00  --/--  -.--    -.--/-.--</p>
+<p>Oppenheimer/Feb'94)</p>
+<p>MORGAN STANLEY FUND   C    500  15.00  22/08  N/A	    9.38</p>
+<p>(Morgan/Feb'94)</p>
+<p>MADRAS(I) EQUITY FD A O 13.650  20.00  22/08  21.37 21.37/22.49</p>
+<p>(G.Flight/Nov'95)</p>
+<p>MADRAS(I) EQUITY FD B O  2.330  20.00  22/08  21.46 21.46/22.59</p>
+<p>(G.Flight/Nov'95)</p>
+<p>JARDINE FLEMING FD    C    150  15.00  15/08   8.22  7.75/8.25</p>
+<p>(J.Fleming/Feb'94)</p>
+<p>FLEMING INDIA TRUST   C  GBP84  100p   22/08  N/A	  51.50</p>
+<p>(Fleming/Apr'94)</p>
+<p>TAJ PERFORMANCE FD    O     30  15.00  15/08   8.33  6.00/7.50</p>
+<p>(Raymond James/Apr'94)</p>
+<p>C - Close-ended, O - Open-ended, N.A - not available GBP or P- Pound sterling, p-pence</p>
+<p>Note: India country fund prices are compiled from the rates quoted by Jardine Fleming Securities, Merrill Lynch, Robert Fleming, Barclays De Zoete Wedd, Barings, Bear Stearns, Credit Lyonnais and WI Carr in London. They are indicative and for reference only. For further information please telephone Shyam Kumar in Bombay on 022-265 9000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

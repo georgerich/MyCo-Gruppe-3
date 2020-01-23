@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11050" id="root" date="1996-08-23" xml:lang="en">
+<title>RUSSIA: Russia said likely to buy Indian rice, not wheat.</title>
+<headline>Russia said likely to buy Indian rice, not wheat.</headline>
+<dateline>MOSCOW 1996-08-23</dateline>
+<text>
+<p>A delegation of Indian exporters said on Friday they are likely to sell Russia 100,000 tonnes of rice within the next few months, but that obstacles remain to wheat sales.</p>
+<p>&quot;We are close to an agreement on sales to Russia of 20,000 tonnes of rice, but our chances are even closer to a total of 100,000 tonnes of rice within the next few months,&quot; delegation head Jagmohan Singh Raju told Reuters.</p>
+<p>The delegation spent three days in Moscow negotiating possible deals with Russia's Agriculture Ministry and grain merchants.</p>
+<p>India last year sold Russia some 230,000 tonnes of rice, but no wheat.</p>
+<p>Raju said Russian officials insist that Indian wheat is contaminated with the fungus-like disease karnal bunt.</p>
+<p>&quot;We have invited Russian experts to visit our country and see that this disease does not threaten health and to examine storage and transportation facilities,&quot; Raju said.</p>
+<p>--Dmitry Solovyov, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

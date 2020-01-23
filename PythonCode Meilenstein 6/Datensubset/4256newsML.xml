@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4256" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Westlake terminates BFGoodrich deal.</title>
+<headline>Westlake terminates BFGoodrich deal.</headline>
+<dateline>AKRON, Ohio 1996-08-20</dateline>
+<text>
+<p>BFGoodrich Co said on Tuesday that Westlake Monomers Corp had exercised its right to terminate an agreement to purchase BFGoodrich's chlor-alkali and olefins facilities in Calvert City, Ky., for $170 million.</p>
+<p>BFGoodrich said the facilities have been the subject of a lawsuit and subsequent arbitration that Westlake initiated in 1993 seeking up to $350 million in damages.</p>
+<p>According to BFGoodrich, Westlake's decision not to purchase the facilities has the effect of terminating all of its claims in the lawsuit and arbitration.</p>
+<p>BFGoodrich said it will continue to operate the facilities, which produce chlorine, caustic soda, hydrogen, ethylene, propylene and other olefins.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AKRON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

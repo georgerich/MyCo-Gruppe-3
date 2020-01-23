@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2674" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: GOLF-MONTGOMERIE WITHDRAWS FROM GERMAN OPEN.</title>
+<headline>GOLF-MONTGOMERIE WITHDRAWS FROM GERMAN OPEN.</headline>
+<dateline>STUTTGART, Germany 1996-08-20</dateline>
+<text>
+<p>Twice winner Colin Montgomerie withdrew from this weekend's German Open on Tuesday after his father was taken ill.</p>
+<p>The British golfer, German champion in 1994 and 1995, has gone to Scotland to be with his father, James, secretary at Royal Troon.</p>
+<p>Ian Woosnam will replace Montgomerie at the head of the European rankings if he finishes in the first two.</p>
+<p>The entry also includes local favourite Bernhard Langer and Ryder Cup captain Seve Ballesteros.</p>
+<p>Montgomerie's absence means he will drop to third in the world rankings, with Ernie Els now set to become Greg Norman's closest challeger.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STUTTGART, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

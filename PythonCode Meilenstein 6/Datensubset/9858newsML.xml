@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9858" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: India RBI chief sees rupee stable at current level.</title>
+<headline>India RBI chief sees rupee stable at current level.</headline>
+<dateline>NEW DELHI 1996-08-22</dateline>
+<text>
+<p>The Reserve Bank of India governor C. Rangarajan said on Thursday that he expected the rupee to be stable at the current exchange rate level in the coming months.</p>
+<p>&quot;Yes, that is what I meant&quot;, he told Reuters soon after delivering a lecture where he said the rupee would remain stable because supply and demand positions in the foreign exchange market were well equilibrated.</p>
+<p>In the lecture, Rangarajan did not explain that the exchange rate stability was in reference to the current value of the rupee.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

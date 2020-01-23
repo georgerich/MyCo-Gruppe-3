@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2985" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 20-AUG.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 20-AUG.</headline>
+<text>
+<p>Tropical storm Niki crossed Luzon Philippines during the past 24 hours. Heavy rains likely caused flooding and possibly mudslides. Winds may have caused some damage in areas but we do not expect major damage due to winds. Niki is now strengthening as it tracks westward across the South China Sea. Niki should be a strong risk to shipping while it is over the South China Sea today and Wednesday. It also should bring very heavy rains and very strong winds to Hainan China this period. Flooding and mudslides in Hainan should lead to major damage later this period. A coastal storm surge and strong winds should lead to additional damage in southeast areas.  </p>
+<p>Tropical storm Dolly is approaching the east coast of the Yucatan Peninsula. It is still a threat to shipping off the east coast during the next 6 hours. Heavy rains may cause some flooding across the Yucatan Peninsula later today and overnight tonight. Dolly tracks west of the Yucatan Peninsula during Wednesday. It should strengthen as it tracks through the southwest Gulf of Mexico during Wednesday and Thursday. It should again become a major risk to shipping as winds increase during that time. It may reach Hurricane strength before again making landfall in about 72 hours. The second landfall is expected along the upper east coast of Mexico, somewhat north of Tampico.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

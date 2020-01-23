@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6108" id="root" date="1996-08-21" xml:lang="en">
+<title>CUBA: Bolivia, Cuba discuss anti-drug cooperation.</title>
+<headline>Bolivia, Cuba discuss anti-drug cooperation.</headline>
+<dateline>HAVANA 1996-08-21</dateline>
+<text>
+<p>Bolivian Justice Minister Rene Blattmann held talks with Cuban officials on Wednesday that included analysis of a possible bilateral accord against drug-trafficking.</p>
+<p>The idea of formal anti-drug cooperation was discussed during Blattmann's visit with Cuban Justice Minister Carlos Amat, Cuba's domestic news agency, AIN, said.</p>
+<p>It quoted the Bolivian minister as saying, &quot;This is a battle which must be waged with equal energy in all parts, in the countries that produce the raw material, those that are used as a transit point for drug-trafficking and in consumer nations, because there can be no weak link in this chain.&quot;</p>
+<p>Amat said Cuba, which has anti-drug accords with about 10 other countries, mostly in Latin America, was preparing a new law to strengthen its fight against illegal drugs.</p>
+<p>Bolivia is one of the world's biggest producers of coca leaves, the raw material for cocaine, while Cuba lies astride major air and sea drug-smuggling routes that link producers in Latin America with consumers in Europe and the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

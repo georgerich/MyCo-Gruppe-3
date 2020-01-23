@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12045" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: Deutsche Bahn H1 pre-tax profit up 17.5 pct.</title>
+<headline>Deutsche Bahn H1 pre-tax profit up 17.5 pct.</headline>
+<dateline>FRANKFURT 1996-08-23</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>(in millions of marks unless stated)</p>
+<p>    Group pre-tax profit		     188     vs 160</p>
+<p>    Group sales				  14,600  up 3.3 pct</p>
+<p>NOTE - Full name of the state-owned German railway company is Deutsche Bahn AG. The company is earmarked for eventual privatisatio  </p>
+<p>also covers snap FAT8222</p>
+<p>Revenue from long-distance passenger</p>
+<p>    traffic				     2,500  up 6.4 pct</p>
+<p>    Revenue from commuter traffic	 5,400  up 4.6 pct</p>
+<p>    Revenue from freight traffic	  3,200  down 5.1 pct</p>
+<p>    Group workforce on June 30	    300,962 down 3.7 oct</p>
+<p>NOTE - Sales, profit compare with first half of 1995, workforce compares with Dec 31.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

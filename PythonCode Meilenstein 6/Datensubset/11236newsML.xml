@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11236" id="root" date="1996-08-23" xml:lang="en">
+<title>BRAZIL: Brazil central bank denies report on Bamerindus.</title>
+<headline>Brazil central bank denies report on Bamerindus.</headline>
+<dateline>BRASILIA 1996-08-23</dateline>
+<text>
+<p>Brazil's Central Bank Friday denied a newspaper report which said it was likely to agree to special credit lines for the country's troubled fourth largest private bank, Bamerindus.</p>
+<p>A spokesman said Central Bank President Gustavo Loyola had authorized him to issue a formal denial that there were any plans to grant special liquidity assistance to Bamerindus.  </p>
+<p>The Gazeta Mercantil daily, in an unsourced story, reported that the likely solution for Bamerindus was extensive rediscount lines with 90 day terms, renewable for another 90 days, and paying 4.0 percent a year above the Basic Interest Rate (TBC).</p>
+<p>It added that the solution would allow the bank's main shareholder, Sen. Jose Eduardo Andrade Vieira, a powerful ally of President Fernando Henrique Cardoso, to remain in charge.</p>
+<p>Earlier, while acknowledging that the search for a solution to Bamerindus' woes continued and that there was an obvious &quot;need for liquidity&quot;, the Central Bank spokesman had declined to comment on the report.</p>
+<p>-- Michael Christie, Brasilia newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

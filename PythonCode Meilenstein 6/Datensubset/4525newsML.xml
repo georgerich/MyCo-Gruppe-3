@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4525" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Southcorp to sell concrete arm.</title>
+<headline>RTRS-Southcorp to sell concrete arm.</headline>
+<dateline>ADELAIDE 1996-08-20</dateline>
+<text>
+<p>Australian wine-maker and manufacturer Southcorp Holdings Ltd said on Tuesday it had signed a contract to sell its concrete business to a wholly owned subsidiary of Quokka Investments Ltd.  </p>
+<p>Southcorp said the concrete business, which has sales of less than A$20 million, manufactures, markets, distributes and exports transit concrete mixers.</p>
+<p>The company said the sale would enable its packaging arm to increase its focus on its core businesses which were mainly in the areas of food, beverage and industrial markets and to develop overseas opportunities.</p>
+<p>At 1.55 p.m. (01355 GMT), Southcorp shares were steady at A$3.18 while Quokka shares were six cents firmer at 23 cents.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

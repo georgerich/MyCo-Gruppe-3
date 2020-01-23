@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11746" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: NASA enlisted to help in TWA crash probe.</title>
+<headline>NASA enlisted to help in TWA crash probe.</headline>
+<byline>Ellen Wulfhorst</byline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Experts who studied the 1986 space shuttle Challenger explosion will test debris from TWA Flight 800 in the effort to determine whether a bomb or an accident caused the plane to explode, officials said on Thursday.</p>
+<p>The investigation is focused on the area around the Boeing 747's centre fuel tank, including its fuel pumps, a fuel control panel and probes used to measure fuel amounts, said Robert Francis, vice chairman of the National Transportation Safety Board, at a media briefing.</p>
+<p>The Paris-bound Boeing 747 exploded and crashed into the Atlantic Ocean off Long Island, New York, on July 17. All 230 passengers and crew on board were killed.</p>
+<p>Experts with the National Aeronautics and Space Administration who worked on the Challenger disaster will be testing the TWA debris at the Marshall Space Centre in Huntsville, Alabama, Francis said.</p>
+<p>&quot;They want to see how these things were working,&quot; he said. &quot;They're stripping them down, trying to find out anything they can about the possiblity of something malfunctioning.&quot;</p>
+<p>The cause of the Challenger explosion was found to be a failure of the seals, or O-rings, that joined rockets to the shuttle. The space shuttle exploded a minute after lift-off on January 28, 1986, killing all seven people on board.</p>
+<p>Investigators say so far there is no definitive evidence to indicate which one of the three leading theories -- a bomb, missile or mechanical failure -- caused the TWA jet to crash.</p>
+<p>The plane appears to have been rocked by an explosion in the centre fuel tank area, Francis said, adding it was not clear whether that was the primary explosion that brought the plane down or a secondary blast.</p>
+<p>Investigators also said all the wreckage in a debris field closest to Kennedy International Airport, where the plane took off, may be recovered by the end of this weekend.</p>
+<p>At that point, they said, searchers will begin using just one of the two U.S. Navy salvage ships that have been combing the crash scene. The USS Grasp will leave and the USS Grapple will remain at the scene.</p>
+<p>Another ship will use high-resolution side-scanning sonar to search the debris field again, they said.</p>
+<p>The wreckage lies in a mile-and-a-half-long (2.5 km) swathe on the bottom of the Atlantic Ocean. Recovery was still expected to take weeks, Francis said.</p>
+<p>Searchers have recovered just over half of the centre fuel tank, which is bent, burned and covered with soot, Francis said. The tank was carrying only about 50 gallons (190 litres) of jet fuel, investigators have said.</p>
+<p>Asked how to account for the fire damage around the tank given the small amount of fuel, Francis said, &quot;That's what we're trying to find out.</p>
+<p>The bodies of 209 victims have been recovered.</p>
+<p>Of the 21 bodies that remain lost at sea, Francis said they were believed to have been sitting throughout the plane and not concentrated in a single area.</p>
+<p>He added, however, that the plane's seating chart may not be accurate. Passengers may have changed seats because the jet was half-empty and had been delayed on the ground about an hour before take-off, investigators have noted.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

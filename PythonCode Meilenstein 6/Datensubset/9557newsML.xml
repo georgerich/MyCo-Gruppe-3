@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9557" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Few incidents reported of Hare computer virus.</title>
+<headline>Few incidents reported of Hare computer virus.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>About 10 incidents have been reported so far Thursday of the Hare computer virus, a virus that was expected to be triggered today and again on September 22, according to some anti-virus software developers.</p>
+<p>The Hare virus, which is short for Hare Krishna, is a type of computer virus called a stealth, time-detonated virus that will overwrite a computer's hard disk drive and program files.</p>
+<p>The Hare virus first appeared over the Internet in May of this year and two other versions of the virus have been distributed in files through a variety of Usenet newsgroups.</p>
+<p>McAfee Associates said it has heard of 10 reports so far.  </p>
+<p>&quot;It's a drop in the bucket,&quot; said Jimmy Kuo, a senior virus researcher at McAfee Associates Inc.</p>
+<p>&quot;We have been conducting informal polls between different companies, including our company, Symantec Corp and Dr. Solomon in the U.K.,&quot; Kuo said. He estimates the damage from the Hare virus will hit somewhere between 100 to 1,000 computers worldwide.</p>
+<p>An official tally of how many reports of the virus was not yet available from the National Computer Security Association. Officials at anti-virus software developer, Cheyenne, were not immediately available and McAfee did not yet have their data.  </p>
+<p>McAfee, Symantec, Dr. Solomon and Cheyenne Software Inc develop anti-virus software to detect and eradicate computer viruses. Cheyenne for example has posted a free update to its InocuLAN and Anti-Virus software at its web site and was the first company to publicize this virus.</p>
+<p>Kuo of McAfee said, however, that this Hare virus is not nearly as widespread as some other recent viruses, such as the Word Macro virus, which infected Microsoft Corp's Word software.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

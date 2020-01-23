@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10055" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Foreigners net sellers of Japanese stocks in week.</title>
+<headline>Foreigners net sellers of Japanese stocks in week.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Foreigners were net buyers of Japanese stocks on the Tokyo, Osaka and Nagoya stock exchanges in the week of August 12-16, exchange data showed on Thursday.</p>
+<p>The figures, which are rounded, are as follows:</p>
+<p>    Total foreign buying	   287.83 billion yen</p>
+<p>    Total foreign selling	  357.62 billion yen</p>
+<p>    Net selling			 69.78 billion yen</p>
+<p>    Previous week net selling	1.85 billion yen</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

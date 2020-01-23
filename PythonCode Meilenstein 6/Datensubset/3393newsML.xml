@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3393" id="root" date="1996-08-20" xml:lang="en">
+<title>ARGENTINA: Argentine weekly grain/oilseed export snapshot.</title>
+<headline>Argentine weekly grain/oilseed export snapshot.</headline>
+<dateline>BUENOS AIRES 1996-08-12</dateline>
+<text>
+<p>Agriculture Secretariat weekly estimate, to August 14, of shipments (1995/96 except for sunseed), export commitments (1995/96) and purchases by exporters in indicated crop years (thousands of tonnes).</p>
+<p> ...........shipments..commits..crop year...exporter purchases</p>
+<p> .............................................1995/96..1996/97</p>
+<p> Bread wheat  3,473.3  4,100.0   Dec-Nov	4,378.8    381.0</p>
+<p> Maize	  5,319.7  5,700.0   Mar-Feb	5,772.9    108.4</p>
+<p> Sorghum	  574.0    650.0   Mar-Feb	  607.4	4.4</p>
+<p> Soybeans     1,633.1  2,100.0   Apr-Mar	2,098.8     59.6</p>
+<p> Sunseeds	 534.3    600.0   Jan-Dec	  566.7	5.7</p>
+<p>-- Buenos Aires Newsroom +541-318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

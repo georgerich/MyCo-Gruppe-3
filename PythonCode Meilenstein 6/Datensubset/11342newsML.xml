@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11342" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Clinton acts to mitigate new welfare reform law.</title>
+<headline>Clinton acts to mitigate new welfare reform law.</headline>
+<byline>Susan Cornwell</byline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>President Bill Clinton acted on Friday to mitigate the harsher effects and political controversy over a welfare reform law he signed one day earlier by ensuring legal immigrants do not lose food aid.</p>
+<p>The White House said Clinton had instructed Agriculture Secretary Dan Glickman to make sure that legal immigrants and their children who are eligible for food stamps do not have them cut off by mistake during the new law's implementation.</p>
+<p>At the same time, Clinton also directed Attorney General Janet Reno and other agency heads to reduce bureaucratic delays so that legal immigrants who are eligible to become citizens can do so as quickly as possible.</p>
+<p>White House spokesman Mike McCurry said Clinton thought the welfare reform bill, which ends direct federal aid to poor children, &quot;contains provisions that will cause unfair and unwarranted harm to many families.</p>
+<p>&quot;That is especially true of legal immigrant families, who have followed the rules, worked, and paid taxes, and who have suffered a calamity that has forced them to seek assistance,&quot; McCurry said.</p>
+<p>&quot;The president has vowed to repair these provisions of the bill. In the meantime, however, he is determined to ensure that they are implemented carefully, and that no individuals not actually covered by these provisions are improperly denied the benefits they and their children need,&quot; McCurry said.</p>
+<p>Clinton's action just a day after signing the welfare reform bill reflected his ambivalence about the measure passed by the Republican-majority Congress, which Clinton, a Democrat, said was imperfect and marked only the beginning of welfare reform.</p>
+<p>His move may have also been intended to assauge liberal critics of the measure in his own political party just before it opens its presidential nominating convention in Chicago next week.</p>
+<p>Many of the Democratic party's leaders and its core constituencies are vehemently opposed to the new law, saying it leaves the nation's poor children in the lurch, and several top Democrats were noticably absent from Thursday's signing ceremony.</p>
+<p>Under the new law, legal immigrants have to have their eligibility for food stamps checked and &quot;recertified&quot; by states. In the meantime, they should continue to get the aid.</p>
+<p>Under the new law, federal welfare spending will be cut by about $55 billion over six years, mainly by reducing funding for the Food Stamps programme and aid to legal immigrants.</p>
+<p>It also imposes a five-year lifetime limit on receiving welfare and requires recipients to begin working within two years after receiving benefits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

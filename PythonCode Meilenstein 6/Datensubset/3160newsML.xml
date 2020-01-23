@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3160" id="root" date="1996-08-20" xml:lang="en">
+<title>ZAMBIA: Zambian doctors strike for better pay.</title>
+<headline>Zambian doctors strike for better pay.</headline>
+<dateline>LUSAKA 1996-08-20</dateline>
+<text>
+<p>Doctors in three Zambian cities have gone on strike or started go-slows to push for increased pay, paralysing operations in key hospitals, officials said on Tuesday.</p>
+<p>Witnesses said dozens of patients at Lusaka's University Teaching Hospital and the central hospitals in the mining towns of Kitwe and Ndola were left unattended to as the doctors' strike started on Monday.</p>
+<p>They said only a handful of senior doctors were working, and attending to serious cases only.</p>
+<p>The doctors' association said the actions were in response to the government's failure to increase their wages as promised three years ago.</p>
+<p>&quot;With effect from 19 August, 1996, Zambian resident doctors have been forced to go on an indefinite go-slow in a bid to press for reasonable conditions of service for their profession,&quot; the association said in a statement on Tuesday.</p>
+<p>Ministry of health officials said they were not sure what the doctors' grievances were.</p>
+<p>&quot;They have not stated their position to us. They have had closed-door meetings and we know nothing about their discussions,&quot; a ministry official said.</p>
+<p>Doctors have been negotiating with the government since 1993 after a government commission recommended that conditions of their service be improved.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAMBIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUSAKA"/>
+<dc element="dc.creator.location.country.name" value="ZAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

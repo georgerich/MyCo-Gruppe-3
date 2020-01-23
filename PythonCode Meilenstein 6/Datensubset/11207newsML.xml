@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11207" id="root" date="1996-08-23" xml:lang="en">
+<title>VENEZUELA: Venezuela foreign reserves fall to $11.9 bln.</title>
+<headline>Venezuela foreign reserves fall to $11.9 bln.</headline>
+<dateline>CARACAS 1996-08-23</dateline>
+<text>
+<p>Venezuela's total foreign reserves fell $114 million, or 0.9 percent, in the week to August 16 to $11.902 billion, according to new figures released by the central bank Friday.  </p>
+<p>Reserves were down from a revised $12.016 bln on August 9, the bank's latest weekly bulletin of indicators showed.</p>
+<p>But levels were still up $2.2 billion from reserve levels of $9.702 billion on April 19 -- the last working day before exchange levels were lifted on Monday April 22.  </p>
+<p>From the start of the year reserve levels were up $2.179 billion, or 22.4 percent.</p>
+<p>Government officials have said they expect foreign reserves to grow by $1.5 billion over the course of 1996.</p>
+<p>Venezuela's total foreign reserves fell $1.784 billion, or 15.5 percent, in 1995 to end the year at $9.723 billion the figures showed.</p>
+<p>-- Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

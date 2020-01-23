@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3628" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Utah chemical arms destruction to begin Thursday.</title>
+<headline>Utah chemical arms destruction to begin Thursday.</headline>
+<byline>Jim Adams</byline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>The U.S. Defence Department said it would begin destroying chemical weapons on Thursday at its Toole facility in Utah as its first domestic step toward destroying the entire U.S. chemical arsenal by the year 2004.</p>
+<p>It said last week the first weapons to be destroyed at Toole would be M-55 rockets filled with nerve gas.</p>
+<p>&quot;This will start the large-scale destruction of chemical weapons,&quot; Pentagon spokesman Capt. Mike Doubleday said at a regular defence briefing.</p>
+<p>He said an installation on the Johnston Atoll in the Pacific has been destroying the weapons since 1993 but at a low rate. Toole was to be the first of eight locations in the United States that would destroy them.</p>
+<p>The United States pledged not to use chemical weapons and must by law destroy its entire arsenal of 3.6 million chemical weapons by 2004. Toole was holding more than 44 percent of the U.S. stockpile of 30,000 tons of chemical weaponry.</p>
+<p>&quot;We are eliminating an entire class of weapons and we are doing it in a very safe and secure way,&quot; Doubleday said.</p>
+<p>Another defence official said the United States no longer needed chemical weapons to deter potential enemies from using them because it has other weapons to overpower a chemical enemy. He said many of the U.S. chemical weapons were obsolete -- for example, the M-55 rockets to be destroyed first no longer have launchers.</p>
+<p>The U.S. Defence Department said U.S. District Judge Tena Campbell denied in Salt Lake City on Wednesday a preliminary injunction in a lawsuit brought by private groups led by the Kentucky-based Chemical Weapons Working Group.</p>
+<p>It said the judge ruled the groups did not show that the incineration of the weapons would put people around the Toole Chemical Agent Disposal Facility at risk.</p>
+<p>It said she wrote that &quot;for individuals living closest to TOCDF, the risks resulting from continued storage are 100 times greater than the risks resulting from disposal operations.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5239" id="root" date="1996-08-21" xml:lang="en">
+<title>FINLAND: RAISIO SAYS CAN CUT DAIRY CATTLE FEED COST.</title>
+<headline>RAISIO SAYS CAN CUT DAIRY CATTLE FEED COST.</headline>
+<dateline>HELSINKI 1996-08-21</dateline>
+<text>
+<p>Finnish chemicals and foodstuffs group Raision Tehtaat Oy Ab said in a statement on Wednesday it had found a way to cut the cost of feeding dairy cattle which could be commercially viable in the next few years.</p>
+<p>The finding was made in cooperation with the Finnnish agricultural research centre and a patent had been sought.</p>
+<p>&quot;The research team ... found that six grammes of histidine had the same effect on production as approximately one kilogramme of protein feed,&quot; it said.</p>
+<p>&quot;The discovery can, to some degree, be directly applied to current products using raw material optimisation methods. New product applications are expected to become commercially exploitable over the next few years,&quot; Raisio said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

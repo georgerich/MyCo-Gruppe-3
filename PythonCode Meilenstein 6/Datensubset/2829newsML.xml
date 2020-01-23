@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2829" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Jenny Craig sees challenge from drugs.</title>
+<headline>Jenny Craig sees challenge from drugs.</headline>
+<dateline>DEL MAR, Calif. 1996-08-20</dateline>
+<text>
+<p>Jenny Craig Inc said Tuesday heightened public interest in new weight-loss drugs such as Redux presents a new challenge for the company in the coming fiscal year.</p>
+<p>The weight-loss company said that publicity for these new weight-loss drugs appeared to slow demand during the normally slow summer period. The company noted weekly deposits for July and early August fell 14 percent from the year-ago period.</p>
+<p>However the company said that it expects the effect of these new drugs to be transitory since the U.S. Food and Drug Administration said it approved the Redux drug when used in conjunction with a reduced calorie diet, an excercise program and behaviour education which are all features of the Jenny Craig program.</p>
+<p>The company also said it was buying 38 Jenny Craig centers -- 36 in New York and two in Hawaii.</p>
+<p>Earlier the company posted fourth quarter profits of $7.8 million or $0.36 a share on sales of $104.6 million compared with income of $5.5 million or $0.22 a share on sales of $98.2 million in the year-ago quarter.</p>
+<p>Jenny Craig shares closed 3/4 higher at 17-1/4 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEL MAR, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

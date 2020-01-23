@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10309" id="root" date="1996-08-23" xml:lang="en">
+<title>VENEZUELA: Venezuela to examine if Coke now a monopoly.</title>
+<headline>Venezuela to examine if Coke now a monopoly.</headline>
+<dateline>CARACAS 1996-08-23</dateline>
+<text>
+<p>Venezuela is to examine PepsiCo's charge that Coca-Cola Co holds a monopoly position in the Venezuelan market.</p>
+<p>Venezuela's Superintendency to Protect and Promote Free Competition (Procompetencia) said in a press release it had &quot;opened investigations...as to whether anti-competitive practices were taking place&quot;.</p>
+<p>It also ordered Coke to abstain from tampering with Pepsi inventory held in Coke bottling plants. The 18 Coke bottling plants, which belonged to Pepsi only one week ago, still hold Pepsi stock worth over two billion bolivars ($4 million).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

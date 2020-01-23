@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5421" id="root" date="1996-08-21" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH REFEREES THREATEN STRIKE OVER PAY.</title>
+<headline>SOCCER-DUTCH REFEREES THREATEN STRIKE OVER PAY.</headline>
+<dateline>ROTTERDAM 1996-08-21</dateline>
+<text>
+<p>Dutch soccer referees are threatening to go on strike in September if the Dutch Soccer Union (KNVB) does not offer improved terms, the Dutch news agency ANP said on Wednesday.</p>
+<p>The referees want increased match fees, pension rights and payments similar to those received by players when their photographs are published.</p>
+<p>The KNVB has offered to increase the fee for top referees to 1,750 guilders ($1,050) per match immediately and 2,000 guilders ($1,200) in three years time from 1,000 ($600) now. The referees are demanding 2,000 guilders immediately.</p>
+<p>The referees union has advised their members to go on strike during a league round in September, with the date to be set five days ahead of a strike.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROTTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

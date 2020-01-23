@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3659" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: USDA meteorologist says normal frost threat small.</title>
+<headline>USDA meteorologist says normal frost threat small.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>U.S. Agriculture Department chief meteorologist Al Peterlin said given current crop conditions, a very small percentage of the U.S. crop would be vulnerable to damage from a normal frost.</p>
+<p>&quot;I don't see it being the overpowering consideration at this particular moment,&quot; Peterlin told USDA radio.</p>
+<p>&quot;If you look in Iowa, based on current conditions if we had a normal frost there's really just about five percent of the crop that would be subject to some kind of damage,&quot; he said.  </p>
+<p>Peterlin said up to 10 percent of the crop in Indiana would be vulnerable to some kind of damage with a normal frost date and estimated up to 10 to 15 percent of the crop in Ohio would be at risk.</p>
+<p>As for concerns about an early frost, Peterlin said a cold season is not a good predictor of an early frost and said in fact it may be the opposite.</p>
+<p>&quot;We could have a cool season because we have extensive cloud cover which ends up moderating that extreme dip in temperatures. What I would look at is the severity of the cool air outbreaks as they start coming out of Canada,&quot; he said.</p>
+<p>&quot;This is still August, we have, even with cool temperatures, an awful lot of 80 plus degree days ahead of us, a chance to get this crop growing,&quot; the USDA meteorologist said.</p>
+<p>&quot;There is no question it's a problem. We have some vulnerability and we want to continue to watch it and be cognizent of what's going on but until I can actually forecast a frost date I'm just not yet ready to panic,&quot; Peterlin said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

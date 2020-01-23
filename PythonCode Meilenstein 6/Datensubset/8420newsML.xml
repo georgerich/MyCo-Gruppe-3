@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8420" id="root" date="1996-08-22" xml:lang="en">
+<title>BELGIUM: Rain raises Belgian sugarbeet root weight.</title>
+<headline>Rain raises Belgian sugarbeet root weight.</headline>
+<dateline>BRUSSELS 1996-08-22</dateline>
+<text>
+<p>Heavy recent rain caused a sharp drop in sugar content but raised beet root weight, an official of Belgium's Royal Institute for Improvement of Sugarbeet said.</p>
+<p>The institute's second beet test on Thursday showed sugar content of 14.04 percent, compared with 15.94 percent in the first test on August 8 and 15.93 percent in the second test a year-ago.</p>
+<p>Average root weight was 46.18 tonnes per hectare, against 30.97 tonnes in the first test and 40.29 tonnes a year ago.</p>
+<p>&quot;Further rain will improve yields,&quot; the official said, adding that the harvest was expected to start early October.</p>
+<p>Average sugar yield in the second test was marginally higher at 6.48 tonnes per hectare, against 6.42 tonnes a year-ago but below the 10-year average of 6.72 tonnes.</p>
+<p>The third and final Belgian beet test will be held on September 2 with results released on September 5.</p>
+<p>-Peter Blackburn Brussels Bureau +322 287 6830</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

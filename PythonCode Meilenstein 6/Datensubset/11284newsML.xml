@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11284" id="root" date="1996-08-23" xml:lang="en">
+<title>MALAYSIA: Malaysia DCB H1 net profit up 21 pct.</title>
+<headline>Malaysia DCB H1 net profit up 21 pct.</headline>
+<dateline>KUALA LUMPUR 1996-08-23</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>		    (In million ringgit unless stated)</p>
+<p>    Net profit		156.65     vs	 129.62</p>
+<p>    Shr	   (cents)    20.0	vs	  16.6</p>
+<p>    Total income	  1,057.78     vs	 818.69</p>
+<p>    Pre-tax profit	  259.77     vs	 227.24</p>
+<p>    Minorities	less   14.41     vs  less  16.66</p>
+<p>NOTE - The full name of the company is DCB Holdings Bhd.</p>
+<p>- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

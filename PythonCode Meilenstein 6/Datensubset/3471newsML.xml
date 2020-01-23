@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3471" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: Australian police more hopeful for missing Irish.</title>
+<headline>Australian police more hopeful for missing Irish.</headline>
+<dateline>SYDNEY 1996-08-20</dateline>
+<text>
+<p>Australian police in the state of Queensland said on Tuesday initial concerns for the safety of three Irish backpackers missing in the state's tropical north had eased slightly.</p>
+<p>Sandra Mahon, Stuart Gamble and Neil Hewson, all aged 25, were last seen in Cairns on the state's far north coast on Saturday, police said.</p>
+<p>Police said they were initially concerned for the tourists' safety as Mahon was in a &quot;distressed and upset state&quot; when she contacted her father in Ireland last Saturday.  </p>
+<p>&quot;Initially, the young girl rang her father on Saturday calmly, but later telephoned back and said she had been attacked and then the telephone went dead,&quot; a police spokeswoman in Cairns told Reuters.</p>
+<p>However police late on Tuesday said they had since received some telephone calls that the three may have been inquiring about work north of Cairns.</p>
+<p>&quot;We have not come up with anything positive yet, but our initial fears have eased,&quot; said a police officer in Cairns.</p>
+<p>&quot;We will have more information on Wednesday.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

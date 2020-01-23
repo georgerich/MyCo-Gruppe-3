@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9534" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Dole closes gap on Clinton in new poll.</title>
+<headline>Dole closes gap on Clinton in new poll.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Bob Dole has cut President Clinton's lead in half since his choice of Jack Kemp as running mate and the end of the Republican convention last week, according to a new NBC/Wall Street Journal poll released on Thursday.</p>
+<p>The survey, which was conducted Aug. 20-21 and has a margin of error of plus or minus 3.5 percentage points, showed Clinton leading Dole by 48 percent to 38 percent, with Reform Party candidate Ross Perot at eight percent.</p>
+<p>Two weeks earlier, an NBC/WSJ poll gave Clinton a 20-point lead over his Republican opponent.</p>
+<p>The new poll also showed that voters were fairly evenly divided on which candidate would do a better job dealing with the economy, 41 percent choosing Clinton and 37 percent saying Dole.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

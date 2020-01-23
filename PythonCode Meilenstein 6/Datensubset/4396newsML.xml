@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4396" id="root" date="1996-08-20" xml:lang="en">
+<title>BELGIUM: Belgian three-month T-bill yield falls at auction.</title>
+<headline>Belgian three-month T-bill yield falls at auction.</headline>
+<dateline>BRUSSELS 1996-08-20</dateline>
+<text>
+<p>Results from the Belgian Treasury:</p>
+<p> SALE AMOUNT  DAYS   TOP ACCEPTED RATE  FROM LAST WEEK'S</p>
+<p> /		3-mo   3.29 pct	     3.32 pct</p>
+<p> NEW CASH		AVERAGE RATE	 FROM LAST WEEK'S</p>
+<p> 60.508 bln bfr	3.29 pct	     3.31 pct</p>
+<p> BID AMT		 TAIL		   NON-COMPETITIVE RESULTS</p>
+<p> 122.018 bln bfr     0			---</p>
+<p>PCT ALLOTTED AT TOP RATE</p>
+<p>77.9534 pct</p>
+<p>NOTE - Value date 22/08, maturity date 21/11.</p>
+<p> SALE AMOUNT  DAYS   TOP ACCEPTED RATE  FROM LAST WEEK'S</p>
+<p> /		6-mo   3.36 pct	     3.42 pct</p>
+<p> NEW CASH		AVERAGE RATE	 FROM LAST WEEK'S</p>
+<p> 16.688 bln bfr	3.36 pct	     3.41 pct</p>
+<p> BID AMT		 TAIL		   NON-COMPETITIVE RESULTS</p>
+<p> 40.088 bln bfr	0			---</p>
+<p>PCT ALLOTTED AT TOP RATE</p>
+<p>100 pct</p>
+<p>NOTE - Value date 22/08, maturity date 06/02/97.</p>
+<p> SALE AMOUNT  DAYS   TOP ACCEPTED RATE  FROM LAST WEEK'S</p>
+<p> /	     12-mo   3.55 pct	     3.60 pct</p>
+<p> NEW CASH		AVERAGE RATE	 FROM LAST WEEK'S</p>
+<p> 8.305 bln bfr	 3.54 pct	     3.60 pct</p>
+<p> BID AMT		 TAIL		   NON-COMPETITIVE RESULTS</p>
+<p> 33.900 bln bfr	0.01		   ---</p>
+<p>PCT ALLOTTED AT TOP RATE</p>
+<p>18.5819 pct</p>
+<p>NOTE - Value date 22/08, maturity date 14/08/97.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

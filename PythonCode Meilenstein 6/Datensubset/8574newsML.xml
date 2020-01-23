@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8574" id="root" date="1996-08-22" xml:lang="en">
+<title>MALAYSIA: BADMINTON-MALAYSIAN OPEN RESULTS.</title>
+<headline>BADMINTON-MALAYSIAN OPEN RESULTS.</headline>
+<dateline>KUALA LUMPUR 1996-08-22</dateline>
+<text>
+<p>Results in the Malaysian</p>
+<p>Open badminton tournament on Thursday (prefix number denotes</p>
+<p>seeding):</p>
+<p>Men's singles, third round</p>
+<p>9/16-Luo Yigang (China) beat Hwang Sun-ho (South Korea) 15-3</p>
+<p>15-7</p>
+<p>Jason Wong (Malaysia) beat Abdul Samad Ismail (Malaysia) 16-18</p>
+<p>15-2 17-14</p>
+<p>P. Kantharoopan (Malaysia) beat 3/4-Jeroen Van Dijk</p>
+<p>(Netherlands) 15-11 18-14</p>
+<p>Wijaya Indra (Indonesia) beat 5/8-Pang Chen (Malaysia) 15-6</p>
+<p>6-15 15-7</p>
+<p>3/4-Hu Zhilan (China) beat Nunung Subandoro (Indonesia) 5-15</p>
+<p>18-15 15-6</p>
+<p>9/16-Hermawan Susanto (Indonesia) beat 1-Fung Permadi (Taiwan)</p>
+<p>15-8 15-12</p>
+<p>Women's singles 2nd round</p>
+<p>1-Wang Chen (China) beat Cindana (Indonesia) 11-3 1ama (Japan) beat Margit Borg (Sweden) 11-6 11-6</p>
+<p>Sun Jian (China) beat Marina Andrievskaqya (Sweden) 11-8 11-2</p>
+<p>5/8-Meluawati (Indonesia) beat Chan Chia Fong (Malaysia) 11-6</p>
+<p>11-1</p>
+<p>Gong Zhichao (China) beat Liu Lufung (China) 6-11 11-7 11-3</p>
+<p>Zeng Yaqiong (China) beat Li Feng (New Zealand) 11-9 11-6</p>
+<p>5/8-Christine Magnusson (Sweden) beat Ishwari Boopathy</p>
+<p>(Malaysia) 11-1 10-12 11-4</p>
+<p>2-Zhang Ning (China) beat Olivia (Indonesia) 11-8 11-6</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

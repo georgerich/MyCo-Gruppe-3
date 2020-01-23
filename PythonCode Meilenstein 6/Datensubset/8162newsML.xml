@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8162" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Pentagon said chemical weapons in Gulf war - Times.</title>
+<headline>Pentagon said chemical weapons in Gulf war - Times.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>A U.S. Defence Department study says American troops might have been exposed to chemical weapons at the start of the 1991 Gulf War, The New York Times reported on Thursday.</p>
+<p>The Pentagon report is seen as a likely boost for thousands of ailing veterans who claim they were affected by chemical weapons during the conflict.</p>
+<p>The study said chemical weapons were detected up to seven times in the first week of the war near staging areas in northern Saudi Arabia, where tens of thousands of U.S. troops were housed.</p>
+<p>The Defence Department said it still had no conclusive evidence that American soldiers were ever exposed to Iraqi chemical weapons.</p>
+<p>However, the report said the Pentagon was &quot;further exploring the plausibility&quot; that small amounts of chemical agents passed over American troops after U.S. bombers destroyed Iraqi arms depots and factories north of staging areas near the Saudi city of Hafr al-Batin.</p>
+<p>The report pulls together information from intelligence reports and other government studies, some of them made public earlier by the Defence Department.</p>
+<p>The Defence Department until recently had insisted it had no evidence that Americans were exposed to chemical weapons.</p>
+<p>It was not clear why the Defence Department officials had not compiled the information before in a public report, given the intense interest of thousands of ill Gulf War veterans and the fact that the information has existed in Pentagon records for years, the newspaper said.</p>
+<p>Scientists and health officials in the Defence Department acknowledge that little is known about the long-term health effects of exposure to trace amounts of chemical weapons, like those that were detected.</p>
+<p>More than 60,000 Gulf War veterans have asked for special government health screenings to determine if they suffer from ailments related to the war.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

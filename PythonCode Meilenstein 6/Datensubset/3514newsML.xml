@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3514" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: BHP says in Mali gold mine sale talks.</title>
+<headline>BHP says in Mali gold mine sale talks.</headline>
+<dateline>MELBOURNE 1996-08-20</dateline>
+<text>
+<p>Australian resources giant, The Broken Hill Pty Co Ltd, said on Tuesday it was discussing with several companies the sale of its majority-owned Syama gold mine in the West African nation of Mali.</p>
+<p>&quot;There have been some discussions about the sale of (the mine) and they are continuing,&quot; BHP spokesman Tony Wells told Reuters.</p>
+<p>Wells declined to comment on the value or likely price of the mine or when it was likely to conclude the sale.</p>
+<p>Wells said South African miner Randgold &amp; Exploration Co Ltd had expressed an interest in Syama.  </p>
+<p>&quot;It is one of the companies we have been holding discussions with,&quot; he said.</p>
+<p>Syama, currently Mali's only commercial mine, has annual production of 180,000 ounces a year.</p>
+<p>BHP shares closed on Tuesday down four cents to A$17.50.</p>
+<p>-- Melbourne bureau 61-3 9286-1435</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3517" id="root" date="1996-08-20" xml:lang="en">
+<title>HONG KONG: PRESS DIGEST - HK Newspaper headlines - Aug 20.</title>
+<headline>PRESS DIGEST - HK Newspaper headlines - Aug 20.</headline>
+<text>
+<p>-- TOP STORY - Hong Kong's unemployment rate fell below three percent for the first time in 14 months.</p>
+<p>-- MING PAO DAILY NEWS -- Half of the sushi and sashimi samples tested by the Health Department in the past six months carried higher-than-standard bacteria levels.</p>
+<p>-- TA KUNG PAO -- The Preparatory Committee has handed out more than 10,000 nomination forms to the 400-strong Selection Committee responsible for choosing Hong Kong's post-handover leaders.</p>
+<p>-- SOUTH CHINA MORNING POST - China and Taiwan both fired shots in their diplomatic battle yesterday, with Beijing resuming relations with Niger and Taiwan sending its Vice-President to an unspecified European country with which it had no diplomatic ties.</p>
+<p>-- ORIENTAL DAILY NEWS -- An 80-year-old Hong Kong-based former Kuomingtang soldier wrongfully jailed for 10 years in China was jailed again recnntly for allegedly carrying out espionage activities when visiting relatives in Henan province.</p>
+<p>-- MING PAO DAILY NEWS -- Yaohan International Holdings plans to privatise its 42-percent held Yaohan Hong Kong Corp following two years of losses</p>
+<p>-- HONG KONG ECONOMIC JOURNAL -- Antony Leung, head of Citibank's Asia Pacific private banking operations, had resigned to join rival Chase Manhattan Bank.</p>
+<p>-- HONGKONG STANDARD --Cheung Kong Infrastructure Holdings announced its first set of interim results, reporting an 43.89 per cent growth to $347.2 million in profit attributable to shareholders for the six months to 30 June.</p>
+<p>-- SOUTH CHINA MORNING POST -- China's rural credit co-operatives would be merged into 2,000 co-operative banks under a People's Bank of China scheme to standardise lending activity to the agricultural sector.</p>
+<p>-- HONG KONG NEWSROOM (852) 2843-6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

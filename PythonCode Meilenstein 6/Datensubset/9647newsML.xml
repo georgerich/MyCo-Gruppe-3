@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9647" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: FCOJ futures end up slightly but trade thin.</title>
+<headline>FCOJ futures end up slightly but trade thin.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>FCOJ futures inched higher on light local buying and a dearth of selling interest, but volume was estimated at only 2,750 lots.</p>
+<p>Benchmark September settled up 0.85 cent at 121.10 cents a lb after trading from 121.50 to 119.25 cents. November closed 0.40 firmer at 115.65, with the rest 0.25 lower to up 0.70.</p>
+<p>&quot;The specs and the funds are still buying and the market is holding support levels (119.00 for September),&quot; said Keven Marshburn, an analyst with Fimat Futures.</p>
+<p>He said if the weekly Florida movement number, released after the market closes Thursday, and supply and demand data remain strong, prices will maintain current levels.</p>
+<p>He pegged resistance for September delivery around 124.00</p>
+<p>USDA will release its next estimate for the crop in October.</p>
+<p>--Suzanne Rostler, New York Commodities Desk 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

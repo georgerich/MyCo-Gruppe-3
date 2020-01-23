@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2412" id="root" date="1996-08-20" xml:lang="en">
+<title>CZECH REPUBLIC: Czech Kavalier H1 gross profit rises.</title>
+<headline>Czech Kavalier H1 gross profit rises.</headline>
+<dateline>PRAGUE 1996-08-20</dateline>
+<text>
+<p>Results for six month period ending June 30, 1996 (in millions of crowns):</p>
+<p> Pre-tax profit	    91.66	  vs	 72.61</p>
+<p> Operating Profit	  99.55	  vs	114.45</p>
+<p>Sales of own goods</p>
+<p> and services	     774.90	  vs	684.80</p>
+<p> Total assets	   1,849.72	  vs    1,646.56</p>
+<p>Note. Full company name is Sklarny Kavalier a.s.. The company is a glass maker.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

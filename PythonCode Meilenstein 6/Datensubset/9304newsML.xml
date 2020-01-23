@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9304" id="root" date="1996-08-22" xml:lang="en">
+<title>ECUADOR: Ecuador cocoa and cocoa products export prices.</title>
+<headline>Ecuador cocoa and cocoa products export prices.</headline>
+<dateline>QUITO 1996-08-22</dateline>
+<text>
+<p>Here is a list of the minimum FOB reference prices for exporting 100-lb (45.36-kilo) sacks of Ecuadorean cocoa and cocoa products, effective Aug 22-28:</p>
+<p>   Arriba Superior Epoca......................$ 58.41</p>
+<p>   Arriba Superior Summer.....................$ 62.21</p>
+<p>   Arriba Superior Summer Select..............$ 63.96</p>
+<p>   Arriba Superior Summer Plantation Select...$ 67.17</p>
+<p>   Cocoa butter...............................$157.44</p>
+<p>   Residual butter............................$118.08</p>
+<p>   Unsweeten or bitter cocoa,</p>
+<p>   Cocoa liquor or paste......................$ 82.89</p>
+<p>   Cocoa cake.................................$ 21.63</p>
+<p>   Residual natural cake......................$  2.16</p>
+<p>   Cocoa powder...............................$ 23.97</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

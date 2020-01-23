@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7628" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: News International Plc year pretax shrinks.</title>
+<headline>News International Plc year pretax shrinks.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Full year to June 30</p>
+<p>			   (million stg unless stated)</p>
+<p> Shr (pence)		28.16		  vs 53.69</p>
+<p> Dividend (pence)	 1.68		   vs 3.24</p>
+<p> Pretax		     415.9		  vs 778.7</p>
+<p> Turnover		   1,0007.1	     vs 841.3</p>
+<p>Note - There was a 410.12 million stg gain on disposals in 1995.</p>
+<p>Note - News International is majority owned by Australia's News Corp Ltd. Holders of News International special dividend shares will rank for the final dividend declared by News Corp under a scheme expected to become effective on September 6.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

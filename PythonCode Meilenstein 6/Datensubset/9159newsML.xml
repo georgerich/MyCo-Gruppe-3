@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9159" id="root" date="1996-08-22" xml:lang="en">
+<title>ROMANIA: Bucharest bourse changes trading hours.</title>
+<headline>Bucharest bourse changes trading hours.</headline>
+<dateline>BUCHAREST 1996-08-22</dateline>
+<text>
+<p>The Bucharest bourse said on Thursday it was cutting its pre-market pricing session to boost continuous trading time by 90 minutes from next Tuesday.</p>
+<p>Brokers, welcoming the move, said it was part of an effort to strengthen the fledgling exchange which has suffered from low volumes recently.</p>
+<p>A bourse statement said a previous two-hour session of continuous trading would be expanded to three and a half hours with pricing taking only 30 minutes instead of two hours.</p>
+<p>Trading in the exchange's 13 stocks would continue to open at 0930 local/0630 GMT twice a week, on Tuesdays and Thursdays.</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

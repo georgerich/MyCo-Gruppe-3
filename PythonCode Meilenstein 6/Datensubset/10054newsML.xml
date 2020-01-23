@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10054" id="root" date="1996-08-22" xml:lang="en">
+<title>SOUTH KOREA: Seoul stocks end lower despite market reform plan.</title>
+<headline>Seoul stocks end lower despite market reform plan.</headline>
+<dateline>SEOUL 1996-08-22</dateline>
+<text>
+<p>Stocks slipped on Thursday on gloomy economic future and rising interest rates despite announcement of a securities market reform plan, brokers said.</p>
+<p>&quot;The current slide looks quite stubborn. Only stronger steps, such as an expansion of the foreign stock ownership, can stop the market from falling further,&quot; said Lee Ji-yol of Daishin Securities. The composite stock index closed 9.49 points lower at a provisional 779.63, the lowest since November 10, 1993 when it closed at 777.89. Brokers said the securities market reform plan, including allowance of margin trading in the second-tier stocks, lacked incentives for fund inflows.  </p>
+<p>Volume was thin with only 16.83 million shares changing hands, compared with 17.22 million on Wednesday.</p>
+<p>Losers outpaced gainers 485 to 308 with 155 unchanged.</p>
+<p>The finance ministry announced on Thursday a liberalisation programme to streamline the securities industry, including expansion of the daily price fluctuation limit.</p>
+<p>High interest rates ahead of the Korean Thanksgiving holidays further dragged down stock prices.</p>
+<p>The yield on the three-year corporate bond hovered at a year high of 12.58 percent on Thursday, The overnight call rates moved between 16.00 percent and 16.50 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

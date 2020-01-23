@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10117" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Hong Kong sees tourism up 10 pct in handover year.</title>
+<headline>Hong Kong sees tourism up 10 pct in handover year.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Hong Kong can expect tourist numbers to swell by at least 10 percent in 1997 as people flock to witness the historic transfer of sovereignty to China, Tourist Association chief Lo Yuk-sui said on Thursday.</p>
+<p>He told the government radio station that thousands of visitors would pour in daily in June and July.</p>
+<p>Hong Kong will revert to China at midnight on June 30, ending a century and a half of colonial rule.</p>
+<p>Lo said Hong Kong would have 12 million visitors in 1997, a rise of 10 percent from this year, and hotel occupancy would reach 90 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

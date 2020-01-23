@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4388" id="root" date="1996-08-20" xml:lang="en">
+<title>SWEDEN: Trelleborg says sees weaker H2 in '96.</title>
+<headline>Trelleborg says sees weaker H2 in '96.</headline>
+<dateline>STOCKHOLM 1996-08-20</dateline>
+<text>
+<p>Swedish mining, metals and engineering grouip Trelleborg said on Tuesday it expected profitability to fall in the second half of the year if currency exchange rates and metals prices remained at current levels.  </p>
+<p>The mining and metals unit reported virtually unchanged sales for the period at 4.28 billion crowns, but operating profits dipped to 296 million crowns from 317 million, a fall Trelleborg said was due to the weaker economy.</p>
+<p>However, hedging had rendered the business area immune to disadvantageous moves in currencies and metals prices over the period, it said.</p>
+<p>The operating profit of Trelleborg's distribution division, the second largest in the group, was more than halved to 141 million crowns.</p>
+<p>Around half of the slump was attributable to inventory losses as metals prices fell, but the unit also suffered from falling volumes and the effect of the crown appreciation on the reported sales of overseas units.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

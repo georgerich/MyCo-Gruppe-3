@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10735" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Midwestern U.S. spot power steady on mild weather.</title>
+<headline>Midwestern U.S. spot power steady on mild weather.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Spot electricity prices in the Midwest were steady Friday, lulled by forecasts of mild weather through Monday, market sources said.</p>
+<p>&quot;It's really mild,&quot; said one local utility trader.</p>
+<p>Weekend power prices were almost uniform among the Midwest reliability districts because of the unseasonally cool weather.</p>
+<p>&quot;There's not a lot of buyers out there. People are not biting,&quot; a Midwest-based marketer said.</p>
+<p>In East Central Area Reliability Coordination Agreement (ECAR), non-firm, peak electricity for weekend delivery was quoted at $17.00 per megawatt hour (MWh) area.</p>
+<p>Non-firm, off-peak ECAR power for weekend delivery was discussed around $10.00-$11.00. For Monday's peak hours, ECAR non-firm electricity was assessed at about $18.00.</p>
+<p>In the Mid-American Interpool Network (MAIN), weekend and Monday power prices were similar to those for ECAR.</p>
+<p>In the Mid-Continent Area Power Pool (MAPP), non-firm, peak electricity for the weekend was also quoted in the $17.00 range. In the northern MAPP region, weekend power with similar delivery conditions were talked in the $15.00 area.</p>
+<p>Non-firm, peak MAPP prices for Monday were quoted at $17.00-$18.00.</p>
+<p>In the Southwest Power Pool (SPP), non-firm, peak electricity for the weekend was assessed at $16.00-$17.00 per MWH and for Monday $18.00-$18.50.</p>
+<p>The ECAR district includes Ohio, Indiana, Kentucky, lower Michigan, western Pennsylvania, northern Tennessee and northwestern Virginia.</p>
+<p>The MAPP region is made up of Nebraska, Minnesota, the Dakotas, eastern Montana and western Wisconsin, and the MAIN district includes Illinois, northeastern Missouri, eastern Wisconsin and the Michigan pennisula.</p>
+<p>The SPP region includes Kansas, Oklahoma, Louisiana, Arkansas, parts of eastern and northern Texas, southeastern New Mexico, southwestern Missouri and western Mississippi.</p>
+<p>-- R. Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

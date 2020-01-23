@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11379" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: NY physical coffee - prompt business slows.</title>
+<headline>NY physical coffee - prompt business slows.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>New York physical coffee differentials remained steady in sluggish trade this week, with few prompt sales seen as roasters kept to the sidelines, dealers said.</p>
+<p>&quot;Business has been very slow the last two weeks,&quot; one dealer said. &quot;Roasters have been waiting for the September position to go into first notice day.&quot;</p>
+<p>The CSCE spot September contract, which entered notice period on Thursday, surged to its highest level in nearly a year Friday as concern grew about a shortage of coffee available for delivery against September.  </p>
+<p>Traders said the decline in U.S. certified coffee stocks this week underscored the shortage of nearby supplies. On Monday, the CSCE reported inventories fell 6,259 60-kg bags in the week ended August 16, to 34,516 bags, their lowest levels in 10 years.</p>
+<p>&quot;It is probably as tight as it has been and will probably remain tight until November,&quot; a dealer said.</p>
+<p>With the Brazil's harvest now underway, Brazillian beans continued to fill in for other coffees. But traders said that despite their availability, Brazilian differentials held firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

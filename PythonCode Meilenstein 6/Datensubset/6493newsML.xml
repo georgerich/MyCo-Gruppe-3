@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6493" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: US science group puts supercomputer order on hold.</title>
+<headline>US science group puts supercomputer order on hold.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The National Science Foundation (NSF) said it was withholding approval to buy four Japanese-made supercomputers until dumping allegations are resolved.</p>
+<p>U.S. supercomputer maker Cray Research filed a petition July 29 with the Commerce Department alleging Japan's NEC Corp was selling supercomputers on the U.S. market at less than fair prices.</p>
+<p>&quot;In my view, it would be inappropriate for NSF to approve this procurement until the dumping issue has been resolved,&quot; NSF director Neal Lane said in a statement dated Aug 20 but received here Wednesday.  </p>
+<p>The National Center for Atmospheric Research (NCAR) tentatively agreed on May 20 to buy four NEC supercomputer systems. The government-funded NSF is the primary funding agency.</p>
+<p>Lane said he was acutely aware that the NCAR needed state-of-the-art equipment to maintain world leadership in climate modeling research. &quot;I feel, however that acting now on this procurement would be inconsistent with the responsible stewardship of taxpayer monies,&quot; he said.</p>
+<p>Both the Commerce Department and the U.S. International Trade Commission have said they will investigate the dumping charges which NEC has strenuously denied.</p>
+<p>The ITC will make a preliminary determination by September 12 on whether or not U.S. industry is being injured.</p>
+<p>If the ITC's preliminary decision is affirmative, the Commerce Department has said it will continue its investigation and issue it own preliminary finding no later than January 6, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

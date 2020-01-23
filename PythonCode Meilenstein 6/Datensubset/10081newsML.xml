@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10081" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Marubeni, Indian Oil forge broad business ties.</title>
+<headline>Marubeni, Indian Oil forge broad business ties.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Marubeni Corp and state-run Indian Oil Corp (IOC) signed an agreement on Thursday to cooperate in a broad range of business areas related to energy, the Japanese trading house said in a news release.  </p>
+<p>Marubeni said it was the first time the IOC had forged such ties with a foreign company outside the oil refining and distribution industry.</p>
+<p>A Marubeni spokesman said talks were already being held on the possible construction of a 200- to 240-megawatt thermal power plant in the state of Haryana in northern India.</p>
+<p>The plant, to be built next to an IOC refinery, would be powered by the by-products from the refinery.</p>
+<p>No agreement has been signed, and the spokesman could not provide a cost estimate for the project.  </p>
+<p>Marubeni's news release said the two firms agreed to cooperate in a number of areas including the possible development of oil and gas fields in India as well as in a third country.</p>
+<p>The two firms would also study the construction and operation of power plants and the construction of pipelines and export facilities for the transport of crude oil and oil products.</p>
+<p>The Japanese trading company said the two firms would also cooperate in petrochemical and oil refining projects.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9373" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Nippon Steel says no comment on earnings report.</title>
+<headline>Nippon Steel says no comment on earnings report.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Nippon Steel Corp declined to comment on Friday on a newspaper report that the firm's parent current profit for the six months to September 30, 1996, would be about 25 billion yen, down 15 percent from its actual half-year current profit a year ago.</p>
+<p>The business daily Nihon Keizai Shimbun said it expected a fall in Nippon Steel's six-month profit because of delays in inventory adjustment.</p>
+<p>The paper said Nippon Steel earlier this year forecast a 1996/97 half-year current profit of 35 billion yen.  </p>
+<p>But Nippon Steel and other Japanese steelmakers said earlier this week that their half-year parent current profits might be smaller than the forecasts they announced in May, due to delays in inventory adjustment.</p>
+<p>Kawasaki Steel Corp said its parent current profit for the first half of 1996/97 would be smaller than its May forecast of 10 billion yen, but did not provide a specific revised figure. Kawasaki posted a parent current profit of 6.20 billion yen in the six months to September 30, 1995.</p>
+<p>Spokesmen for several steelmakers said the industry's situation has been more difficult than they formerly thought.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

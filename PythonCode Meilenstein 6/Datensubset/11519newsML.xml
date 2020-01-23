@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11519" id="root" date="1996-08-23" xml:lang="en">
+<title>INDIA: WSC-India Rice Weather, Aug 23.</title>
+<headline>WSC-India Rice Weather, Aug 23.</headline>
+<text>
+<p>SUMMARY- Showers 0.25-1.30 inch (6-33 mm) and locally heavier through much of India, 75 percent coverage. Isolated showers 0.20-0.70 inch (5-18 mm) in the north. Highs 82-96F (28-36C).</p>
+<p>CROP IMPACT- Conditions remain favorable for the development of rice in the region.</p>
+<p>FORECAST-</p>
+<p>TODAY...Showers and rain 0.25-1.00 inch (6-25 mm) and locally heavier through most of central and south central India, up to 0.75 inch (19 mm) in 75 percent of north central India, and only isolated up to 0.50 inch (13 mm) elsewhere over India. Highs 82-96F (28-36C).</p>
+<p>TONIGHT...Variable clouds in southern India with showers. Partly cloudy in northern India with a few light showers. Lows 68-76F (20-24C).</p>
+<p>TOMORROW...Little change from today's weather expected.</p>
+<p>OUTLOOK...Numerous to scattered showers and thunderstorms in southern and central India, and isolated showers to the north Sunday through Tuesday. Temperatures near normal.</p>
+<p>Source: Weather Services Corporation</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

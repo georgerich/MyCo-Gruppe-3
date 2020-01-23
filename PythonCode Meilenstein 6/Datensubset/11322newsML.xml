@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11322" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Hong Kong demonstrators stage anti-Japan protest.</title>
+<headline>Hong Kong demonstrators stage anti-Japan protest.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>About 200 demonstrators marched to the Japanese consulate in Hong Kong on Friday demanding that Tokyo compensate victims of the British territory's occupation during World War Two.</p>
+<p>Chanting slogans and brandishing banners and flags, they staged the demonstration ahead of the 51st anniversary of Hong Kong's liberation from Japanese occupation at the war's end.</p>
+<p>&quot;We demand that Japan apologise publicly and make reasonable compensation to Hong Kong victims,&quot; said Ng Yat-hing, spokesman for the organizers, the Reparation Association of Hong Kong.</p>
+<p>The protesters, including children, said they want Japan to compensate women forced into sexual slavery during the war and holders of worthless wartime Japanese scrip and currency.</p>
+<p>Ng did not say how many Hong Kong women were among the estimated 200,000 &quot;comfort women&quot; forced to serve Japanese troops in battlefront brothels.</p>
+<p>The demonstrators waved worthless war bonds, issued in exchange for Hong Kong dollars and the required currency during the occupation.</p>
+<p>&quot;Government of Japan. Shame on you,&quot; read some of the banners.</p>
+<p>&quot;Japan cheated by issuing currency. It has owed us for decades,&quot; the protesters chanted.</p>
+<p>The association will organise a similar protest next Wednesday, when Japan's Foreign Minister Yukihiko Ikeda arrives for a two-day visit.</p>
+<p>The liberation of Hong Kong, a British colony which reverts to Chinese rule next year, officially falls on August 30, when the British Navy sailed into the Victoria Harbour to accept Japan's surrender.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

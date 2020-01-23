@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6299" id="root" date="1996-08-21" xml:lang="en">
+<title>TURKEY: Egyptian plane hits Turkish taxi in landing.</title>
+<headline>Egyptian plane hits Turkish taxi in landing.</headline>
+<dateline>ISTANBUL 1996-08-21</dateline>
+<text>
+<p>More than 100 passengers escaped unhurt from an EgyptAir plane that caught fire after overshooting the runway at Istanbul airport on Wednesday.</p>
+<p>The plane hit a taxi and skipped across the road before sliding into a railway line in a landing the pilot blamed on bad information from the control tower.</p>
+<p>Anatolian news agency said that 20 people were injured in the landing, which took place at around 1700 local time (1400 GMT). Three of them suffered heart attacks.</p>
+<p>It was unclear whether the injured were passengers or bystanders but earlier Anatolian reported that three people of the 120 passengers aboard the plane had been hurt.</p>
+<p>&quot;We are pleased there is no loss of life,&quot; Istanbul police chief Kemal Yazicioglu Yazicioglu said.</p>
+<p>The pilot of the Boeing-707 from Cairo blamed Turkish airport staff for misleading him. The landing took place after a rainstorm.</p>
+<p>&quot;Its not an accident. It's very wet. The brake action is very poor and the tower said it's medium. That's wrong,&quot; the pilot told private Ihlas news agency in English.</p>
+<p>Private ATV television said the taxi driver was one of the injured.</p>
+<p>Reuters television showed the plane, its landing gear broken off and its wings damaged, lying on its belly by the road. The last flames were being put out by firemen as passengers walked away from the plane.</p>
+<p>Dazed-looking passengers climbed out from above the wings and walked towards the airport, stepping under the barbed wire fencing that tripped the plane.</p>
+<p>A similar crash happened two years ago in the same spot, when a Turkish Airlines plane skidded across the road and stopped just short of the railway line after overshooting the runway while trying to land from a domestic flight.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

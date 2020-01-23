@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7052" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Man gets life for cookie theft in Florida.</title>
+<headline>Man gets life for cookie theft in Florida.</headline>
+<dateline>TAMPA, Fla 1996-08-20</dateline>
+<text>
+<p>A man who robbed a Girl Scout and her mother of money and a box of cookies was sentenced on Tuesday to life in prison.</p>
+<p>Circuit Court Judge Bob Mitcham handed Cleveland Johnson, 29, a life sentence as a habitual offender and gave his accomplice, John Pellicer, 20, an 8 1/2 year term.</p>
+<p>The two robbed 8-year-old Lisa Ranon at gunpoint outside a Tampa supermarket on March 22, stealing less than $100 and a box of cookies.</p>
+<p>While Pellicer had only a single misdemeanor on his record, Johnson had a long criminal record and had served prison time before, said assistant state attorney Melvin Luntz said.</p>
+<p>He said that changes in Florida law now mean that inmates must serve at least 80 percent of their sentences.</p>
+<p>&quot;Mr. Johnson will spend most of his life in prison,&quot; Luntz said.</p>
+<p>The two men apologised in court for the robbery, which Mitcham called &quot;despicable.&quot;</p>
+<p>Johnson's lawyer said his client is mentally retarded and needed help.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

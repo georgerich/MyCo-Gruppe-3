@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10645" id="root" date="1996-08-23" xml:lang="en">
+<title>BULGARIA: BULGARIA C-BANK REFINANCING EASES TO 60.73 BLN LVS.</title>
+<headline>BULGARIA C-BANK REFINANCING EASES TO 60.73 BLN LVS.</headline>
+<dateline>SOFIA 1996-08-23</dateline>
+<text>
+<p>Bulgarian National Bank's (BNB)</p>
+<p>refinancing to commercial banks edged down to 60.727 billion</p>
+<p>levs on August 16 from 60.931 billion levs a week before, BNB</p>
+<p>preliminary figures showed.</p>
+<p>The fall was due solely to a decrease of Lombard loans by</p>
+<p>204 million levs to 8,895 million levs after the BNB stopped</p>
+<p>uncollateralised refinancing in August.</p>
+<p> BNB REFINANCING, MLN LEVS	 AUG 16    AUG 9     JULY 26</p>
+<p> Uncollatelarized deposits	 51,323    51,323    51,469</p>
+<p> Lombard loans			  8,895     9,099     9,319</p>
+<p> Discount loans			   402	 402	 407</p>
+<p> Overdraft				  107	 107	 255</p>
+<p> Total loans and deposits	  60,727    60,931    61,450</p>
+<p> BNB treasury portfolio	    76,833    70,319    71,269</p>
+<p>-- Sofia Newsroom, (++359-2) 981 8569</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

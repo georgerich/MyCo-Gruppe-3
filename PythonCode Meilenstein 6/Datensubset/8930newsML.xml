@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8930" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Coca-Cola Enterprises seeks acquisition deal.</title>
+<headline>Coca-Cola Enterprises seeks acquisition deal.</headline>
+<dateline>ATLANTA 1996-08-22</dateline>
+<text>
+<p>Coca-Cola Enterprises said Thursday it has signed letters of intent to acquire Coke West and a related company in a deal worth an estimated $158 million.</p>
+<p>Coca-Cola Enterprises will be acquiring the outstanding shares of Coke West and Grand Forks Coca-Cola Bottling Co, as well as the convertible debt and warrants held by The Coca-Cola Co.</p>
+<p>Coca-Cola Enterprises said it expects to finance the deal by issuing debt. The transaction is expected to be closed by the end of this year's third quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

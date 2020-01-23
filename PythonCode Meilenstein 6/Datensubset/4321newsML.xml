@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4321" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: Holzmann H1 output falls 4.6 percent.</title>
+<headline>Holzmann H1 output falls 4.6 percent.</headline>
+<dateline>FRANKFURT 1996-08-20</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>(in millions of marks unless otherwise stated)</p>
+<p>    Group construction output	    5,900    vs 6,208</p>
+<p>	of which: percentage abroad	37.3 pct vs 32.1 pct</p>
+<p>    Group orders in hand		   15,600   vs 13,857</p>
+<p>    Group incoming orders		  7,800    vs 7,934</p>
+<p>    Group workforce			  51,479   vs 47,471</p>
+<p>    Group fixed asset investments	179	vs 219</p>
+<p>NOTE - Full name of the German building group is Philipp Holzmann AG. Holzmann said it orders in hand totalled 13.5 billion marks at end-1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

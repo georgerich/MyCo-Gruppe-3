@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12190" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Niugini shares surge on bid talk.</title>
+<headline>RTRS-Niugini shares surge on bid talk.</headline>
+<dateline>SYDNEY 1996-08-23</dateline>
+<text>
+<p>Shares in gold miner Niugini Mining Ltd surged 38 cents to A$3.75 early on Friday following confirmation on Thursday from Battle Mountain Gold that it was considering acquiring the 49.6 percent of Niugini it did not already own.  </p>
+<p>Niugini Mining Ltd said on Thursday that Battle Mountain had initiated talks about acquiring the shares in Niugini it does not already own. &quot;Battle Mountain are set to take out the minorities there soon,&quot; said a Sydney broker.</p>
+<p>Niugini holds copper and gold mining interests in Australia, Chile and Papua New Guinea, where it has a 17.2 percent stake in the Lihir gold project.</p>
+<p>By 11.25 a.m. (0025 GMT), Niugini Mining shares were at A$3.65, up 28 cents on turnover of 108,288 shares.</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="PAPNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

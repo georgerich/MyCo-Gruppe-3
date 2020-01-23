@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7531" id="root" date="1996-08-21" xml:lang="en">
+<title>SWITZERLAND: CS Holding shares fall in pre-bourse.</title>
+<headline>CS Holding shares fall in pre-bourse.</headline>
+<dateline>ZURICH 1996-08-21</dateline>
+<text>
+<p>Shares in CS Holding fell in pre-bourse trading after the financial group reported a 20 percent rise in first half profit, less than the rise seen at the other two Swiss banks -- Union Bank of Switzerland (UBS) and Swiss Bank Corp ( SBC).</p>
+<p>At 0640 GMT the registered shares of CS Holding were quoted at 127.75/128 Swiss francs, down from their 130 previous close. Most other shares were quoted higher.</p>
+<p>A dealer said the market was mainly disappointed that CS Holding had not made any announcements regarding the sale of its stake in Elektrowatt or private bank Bank Leu.</p>
+<p>CS Holding's six-month result was also in the lower end of expectations, he added.</p>
+<p>The market had speculated that CS Holding would use the occasion of the half-year statement to make an announcements about a sale and this would have boosted the shares, he said.</p>
+<p>CS Holding has said it intends to sell its controlling stake in Elektrowatt, but that it is under no time pressure to do so.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

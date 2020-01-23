@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7428" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Matsushita-Kotobuki shares up on earnings revision.</title>
+<headline>Matsushita-Kotobuki shares up on earnings revision.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Shares of Matsushita-Kotobuki Electronics Industries Ltd were higher by midday on Wednesday after the company raised its earnings forecast, brokers said.</p>
+<p>At midday, the shares were up 160 yen at 2,760 with 277,000 shares traded.</p>
+<p>On Tuesday, the firm revised its parent current profit forecast for the six months to September 30, 1996, to 9.80 billion yen from its previous outlook of 6.20 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

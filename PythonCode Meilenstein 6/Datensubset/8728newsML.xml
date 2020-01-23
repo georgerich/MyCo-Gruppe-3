@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8728" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: MEDIQ Inc makes tender offer for notes.</title>
+<headline>MEDIQ Inc makes tender offer for notes.</headline>
+<dateline>PENNSAUKEN, N.J. 1996-08-22</dateline>
+<text>
+<p>MEDIQ Inc said Thursday its subsidiary MEDIQ/PRN Life Support Services Inc had begun a cash tender offer to buy all of PRN's senior secured notes at $1,078.74 per $1,000 principal amount.</p>
+<p>The company said the 12 1/8 percent notes were due August 1999 and their outstanding principal balance was $100 million.</p>
+<p>The offer to expires September 23, it said.</p>
+<p>MEDIQ said the offer was to reduce the company's interest expense by replacing the notes with lower interest bearing loans under a credit facility.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PENNSAUKEN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

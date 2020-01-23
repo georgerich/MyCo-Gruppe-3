@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2691" id="root" date="1996-08-20" xml:lang="en">
+<title>POLAND: POLES CLAIM PLN 890 MLN OF TAX-DEDUCTIBLE GIFTS.</title>
+<headline>POLES CLAIM PLN 890 MLN OF TAX-DEDUCTIBLE GIFTS.</headline>
+<dateline>WARSAW 1996-08-20</dateline>
+<text>
+<p>About 18 percent of Polish taxpayers took advantage of liberal tax rules and made tax deductible donations which cut budget revenues by 890 million zlotys, Prime Minister Wlodzimierz Cimoszewicz said.</p>
+<p>&quot;About 18 percent of taxpayers took advantage of the tax reliefs...which reduced budget revenues by 890 million zlotys,&quot; Cimoszewicz told reporters before a cabinet meeting.</p>
+<p>The income tax law provision, which allowed taxpayers to write off donations made not only to institutions but also to close relatives and friends, has been criticised for leaving too much room for abuse.</p>
+<p>But Cimoszewicz said tax inspectors found irregularities only in about 20 percent of monitored tax returns filed by those who claimed deductions.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

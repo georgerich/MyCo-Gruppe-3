@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4218" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Fed seen refraining from open market operations.</title>
+<headline>Fed seen refraining from open market operations.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>The Federal Reserve is expected to refrain from open market operations on Tuesday, analysts and Fed watchers said.</p>
+<p>&quot;We are looking for no Fed today,&quot; said Dana Saporta, economist at Stone and McCarthy Research Associates Inc.</p>
+<p>Analysts at consulting firm MMS International Inc also expect the Fed to stay out of the market.</p>
+<p>At 1030 EDT/1430 GMT the federal funds rate was quoted at 5-1/8 percent, below the central bank's 5-1/4 percent target.</p>
+<p>-- N.A. Treasury Desk (212) 859-1676</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

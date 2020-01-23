@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7873" id="root" date="1996-08-22" xml:lang="en">
+<title>NETHERLANDS: Surge in banking profits boosts ING H1 net.</title>
+<headline>Surge in banking profits boosts ING H1 net.</headline>
+<dateline>AMSTERDAM 1996-08-22</dateline>
+<text>
+<p>Dutch financial services group ING said on Thursday that a surge in earnings from its banking business drove a 28 percent rise in first-half 1996 net profit.</p>
+<p>ING, which took over British merchant bank Barings in 1995, said first half net profit rose to 1.51 billion guilders ($907 million) from 1.18 billion.</p>
+<p>The result was in the middle of the range of analysts' forecasts of 1.46 to 1.56 billion guilders, but on the Amsterdam bourse ING shares slipped 1.30 guilders to 52.90.</p>
+<p>First-half pre-tax insurance profit rose 16.8 percent to 1.16 billion guilders while first-half pre-tax banking profit jumped 39.2 percent to 1.02 billion guilders.</p>
+<p>ING said first-half banking profits were boosted by strong growth in income from its securities trading operations and warned that profits would not grow as fast in the second half.</p>
+<p>&quot;It is not to be expected that the percentage increase in group profit for the first half of 1996 will be equalled in the second half of 1996,&quot; it said.</p>
+<p>Despite an increase in the number of shares in issue, ING said it expected earnings per share for the whole of 1996 to be higher than in 1995. ($ = 1.664 Dutch Guilders)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

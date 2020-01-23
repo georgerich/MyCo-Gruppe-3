@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3858" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: Thunderstorm threat halts fall in French wheat.</title>
+<headline>Thunderstorm threat halts fall in French wheat.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>Firmer British cash prices and fears thunderstorms forecast for this week may disrupt the end of the harvest stopped a decline in French wheat prices, traders said on Tuesday.</p>
+<p>Wheat prices dropped by up to 15 francs on Monday after a weekend of excellent weather helped the harvest make good progress.</p>
+<p>Soft wheat for August delivery at Rouen was bid at 885 francs, unchanged from the previous session.</p>
+<p>Matif September wheat futures were down by up to 30 francs to 870 francs in thin late trade.</p>
+<p>Barley was slightly firmer at 830 francs for September and October delivery to private silos. Barley prices largely ignored news top barley importer Saudi Arabia was in the market for 800,000 tonnes of optional-origin feed barley.</p>
+<p>The EU is widely expected to help cover a possible sale to the Saudis with German intervention barley stocks, dealers said.</p>
+<p>Old crop maize was firmer on a technical rebound with prompt Bordeaux delivery up 10 francs to 955 francs. New crop maize was unchanged at 925 francs for October-December delivery into Bordeaux.</p>
+<p>-- Paris newsroom +33 1 4221 5452 vmp/dom</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

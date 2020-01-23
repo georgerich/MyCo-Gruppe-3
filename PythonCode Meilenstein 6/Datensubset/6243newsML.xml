@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6243" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: Taiwan plans overseas lobby to attract investments.</title>
+<headline>Taiwan plans overseas lobby to attract investments.</headline>
+<dateline>TAIPEI 1996-08-21</dateline>
+<text>
+<p>Taiwan plans to launch overseas lobbying to attract multinational companies to invest on the island, Economics Minister Wang Chih-kang said on Wednesday.</p>
+<p>&quot;The (ministry's) industrial development and investment centre will go overseas to attract famous international companies to come to Taiwan,&quot; Wang said on state-funded radio.</p>
+<p>&quot;Our aim is to attract at least five to 10 international companies to Taiwan every year,&quot; Wang said.</p>
+<p>Taiwan would improve the domestic investment environment and help businessmen to remove obstacles in investments, the radio quoted Wang as saying. He did not further elaborate.</p>
+<p>Taiwan launched an Asia-Pacific Operation Centre project in 1995, hoping to turn the island into a regional business hub like Hong Kong or Singapore.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

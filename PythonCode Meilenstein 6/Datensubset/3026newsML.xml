@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3026" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: ImmuDyne says tests confirm its products.</title>
+<headline>ImmuDyne says tests confirm its products.</headline>
+<dateline>HOUSTON, Texas 1996-08-20</dateline>
+<text>
+<p>ImmuDyne Inc said on Tuesday that university studies have shown that the use of its products increased survival rates in shrimp challenged by the Taura virus which has been devastating the farmed shrimp industry.</p>
+<p>The products in question are the company's existing aquaculture products and two new products in the ImmuStim family of products..</p>
+<p>The company said sales from these products of $5 million are expected in the first year from distributors primarily in Latin America. Contacts have been made with distributors in Asia, and sales to the Asian market could increase overall sales substantially, the company said.</p>
+<p>ImmuDyne is a biotech company with technologies for immune enhancement products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

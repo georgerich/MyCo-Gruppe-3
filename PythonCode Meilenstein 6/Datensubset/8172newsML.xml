@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8172" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Controls off limits for U.S. space woman.</title>
+<headline>Controls off limits for U.S. space woman.</headline>
+<byline>Steven Young</byline>
+<dateline>HOUSTON 1996-08-21</dateline>
+<text>
+<p>When Russian cosmonauts leave the Mir station on a spacewalk they tell their U.S. crewmate: &quot;You're in charge, but don't touch the controls.&quot;</p>
+<p>Astronaut Shannon Lucid, who has spent five months aboard Mir, described being left alone aboard the sprawling Russian space outpost in a recent e-mail to her friends and colleagues at the Johnson Space Centre in Houston, Texas.</p>
+<p>Cosmonauts Yuri Onufrienko and Yuri Usachev have made five spacewalks since Lucid arrived on Mir in March. Before they first ventured outside they joked that while they were away Lucid was in command of the 10-year-old space complex, but they were taking no chances.</p>
+<p>&quot;Just before time to enter the hatch, Yuri takes a big piece of red tape and puts it across the communication controls that I am absolutely not to touch while they are outside,&quot; wrote Lucid in the letter which was circulated at the space centre here.</p>
+<p>Lucid, a veteran of five space shuttle flights and now NASA's most experienced astronaut, said she felt no resentment.</p>
+<p>&quot;If I were ... leaving a foreigner in my spacecraft all alone, I would wrap the entire place up in red tape,&quot; wrote the 53-year-old mother of three.</p>
+<p>However, thanks to a mistake in the station's larder, Lucid got the last laugh. When the two men finished an exhausting spacewalk in July, she had what she thought was their favourite fruit juice waiting for them.</p>
+<p>&quot;(Yuri) eagerly grabbed it with a huge smile of thanks, which immediately turned into a horrible grimace as a glob of catsup squirted into his mouth. Yes, I had mistakenly gotten the wrong tube. They all look pretty much alike.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

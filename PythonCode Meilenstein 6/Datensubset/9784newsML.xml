@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9784" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: Cap Gemini extends rise on sale increase.</title>
+<headline>Cap Gemini extends rise on sale increase.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>Cap Gemini continued its share rise on Thursday, after reporting a 21.6 percent increase in first half sales on Wednesday which was bigger than expected.</p>
+<p>Cap traded 3.16 percent higher at 218.60 francs at 1425 GMT after having gained 3.11 percent on Wednesday.</p>
+<p>Since the start of the year the share has increased 53.55 percent.</p>
+<p>&quot;The group has announced a bigger rise in sales than was its objective, 20 percent. I'm very postive on the share,&quot; said Mathieu Pascal at CCF.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9035" id="root" date="1996-08-22" xml:lang="en">
+<title>CANADA: SW Saskatchewan may have had slight frost Thursday.</title>
+<headline>SW Saskatchewan may have had slight frost Thursday.</headline>
+<dateline>WINNIPEG 1996-08-22</dateline>
+<text>
+<p>Southwest Saskatchewan's Parkland region saw two to three hours of a slight risk of frost Thursday morning, Environment Canada said.</p>
+<p>The eastern edge of the Alberta-Saskatchewan Cypress Hills Provincial Park to west of Assiniboin, around Wood Mountain National Park on the Montana border, saw temperatures between 5.0 degrees Celsius (41.0 Fahrenheit) and 3.0 Celsius (37.4 F) at chest level for up to three hours up to sunrise, Environment Canada meteorologist Michel Bisson said.</p>
+<p>Winds were from the east at seven kmh to 10 kmh (4.4 to 6.2 mph) under clear skies, Bisson said.  </p>
+<p>Temperatures at ground level can be 2.0 to 5.0 Celsius lower than at chest level depending on windspeed, sky conditions and ground surface moisture, Bisson said.</p>
+<p>Freezing occurs at 0 Celsius (32.0 F).</p>
+<p>&quot;There was probably very little risk of frost. You're getting down to zero in the low lying areas so there's probably very little stuff touched, but nothing major,&quot; Canadian Wheat Board weather analyst Don Bonner told Reuters.</p>
+<p>Val Marie, Sask., reported an overnight low of 3.0 Celsius at chest level (37.4 F), Maple Creek reported a low of 4.0 Celsius (39.20F), Bisson said.</p>
+<p>Cypress Hills Park reported a low of 9.0 Celsius at chest level and Assiniboia reported a low of 8.0 Celsius, he added.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

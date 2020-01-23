@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6390" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: CBOT rice closes lower on liquidation, hedge sales.</title>
+<headline>CBOT rice closes lower on liquidation, hedge sales.</headline>
+<dateline>CHICAGO 1996-08-21</dateline>
+<text>
+<p>Long liquidation and hedge selling pressured CBOT rice futures to a lower close, traders said.</p>
+<p>&quot;There was long liquidation in the September and new hedge sales in the November,&quot; a trader said.</p>
+<p>The market was quiet but there were signs of commercial pricing under the market. &quot;There is a sizeable amount of PL480 business (export) for the September through October period,&quot; he said.</p>
+<p>Rice closed unchanged to 5-1/2 cents per cwt lower, with September down 5-1/2 at $10.04 per cwt.</p>
+<p>Rice futures volume was estimated at 300 lots, down from 399 contracts Tuesday.</p>
+<p>Rice options volume was estimated at 50 contracts, up from 32 Tuesday.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

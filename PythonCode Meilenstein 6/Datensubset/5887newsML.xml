@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5887" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH AFRICA: NEI boosts half year shr.</title>
+<headline>NEI boosts half year shr.</headline>
+<dateline>JOHANNESBURG 1996-08-21</dateline>
+<text>
+<p>Half yr ended June 30</p>
+<p>			(million rand unless stated)</p>
+<p>    Shr, attrib (cts)     63.7	  vs 34.3</p>
+<p>    Div (cts)		  -</p>
+<p>    Attrib income	    8.3	  vs 4.4</p>
+<p>    Pre-tax		   11.7	  vs 8.0</p>
+<p>    Tax			  0.4	  vs 0.9</p>
+<p>    Interest received	0.7	  vs 0.1 paid</p>
+<p>    Turnover		 274.9	  vs 204.8</p>
+<p>Full name: Northern Engineering Industries Africa Ltd</p>
+<p>NOTE - NEI said it was not its policy to pay an interim dividend but it expected a 1996 dividend, payable in May 1997.</p>
+<p>A healthy order intake in the first half will help underwrite business levels for the remainder of the year in line with the usual pattern of higher second-half earnings, the company said. Some local business will suffer from a recent cutback in Eskom orders but this should be offset by increased exports.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32050">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

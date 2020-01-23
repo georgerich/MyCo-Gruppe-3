@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8871" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: July U.S. MTBE stocks off 1.8 pct to 9.16 mln bbls.</title>
+<headline>July U.S. MTBE stocks off 1.8 pct to 9.16 mln bbls.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>U.S. inventories of MTBE fell in July by 1.79 percent to 9.16 million barrels amid stock drops on the East Coast and Gulf Coasts and a rise on the West Coast, according to U.S. Department of Energy (DOE) data.</p>
+<p>The report, released by the DOE's U.S. Energy Information Administration (EIA), also said output of MTBE (methyl tertiary butyl ether) eased by about 2.5 percent during July to 197,000 barrels per day (bpd).</p>
+<p>Stocks in the key U.S. Gulf output region fell by 4.18 percent or 190,000 barrels to 4.35 million barrels, while USG output fell to 174,000 bpd from 183,000 bpd in June.</p>
+<p>East Coast inventories eased a touch to 1.23 million barrels. Output in the key consumption region, where reformulated gasoline use is concentrated, was not provided in order to protect individual company data, EIA said.</p>
+<p>West Coast inventories meanwhile built by 2.34 percent to 3.32 million barrels, with output data in the region also withheld to protect individual company data.</p>
+<p>-- Oliver Ludwig, New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

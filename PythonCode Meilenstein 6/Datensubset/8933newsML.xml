@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8933" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Dusquesne 810 MW Pa. nuke resumes output.</title>
+<headline>Dusquesne 810 MW Pa. nuke resumes output.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Dusquesne Light Co's 810 megawatt Beaver Valley nuclear power unit 1 resumed electricity production Thursday after being taken off line August 5 for repairs, a company spokesman said.</p>
+<p>&quot;We were back on line at 1000 (EDT),&quot; spokesman Dennis O'Neil said Thursday. O'Neil declined to comment on when the unit likely would reach full production.</p>
+<p>Beaver Valley, located in Shippingport, Pa., was shut to repair a reactor coolant pump.</p>
+<p>DQE, Duquesne's parent company, owns 47.5 percent of Beaver Valley 1, with the remaining 52.5 percent held by Ohio Edison Co.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5757" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: PG&amp;E says Diablo Canyon back to full output.</title>
+<headline>PG&amp;E says Diablo Canyon back to full output.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Pacific Gas and Electric Co said on Wednesday production at its Diablo Canyon nuclear power plant has been restored to 100 percent following recent output limitations caused by a nearby wildfire.  </p>
+<p>&quot;They hit 100 percent early this morning,&quot; said company spokesman Jeff Lewis. &quot;The (transmission) lines are now out of the line of the fires.&quot;</p>
+<p>Power was reduced to 70 percent from the plant's two units on Monday as a precautionary measure when the fire swept across hills near two of the plant's three 5,000 kilovolt (KV) transmission lines.</p>
+<p>Diablo Canyon, with an overall production capacity of 2,160 megawatts (MW), was producing at 75 percent on Tuesday, with all power being moved through the one 5,000 KV line that runs north from the plant, away from the fire.</p>
+<p>Cooler temperatures and more favorable winds were said to be helping firefighters battle blazes in central California.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

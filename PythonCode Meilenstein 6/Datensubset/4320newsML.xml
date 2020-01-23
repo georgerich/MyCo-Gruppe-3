@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4320" id="root" date="1996-08-20" xml:lang="en">
+<title>SWEDEN: Celsius posts 151 mln SKR H1 profit.</title>
+<headline>Celsius posts 151 mln SKR H1 profit.</headline>
+<dateline>STOCKHOLM 1996-08-20</dateline>
+<text>
+<p>Swedish defence and technology group Celsius AB reports for the six months to June 30, 1996, compared to a year ago.</p>
+<p>					(million crowns unless stated)</p>
+<p> Profit after fin items		    151 vs     74</p>
+<p> Sales					 5,512 vs  5,593</p>
+<p> Operating income			  5,558 vs  5,702</p>
+<p> Operating costs			   5,287 vs  5,504</p>
+<p> Depreciation				  231 vs    236</p>
+<p> Associate interests			  16 vs	4</p>
+<p> Operating profit after deprec	    56 vs     34 LOSS</p>
+<p> Financial items		     CREDIT 95 vs    108 CREDIT</p>
+<p> Minorities					1 vs	3</p>
+<p> Pre-tax profit				152 vs     77</p>
+<p> Tax charge				     30 vs     15</p>
+<p> Net profit				    122 vs     62</p>
+<p>NOTE -- Full company name of defence and technology group Celsius AB.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

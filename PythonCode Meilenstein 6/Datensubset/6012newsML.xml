@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6012" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: Hungary OTC shares trade - Aug 12 to Aug 18.</title>
+<headline>Hungary OTC shares trade - Aug 12 to Aug 18.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>The following table provides information from the Budapest Stock Exchange on last week's trading in stocks on Hungary's over-the-counter market.</p>
+<p>THE FIGURES ARE PRELIMINARY AND DO NOT NECESSARILY INCLUDE</p>
+<p>REPORTS FROM ALL PARTICIPANTS IN THE MARKET.</p>
+<p>		   WEEKLY OTC TURNOVER (Aug 12 to Aug 18, 1996)</p>
+<p>		     Avr.    No.of    Max.	 Min.	Turnover</p>
+<p>		    price    units	    price	 (1,000 HUF)</p>
+<p> Globus	  1,035.00     64   1,035.00   1,035.00	66.00</p>
+<p> Richter pr/   2,388.83  1,464   2,600.00     460.00   3,497.00</p>
+<p> Pannon-Valto    560.81    370     570.00     550.00     207.00</p>
+<p> TVK r/ord/	868.33    105   1,400.00     675.00	91.00</p>
+<p> MKB A ord/   10,000.00	1  10,000.00  10,000.00	10.00</p>
+<p> OTP A pr/	 728.99  7,245     730.00     700.00   5,282.00</p>
+<p> Pbank pr/b/   4,500.00	5   4,500.00   4,500.00	23.00</p>
+<p> Antenna	   400.00    130     400.00     400.00	52.00</p>
+<p> Biogal	  6,729.84     62   7,500.00   6,000.00     417.00</p>
+<p> Deviza F.   359,952.38     21 382,000.00 341,000.00   7,559.00</p>
+<p> Pannonholding   120.00 10,000     120.00     120.00   1,200.00</p>
+<p>Deviza F.II.</p>
+<p>    b/ord/    12,200.71    567  13,400.00  11,500.00   6,918.00</p>
+<p>Demasz r/ord</p>
+<p>    series A   4,240.57  1,930   4,275.00   3,300.00   8,184.00</p>
+<p>Emasz ord/</p>
+<p>    series A   3,250.00     30   3,500.00   3,000.00	98.00</p>
+<p>Edasz r/ord</p>
+<p>    series A   5,184.62     39   5,300.00   5,000.00     202.00</p>
+<p> Duna Delta b/50,000.00     15  50,000.00  50,000.00     750.00</p>
+<p> TOTAL:		     22,048				34,556.25</p>
+<p>Note: pr - preference; ord - ordinary; r - registered; b - bearer; Pbank - Postabank.</p>
+<p>-- Budapest newsroom +36 1 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

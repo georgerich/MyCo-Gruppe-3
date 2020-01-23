@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2325" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan adds game machines to inflation gauge.</title>
+<headline>Japan adds game machines to inflation gauge.</headline>
+<dateline>TOKYO</dateline>
+<text>
+<p>Japan said Tuesday that game machines, tickets to soccer matches and imported rice will replace traditional socks worn with the kimono and corned beef as items used to measure the nation's price movements.</p>
+<p>New items also include golf fees and delivered pizza.</p>
+<p>In a move underlining changes in consumer tastes, the government announced it was revising the selection of goods it uses to track price trends to include more up-to-date items.</p>
+<p>&quot;We are adding 37 items to a basket of goods purchased by households to better measure recent price moves,&quot; said an official of the government's Management and Coordination Agency.</p>
+<p>The agency updates the components and changes the base year for Japan's consumer price index every five years.</p>
+<p>The new CPI will cover 580 items after dropping goods like harmonicas, which Japanese children learn to play in school, and a pressed-fish sausage eaten as a snack.</p>
+<p>With many consumer items now sold at discount stores in recent years, analysts question if the new basket can still detect price movements accurately.</p>
+<p>&quot;It is very important to see whether they will put a greater weighting on discount stores in their analysis,&quot; said Russell Jones, chief economist at Lehman Brothers.</p>
+<p>&quot;We are not ignoring prices at discount stores, but we cannot say how many items sold discounted are analysed,&quot; the agency official said.</p>
+<p>The agency said prices have almost stopped dropping after several years of decline during the prolonged recession that followed the collapse of the 1980s &quot;bubble&quot; economy.</p>
+<p>CPI figures are issued every month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

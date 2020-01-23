@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8908" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Maine legislators may aid Hathaway sale.</title>
+<headline>Maine legislators may aid Hathaway sale.</headline>
+<dateline>AUGUSTA, Maine 1996-08-22</dateline>
+<text>
+<p>Maine lawmakers will consider a change next month in the state's tax financing laws that could aid the planned sale of C.F. Hathaway Co. to a group headed by former Gov.John McKernan</p>
+<p>The Legislative Council late Wednesday voted to let lawmakers consider a bill in the September 5 special session that would expand the tax law designed to help businesses.</p>
+<p>The McKernan-led investment group has signed a letter of intent to purchase Hathaway from Warnaco Group Inc on August 1, 1996. The deal would include the 159-year-old mens shirt maker's brand name and its factories in Waterville, Maine and Prescot, Ontario.</p>
+<p>The price of the deal has not been disclosed, but sources said the investors have said they need assistance from Maine, Ontario and local governments to make the purchase successful.</p>
+<p>The tax financing law currently aids businesses by giving them incentives to expand. The proposed change would also allow the state to aid investors purchasing companies if the deals protect jobs.</p>
+<p>Warnaco announced in May that it planned to sell or close Hathaway due to weak sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUGUSTA, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

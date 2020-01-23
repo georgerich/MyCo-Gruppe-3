@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8515" id="root" date="1996-08-22" xml:lang="en">
+<title>HUNGARY: CANADA'S TRIZEC TO SET UP HUNGARY VENTURE.</title>
+<headline>CANADA'S TRIZEC TO SET UP HUNGARY VENTURE.</headline>
+<dateline>BUDAPEST 1996-08-22</dateline>
+<text>
+<p>Canada's Trizec Corporation and Granit Polus Rt, registered in Hungary, will set up a joint venture for $3 billion in real estate development, mostly in eastern Europe, Granit Polus said on Thursday.</p>
+<p>Granit Polus chairman Sandor Demjan told a news conference that the projects would include the construction of shopping malls, modern office buildings and industrial parks.</p>
+<p>Trizec, one of North America's largest real estate developers, belongs to the Horsham holding controlled by Peter Munk, who also holds a stake in Granit Polus. Andrew Sarlos, also a Hungarian-Canadian businessman, has an interest in Granit Polus.</p>
+<p>The joint venture will be equally owned by Granit Polus and Trizec, and its general director will be Ferenc Bartha, Hungary's former chief privatisator.</p>
+<p>Demjan said Granit Polus will open its first shopping mall, the 52,000 sq metre Polus centre on the outskirts of Budapest, formerly the site of a Soviet military base, on November 8, following just 10 months of construction.</p>
+<p>&quot;This (rapidness) will be a world record,&quot; Demjan said.</p>
+<p>In European countries in transition from communist-type systems, shopping malls account for a small portion of retail sales, compared with some 50 percent in Western Europe and 70 percent in the U.S.</p>
+<p>-- Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8295" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: J. Baker Inc Q2 net rises.</title>
+<headline>J. Baker Inc Q2 net rises.</headline>
+<dateline>CANTON, Mass. 1996-08-22</dateline>
+<text>
+<p>Quarters Ended		   Six Months Ended</p>
+<p>		   Aug 3,	Jul 29,	  Aug 3,	Jul 29,</p>
+<p>		    1996	   1995	    1996	   1995</p>
+<p>Net Sales</p>
+<p>	   $231,805,391 $272,520,039  $427,335,600 $503,904,731</p>
+<p>Gross Profit</p>
+<p>	    101,426,812  120,202,305   192,047,661  223,734,171</p>
+<p>Operating Income</p>
+<p>		5,661,760    5,135,385     9,790,015    8,594,561</p>
+<p>Net Earnings</p>
+<p>		1,485,722    1,397,212     2,311,282    2,034,865</p>
+<p>Earnings Per Common Share:</p>
+<p>   Primary	 0.11	   0.10	    0.17	   0.15</p>
+<p>Fully Diluted</p>
+<p>		     0.11	   0.10	    0.17	   0.15</p>
+<p>Number of Shares Used to Compute</p>
+<p>Earnings per Common Share:</p>
+<p>  Primary  13,891,265   13,847,954    13,882,729   13,846,875</p>
+<p>Fully diluted</p>
+<p>	     13,928,732   13,932,754    13,903,376   13,945,852</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

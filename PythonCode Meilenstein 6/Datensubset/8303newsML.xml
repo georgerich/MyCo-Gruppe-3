@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8303" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Rural/Metro Corp Q4 net rises.</title>
+<headline>Rural/Metro Corp Q4 net rises.</headline>
+<dateline>SCOTTSDALE, Ariz. 1996-08-22</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				   Three Months Ended   Year Ended</p>
+<p>					  June 30,	   June 30,</p>
+<p>					 1996    1995     1996     1995</p>
+<p> Total revenue		   68,677  51,567  250,263  171,583</p>
+<p> Operating income		 7,736   5,423   24,664   15,940</p>
+<p>Income before extraordinary</p>
+<p>  item				4,025   2,449   11,512    7,593</p>
+<p>Extraordinary item</p>
+<p>Loss on early extinguishment</p>
+<p>of debt (net of tax effect</p>
+<p>   of $480)			    --     693	 --	693</p>
+<p> Net income			 4,025   1,756   11,512    6,900</p>
+<p>Shr:</p>
+<p>Income before</p>
+<p>   extraordinary item	    0.35    0.28     1.14     0.92</p>
+<p>  Extraordinary item		 --  (0.08)	 --   (0.08)</p>
+<p>    Net income		     0.35    0.20     1.14     0.84</p>
+<p> Avg shrs			  11,623   8,809   10,075    8,249</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTSDALE, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

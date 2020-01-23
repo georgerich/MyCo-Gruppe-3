@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8380" id="root" date="1996-08-22" xml:lang="en">
+<title>SWITZERLAND: ABB takes stake in Avangard Ltd.</title>
+<headline>ABB takes stake in Avangard Ltd.</headline>
+<dateline>ZURICH 1996-08-22</dateline>
+<text>
+<p>ABB Asea Brown Boveri AG said it had bought a 67 percent stake in Bulgarian electrical manufacturer Avangard Ltd, which makes hi-voltage switchgear and other electrical equipment for the Bulgarian market.</p>
+<p>An ABB statement said the stake was bought from the state privatisation agency. The company, which will now be called ABB Avangard Ltd, employs 400 people and had been an ABB licensee since 1986.</p>
+<p>ABB Avangard, located in the central town of Sevlievo, would expand ABB business in Bulgarian and provide closer customer service.</p>
+<p>ABB said Avangard was its second Bulgarian company after low-volatge apparatus maker ABB Control in Petritsch.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

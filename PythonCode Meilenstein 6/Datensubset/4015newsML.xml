@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4015" id="root" date="1996-08-20" xml:lang="en">
+<title>EGYPT: INDICATORS - Egypt - updated Aug 20.</title>
+<headline>INDICATORS - Egypt - updated Aug 20.</headline>
+<text>
+<p>---INTEREST RATES---</p>
+<p>					Latest   Date  Pvs Rate  Mth ago</p>
+<p>91-day treasury bill yield    10.254   15/8   10.250   10.242</p>
+<p>182-day treasury bill yield   10.245   20/8   10.254   10.269</p>
+<p>Central Bank discount rate    13.5     Nov95  14.0     13.5</p>
+<p>Av o/nite interbank (private) 10 5/16  20/8   10 3/16  9 15/16</p>
+<p>O/nite interbank (public)     10.5     20/8   10.5     10.5</p>
+<p>			  ---MONTHLY DATA---</p>
+<p>				   Month	    Pvs Mth	 Yr ago</p>
+<p>CPI (yr-on-yr)		  May  8.1	    7.4	    8.7</p>
+<p>Oil exports (LEmillion)     Feb  680	   365 (Jan)     21</p>
+<p>Non-oil exps (LEmillion)    Feb  505	   459 (Jan)    723</p>
+<p>Imports (LEmillion)	   Feb  3,261	 3,392 (Jan) 2,366</p>
+<p>Trade Bal ($million)	  Feb  -605	  -751 (Jan)    -473</p>
+<p>Oil prod (bdp)		  July  858,000     855,000	861,000</p>
+<p>Suez Cnl ($million)	   June  149.5	 157.5	  166.0</p>
+<p>Tourism ($million)	    June  191	   268	     78</p>
+<p>			   ---ANNUAL DATA---</p>
+<p>				    Year	  Pvs year    Two yrs prv</p>
+<p>GDP Growth (% change)	 1995-6  4.9	 4.7	     3.9</p>
+<p>Unemployment (%)		1995-6  9.4	 9.6	     9.4</p>
+<p>LE/$ RATE			 end-95  3.393     3.392	   3.373</p>
+<p>BOP ($million)		  1994-5  +759	+2,158	  +4,022</p>
+<p>C/A ($million)		  1994-5  +631	+191	    +4,548</p>
+<p>Gvt Dfct (LE million)	 1995-6  5,487     5,297	   3,614</p>
+<p>Notes:</p>
+<p>1. GDP growth, balance of payments, current account and government budget deficit figures are all for fiscal years, which start on July 1.</p>
+<p>2. Unemployment figures are from the Central Bank. Unofficial sources say they are underestimates.</p>
+<p>-- Cairo reporting unit +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

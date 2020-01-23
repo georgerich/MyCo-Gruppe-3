@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8560" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: SOCCER-KEANE SIGNS FOUR-YEAR CONTRACT WITH MANCHESTER UNITED.</title>
+<headline>SOCCER-KEANE SIGNS FOUR-YEAR CONTRACT WITH MANCHESTER UNITED.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United.</p>
+<p>&quot;Roy agreed a new deal before last night's game against Everton and we are delighted,&quot; said United manager Alex Ferguson on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

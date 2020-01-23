@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11677" id="root" date="1996-08-23" xml:lang="en">
+<title>JORDAN: Jordan expels Iraqi diplomat.</title>
+<headline>Jordan expels Iraqi diplomat.</headline>
+<dateline>AMMAN 1996-08-23</dateline>
+<text>
+<p>Jordan has asked an Iraqi diplomat to leave the kingdom for carrying out duties incompatible with diplomatic norms, an official source said on Friday.</p>
+<p>The move came after Amman blamed Iraq and a pro-Baghdad local political party for last week's worst unrest in seven years after a government decision to double prices of bread.</p>
+<p>The government declined comment.</p>
+<p>&quot;Jordan has asked Mr. Adel Ibrahim, the Iraqi embassy's press attache, to leave because he was carrying out duties incompatible with diplomatic norms,&quot; the source told Reuters. He said Ibrahim was still in Amman.</p>
+<p>The Jordanian Arab Socialist Baath Party has denied involvement in unrest which it blamed on government policies and rising economic hardship.</p>
+<p>The riots, which shook Jordan for two days, broke out after last Friday's main prayers in the southern town of Karak and spread to Amman.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

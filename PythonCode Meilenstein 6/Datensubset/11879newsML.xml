@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11879" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Limited's Abercrombie sets 7 mln share IPO.</title>
+<headline>Limited's Abercrombie sets 7 mln share IPO.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>Abercrombie and Fitch, a unit of Limited Inc, said it plans to sell up to seven million Class A common shares in its initial public offering.</p>
+<p>The apparel company, in an amended filing with the Securities and Exchange Commission, said that of the total, 5.6 million shares will be offered in the U.S. and 1.4 million will be offered internationally.</p>
+<p>The offering is estimated to be priced between $14 and $16 per share, the filing said.</p>
+<p>The company said the offering will be made through Goldman Sachs and Co, Lazard Freres and Co LLC, Montgomery Securities and J.P. Morgan and Co.</p>
+<p>The underwriters have an over-allotment option on 1.05 million Class A shares.</p>
+<p>The company said it would have 50 million shares outstanding after the offer -- seven million Class A shares and 43 million Class B shares.</p>
+<p>It said its Class A stock has been approved for listing on the New York Stock Exchange under the symbol &quot;ANF.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

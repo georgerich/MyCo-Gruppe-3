@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8253" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Cambridge says Boehringer buys 17 pct stake.</title>
+<headline>Cambridge says Boehringer buys 17 pct stake.</headline>
+<dateline>CAMBRIDGE, Mass 1996-08-22</dateline>
+<text>
+<p>Cambridge NeuroScience Inc said Thursday that Boehringer Ingelheim, a privately held German pharmaceutical group, plans to buy a 17-percent stake in the company.</p>
+<p>Boehringer is buying 1,237,624 shares of Cambridge NeuroScience common stock at a price of $8.08 a share.</p>
+<p>The $10 million transaction is expected to take place in the next several weeks.</p>
+<p>The two companies teamed up last year to develop a drug to treat patients who have suffered strokes and traumatic brain injuries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

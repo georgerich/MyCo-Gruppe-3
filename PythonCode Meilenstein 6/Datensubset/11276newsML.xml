@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11276" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH KOREA: S.Korean store owner's jail term reaffirmed.</title>
+<headline>S.Korean store owner's jail term reaffirmed.</headline>
+<dateline>SEOUL 1996-08-23</dateline>
+<text>
+<p>South Korea's supreme court on Friday reaffirmed the jail sentence for the owner of a department store that collapsed last year killing more than 500 people, a court official said.</p>
+<p>The court, rejecting the appeal of Lee Joon, confirmed an earlier appeals court sentence of 7-1/2 years. He was convicted of criminal negligence after his luxury Sampoong Department Store caved in last June in South Korea's worst peacetime disaster.</p>
+<p>The court also sentenced Lee Choong-woo, a former chief administrator of the upscale residential area where the store was located, to 10 months in jail for bribery.</p>
+<p>The store collapsed during a busy evening when it was packed with shoppers and employees. More than 1,000 people were injured.</p>
+<p>(Conversion $1 = 818 won)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11169" id="root" date="1996-08-23" xml:lang="en">
+<title>CHILE: Chile forex reserves fall to $15.28 billion.</title>
+<headline>Chile forex reserves fall to $15.28 billion.</headline>
+<dateline>SANTIAGO 1996-08-23</dateline>
+<text>
+<p>Chilean net international reserves fell $21 million in the first two weeks of the month to total $15.28 billion on August 15, said the Central Bank in its monthly report.</p>
+<p>The fall in the value of the reserves was the result of a $16 million drop in the balance of payments and a $5 million drop in the value of the reserves as the result of international currency fluctations, said the report.</p>
+<p>The fall in the balance of payments was a result of a reduction in deposits paid by commercial banks to the Central Bank under reserve requirement rules, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

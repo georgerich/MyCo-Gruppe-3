@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4650" id="root" date="1996-08-20" xml:lang="en">
+<title>VIETNAM: Death toll rises in Vietnam after storm.</title>
+<headline>Death toll rises in Vietnam after storm.</headline>
+<dateline>HANOI 1996-08-20</dateline>
+<text>
+<p>Vietnam said on Tuesday a further 34 people had been killed after a storm last week, bringing the death toll to more than 50 with hundreds still missing.</p>
+<p>Voice of Vietnam radio said the deaths had been reported in the country's remote northwest, and also said 22 people were missing in the mountainous region some 300 km (190 miles) northwest of Hanoi on the border with China's Yunnan province.</p>
+<p>The report said torrential rains over the weekend had caused flooding and landslides and left some 5,000 people in the area without adequate food supplies.</p>
+<p>The latest casualties, which could not be immediately confirmed, are in addition to dozens of dead and hundreds still missing in coastal areas to the southeast of Hanoi following a whirlwind storm a few days earlier.</p>
+<p>Accurate estimates of the number of missing and dead were still not available on Tuesday. Survivors contacted at the weekend described how people clung to floating debris after the storm ripped through offshore fishing fleets.</p>
+<p>Vietnamese media warned on Tuesday that a new tropical storm, Niki, was heading across the South China Sea and was likely to hit the country later this week.</p>
+<p>City authorities in Hanoi, which lies on the Red River, said they had posted a stage three flood warning on Tuesday -- the highest level of alert.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

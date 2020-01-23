@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9356" id="root" date="1996-08-22" xml:lang="en">
+<title>CHINA: Kentucky settles with China customers.</title>
+<headline>Kentucky settles with China customers.</headline>
+<dateline>BEIJING 1996-08-22</dateline>
+<text>
+<p>U.S. restaurant chain Kentucky Fried Chicken (KFC) has paid 5,000 yuan ($600) to five Chinese customers, but dismissed claims they found a fingernail in their food, company officials said on Thursday.</p>
+<p>Hangzhou Kentucky Co, which operates the popular fast-food stores in Hangzhou, capital of eastern China's Zhejiang province, paid the money after nearly three months of court mediation, a company official told Reuters by telephone.</p>
+<p>He said the settlement did not mean the firm had lost a lawsuit for 50,000 yuan compensation brought against it by the customers, who said they found the fingernail in their food in February last year.</p>
+<p>&quot;We were prepared to engage in the lawsuit right to the end because there wasn't fingernail in the food at all, but customers come first so we accepted the mediation,&quot; he said.</p>
+<p>&quot;We paid 5,000 yuan and undertook half of the legal costs only in order to support consumers' defence of their rights. They really spent too much time, money and energy on this,&quot; the company official said. ($1 = 8.3 yuan)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

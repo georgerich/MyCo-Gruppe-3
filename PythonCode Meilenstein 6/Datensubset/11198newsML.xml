@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11198" id="root" date="1996-08-23" xml:lang="en">
+<title>CHILE: Chile's economy grows 7.9 pct in first half 1996.</title>
+<headline>Chile's economy grows 7.9 pct in first half 1996.</headline>
+<dateline>SANTIAGO 1996-08-23</dateline>
+<text>
+<p>Chile's economy, one of the most robust in Latin America, expanded 7.9 percent in the first half of the year with growth on track to meet or surpass the official target of seven percent for 1996, said analysts Friday.</p>
+<p>&quot;We expect growth to be between 7 to 7.5 percent with the expansion led by heavy investment in mining and a booming construction sector,&quot; said Lance Eckel, an analyst at brokerage Sud Americano.</p>
+<p>Central Bank figures showed the economy expanded by a strong 6.3 percent in June, which surprised private analysts who had expected the increase to be around five percent.</p>
+<p>Despite June's rise, growth is expected to slow in the second half of 1996 as the bank's tight-credit policy puts the brakes on the economy which had been in danger of overheating earlier this year, they said.</p>
+<p>&quot;The real impact of tight monetary policy will be seen in the second half of the year,&quot; said Pablo Salcedo, head of investment at ING Barings.</p>
+<p>Some indicators, like rising unemployment, show the tightening is already having an effect, said Salcedo.</p>
+<p>The bank has kept interest rates high since October to make sure Chile's stubbornly high inflation rate meets the official target of 6.5 percent this year.</p>
+<p>&quot;The important thing is that growth will be greater than inflation,&quot; said Eckel.</p>
+<p>-- Margaret Orgill, Santiago newsroom, 562-699-5595 x212</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

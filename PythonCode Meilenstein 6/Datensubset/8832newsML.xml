@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8832" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Rush to grab Internet names may cool under plan.</title>
+<headline>Rush to grab Internet names may cool under plan.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The 21st century land grab to register desirable Internet addresses may be about to cool.</p>
+<p>The Internet Assigned Numbers Authority has decided to give out several new licenses to firms that will register new top-level or &quot;domain&quot; names starting in 1997, authority head Jon Postel said in a telephone interview Thursday.</p>
+<p>Currently, Network Solutions Inc of Herndon, Virginia, has the sole license from the authority to register address names in the most common top-level categories.  </p>
+<p>Most Internet addresses end with one of a few three letter designations, including &quot;com&quot; for private sites, &quot;gov&quot; for government sites and &quot;edu&quot; for sites run by schools.</p>
+<p>The availability of new names and competing registration services should help quell disputes over popular or trademarked names, attorneys and Internet specialists said.</p>
+<p>Network Solutions registers names for sites in those three so-called top-level domains along with &quot;org&quot; and &quot;net,&quot; charging $100 for a two-year registration.  </p>
+<p>That greatly limits the number of available names, creating competition and even bidding wars for prestige monikers like &quot;television.com&quot; or &quot;cybercafe.com.&quot;</p>
+<p>And disputes are arising more frequently, usually when the holder of a trademark discovers that someone else is using their trademark as the name of an Internet site.</p>
+<p>For example, Viacom Inc's MTV cable music channel fought with one of its employees who had registered &quot;mtv.com,&quot; eventually regaining control of the name in an out-of-court settlement.</p>
+<p>Once new top-level domain names are available, three or four people could register similiar names.  </p>
+<p>The numbers authority is in the process of appointing a committee that will review applications from companies interested in registering names under the new top level domains, Postel said. Ultimately, &quot;a few&quot; companies will be given authority over three new top level domains each, he said.</p>
+<p>The committee will begin accepting applications in October and new names could be in service by the end of january, 1997.</p>
+<p>The registration companies will be able to set their own prices with a small percentage of the fees going into a fund to improve the Internet's central infrastructure, Postel said.  </p>
+<p>&quot;With competition, you're using market forces to get lower prices and better services,&quot; Postel said.</p>
+<p>Network Solutions officials were not immediately available for comment.</p>
+<p>Additional top-level names should help resolve disputes over trademarked names by providing more options, perhaps allowing identical names under different domains.</p>
+<p>Network Solutions generally recognizes holders of federally registered trademarks while ignoring other forms of legally recognized trademarks such as common law trademarks, attorneys said.</p>
+<p>&quot;You can have multiple trademarks for the identical mark, provided the goods or services are unrelated,&quot; said Jere Webb, an intellectual property attorney at Stoel Rives in Portland, Oregon.</p>
+<p>&quot;Companies are going beserk when they discover that their name with .com after it has already been grabbed by somebody else,&quot; Webb said. &quot;If they can't do anything about it, which in many cases they can't because it is for unrelated goods or services, then they are in a quandry. This would give them some avenue or out.&quot;</p>
+<p>--202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

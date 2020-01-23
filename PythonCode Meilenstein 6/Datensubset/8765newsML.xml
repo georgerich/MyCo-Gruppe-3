@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8765" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. M-2 money supply fell $500 mln in Aug 12 week.</title>
+<headline>U.S. M-2 money supply fell $500 mln in Aug 12 week.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>U.S. M-2 money supply fell $500 million in the August 12 week to $3,746.8 billion, the Federal Reserve said.</p>
+<p>The broader M-3 measure rose $10.4 billion to $4,758.3 billion. M-1 fell $8.3 billion to $1,099.4 billion, the Fed said.</p>
+<p>The Fed said the four-week moving average of M-2 was $3,760.0 billion versus $3,755.7 billion in the previous week.</p>
+<p>-- N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

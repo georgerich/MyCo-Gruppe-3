@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8897" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Deutsche Morgan starts six chip-related issue. [Corrected 17:45 gmt]</title>
+<headline>Deutsche Morgan starts six chip-related issue. [Corrected 17:45 gmt]</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Deutsche Morgan Grenfell/C.L. Lawrence (corrects from J.C. Bradford) initiated coverage of six semiconductor related companies with accumulate and hold ratings.</p>
+<p>Analyst Kathryn Buergert said she started Brooks Automation Inc and Tencor Instruments with accumulate and Electroglas Inc with hold.</p>
+<p>She said the rating were based on the companies' earnings per share outlook. Brooks EPS are expected to climb to $1.15 in fiscal year 1997 from $1.07 in 1996. Tencor is expected to climb to $1.70 from $1.13 while Electroglas is expected to fall to $0.85 from $1.63.  </p>
+<p>Analyst Elliott Rogers said he initiated coverage of DuPont Photomasks Inc and Semitool Inc with accumulate and LTX Corp with hold.</p>
+<p>&quot;The accumulate ratings reflect some uncertainty about the near-term outlook as far as capital spending is concerned,&quot; Rogers said.</p>
+<p>&quot;The hold rating on LTX reflects these same concerns but exacerbated by a customer -- Korea's Daewoo Corp -- which claims an order worth $50 million was never placed.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

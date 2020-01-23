@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3461" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia's Fahey says budget to aid rates.</title>
+<headline>RTRS-Australia's Fahey says budget to aid rates.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Australian Finance Minister John Fahey said on a Wednesday that the Federal budget would increase national savings and put downward pressure on interest rates.</p>
+<p>Asked by reporters if there was room for further interest rate cuts, Fahey said: &quot;That's a matter for the Reserve Bank, but what the budget does do, it increases national savings and that puts downward pressure on interest rates. It certianly gives a base for that to occur.&quot;  </p>
+<p>The government announced on Tuesday it would make A$3.9 billon of budget cuts to produce an underlying budget deficit in the year to June 30, 1997 of A$5.65 billion.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

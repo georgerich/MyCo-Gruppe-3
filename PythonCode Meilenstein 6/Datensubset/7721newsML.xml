@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7721" id="root" date="1996-08-22" xml:lang="en">
+<title>SOUTH KOREA: South Korean economy hit by high wages - minister.</title>
+<headline>South Korean economy hit by high wages - minister.</headline>
+<dateline>SEOUL 1996-08-22</dateline>
+<text>
+<p>South Korea's finance minister said on Thursday that high wages, financing and distribution costs were hurting the economy, a ministry statement said.</p>
+<p>He told economic ministers, labour leaders and academics that structural problems were widening the current account deficit and adding to inflationary pressures.</p>
+<p>Han said high wage increases were eroding industrial competitiveness.</p>
+<p>Wage hikes in manufacturing averaged 10.4 percent between 1987 and 1994, Han said. This compared with 1.4 percent in Japan and 7.1 percent in Taiwan over the same period.</p>
+<p>&quot;The high wage growth is contributing to deteriorating competiveness and threathens inflation,&quot; Han said.</p>
+<p>Financing costs to sales ratio by South Korean companies averaged 5.6 percent from 1990 to 1995 compared with 1.6 percent in Japan and 1.7 percent in Taiwan.</p>
+<p>The debt to equity ratio of South Korean companies averaged 286.8 percent in 1995 against 209.3 percent in Japan and 87.2 percent in Taiwan in 1994.</p>
+<p>Han said the government should expand investment in infrastructure and encourage private participation in roads, harbours and railroads.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

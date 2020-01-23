@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12009" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: Finnish IVO says to buy stake in Hungary power co.</title>
+<headline>Finnish IVO says to buy stake in Hungary power co.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>Finnish state-owned Imatran Voima (IVO) said on Friday the Hungarian privatisation agency had approved its and Japanese Tomen's bids for up to 74 percent of Hungarian power producer Budapesti Eromy Tt.</p>
+<p>&quot;According to the decision, a consortium formed by IVO and Japanese trading house Tomen can buy about 74 percent of the shares in Budapesti Eromy Rt,&quot; IVO said in a statement.</p>
+<p>IVO's share would be half, or about 37 percent, it added.</p>
+<p>&quot;The details of the deal will be agreed during the autumn and the deal will be carried out when electricity price increases for the whole country are clear,&quot; it said.  </p>
+<p>Budapesti Eromy's five mostly gas-fuelled heat and electricity plants produce in total 250 megawatts of electricity and 2,500 megawatts of heat to power distributors and industry in the Budapest area, IVO said.</p>
+<p>&quot;According to IVO's studies, the large heat consumption in Budapest makes it possible to increase electricity output based on environmentally friendly and effective combined production of electricity and heat,&quot; it said.</p>
+<p>The sale of Budapesti Eromy is part of the Hungarian privatisation programme, it said.</p>
+<p>-- Helsinki newsroom +358-0-6805 0245</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

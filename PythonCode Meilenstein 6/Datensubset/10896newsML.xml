@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10896" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: NWE naphtha gains $2 on short supplies.</title>
+<headline>NWE naphtha gains $2 on short supplies.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>NWE naphtha firmed on Friday due to tight supply and steady demand, dealers said.</p>
+<p>Maintenance at Algeria's Skikda refinery, imminent shutdowns in northern European plants and heavy August purchases by Petrobras have all helped keep the market tight.</p>
+<p>Refinery run cuts in the north and the Med could also support high N+A demand for reforming.</p>
+<p>September swaps gained $2.00 a tonne to $196.00 and paper was bid/ask at $2.00-2.50 premium. The Sept/Oct backwardation was bid at +$4.00.</p>
+<p>-- Tom Ashby, London Newsroom +44 171 542 8145</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

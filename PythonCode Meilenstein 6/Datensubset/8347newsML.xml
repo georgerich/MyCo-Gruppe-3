@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8347" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: Current German barley availability 317,181 tonnes.</title>
+<headline>Current German barley availability 317,181 tonnes.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>German intervention barley still available for export stands at 317,181 tonnes out of an original allocation of 500,000 tonnes, French officials who monitor European grain supplies said on Thursday.</p>
+<p>Traders said earlier the European Union might boost the German barley allocation to allow room for a large sale to Saudi Arabia, which was said to have bought heavily on the world market.</p>
+<p>Saudi Arabia bought 800,000 tonnes of barley at delivered prices of $160-162 per tonne, traders said, but there was no immediate official confirmation.</p>
+<p>German traders bid on Thursday for 800,000 tonnes of German intervention barley but it was not clear whether this figure had been corrected for double-counting.</p>
+<p>Other EU intervention supplies left available for export were 144,939 tonnes of German rye and 23,375 tonnes of German soft wheat as food aid, French officials said.</p>
+<p>--Paris newsroom +331 4221 5146</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

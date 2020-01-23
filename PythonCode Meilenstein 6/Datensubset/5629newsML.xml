@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5629" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: CompuServe's woes reflect industry shifts.</title>
+<headline>CompuServe's woes reflect industry shifts.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>As America Online continues to dominate the online services business and new competitors jump into Internet access, online service providers like CompuServe are under more pressure as they try to adapt to the changes.</p>
+<p>Tuesday, CompuServe reported a loss for the first quarter and a decline in subscribers, which it had predicted last month. But it also said its losses will carry into the second quarter, which raised some eyebrows on Wall Street.</p>
+<p>&quot;In online services, there is AOL and everyone else,&quot; said Adam Schoenfeld, a vice president at Jupiter Communications.  </p>
+<p>&quot;They (CompuServe) made a strategic decision to abandon their profitable model and they are trying to compete head to head with AOL and they are now paying a price for that,&quot; Schoenfeld said.</p>
+<p>CompuServe said its losses were due to the decline in subscribers, incremental costs for its Wow! service aimed at novice users, the new version of the CompuServe Information Service, 3.0, and infrastructure improvements in its network.</p>
+<p>CompuServe is moving its service to the lower-cost, open architecture of the Internet, but its investment in the new architecture comes at a bad time, a few months after its IPO.  </p>
+<p>In April, CompuServe went public, at an initial offering price of $30 a share. On Wednesday, it's shares closed at 11-7/8 after tumbling 1-5/8 on its first quarter report.</p>
+<p>And even though America Online still dominates the market, it too has had its share of problems recently and it started a new pricing plan to compete with the encroaching Internet access providers. Two weeks ago, AOL suffered a severe embarrassment when its network was down for 19 hours.</p>
+<p>America Online has over six million subscribers to CompuServe's 5.2 million, which includes members of NiftyServe, a joint-venture in Japan.  </p>
+<p>Some analysts, however, still forecast that even with AOL's recent problems, the company will still likely reach its target of 10 million subscribers by next year.</p>
+<p>&quot;AOL's still growing and CompuServe is not, that's a problem,&quot; said Abhishek Gami, of Nesbitt Burns Securities in Chicago. &quot;AOL will continue to be the market share leader for the proprietary service and the plain vanilla ISPs (Internet service providers) will continue to take share from AOL.&quot;</p>
+<p>Analysts said telcos giants, like AT&amp;T with WorldNet service and now Sprint Corp, will make major inroads in the Internet access market, with their huge customer base.  </p>
+<p>&quot;Everyone is trying to cover their bets and provide access and content. Ultimately, I think those guys will have their niche,&quot; said Doug Rutherford, an industry analyst with Zona Research in Redwood City, Calif. &quot;Why wouldn't you go with AT&amp;T, MCI, or Sprint, if it's all on the same bill. If you are getting a dial tone, do you care who your phone company is?&quot;</p>
+<p>Emily Green, an analyst at Forrester Research, has been long predicting a shift away from online service providers, in favor of direct Internet access providers, as they change too.</p>
+<p>&quot;I still think AOL is going to plateau next year,&quot; Green said, adding that she does not see members reaching 10 million.  </p>
+<p>&quot;I definitely still believe fervently that long term, the ISPs take a lot of opportunity from the online services and what you are seeing is this blending and ultimately the ISPs will look a lot like online services,&quot; Green added.</p>
+<p>Both CompuServe's and Prodigy's move to become Web-based makes sense from an economical viewpoint, because they get away from managing a costly, proprietary network, with everything based on the Internet. But the move is risky and so far, analysts who have seen an early version of Prodigy on  the Web are not that impressed.</p>
+<p>&quot;CompuServe and Prodigy, are going to keep playing around with the rules and how can you get paid for your service,&quot; Gami of Nesbitt Burns said.</p>
+<p>&quot;The Web market hasn't developed.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

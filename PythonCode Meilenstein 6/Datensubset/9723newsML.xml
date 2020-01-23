@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9723" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: German central bank triggers European rate cuts with easing.</title>
+<headline>German central bank triggers European rate cuts with easing.</headline>
+<byline>Janet Northcote</byline>
+<dateline>FRANKFURT 1996-08-22</dateline>
+<text>
+<p>The German central bank announced a larger-than-expected cut in its main money market interest rate on Thursday, boosting the U.S. dollar and triggering interest rate cuts in other European countries.</p>
+<p>The Bundesbank said after its regular council meeting it was cutting its securities repurchase rate, or repo, to three percent, a historic low, from 3.30 percent.</p>
+<p>Its official discount and Lombard rates -- the floor and ceiling for German money market rates were held steady at he 2.50 percent and 4.50 percent respectively, in line with economists' expectations.</p>
+<p>Market speculation in advance of the meeting had centred on the repo rate, which the Bundesbank has held steady since February, despite lowering its official rates in mid-April.</p>
+<p>Other European central banks, keen to cut credit costs to boost economic growth, quickly followed the Bundesbank's lead.</p>
+<p>The Bank of France responded by immediately cutting its intervention rate to 3.35 percent from 3.55 percent.</p>
+<p>Belgium cut its central rate to three percent from 3.20 percent and Austria reduced its Gomex rate to 3.30 percent from 3.4 percent and its repo to three percent from 3.30 percent.</p>
+<p>The Bundesbank gave no explanation of its decision in an initial statement made after the council meeting.</p>
+<p>But economists said a slowdown in M3 money supply growth -- its leading monetary policy indicator -- to an annualised 8.6 percent in July from 9.6 percent in June had probably tipped the balance in favour of a cut.</p>
+<p>The move came despite data released this week which shows that the German economic recovery is on a stronger footing that many economists had thought.</p>
+<p>Financial markets' attention had been riveted on the outcome, with many players saying the Bundesbank had to act to avert an outbreak of tension in currency markets.</p>
+<p>Four weeks ago, markets were thrown into confusion when the Bundesbank failed to deliver a repo easing although comments from several senior central bank officials had made clear in advance that financial markets should be prepared for a move.</p>
+<p>The result was a renewed fall in the U.S. dollar and a series of attacks on the French franc, driven by market worries that the Bundesbank was trying to do its utmost to undermine European monetary union by braking European economic growth.</p>
+<p>Solid economic growth would help European governments to rein in their budget deficits, the main barrier most countries face in qualifying to join the single European currency.</p>
+<p>Hopes for an easing had dwindled on Wednesday and Thursday, after fresh economic statistics indicated that the economy was in better shape than many had thought, removing one basic argument in favour of easing monetary policy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

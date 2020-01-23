@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11486" id="root" date="1996-08-23" xml:lang="en">
+<title>UNITED NATIONS: Text of Australia's anti-nuke resolution at U.N..</title>
+<headline>Text of Australia's anti-nuke resolution at U.N..</headline>
+<dateline>UNITED NATIONS 1996-08-23</dateline>
+<text>
+<p>Following is the text of a resolution Australia plans to present to the United Nations General Assembly on Sept. 9 to counter India's veto of a draft treaty to ban nuclear testing, negotiated at the Geneva-based Conference on Disarmament.</p>
+<p>Australia has submitted the text of the draft treaty and resolution to Secretary-General Boutros Boutros-Ghali to be circulated to all U.N. members. If the resolution is adopted, the treaty can be open for signature.</p>
+<p>------</p>
+<p>THE GENERAL ASSEMBLY,</p>
+<p>RECALLING its resolution 50/65 of 12 December 1995, in which the Assembly declared its readiness to resume consideration of the item &quot;Comprehensive Nuclear Test-Ban Treaty,&quot; as necessary, before its 51st session in order to endorse the text of a Comprehensive Nuclear Test-Ban Treaty,</p>
+<p>1. ADOPTS the Comprehensive Nuclear Test-Ban Treaty, as contained in ... (document number allocated to treaty text to be filled in);</p>
+<p>2. REQUESTS the Secretary-General, as depositary of the treaty, to open it for signature, at United Nations headquarters, at the earliest possible date;</p>
+<p>3. CALLS UPON all states to sign and, thereafter, according to their respective constitutional processes, to become parties to the treaty at the earliest possible date;</p>
+<p>4. REQUESTS the Secretary-General, as depositary of the treaty, to report to the General Assembly at its 52nd session on the status of signature and ratifications of the treaty.</p>
+<p>(end text)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

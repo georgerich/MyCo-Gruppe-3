@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10827" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Cymer Inc sets terms for IPO.</title>
+<headline>Cymer Inc sets terms for IPO.</headline>
+<dateline>SAN DIEGO 1996-08-23</dateline>
+<text>
+<p>Cymer Inc said it plans to offer 3.34 million shares in an estimated price range of $7.50-$9.50 each in its upcoming initial public offering.</p>
+<p>The company filed in July for an IPO but did not disclose terms of the deal.</p>
+<p>Cymer's excimer lasers are used in the deep ultraviolet photolithography systems used to make the very small images that are used make advanced semiconductor chips.</p>
+<p>Morgan Stanley &amp; Co Inc, Montgomery Securities and Needham &amp; Co Inc are the underwriters of the offering.</p>
+<p>The company has filed to list on the Nasdaq under the symbol &quot;CYMI&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34350">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8590" id="root" date="1996-08-22" xml:lang="en">
+<title>DENMARK: SOCCER-NEWCOMERS IN DANISH WORLD CUP SQUAD.</title>
+<headline>SOCCER-NEWCOMERS IN DANISH WORLD CUP SQUAD.</headline>
+<dateline>COPENHAGEN 1996-08-22</dateline>
+<text>
+<p>Denmark's new Swedish-born coach Bo Johannsen mixes fresh blood with the experience of the Laudrup brothers in his 16-man squad announced on Thursday for the World Cup qualifer against Slovenia in Ljubljana on September 1.</p>
+<p>Brian and Michael Laudrup have been complemented by young prospects Soeren Andersen, a forward, and midfielder Ole Bjur, who scored in the 1-0 victory over Sweden in a friendly earlier this month.</p>
+<p>Johannsen succeeded Richard Moeller Nielsen after Denmark's disappointing defence of the European championship in June.</p>
+<p>Squad:</p>
+<p>Goalkeepers - Peter Schmeichel (Manchester United), Mogens Krogh (Brondby).</p>
+<p>Defenders - Jes Hoegh (Fenerbahce), Marc Rieper (West Ham), Jakob Friis-Hansen (Hamburg), Jacob Laursen (Derby).</p>
+<p>Midfielders - Thomas Helveg (Udinese), Ole Bjur (Brondby), Bjarne Goldbaek (FC Copenhagen), Allan Nielsen (Tottenham), Brian Steen Nielsen (Urawa Red Diamond, Japan), Michael Schjoenberg (Odense), Claus Thomsen (Ipswich).</p>
+<p>Strikers - Brian Laudrup (Glasgow Rangers), Michael Laudrup (Vissel Kobe, Japan), Soeren Andersen (Aalborg).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

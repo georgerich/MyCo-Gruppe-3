@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8920" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: LPC-Four banks lending $600 mln to LIN Television.</title>
+<headline>LPC-Four banks lending $600 mln to LIN Television.</headline>
+<text>
+<p>NEW YORK, August 22 (LPC) - Bank of New York, Chase Manhattan Bank, Citicorp's Citibank and Toronto-Dominion Bank are arranging a $600 million loan for LIN Television Corp, market sources said.</p>
+<p>The deal refinances a $500 million loan put in place by the four banks in November 1994, according to bankers.</p>
+<p>Pricing on the 8.25-year reducing revolver ranges from 40 to 100 basis points over the London Interbank Offered Rate (LIBOR), depending on the borrower's leverage ratio, a banker said. The four lead banks are soliciting existing lenders to join the new deal, bankers said.</p>
+<p>The 1994 loan was structured as a $300 million, eight-year revolver and a $200 million, eight-year revolver with opening pricing op 200 basis points over LIBOR, a banker said.</p>
+<p>--Beth Harmen, LPC Editorial, 212 489-5455</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

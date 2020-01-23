@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8426" id="root" date="1996-08-22" xml:lang="en">
+<title>NORWAY: Statoil mulls plans to abandon Tommeliten field.</title>
+<headline>Statoil mulls plans to abandon Tommeliten field.</headline>
+<dateline>OSLO 1996-08-22</dateline>
+<text>
+<p>Statoil said on Thursday Norwegian authorities and licence partners for the Tommeliten oil and gas field were considering plans to abandon the development.</p>
+<p>The field, which came on stream in 1988, is due to cease production in late 1997 or early 1998. It pumped 2,970 barrels per day of oil in July, according to Statoil figures.</p>
+<p>&quot;We won't be recommending a solution until we've had a discussion with our partners and the authorities,&quot; said Liv Fjermestad, Tommeliten operations manager.</p>
+<p>Four solutions were under consideration, the company's Status Weekly newsletter said. Removal and re-use of pipelines and template, removal and recycling of pipelines, cables and template, dumping the template in deep water and leaving pipelines, cables and template in situ.</p>
+<p>All the approaches were environmentally and technically acceptable, Fjermestad said.</p>
+<p>The final plan is due to go the the energy ministry towards the end of the year.</p>
+<p>-- Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

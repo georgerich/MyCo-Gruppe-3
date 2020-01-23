@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4229" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Medtronic acquires Sensors product line.</title>
+<headline>Medtronic acquires Sensors product line.</headline>
+<dateline>MINNEAPOLIS 1996-08-20</dateline>
+<text>
+<p>Medtronic Inc said Tuesday it acquired the assets of the Sensors Business Unit of Drager Medical Electronics of Best, the Netherlands.</p>
+<p>Financial terms were not disclosed.</p>
+<p>The Drager sensors unit makes invasive pressure transducers, consisting of a silicon chip sensor and connector. The sensor and connector are incorporated into a catheter-shaped housing that can be maneuvered or implanted in the brain to assess cerebrospinal fluid accumulation, Medtronic said.  </p>
+<p>Through its sensors unit, Drager Medical offers two families of catheter-based pressure-monitoring products, both designed to be compatible with modern external patient monitoring equipment, Medtronic said.</p>
+<p>Microtransducer catheters for neurological, cardiovascular and urodynamic applications are grouped into one product family. The second features the Ventconrol MTC designed for placement in the ventricles of the brain, enabling continuous drainage of cerebrospinal fluid while simultaneously monitoring intracranal pressure.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

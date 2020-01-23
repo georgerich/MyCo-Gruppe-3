@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7516" id="root" date="1996-08-21" xml:lang="en">
+<title>SWEDEN: Skanska wins 187 mln skr Sweden order.</title>
+<headline>Skanska wins 187 mln skr Sweden order.</headline>
+<dateline>STOCKHOLM 1996-08-21</dateline>
+<text>
+<p>Swedish construction company Skanska AB said on Wednesday it had won a school construction order in northern Stockholm to a value of 187 million crowns.</p>
+<p>&quot;This is not only a great pleasure for us but it is also an interesting concept which could mean more opportunities for us in the future,&quot; Skanska said in a statement.</p>
+<p>The project involves building one new school and removating five others.</p>
+<p>-- Stockholm newsroom +46-8-700 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I5010028">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

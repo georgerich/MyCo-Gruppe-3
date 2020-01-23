@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6166" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexico Bondes rate falls slightly at auction.</title>
+<headline>Mexico Bondes rate falls slightly at auction.</headline>
+<dateline>MEXICO CITY 1996-08-20</dateline>
+<text>
+<p>The rate on Mexican government development bonds, or Bondes, fell 0.01 percentage points to 1.26 percent above the 28-day Cetes rate in Tuesday's primary auction, dealers estimated.</p>
+<p>The 728-day Bondes were assigned at 98.03119 pesos.</p>
+<p>Demand for the Bondes was 1.437 billion pesos, compared with the 800 million offered by the Banco de Mexico.</p>
+<p>--Mexico City newsroom 525 728-9559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4787" id="root" date="1996-08-20" xml:lang="en">
+<title>TAIWAN: Taiwan frets over capital flows to China.</title>
+<headline>Taiwan frets over capital flows to China.</headline>
+<dateline>TAIPEI 1996-08-20</dateline>
+<text>
+<p>Taiwan's president has urged the central bank to study how to control capital outflows to China in a further bid to limit the island's economic exposure on its main rival's turf, a local newspaper said on Tuesday.</p>
+<p>President Lee Teng-hui, in a meeting on Monday, also pressed central bank governor Sheu Yuan-dong to find ways to better manage indirect investment by Taiwanese banks in China, the Economic Daily News reported.</p>
+<p>President Lee's office and a central bank spokesperson declined to comment on the reported meeting, which the newspaper described as a call by Lee for a review of the central bank's policy toward China.</p>
+<p>Speculation that Taipei might change its China policies has mounted since Lee cautioned on August 14 that the island needed to avoid over-dependence on the mainland for investment.</p>
+<p>Economics Minister Wang Chih-kang said on Sunday the government would maintain a &quot;consistent&quot; policy on mainland investments and not impose additional restrictions.</p>
+<p>Some 30,000 Taiwan firms have poured more than US$20 billion into China since the late 1980s, channeling capital indirectly through Hong Kong and other centres to comply with a nearly five-decade-old ban on direct links with communist China.</p>
+<p>Taiwan and China have been arch rivals since a civil war separated them in 1949.</p>
+<p>China regards Taiwan as a renegade province and threatens to recover the island by force if it seeks independence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

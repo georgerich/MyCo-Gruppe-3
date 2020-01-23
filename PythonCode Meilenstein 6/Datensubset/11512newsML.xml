@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11512" id="root" date="1996-08-23" xml:lang="en">
+<title>PORTUGAL: Portugal budget deficit down 22 pct Jan-July. [CORRECTED 15:17 GMT]</title>
+<headline>Portugal budget deficit down 22 pct Jan-July. [CORRECTED 15:17 GMT]</headline>
+<dateline>LISBON 1996-08-23</dateline>
+<text>
+<p>The Finance Ministry said the state budget deficit rose (corrects from fell) to 412.1 billion escudos in the first seven months of 1996, up (corrects from down) 114.7 billion compared with the same period last year.  </p>
+<p>The deficit was 297.3 billion escudos ($1.95 billion) over the same period last year.</p>
+<p>The deficit on the current account, excluding capital expenditure and income, rose to 162.8 billion escudos from 116.2 billion over the same 1995 period.</p>
+<p>Capital expenditure fell 0.5 percent to 261.9 billion escudos.</p>
+<p>The Finance Ministry said the sharp rise in current spending reflected changes in the method of financing the social security system. The changes were foreseen in the 1996 budget plan.</p>
+<p>For the full year, the government forecasts the budget deficit will narrow to around four percent of gross domestic product (GDP) from 5.2 percent last year.</p>
+<p>The deficit on the primary balance, which is net of interest payments, fell 39 percent year on year in january-July to 162.6 billion escudos from 266.7 billion.</p>
+<p>($1=152.66 escudos) (c) Reuters Limited 1996</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

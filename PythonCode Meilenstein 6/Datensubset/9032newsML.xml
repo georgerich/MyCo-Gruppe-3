@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9032" id="root" date="1996-08-22" xml:lang="en">
+<title>CANADA: WCE canola rises on commercials, crushers.</title>
+<headline>WCE canola rises on commercials, crushers.</headline>
+<dateline>WINNIPEG 1996-08-22</dateline>
+<text>
+<p>WCE canola futures ended up on commercial and crusher demand, traders said.</p>
+<p>&quot;We had good commercial buying with some hedges and crushers bought about 500 November in the past two days,&quot; a trader said. Sep-Nov spread at $5, Jan-Mar at $2.50. Volume was 2,900 lots, or 58,000 tonnes, including 275 hedge lots.</p>
+<p>September canola rose $0.90 to $425.60, November rose $1.10 to $431.40. October flax fell $0.20 to $392.30, January rose $1.50 to $365 with 80 Oct-Jan spreading at $28, five Oct Nov spread at $29. Volume was 239 lots, or 4,780 tonnes.</p>
+<p>Oats did not trade.</p>
+<p>Feed wheat's Oct-Dec spread widened to $13.50 then $14 from Wednesday's $12.50. October closed $3.60 higher at $205.60 and December was up $1.60 to $191.10 on commercial demand. Volume was 855 lots.</p>
+<p>November western barley rose $0.40 to $159.30 after commission selling took it down to $158 and triggered moderate commercial demand, a trader said. Volume was 1,100 lots.</p>
+<p>One hundred October feed peas traded down US$0.50 to US$203.50.</p>
+<p>(All values in Canadian dollars/tonne except peas, oats)</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

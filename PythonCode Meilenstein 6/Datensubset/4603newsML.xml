@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4603" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Tokyo Gas to start first gas/refuse power plant.</title>
+<headline>Tokyo Gas to start first gas/refuse power plant.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Tokyo Gas Co Ltd, a power utility, said on Tuesday it would start operation of Japan's first power generator which combines a gas turbine with a refuse power plant on Wednesday.</p>
+<p>The gas-turbine-combined-refuse power plant uses high temperature exhaust produced from a gas turbine to heat steam from a waste incinerator, a company spokeswoman said.</p>
+<p>Compared to the standard refuse power plant, power generation is 15 to 34 percent more efficient. The plant in Gumma prefecture, north of Tokyo, has total capacity of 25,000 kilowatts and cost about six billion yen to build, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

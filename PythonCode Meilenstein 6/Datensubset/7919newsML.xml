@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7919" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: BUNDESBANK CUTS REPO, HOLDS OFFICIAL RATES STEADY.</title>
+<headline>BUNDESBANK CUTS REPO, HOLDS OFFICIAL RATES STEADY.</headline>
+<dateline>FRANKFURT 1996-08-22</dateline>
+<text>
+<p>The Bundesbank said on Thursday its council held the German discount and Lombard rates steady after its regular meeting, but cut its main money rate, the repo, to three percent from 3.30 percent.</p>
+<p>The German discount rate remains at 2.50 percent and the Lombard emergency financing rate at 4.50 percent. The securities repurchase rate or repo has been steady at 3.30 percent since February.</p>
+<p>Today's repo cut was larger than most economists had expected. Several had predicted a cut of up to 20 basis points.  </p>
+<p>The Bundesbank gave no explanation of the move in an initial statement made after the council meeting.</p>
+<p>Market speculation in advance of the meeting had centred on the repo, which the Bundesbank has held steady since February, despite lowering its official rates in mid-April.</p>
+<p>Early this week, a slowdown in M3 money supply growth to an annualised 8.6 percent in July from 9.6 percent in June convinced markets that the Bundesbank could finally deliver a long-awaited easing in the money market rate this week.</p>
+<p>But hopes had dwindled on Wednesday and Thursday, after fresh economic statistics indicated that the economy was in better shape than many had thought, removing one basic argument in favour of easing monetary policy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

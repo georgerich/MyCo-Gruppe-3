@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4756" id="root" date="1996-08-20" xml:lang="en">
+<title>TAIWAN: Taiwan state TV says vice-president in Ukraine.</title>
+<headline>Taiwan state TV says vice-president in Ukraine.</headline>
+<dateline>TAIPEI 1996-08-20</dateline>
+<text>
+<p>Taiwan Vice-President Lien Chan's secretive journey has taken him to Ukraine, a state-funded television station said on Tuesday.</p>
+<p>&quot;After Vice-President Lien mysteriously disappeared in New York (on Sunday), he made a brief stopover in Vienna and then flew to the Ukrainian capital Kiev,&quot; Taiwan Television said in its midday broadcast.  </p>
+<p>The broadcast gave no source for the information.</p>
+<p>Taiwan's authoritative United Daily News, also giving no source for its information, said in Tuesday's edition that Lien would meet in Kiev with Ukraine's head of state.</p>
+<p>Ukraine, a member of the former Soviet Union, recognises the communist government in Beijing, not Taiwan's exiled Republic of China government, but has made clear its desire for better relations with Taiwan and its powerful export-driven economy.</p>
+<p>Since a civil war separated them in 1949, Beijing has regarded Taiwan as a renegade province ineligible for sovereign ties with other countries and has pledged to retake Taiwan by force if it tries to become an independent country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

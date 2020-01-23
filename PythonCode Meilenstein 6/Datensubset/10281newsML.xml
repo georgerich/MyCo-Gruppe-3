@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10281" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH AFRICA: Motolink gets option to buy Alex Carriers.</title>
+<headline>Motolink gets option to buy Alex Carriers.</headline>
+<dateline>JOHANNESBURG 1996-08-23</dateline>
+<text>
+<p>Motolink Ltd, the South African motor dealership group, said on Friday it had acquired an option, at no cost, to purcahse the entire share capital and all shareholders' claims against Alex Carriers (Pty) Ltd.</p>
+<p>Alex Carriers is the fifth largest long distance transporter in South Africa.</p>
+<p>Motolink can exercise the option up to April 1997 for five times annualised pre-tax profit, subject to a minimum 40 million rand and maximum 60 million. Payment will be settled by the issue of Motolink shares.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

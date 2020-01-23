@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5082" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-APN sees small H2 abnormal charge.</title>
+<headline>RTRS-APN sees small H2 abnormal charge.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Australian Provincial Newsapers Ltd (APN) said on Wednesday it expects a small abnormal charge in the second half of calendar 1996, relating to the set up of new technology in its Queensland regional papers.</p>
+<p>&quot;I would say we would be looking at between half a million and a million (Australian dollars),&quot; chief executive Cameron O'Reilly told a briefing to analysts and reporters in Sydney.</p>
+<p>On Tuesday, APN reported a net profit of A$11.56 million for the six months to June 30, 1996, compared with A$10.29 million a year earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

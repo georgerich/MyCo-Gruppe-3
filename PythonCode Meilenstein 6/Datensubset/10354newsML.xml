@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10354" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH KOREA: LG Group plans local industrial complex.</title>
+<headline>LG Group plans local industrial complex.</headline>
+<dateline>SEOUL 1996-08-23</dateline>
+<text>
+<p>South Korea's third largest conglomerate, the LG Group, plans to invest 1.53 trillion won by the year 2002 in building an industrial complex, a group spokesman said on Friday.</p>
+<p>The complex in the southwestern city of Kunsan will house garment, metal and electronics products plants and will produce 2.2 trillion won worth of goods annually, he said.</p>
+<p>From 1999 to 2001, LG Electronics plans to spend 631.9 billion won on the electronics goods plant.</p>
+<p>LG International plans to spend 367.3 billion won on the garment factory from the year 2002 for completion by 2004. The remining sum will be invested by LG Metals.</p>
+<p>The spokesman said the complex would employ about 10,000 workers.</p>
+<p>Further details were not given.</p>
+<p>-- Seoul Newsroom (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

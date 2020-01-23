@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2973" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: IPO HIGHLIGHTS- CapStar in heavy trading, Atria up.</title>
+<headline>IPO HIGHLIGHTS- CapStar in heavy trading, Atria up.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Shares of CapStar Hotel Inc were one the most heavily traded stocks on the New York Stock Exchange on Tuesday, the first day of trading after the company's $166.5 million initial public offering.</p>
+<p>Shares were flat at 18 in afternoon trading.</p>
+<p>The hotel company offered 9.25 million shares which priced at $18 each. The shares had been estimated to price in a range of $17 to $20. CapStar manages 31 hotels, owns 12 upscale full-service hotels, and has agreements to buy five additional hotels. Lehman was the lead underwriter of the deal.</p>
+<p>Atria Communities Inc rose 5/8 to 10-5/8. The company, which operates assisted living centers for the elderly, offered five million shares at $10 each, below their estimated pricing range or $13 to $15 each.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

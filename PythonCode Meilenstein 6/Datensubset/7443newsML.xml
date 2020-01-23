@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7443" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: Land premium set for SHK Prop site - paper.</title>
+<headline>Land premium set for SHK Prop site - paper.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>The Hong Kong Economic Journal said on Wednesday the government had set a land premium of HK$2.6 billion for a site in Tseung Kwan O to be jointly developed by Sun Hung Kai Properties Ltd and Hong Kong Oxygen &amp; Acetylene Co Ltd.</p>
+<p>The figure represents a an average land premium of HK$1,800 per sq ft of gross floor area, the Chinese language daily said.</p>
+<p>The 182,480-sq-ft site in the New Territories is expected to generate a gross floor area of 1.45 million sq ft.</p>
+<p>Executives from Sun Hung Kai, Hong Kong Oxygen and the government were not immediately available for comment.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6590</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

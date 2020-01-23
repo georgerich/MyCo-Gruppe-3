@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11448" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Muni yields rise slightly in past week - Delphis.</title>
+<headline>Muni yields rise slightly in past week - Delphis.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Municipal bond yields rose about five basis points in the week ended Thursday, though the triple-A sector managed for the most part to hold steady, Delphis Hanover Corp said Friday.</p>
+<p>The market's losses roughly mirrored the Treasury market, where the yield on the long bond rose three basis points, to 6.84 percent, over the same period.</p>
+<p>A stronger-than-expected durable goods report Friday morning sent yields surging again, with the long bond hitting 6.94 percent by mid-afternoon.</p>
+<p>Thirty-year Aaa-rated municipal yields where unchanged for the second week in a row, at 5.60 percent, Delphis said. Thirty-year Baa yields rose five basis points to 6.35 percent.</p>
+<p>In the intermediate sector, ten-year Aaa-rated muni yields were unchanged at 4.85 percent, while Baa-rated 10-years rose five to 5.65 percent.</p>
+<p>Average yields on one-year municipal bonds were up five basis points across the credit spectrum, with Aaa's at 3.65 percent and Baa-rated one-years moving to 4.40 percent.</p>
+<p>The Aaa municipal yield curve flattened five basis points to 195 basis points, reversing the prior week's five basis point steepening. The spread between one-year and 30-year Baa's was unchanged at 195.</p>
+<p>The credit spread between Aaa-rated and Baa-rated one-years was unchanged at 75 basis points, and the 30-year spread widened five to 75 basis points.</p>
+<p>--Steven Dickson, 212-859-1652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

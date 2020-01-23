@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4507" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Mobil extends Ampolex offer.</title>
+<headline>RTRS-Mobil extends Ampolex offer.</headline>
+<dateline>SYDNEY 1996-08-20</dateline>
+<text>
+<p>Ampolex Ltd said on Tuesday it had been advised by Mobil Corp that it would extend its takeover offer for Ampolex's ordinary shares and the 5.5 percent convertible redeemable preference shares by five days.</p>
+<p>The bid would now close on September 3.</p>
+<p>The offer, now unconditional, saw Mobil bidding A$4.64 per Ampolex ordinary share and A$4.66 per preference share.</p>
+<p>As at August 19, Mobil was entitled to 99.23 percent of the ordinary shares and 99.9 percent of the preference shares.</p>
+<p>Ampolex shares closed steady at A$4.66.</p>
+<p>-- Sydney Newsroom 61-2 373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

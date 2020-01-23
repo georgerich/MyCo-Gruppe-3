@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6252" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: South Korea to tighten quarantine for U.S. corn.</title>
+<headline>South Korea to tighten quarantine for U.S. corn.</headline>
+<byline>Jae Hur</byline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>The South Korean government said on Wednesday it is tightening quarantine procedures for U.S. corn imports, concerned about the possible spread of a cancer-causing toxin through U.S. corn belts.</p>
+<p>&quot;We are planning to send official notes to all branch offices to reinforce quarantine for imported corn from the United States,&quot; said Oh Kyun-taek, an official at the Korea Food and Drug Administration.  </p>
+<p>Aflatoxin, a potent carcinogen, has been discovered in much of the corn now being harvested along the Texas Gulf Coast, and grain sources said more may be found as the harvest moves north.</p>
+<p>&quot;It is a high level (of contamination) and it is serious,&quot; said George Latimer, a Texas state chemist told Reuters in the United States on Tuesday. &quot;The levels are of considerable concern throughout Texas.&quot;</p>
+<p>Aflatoxin is a product of an air-borne fungus. When corn crops are under stress, as they were during dry weather in the United States this year, fungus spores attack the grain and create the toxin.  </p>
+<p>&quot;It will cause serious problems to Korean buyers since we import most of our corn requirement from the United States,&quot; Yoo Yang-dong, a trader at Cheiljedang Corp, told Reuters in Seoul.</p>
+<p>South Korean traders said it would be hard to find alternative corn to buy if aflatoxin spread from the Texas Gulf Coast to major corn belts.</p>
+<p>&quot;If U.S. corn has aflatoxin problems, where can we buy our corn requirements?&quot; said Yoo.  </p>
+<p>South Korea's corn imports totalled 9.04 million tonnes in 1995. The United States supplied about 95 percent of that, a government source said.</p>
+<p>&quot;We are wary of aflatoxin on the Texas Gulf Coast,&quot; said Kim Yong-chul, a senior official at the National Livestock Cooperative Federation.</p>
+<p>&quot;We plan to inform our suppliers of our concern. We will closely monitor imported corn and any further development of aflatoxin in United States,&quot; Kim said.</p>
+<p>He said the federation imported about two million tonnes of corn in 1995, most of it from the United States.  </p>
+<p>Traders said aflatoxin is a potentially a bigger problem than the karnal bunt fungus that hit the U.S. wheat crop earlier this year, as the United States is the world's largest corn exporter.</p>
+<p>&quot;The United States supplies about 75-80 percent of world corn exports. We expect corn prices will rise if aflatoxin spreads over major corn belts in the United States,&quot; Yoo said.</p>
+<p>Several buyers in Seoul said they were not very concerned because they had contracts specifying that aflatoxin should not be present.  </p>
+<p>&quot;We are not concerned that much since we specified aflatoxin to be negative in the contract with suppliers. Our suppliers will take care of this problem,&quot; an official of Korea Feed Association said.</p>
+<p>The Korea Food and Drug Administration (KFDA), spun off from the Ministry of Health and Welfare in April, bars corn that contains aflatoxin in excess of 10 parts per billion (ppb) from human consumption, and in excess of 50 ppb for livestock.</p>
+<p>A large amount of the harvested corn in Texas contained up to 300 ppb and much of it was shipped to cattle feed lots in the state, U.S. grain sources said.  </p>
+<p>Corn containing aflatoxin in excess of 20 ppb is barred by the U.S. Food and Drug Administration from human consumption and levels exceeding 300 ppb are barred from livestock use.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

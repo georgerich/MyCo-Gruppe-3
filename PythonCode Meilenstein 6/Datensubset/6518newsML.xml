@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6518" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: German court probes cancer cases near power plant.</title>
+<headline>German court probes cancer cases near power plant.</headline>
+<byline>Clifford Coonan</byline>
+<dateline>FRANKFURT 1996-08-21</dateline>
+<text>
+<p>Germany's federal court said on Wednesday it would investigate the nuclear power plant at Kruemmel to see if it was in any way responsible for the large number of cases of leukemia in the area.</p>
+<p>The Mainz children's cancer register shows that the incidence of leukemia among children is up to 70 times higher around the Kruemmel plant than in the rest of the country.</p>
+<p>The move by the federal court in Berlin overturns a previous decision by the Schleswig adminstrative court from 1994, which rejected a claim that there was a link between the power plant and a series of leukemia cases in the locality.</p>
+<p>The chairwoman of the environmental organisation BUND, Renate Backhaus, took the Finance and Energy ministries of Schleswig-Holstein to court after the plant's operators Hamburg Elektrizitaets-Werke introduced a new kind of combustion element at the plant in 1991.</p>
+<p>The introduction of the new combustion element was approved by the authorities at the time.</p>
+<p>The federal court said the initial decision by the Schleswig court was reached without investigating the possibility of a link to the leukemia cases.</p>
+<p>The case has been referred back to the Schleswig court, with instructions to carry out a full security investigation into the plant before a decision is reached.</p>
+<p>HEW said the decision would not affect the operation of Kruemmel. It remained convinced there was no connection between the operation of the power plant and leukemia among children in the area.</p>
+<p>The decision to investigate the Kruemmel plant has been widely welcomed by environmentalists in Germany. The Green party in Schleswig-Holstein said it was a small step on the way to closing the Kruemmel plant.</p>
+<p>Other German energy companies also said the Kruemmel decision would not affect the operation of their nuclear power plants.</p>
+<p>&quot;The decision doesn't affect us,&quot; a spokesman for the Bavarian power company Bayernwerk said in Munich.</p>
+<p>A spokesman for RWE Energie in Duesseldorf said the Kruemmel case was a very specialised individual case which did not affect its power plants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

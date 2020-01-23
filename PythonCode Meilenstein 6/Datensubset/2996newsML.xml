@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2996" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Arctco changes name to Arctic Cat.</title>
+<headline>Arctco changes name to Arctic Cat.</headline>
+<dateline>THIEF RIVER FALLS, Minn. 1996-08-20</dateline>
+<text>
+<p>Arctco Inc said Tuesday its board of directors and stockholders have approved a corporate name change, effective immediately, to Arctic Cat Inc which is also the company's registered trademark.</p>
+<p>Arctic Cat said its board recommended this change as a result of numerous requests from both customers and dealers.</p>
+<p>Arctic Cat designs, makes and markets snowmobiles, all-terrain vehicles and personal watercraft.</p>
+<p>	  Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THIEF RIVER FALLS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

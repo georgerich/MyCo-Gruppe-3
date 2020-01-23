@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9939" id="root" date="1996-08-22" xml:lang="en">
+<title>NEW ZEALAND: BNZ cuts NZ fixed home lending rates.</title>
+<headline>BNZ cuts NZ fixed home lending rates.</headline>
+<dateline>WELLINGTON 1996-08-22</dateline>
+<text>
+<p>Bank of New Zealand said on Thursday it was cutting its fixed home lending rates.</p>
+<p>The rates are:</p>
+<p>				 New rate	    old rate</p>
+<p>    Six month rate	 10.5 pct	    10.75</p>
+<p>    One year		 10.5 pct	    10.95</p>
+<p>    Two year		 10.5 pct	    11.25</p>
+<p>    Three year	     10.5 pct	    11.25</p>
+<p>BNZ said it was responding to lower wholesale rates. Fixed business and farm lending rates rates were left unchanged although they were under review.  </p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

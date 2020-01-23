@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10788" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Ceridian integrates human resource units.</title>
+<headline>Ceridian integrates human resource units.</headline>
+<dateline>MINNEAPOLIS 1996-08-23</dateline>
+<text>
+<p>Ceridian Corp said Friday it has integrated two of its human resource businesses, Ceridian Employer Services and TesserAct Technology.</p>
+<p>The new business, called Ceridian Employer Services, will provide human resource management systems, outsourced payroll and tax-filing services, and in-house payroll and benefits software.</p>
+<p>&quot;This organizational change formalizes the integration efforts we began when we acquired TesserAct Technology in 1994,&quot; said Ron James, president and chief executive officer of Ceridian Human Resources Group.</p>
+<p>&quot;Since the acquisition, we have been focusing on synergies and decided that the time was right to formalize the integration of the two businesses,&quot; he said.</p>
+<p>The newly integrated Ceridian Employer Services business serves more than 30,000 customers, including 30 percent of those in the Fortune 100.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

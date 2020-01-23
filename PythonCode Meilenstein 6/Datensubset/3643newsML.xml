@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3643" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: FORECAST -- U.S. economic indicators -- Aug 19 wk.</title>
+<headline>FORECAST -- U.S. economic indicators -- Aug 19 wk.</headline>
+<text>
+<p>DATE   EDT/GMT    Indicator     Period  Avg Fcast  Prev Report</p>
+<p>08/20 0830/1230 Int'l Trade     June -$8.1 bln-A -$10.55 bln-R</p>
+<p>08/20 0900/1300 Mitsubishi     w/e 08/17  -0.3 pct    +0.5 pct</p>
+<p>08/20 0900/1300 FOMC Meets in Washington</p>
+<p>08/20 1455/1855 Redbook	  w/e 08/17   NA	   +1.8 pct</p>
+<p>08/21 1000/1400 Import Prices    July	NA	   -1.2 pct</p>
+<p>		    Export Prices		  NA	   -0.1 pct</p>
+<p>08/21 1400/1800 Federal Budget   July    -$25.2 bln  $34.1 bln</p>
+<p>08/22 0830/1230 Jobless Claims  w/e 8/17  331,000	321,000</p>
+<p>08/23 0830/1230*Durable Goods    July     +0.3 pct    -0.6 pct</p>
+<p>DATE   EDT/GMT    Indicator     Period  Avg Fcast  Prev Report</p>
+<p>08/23 0830/1230  Durbls X-Defns  July     +0.8 pct    -1.9 pct</p>
+<p>---------------------FOLLOWING WEEK'S DATA--------------------</p>
+<p>08/26 1000/1400  Existing Homes  July		    +4.18 million</p>
+<p>08/27 1000/1400  Consumer Conf   Aug			   107.2</p>
+<p>08/29 0830/1230  Real GDP	  Q2-Rev		   +4.2 pct</p>
+<p>			Price Index				 +2.1 pct</p>
+<p>			Impl Deflator			     +1.8 pct</p>
+<p>08/29 1000/1400  New Home Sales  July			734,000</p>
+<p>08/30 0830/1230  Personal Inc    July			+0.9 pct</p>
+<p>			Consumption				  -0.2 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

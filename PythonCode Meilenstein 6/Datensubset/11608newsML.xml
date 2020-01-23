@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11608" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: London timecharter fixtures.</title>
+<headline>London timecharter fixtures.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Albacore - (built 1977) 71,730 dwt 14 on 42 plus 1.5 del Haypoint 1-5/9 two to three loaded legs redel Atlantic redel $3,750 first forty days $7,500 balance plus $85,000 bb Docenave (amended).</p>
+<p>Tatry - (built 1990) 66,088 dwt 13.6 on 31.1 plus three del USNH 1-10/9 three to five months $9,000 daily plus $100,000 bb Cosco.</p>
+<p>Angelic Faith - (built 1984) 65,772 dwt 15 on 39 plus three del USG 2-10/9 trip redel Taiwan $11,000 daily plus $150,000 bb NSAC.  </p>
+<p>Golden Glow - (built 1981) 63,990 dwt 13 on 34 plus 2.5 del Singapore spot two to four months redel Far East $7,250 daily PanOcean.</p>
+<p>California - (built 1982) 63,284 dwt 13 on 35 plus 2.5 del Port Kembla 10-15/9 trip redel Bin Qasim $6,500 daily plus $110,000 Korea Line.</p>
+<p>Flag Rolaco - (built 1976) 61,470 dwt 12.5 on 35 plus 2.2 del USG 5-10/9 trip redel Egypt $7,000 daily $100,000 bb NNC.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

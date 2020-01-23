@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3132" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH AFRICA: Marcus says S.African rand undervalued.</title>
+<headline>Marcus says S.African rand undervalued.</headline>
+<dateline>CAPE TOWN 1996-08-20</dateline>
+<text>
+<p>South Africa's rand, which touched an all time low against the dollar of 4.59 in overnight New York trade, was seriously undervalued, deputy finance minister Gill Marcus said on Tuesday.</p>
+<p>Marcus told parliament during a finance debate that the more than 20 percent devaluation of the rand since mid-February was &quot;uppermost in all our minds&quot;.</p>
+<p>But she added: &quot;There is no question that the rand is significantly undervalued and is trading at a level that is out of kilter with the sound fundamentals of the economy.&quot;</p>
+<p>Marcus's assessment contrasted with a report on Monday by Ivor Jones, Roy &amp; Co/Deutsche Morgan Grenfell which said the rand was up to 12 percent overvalued.</p>
+<p>Analysts have attributed part of the rand's fall from around 3.65 to the dollar in mid-February to the fact that it was overvalued at the time.</p>
+<p>But most analysts believe the currency has now fallen below its true value.</p>
+<p>-- Parliamentary newsroom, +27 21 403-2502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

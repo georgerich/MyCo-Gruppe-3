@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4370" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: Commerzbank to issue certificates.</title>
+<headline>Commerzbank to issue certificates.</headline>
+<dateline>FRANKFURT 1996-08-20</dateline>
+<text>
+<p>Germany's Commerzbank AG said it planned to issue 500 million marks of profit-sharing certificates, offering them to investors from September 5 to September 9.</p>
+<p>One profit-sharing certificate worth a nominal 1,000 marks corresponded to 80 Commerzbank shares with a nominal value of 50 marks, Commerzbank said.</p>
+<p>The issue would pay interest of 7.9 percent annually on July 1. The price will be set near market levels on September 12. The basis for the price will be the 6.25 percent German bund which expires on April 26, 2006 plus 155 basis points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

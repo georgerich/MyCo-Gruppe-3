@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5443" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: HUNGARY RADIO NOON HEADLINES - AUG 21.</title>
+<headline>HUNGARY RADIO NOON HEADLINES - AUG 21.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>These are the main Hungarian headlines on Hungary's Kossuth Radio midday news. Reuters cannot vouch for their accuracy:</p>
+<p>- The Foreign Ministry began finalising the text of the Hungarian-Romanian friendship treaty.</p>
+<p>- The Parliament's Foreign Affairs Committee will discuss the treaty probably next week.</p>
+<p>- The head of the Foreign Affairs committee advises Prime Minister Gyula Horn he should receive the chairman of the Hungarians' Association from Romania Bela Marko, to hear his views on the treaty.</p>
+<p>- Refugees from the Nagyatad camp are being transferred to the town of Debrecen.</p>
+<p>- New army conscripts will arrive to their units during the next two days.</p>
+<p>-- Budapest newsroom +36 1 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

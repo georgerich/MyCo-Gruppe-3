@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5391" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: SWIMMING-OLYMPIC GOLD MEDALLIST WHITFIELD DIES.</title>
+<headline>SWIMMING-OLYMPIC GOLD MEDALLIST WHITFIELD DIES.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Australian swimmer Beverley Whitfield, a gold medallist in the 200 metres breaststroke at the 1972 Olympic Games, was found dead at her home on Wednesday, aged 42.</p>
+<p>Whitfield, who also won a bronze medal in the 100 metres breaststroke in Munich, had been suffering influenza, police said in a statement.</p>
+<p>Her body was found in bed on Tuesday night by a flatmate in their apartment near Wollongong, 60 km (37 miles) south of Sydney, police said.</p>
+<p>Australian Olympic Committee president John Coates described Whitfield as a long-time supporter and friend of Australia's Olympic family.</p>
+<p>&quot;This is a tragic and unexpected loss to the Olympic movement in Australia,&quot; Coates told reporters.</p>
+<p>Whitfield won three gold medals at the 1970 Commonwealth Games in Edinburgh.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

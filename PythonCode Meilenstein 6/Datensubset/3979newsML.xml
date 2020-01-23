@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3979" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: London timecharter fixtures.</title>
+<headline>London timecharter fixtures.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>Northern Venture - (built 1995) 64,800 dwt 14 on 29.8 del Taiwan 1-10/9 three to five months redel Singapore-Japan range $8,500 daily K Line.</p>
+<p>Rubin Pioneer - (built 1993) - 69,235 dwt 14 on 30 del Gladstone 10-20/9 trip Japan $7,500 daily plus $95,000 bb K Line.</p>
+<p>Elli B - 62,632 dwt 13 on 29 plus 2.5 del Nopac 26-29/8 Egyptian Med $4,500 daily plus $105,000 bb MISR (amended).</p>
+<p>George Lyas - (built 1984) 35,730 dwt 13 on 23.5 plus 2.5 del Hong Kong 20-25/8 ECSA r/v $8,500 daily Clan Line.  </p>
+<p>Aegean Clipper - (built 1983) 31,430 dwt 13.5 on 27 plus 1.6 del Japan prompt trip North Australia $6,000 daily MOSK.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

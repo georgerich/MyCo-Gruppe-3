@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6823" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: Desjardins-Laurentian Q2 profit falls.</title>
+<headline>Desjardins-Laurentian Q2 profit falls.</headline>
+<dateline>MONTREAL 1996-08-21</dateline>
+<text>
+<p>1996		     1995</p>
+<p> Shr			 C$0.60		   C$0.73</p>
+<p> Net			 27,400		   32,500</p>
+<p> Revs		     932,000		  974,000</p>
+<p>	    6 MONTHS</p>
+<p> Shr			 C$O.89		   C$1.09</p>
+<p> Net			 41,800		   49,800</p>
+<p> Revs		   1,900,000		2,000,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: Full name is Desjardins-Laurentian Financial Corp. Year earlier quarter includes net profit from continuing operations of C$16.3 million or C$0.34 per share, while year earlier six months includes net profit from continuing operations of C$32 million or C$0.65 a share.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

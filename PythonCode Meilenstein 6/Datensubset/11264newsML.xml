@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11264" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-AMLC Beef Weekly - Australian export prices.</title>
+<headline>RTRS-AMLC Beef Weekly - Australian export prices.</headline>
+<dateline>SYDNEY 1996-08-23</dateline>
+<text>
+<p>Australian Meat and Livestock Corp's (AMLC) weekly export prices are as follows:</p>
+<p>AUSTRALIAN EXPORT PRICES TO U.S. IN U.S. CENTS/LB, CIF.</p>
+<p>    Bull	(95 Chemical Lean)	 94     -1  on last week</p>
+<p>    Cow	 (90 CL)			83     n/c</p>
+<p>    Cow	 (85 CL)			77     -1</p>
+<p>    Shank     (90 CL)			84     n/c</p>
+<p>    Trimmings (85 CL)			79     +2</p>
+<p>		  (80 CL)			76     +2</p>
+<p>		  (75 CL)			73     +1</p>
+<p>    Chucks    (85 CL)			79     +1</p>
+<p>AUSTRALIAN EXPORT PRICES TO JAPAN IN U.S. CENTS/LB CIF.</p>
+<p>    Chilled grassfed fullsets	   117     n/c on last week</p>
+<p>    Chilled grassfed loin:striploin   192     +10</p>
+<p>				  cube roll   230     +13</p>
+<p>				 tender loin  416     n/c</p>
+<p>    Frozen Chuck/blade		     82     n/c</p>
+<p>    Frozen Thick flank		     93     n/c</p>
+<p>    Frozen Fore/hind blended	     80	+2</p>
+<p>    Frozen Topside			  101     n/c</p>
+<p>    Frozen Silverside			93	+3</p>
+<p>    Frozen Brisket			   72	n/c</p>
+<p>AMLC COMMENTARY: Mixed developments occurred in the meat and livestock markets during the past week.</p>
+<p>Australian exporters did extremely well in the latest South Korean tender, winning 100 percent of the 4,000 tonnes of grassfed quarter beef on offer and 100 percent of the 1,008 tonnes of grassfed fullsets. The total amount of 5,008 tonnes is the largest tonnage won by Australian exporters in a Korean tender since October 1994. As is usual, U.S. exporters won 100 percent of the 4,552 tonnes of grainfed cuts.  </p>
+<p>Grassfed quarter beef prices were up on average by 14 cents/kg compared with those in the last tender held in July. Price rises for grassfed beef in Korean tenders are not uncommon for this time of year and reflect a seasonal decline from New Zealand.</p>
+<p>Prices for Australian grinding beef to the U.S. this week generally maintained last week's inmproved levels, in active trade.</p>
+<p>Fed cattle markets ended the week significantly higher with choice steers nudging US$68/cwt, up $2/cwt for the week.  </p>
+<p>But the Japan market remains sluggish. Consumer concerns over E. coli have suppressed demand for many food products including beef. The seafood trade into Japan has been particularly affected.</p>
+<p>The E. coli issue seems to be receiving less publicity with the Japanese Minister for Health and Welfare stating that the worst was over. But with high levels of beef stocks in Japan it may be some time before this market fully recovers.</p>
+<p>Queensland slaughter levels at 49,000 head last week remained well below those of last year. New South Wales cattle slaughter was 33,300 head, about 4,000 below last year.  </p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

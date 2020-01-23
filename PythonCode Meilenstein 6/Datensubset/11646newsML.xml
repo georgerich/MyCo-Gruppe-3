@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11646" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: U.S. Treasuries in London dormant, focus on Europe.</title>
+<headline>U.S. Treasuries in London dormant, focus on Europe.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>U.S. T-bonds generated little interest in London on Friday as the market maintained a European focus in the wake of Thursday's German-led interest rate cuts, traders said.</p>
+<p>&quot;It is pretty muted. Treasuries are mainly range-trading with a bit of a bear slant,&quot; said David Bloom, economist at HSBC Capel in London. &quot;Europeans are still focusing on their own market and sidelining Treasuries while they digest what the Bundesbank rate cut means.&quot;</p>
+<p>At 1028 GMT, the long bond was at 98-28, yielding 6.839 percent, versus 98-30 in Tokyo and 98-27 in New York.</p>
+<p>September T-bond futures were at 110-18, unchanged from the Chicago floor settlement.</p>
+<p>The reduction to 3.00 percent from 3.30 percent in Germany's repo rate was followed by rate cuts in several other European countries including France.</p>
+<p>Bloom said the market was unlikely to budge much in response to U.S. durable goods orders for July due at 1230 GMT. The average forecast was for a 0.3 percent increase after a 0.8 percent fall in June.</p>
+<p>Rather he said the next big focus was already on the U.S. August non-farm payroll figures due on September 6.</p>
+<p>A trader at a U.S. bank said the London session was uneventful and likely to continue that way.</p>
+<p>&quot;Treasuries opened near the New York close, maybe a tick better, then when Bunds traded down a little the U.S. just followed a couple of ticks,&quot; he said.</p>
+<p>The trader said the U.S. had opposite economic concerns to Germany's and this was likely to overshadow the market until the September 6 payrolls data.</p>
+<p>&quot;The worry in the U.S. is that the payrolls number is going to be high so sentiment on bonds is negative for fear that the Fed might start talking of tightening again,&quot; he said.</p>
+<p>&quot;In fact yesterday when Bunds rallied off the repo rate cut, at the end of the day the U.S. market was lower.&quot;</p>
+<p>-- Stephen Nisbet, International Bonds +44 171 542 6320</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

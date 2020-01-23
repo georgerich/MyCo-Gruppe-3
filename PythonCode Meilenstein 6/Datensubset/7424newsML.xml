@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7424" id="root" date="1996-08-21" xml:lang="en">
+<title>THAILAND: IFCT Finance and Securities H1 net jumps.</title>
+<headline>IFCT Finance and Securities H1 net jumps.</headline>
+<dateline>BANGKOK 1996-08-21</dateline>
+<text>
+<p>Reviewed financial results for the first six months ending June 30, 1996.</p>
+<p>		   (in millions of baht unless stated)</p>
+<p>			     Six months</p>
+<p>    Shr (baht)		 1.50     vs	    1.23</p>
+<p>    Net			104.73     vs	   49.54</p>
+<p>NOTES: Company's full name is IFCT Finance and Securities Plc. Second quarter figures not available.</p>
+<p>-- Bangkok newsroom 662-252-9950</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11126" id="root" date="1996-08-23" xml:lang="en">
+<title>BOSNIA: PRESS DIGEST - Bosnia - Aug 23.</title>
+<headline>PRESS DIGEST - Bosnia - Aug 23.</headline>
+<dateline>SARAJEVO 1996-08-23</dateline>
+<text>
+<p>These are the leading stories in the Sarajevo press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>OSLOBODJENJE</p>
+<p>- Saudi Arabia donates $20 million for housing reconstruction in Bosnia.</p>
+<p>- France donates 11 million FF towards navigation equipment for battered Sarajevo airport, recently opened for commercial flights.</p>
+<p>DNEVNI AVAZ</p>
+<p>- Training of Moslem-Croat federation army by American experts to begin Aug 26, Bosnian army general Rasim Delic says.</p>
+<p>- The Hague war crimes tribunal opens an office in Sarajevo and another in Belgrade, deputy prosecutor Graham Blewitt says.</p>
+<p>- Bosnian army officer Mirsad Catic, recently arrested by Croatian authorities for alleged involvement in Yugoslav Army attacks on Zadar in 1991, denies he was involved in shelling the town, Catic's attorney Ivan Rudic says.</p>
+<p>VECERNJE NOVINE</p>
+<p>- Fuel prices will remain the same for the time being, Bosnia's federal government says.</p>
+<p>- More than 2,300 Bosnian refugees returned to the country in the last month from Turkey, Macedonia, Denmark, Norway, Jordan and Czech republik.</p>
+<p>--Sarajevo newsroom, +387-71-663-864.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

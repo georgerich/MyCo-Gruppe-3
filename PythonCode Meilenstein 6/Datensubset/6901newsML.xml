@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6901" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: ValuJet says flights will not resume Friday.</title>
+<headline>ValuJet says flights will not resume Friday.</headline>
+<dateline>ATLANTA 1996-08-21</dateline>
+<text>
+<p>ValuJet Inc said on Wednesday that it will not receive federal approval to resume flight service early enough to meet an internal target date set for Friday.</p>
+<p>&quot;Because we did not gain the approval of the DOT (U.S. Transportation Department) and the FAA (Federal Aviation Administration) on Tuesday, it became very clear that we would not be in operations on Friday,&quot; said ValuJet spokesman Gregg Kenyon.</p>
+<p>&quot;We are hopeful of being approved to resume flight operations as soon as possible,&quot; he added.  </p>
+<p>Kenyon had no comment on a Washington Post article which quoted DOT sources as saying the department appeared to be at least 10 days away from issuing the airline a &quot;certificate of fitness&quot;.</p>
+<p>As recently as Tuesday morning, ValuJet said it remained hopeful of receiving DOT permission to advertise and sell tickets and FAA approval to resume flight operations in time to meet its Friday deadline.</p>
+<p>Kenyon said airline executives realized by 3 p.m. on Tuesday that they would not be able to meet their deadline, but he declined to comment further.</p>
+<p>ValuJet has recalled 70 pilots and about 100 flight attendants for training in preparation for a resumption of service. The airline also has put into training 175 customer service agents and 175 to 200 reservation agents.</p>
+<p>-- Atlanta Bureau (404) 870-7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

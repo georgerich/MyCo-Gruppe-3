@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5719" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Lands' End opens operations in Germany.</title>
+<headline>Lands' End opens operations in Germany.</headline>
+<dateline>DODGEVILLE, Wis. 1996-08-21</dateline>
+<text>
+<p>Lands' End Inc said Wednesday it had opened a phone and customer service center in Mettlach, Germany.</p>
+<p>It said it had also mailed its first official German-language catalog with prices denominated in marks. The 68-page catalog features a selection of the company's top-selling items of American-styled casual clothing.</p>
+<p>Orders will be packed and shipped from the Lands' End European distribution center in Oakham, England.</p>
+<p>Lands' End said it tested native-language, local-currency catalogs in France, Germany and the Netherlands in the autumn of 1994 to see which provided the best opportunity for a local operation. For the past year, it said, it has been focused on setting up the German operations and hiring and training local personnel.</p>
+<p>Lands' End also operates an international business in Yokohama, Japan, and ships to customers in over 175 countries from its headquarters in Wisconsin.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I6560003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGEVILLE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

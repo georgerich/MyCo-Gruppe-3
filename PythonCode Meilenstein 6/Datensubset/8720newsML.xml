@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8720" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: INTERVIEW - Mattel sees Disney toys sales up.</title>
+<headline>INTERVIEW - Mattel sees Disney toys sales up.</headline>
+<byline>Sue Zeidler</byline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>Mattel Inc chief executive officer Jill Barad said sales of toys based on Walt Disney Co's &quot;Hunchback of Notre Dame&quot; film would reach $100 million, falling short of &quot;Poconotas&quot; toy sales in 1995.</p>
+<p>&quot;It's true that 'Pocohontas' will outsell 'Hunchback,' although we'll do about $100 million in 'Hunchback sales,'&quot; the recently named chief executive told Reuters. Mattel's 1995 revenue from &quot;Pocahontas&quot; was $140 million, analysts said.</p>
+<p>Still, Mattel's sales of Disney-related toys this year will top the 1995 total of $450 million, Barad said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

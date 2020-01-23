@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6829" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: Canada leading indicator rises 0.5 pct in July.</title>
+<headline>Canada leading indicator rises 0.5 pct in July.</headline>
+<dateline>OTTAWA 1996-08-21</dateline>
+<text>
+<p>The Canadian composite leading indicator rose 0.5 percent in July to 179.1 (base 1981) after a revised 0.5 percent rise in June to 178.2, Statistics Canada said on Wednesday.</p>
+<p>The indicator foreshadows economic activity by tabulating figures for sectors that rise or fall in advance of broader movements in the economy. The figure is &quot;smoothed&quot;, reflecting a moving average of approximately the past five months.</p>
+<p>The unsmoothed index, reflecting the past month only, rose 0.8 percent in the month to 180.9.  </p>
+<p>A Reuter survey of economists had forecast the smoothed index to rise 0.5 percent.</p>
+<p>							  July  pct change</p>
+<p>Housing index					  115.2    +1.8</p>
+<p>Business, personal services ('000)	   2,051	+0.2</p>
+<p>TSE 300 stock price index (1975)	     5,087	+0.3</p>
+<p>Money supply (M1) (millions of 1981 $)    32,796	+0.3</p>
+<p>U.S composite leading indicator (1967)	 215.9    +0.4</p>
+<p>Average work week				     38.5     0.0</p>
+<p>New orders, durables (millions of 1981 $) 12,554	+0.7</p>
+<p>Shipments/Inventories				  1.58   +0.01</p>
+<p>Furniture, appliances (millions of 1981 $  1,137.3     0.0</p>
+<p>Other durable goods (millions of 1981 $)   3,973.2    -0.1</p>
+<p>(For more information from Statistics Canada, contact Francine Roy at 613 951-3627 or Dominique Perusse at 613-951-1789 with the Current Economic Analysis Division.)</p>
+<p>-- Reuter Ottawa Bureau 613 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

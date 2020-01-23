@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8786" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Nasdaq closes sharply higher on tech rally.</title>
+<headline>Nasdaq closes sharply higher on tech rally.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The high techs heated up on Thursday as buyers jumped in to push Nasdaq to a sharply higher close.</p>
+<p>The Nasdaq Composite Index, heavily weighted with technology issues, was up 17.07 points, or 1.51 percent, at 1143.91. Advances led declines by 2357 to 1661 on volume of about 502 million shares.</p>
+<p>&quot;First one tech started moving up and then another and all those people sitting on the fence decided to jump in because the stocks were rallying,&quot; said Jack Bayer, head OTC trader at Oppenheimer &amp; Co. &quot;First the shorts jumped on the bandwagon and then the real buyers stepped in.&quot;</p>
+<p>He also pointed to a noticeable absence of sellers in the high tech sector.</p>
+<p>Intel Corp, which topped the Nasdaq most active list, was up 2-3/4 at 83 after Smith Barney raised its rating on the stock to outperform from neutral, according to a market source.</p>
+<p>SDL Inc tumbled sharply on investors concerns about yield and the shipping of products. The stock ended the day down 9-1/4 at 18-3/4.</p>
+<p>-Andrej Gustincic Wall Street desk 212-859-1731</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

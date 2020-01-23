@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9930" id="root" date="1996-08-22" xml:lang="en">
+<title>NEW ZEALAND: NZ dollar ends &quot;dismal&quot; session touch weaker.</title>
+<headline>NZ dollar ends &quot;dismal&quot; session touch weaker.</headline>
+<dateline>WELLINGTON 1996-08-22</dateline>
+<text>
+<p>The New Zealand dollar ended slightly lower on Thursday after drifting in a narrow range through what dealers called a dismal session.</p>
+<p>The Kiwi ended at US$0.6905/12 and 65.43 on its Trade-Weighted Index, down from 0.6918/25 and 65.57 at the opening.</p>
+<p>Dealers said Eurokiwi issues, of which there have been three in as many days, appeared to be the continuing flavour of the month and would underpin the currency.</p>
+<p>The Kiwi was seen consolidating, with good support around 0.6880.  </p>
+<p>It was barely moved by data showing salary and wage rates rose 0.3 percent in the June quarter and 1.9 percent in the year, versus average forecasts of 0.53 percent and 2.2 percent respectively.</p>
+<p>Economists said the data were mildly positive for the Reserve Bank as it searches for evidence of a slowing economy to justify an eventual easing of monetary policy, but bond yields drifted slightly higher on the day.</p>
+<p>-- Wellington newsroom 64 4 4734 746.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

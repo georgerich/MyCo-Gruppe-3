@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11662" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Inco appoints Gendron as Voisey's Bay chief.</title>
+<headline>Inco appoints Gendron as Voisey's Bay chief.</headline>
+<dateline>TORONTO 1996-08-23</dateline>
+<text>
+<p>Inco Ltd has appointed longtime Inco executive Stewart Gendron as president of the Voisey's Bay Nickel Co.</p>
+<p>Gendron will lead a new team to develop the nickel-copper-cobalt deposit at Voisey's Bay, Inco said in a statement.</p>
+<p>Gendron, 53, joined the company in 1971. For the past year, he has been vice-president of milling, smelting and refining at Inco's Copper Cliff complex near Sudbury, Ontario.</p>
+<p>Gendron's appointment starts immediately in St. John's, Newfoundland.  </p>
+<p>The Voisey's Bay Nickel Co became a wholly-owned subsidiary of Inco on Wednesday, when Inco's takeover of Diamond Fields Resources Inc was finalized.</p>
+<p>-- Reuters Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

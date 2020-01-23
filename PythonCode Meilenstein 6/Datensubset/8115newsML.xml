@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8115" id="root" date="1996-08-22" xml:lang="en">
+<title>KUWAIT: Kuwait 182-day T-bill rate rises to 7.218 pct.</title>
+<headline>Kuwait 182-day T-bill rate rises to 7.218 pct.</headline>
+<dateline>KUWAIT 1996-08-22</dateline>
+<text>
+<p>The average yield at this week's tender for 60 million dinars of six-month Kuwaiti treasury bills rose to 7.218 percent from 7.168 percent last week, official figures show.</p>
+<p>The bills, offered on Monday, were issued on Wednesday. They mature on February 19.</p>
+<p>The average accepted price was 96.526. Bids were made for 91.444 million dinars of the six-month bills.</p>
+<p>The highest accepted price was 96.512, with a yield of 7.248 percent. The lowest accepted price was 96.547, with a yield of 7.173 percent.</p>
+<p>There was no tender this week for three-month bills.</p>
+<p>-- Kuwait Newsroom, +965 240 8945, fax 241 2459</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUWAIT"/>
+<dc element="dc.creator.location.country.name" value="KUWAIT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2827" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: North America bunkers aided by firm crude.</title>
+<headline>North America bunkers aided by firm crude.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>North American bunker prices were mostly higher than late last week, traders said, with firm crude values lending strength to a sluggish market.</p>
+<p>New York Harbor 380 CST was talked between $109 and $110 a tonne, $2 higher than values quoted last Thursday, with 180 CST pegged at $114/115, players said.</p>
+<p>&quot;The cargo market is up and the price of residual fuel cargoes are higher, and supplies are really tight,&quot; one New York trader said. But he added those strong cards were mostly neutralized by sluggish demand.  </p>
+<p>Houston 380 CST slipped $1 to $96/97, traders said, while 180 CST held steady at $100/102.</p>
+<p>Traders reported a mixed bag on the West Coast, with Los Angeles 380 CST falling about $3 to $91/93, and Seattle material moving $3 higher to $96/97.</p>
+<p>Continuing strong bunker prices in Singapore were seen offering some support to West Coast prices, traders said.</p>
+<p>New York Energy Desk +1 212 859 1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

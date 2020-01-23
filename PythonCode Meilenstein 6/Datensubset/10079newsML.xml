@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10079" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Morinaga Milk to issue 10 bln yen CB.</title>
+<headline>Morinaga Milk to issue 10 bln yen CB.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>BORROWER - Morinaga Milk Industry Co Ltd</p>
+<p>LEAD MGR - Nikko Securities Co Ltd</p>
+<p>TRUSTEE - Dai-Ichi Kangyo Bank Ltd</p>
+<p> TYPE convertible     ISSUE NO   6	  AMT   10 bln yen</p>
+<p>COUPON 0.75(tentatively) ISS PRICE  PAR  MATURITY 31.Mar.03</p>
+<p>CONV PRICE</p>
+<p> CONV FROM 1.Oct.96   CONV TO 28.Mar.03</p>
+<p> LAST MOODY	     PAY DATE 9.Sep.96   INT PAY 31.Mar</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 2.Sep-6.Sep</p>
+<p> LAST JCR		 LAST JBRI	     LAST NIS   A-</p>
+<p>The coupon and conversion price will be decided on August 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

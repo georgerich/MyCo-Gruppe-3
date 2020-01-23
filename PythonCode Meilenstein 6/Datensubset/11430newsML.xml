@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11430" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. Cattle on Feed - USDA.</title>
+<headline>U.S. Cattle on Feed - USDA.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>USDA U.S. cattle on feed. 7 states, 1,000-plus head feedlots (data in 1,000 head):</p>
+<p>    -			Pct----1996----1995    1994</p>
+<p> On Feed August 1	 86   6,337   7,391   6,841</p>
+<p> During July:	    Pct----1996----1995    1994</p>
+<p> -Placed on Feed	 106   1,483   1,404   1,520</p>
+<p> -Marketed		  99   1,678   1,698   1,550</p>
+<p> -Other Disappearance   94	46	49	39</p>
+<p> On Feed July 1	   85   6,578   7,734   6,910</p>
+<p> -			   Pct---Aug 1---July 1</p>
+<p> U.S. On Feed	     96   7,546   7,840</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

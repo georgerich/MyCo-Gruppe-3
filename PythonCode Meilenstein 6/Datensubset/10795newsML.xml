@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10795" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Oceaneering sees earnings improvement.</title>
+<headline>Oceaneering sees earnings improvement.</headline>
+<dateline>HOUSTON 1996-08-23</dateline>
+<text>
+<p>Oceaneering International Inc chairman and CEO John Huff said estimates the company would earn $0.77 a share in fiscal 1997 were reasonable.</p>
+<p>&quot;I think that's the consensus, that's a reasonable number,&quot; he told Reuters after the company's annual meeting.</p>
+<p>Oceaneering earned $0.53 in fiscal 1996, which ended March 31. The company's earnings are getting a big boost from a deepwater drilling boom in the Gulf of Mexico, where Oceaneering does much of its oilfield service work, Huff said.  </p>
+<p>Because of the growing demand, Huff said the company was expanding its fleet of remotely operated vehicles, which are used for undersea service activities, to about 70 by next March, up from about 45 a year ago.</p>
+<p>Huff said the company was nearing completion of a project to convert a VLCC (very large crude carrier) into a mobile offshore production system to service an offshore oilfield in Equatorial Guinea being developed by Mobil Corp..</p>
+<p>&quot;That's within moments of being on the payroll,&quot; he said. The project is a big one for Oceaneering, which expects it to add $0.30 per share annually to net earnings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

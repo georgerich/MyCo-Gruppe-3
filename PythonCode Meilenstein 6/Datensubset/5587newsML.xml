@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5587" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Medaphis targeted in class-action lawsuit.</title>
+<headline>Medaphis targeted in class-action lawsuit.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Medaphis Corp was named in a class action shareholder lawsuit filed in federal court, alleging that the company and its executives misrepresented the company's condition, attorneys for the plaintiffs said.</p>
+<p>The law firm Weiss and Yourman filed the suit on behalf of buyers of Medaphis common stock during the period March 14, 1996 through August 14, 1996, the law firm said.</p>
+<p>The complaint charges Medaphis (MEDA) and its president, director and chief executive officer with violating securities laws by misrepresenting and or omitting material information about the company and also the company employed improper accounting practices.</p>
+<p>Medaphis forecast a loss for the third quarter on August 14 and the company's share price fell sharply after the announcement.</p>
+<p>Medaphis was not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

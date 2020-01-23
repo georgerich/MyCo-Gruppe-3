@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9759" id="root" date="1996-08-22" xml:lang="en">
+<title>NETHERLANDS: European bunkers firm, Med trading quelled.</title>
+<headline>European bunkers firm, Med trading quelled.</headline>
+<dateline>AMSTERDAM 1996-08-22</dateline>
+<text>
+<p>European fuel oil bunker prices firmed in places including Rotterdam on Thursday, partly in response to barge market gains and activity faded, most noticeably in the Mediterreanean, dealers said.</p>
+<p>Rotterdam 380 cst fuel oil traded in the morning at $99 fob, but by late session was quoted at $101/$102 fob. The price rise was linked to firmer barge quotes.</p>
+<p>Bunker market activity subsequently folded after trading volume had reached an estimated 8,000-10,000 tonnes. Dealers said business could pick up on Friday as a holiday in the U.K. on Monday would make British-based brokers keen for business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

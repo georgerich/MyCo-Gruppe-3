@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12439" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Japan key 3-mth CD rate falls to 0.58 percent.</title>
+<headline>Japan key 3-mth CD rate falls to 0.58 percent.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Japan's key three-month certificates of deposit (CDs) rate fell to 0.58 percent on Friday morning, its lowest level in two months, traders said.  </p>
+<p>Traders said about 70 billion yen worth of three-month CDs had been issued so far at 0.58 percent.</p>
+<p>The rate is the lowest since June 19, when about 80 billion yen worth of three-month CDs were issued at 0.55 percent.</p>
+<p>A trader for a regional bank said the decline in the three-month CD rate was due to market expectations that the Bank of Japan's &quot;tankan&quot; corporate survey results, due out next week, may be weaker than expected.</p>
+<p>&quot;There is some expectation in the market that the 'tankan' results won't be so good. If that turns out to be true, (CD rates) could fall further,&quot; the trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

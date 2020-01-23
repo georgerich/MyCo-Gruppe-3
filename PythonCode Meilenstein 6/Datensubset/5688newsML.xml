@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5688" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: COMEX copper settles higher, eyes Chino mine talks.</title>
+<headline>COMEX copper settles higher, eyes Chino mine talks.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>COMEX copper settled barely higher in dull, thin choppy trading as the market looked ahead to Friday's LME stock report for direction.</p>
+<p>&quot;The market remains uncertain about the potential for further increases in warehouse stocks,&quot; said analyst Bette Raptopoulos of Prudential Securities.</p>
+<p>The market was expected to slow down later this week due to the holiday weekend in Britain. The LME will be closed next Monday and there will be no stock report on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

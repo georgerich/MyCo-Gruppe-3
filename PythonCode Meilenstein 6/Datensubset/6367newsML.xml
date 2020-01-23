@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6367" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Calif should change way taxes are allocated - report.</title>
+<headline>Calif should change way taxes are allocated - report.</headline>
+<dateline>SACRAMENTO, Calif. 1996-08-21</dateline>
+<text>
+<p>The control over allocating property taxes in California should be decentralized, the state's Legislative Analyst said in a report released on Wednesday.</p>
+<p>The report, &quot;Property taxes: Why some local governments get more than others,&quot; concluded that decentralization could help to align tax revenues with local needs.</p>
+<p>California collects about $19 billion in property taxes each year. As a source of revenue, the property tax annually raises about as much as the state's income tax or the combined local and state sales tax.  </p>
+<p>Property tax revenues are distributed to schools, community colleges, counties, cities, special districts and redevelopment agencies. But some municipalities and agencies receive more property taxes than others.</p>
+<p>The Legislative Analyst said property tax revenues tend to be higher for those local governments where land is extensively developed, few services are provided through special districts, redevelopment is not used extensively and where the government's property tax rate was relatively high.</p>
+<p>Over the years, proposals for reducing the variation in local government property tax receipts have been advanced.  </p>
+<p>In considering ways to update distribution policies, the state Legislature faces major difficulties, the Legislative Analyst said. Several thousand local governments in the state, including over 1,000 school districts, receive a share of local property taxes.</p>
+<p>Updating the system to reflect local preferences would require the Legislature to ascertain the needs and priorities of each California community and each local government, the Legislative Analyst said.</p>
+<p>&quot;This is a task which, in our view, cannot be undertaken in a centralized manner,&quot; the Legislative Analyst said.  </p>
+<p>For this reason, the Legislative Analyst said it believed that control over allocating property taxes should be decentralized.</p>
+<p>&quot;Decentralization would allow the debate regarding the appropriate distribution of local revenues to be carried out locally, rather than in Sacramento, and offers Californians the best chance of aligning tax revenues with local needs and preferences,&quot; the Legislative Analyst said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

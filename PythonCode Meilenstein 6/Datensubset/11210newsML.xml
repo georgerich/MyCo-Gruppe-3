@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11210" id="root" date="1996-08-23" xml:lang="en">
+<title>MEXICO: Banco de Mexico completes credit auctions.</title>
+<headline>Banco de Mexico completes credit auctions.</headline>
+<dateline>MEXICO CITY 1996-08-23</dateline>
+<text>
+<p>The Banco de Mexico completed all three of its credit auctions on the secondary market on Friday.</p>
+<p>CREDIT AUCTIONS  TERM     AVERAGE</p>
+<p>1.177 bln pesos  11 days  25.87 pct 1.176 bln pesos  10 days  25.95 pct 1.176 bln pesos   3 days  24.72 pct</p>
+<p>-- Mexico City newsroom (525) 728-9559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2398" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH AFRICA: T &amp; N half year shr falls, div held.</title>
+<headline>T &amp; N half year shr falls, div held.</headline>
+<dateline>JOHANNESBURG 1996-08-20</dateline>
+<text>
+<p>Half yr ended June 30</p>
+<p>			(million rand unless stated)</p>
+<p>    Shr, attrib (cts)     50.4	  vs 62.5</p>
+<p>    Div (cts)		 17.0	  vs 17.0</p>
+<p>    Attrib income	   12.1	  vs 15.0</p>
+<p>    Pre-tax		   16.9	  vs 21.6</p>
+<p>    Tax			  4.8	  vs 6.5</p>
+<p>    Interest paid	   12.3	  vs 6.1</p>
+<p>    Turnover		 400.3	  vs 335.8</p>
+<p>Div payable n/a</p>
+<p>on register September 20</p>
+<p>Full name: T &amp; N Holdings Ltd</p>
+<p>NOTE - Industrial holdings group T &amp; N said it would offer capitalisation shares in lieu of the cash dividend. Terms will be announced next month.</p>
+<p>The company said it was hit by higher debt and reduced margins in an increasingly competitive market. &quot;A major improvement in current activity levels is not expected in the immediate future,&quot; it added.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

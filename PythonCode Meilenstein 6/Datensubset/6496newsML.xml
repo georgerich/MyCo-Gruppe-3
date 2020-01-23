@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6496" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: Kidnapped aid workers released in Chechnya.</title>
+<headline>Kidnapped aid workers released in Chechnya.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>Two relief workers kidnapped in Chechnya 26 days ago were released on Wednesday, their Paris-based charity Action against Hunger (ACF) said.</p>
+<p>Briton Michael Penrose, 23, and Frenchman Frederic Malardeau, 35, were freed, apparently in good health, with the help of the International Red Cross Committee, an ACF spokeswoman said.</p>
+<p>She said they were resting at an undisclosed place in Chechnya which was not Grozny, the rebel-held capital of the embattled breakaway republic.</p>
+<p>She said there had not been any ransom demand for their release and she had no information on who the kidnappers were.</p>
+<p>The Russian Interfax news agency has said Chechen separatist fighters had denied responsibility but a man who telephoned journalists in Chechnya from the southern Russian town of Krasnodar shortly after the kidnappings had demanded a ransom of $500,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7554" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Oklahoma becomes 14th state to sue tobacco industry.</title>
+<headline>Oklahoma becomes 14th state to sue tobacco industry.</headline>
+<byline>Ben Fenwick</byline>
+<dateline>OKLAHOMA CITY, Okla. 1996-08-22</dateline>
+<text>
+<p>Oklahoma on Thursday became the 14th state to sue the tobacco industry, seeking to recover more than $1 billion in state Medicaid funds spent to treat smoking-related illnesses.</p>
+<p>Attorney General Drew Edmondson, a Democrat who has accepted campaign contributions from the industry, said the suit alleged tobacco makers misled consumers about the health risks of smoking and manipulated nicotine levels to keep smokers hooked on cigarettes.</p>
+<p>&quot;Tobacco manufacturers have deliberately misled the public for years about the devastating impact their product has on the health of our people,&quot; he said. &quot;In the name of profits they have secretly manipulated nicotine levels.&quot;</p>
+<p>Edmondson said conservative figures indicate Oklahoma spent about $70 million a year in Medicaid contributions since 1980 treating patients with smoking-related illnesses.</p>
+<p>&quot;In terms of Medicaid losses, it's worth $1 billion in Medicaid losses alone,&quot; he said of the lawsuit.</p>
+<p>Edmondson accepted about $32,000 in campaign contributions from tobacco interests in his most recent run for office, and said he expected to come under fire for his decision to sue the politically powerful tobacco lobby.</p>
+<p>&quot;I expect to be attacked personally. I expect to be called anti-business,&quot; he said. &quot;I know they pumped a lot of money into my campaign, so I know their power.&quot;</p>
+<p>The suit was filed in a state court in Cleveland County against the nation's largest tobacco manufacturers, trade groups, public relations and law firms.</p>
+<p>The suit named tobacco manufacturers Philip Morris Cos. Inc.; RJR Nabisco Holdings Corp.'s R.J. Reynolds Tobacco Co.; B.A.T Industries Plc's Brown &amp; Williamson Tobacco Corp. and The American Tobacco Co.; Loews Corp.'s Lorillard Tobacco Co. Inc.; Brooke Group Ltd.'s Liggett Group Inc.; and, American Brands Inc..</p>
+<p>The suit also named trade groups The Council for Tobacco Research USA and The Tobacco Institute, along with publicists Hill &amp; Knowlton and law firms Shook, Hardy and Bacon of Kansas City, Mo., Jacob, Medinger and Finnegan of New York and Chadbourne and Parke of New York.</p>
+<p>The Oklahoma suit joins similar litigation filed against the industry this week in Kansas, Arizona and Michigan. New Jersey, Hawaii, Utah and Arkansas are also said to be preparing suits against the industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OKLAHOMA CITY, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

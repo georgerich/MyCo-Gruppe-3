@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4225" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: WLR Foods Q4 loss vs profit.</title>
+<headline>WLR Foods Q4 loss vs profit.</headline>
+<dateline>BROADWAY, Va. 1996-08-20</dateline>
+<text>
+<p>WLR FOODS INC</p>
+<p>	   Consolidated Statements of Operations (unaudited)</p>
+<p>	     (in thousands, except shares and per share data)</p>
+<p>				     13 Weeks Ended    52 Weeks Ended</p>
+<p>				   6/29/96   7/1/95  6/29/96   7/1/95</p>
+<p> Net sales		   $ 262,776$ 239,182$ 997,632$ 908,776</p>
+<p> Cost of sales		 245,005  211,627  897,892  785,085</p>
+<p>  Gross profit		  17,771   27,555   99,740  123,691</p>
+<p>Selling, general and</p>
+<p>  administrative expenses   24,947   24,696   97,324   91,420</p>
+<p>  Operating income/(loss)  (7,176)    2,859    2,416   32,271</p>
+<p> Interest expense		2,906    2,018    9,359    6,666</p>
+<p> Other expense/(income), net   589    (111)	321    (332)</p>
+<p>Earnings/(loss) before</p>
+<p>income taxes and minority</p>
+<p>  interest		    (10,671)	952  (7,264)   25,937</p>
+<p>Income tax expense/(benefit)</p>
+<p>				   (3,918)	130  (2,610)    9,749</p>
+<p>Minority interest in</p>
+<p>earnings of consolidated</p>
+<p>  subsidiary			  10	 15	 32	 55</p>
+<p> Net earnings/(loss)	 (6,763)	807  (4,686)   16,133</p>
+<p>Earnings/(loss) per</p>
+<p>  common share/1,2	    (0.38)     0.05   (0.27)     0.90</p>
+<p>Average common shares</p>
+<p>  outstanding		   17,663   17,736   17,528   17,859</p>
+<p> Capital expenditures	  2,152    5,115   18,771   17,251</p>
+<p> Depreciation expense	  7,329    6,522   28,243   24,817</p>
+<p>NOTE: The company said its grain costs for Q4 1996 were $24 million more than the yr-ago quarter and $58 million higher for the fiscal year.</p>
+<p>--New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BROADWAY, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

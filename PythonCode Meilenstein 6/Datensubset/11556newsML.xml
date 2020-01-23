@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11556" id="root" date="1996-08-23" xml:lang="en">
+<title>SRI LANKA: Sri Lanka Sampath H1 net 10 pct up.</title>
+<headline>Sri Lanka Sampath H1 net 10 pct up.</headline>
+<dateline>COLOMBO 1996-08-23</dateline>
+<text>
+<p>Unaudited results for the first six months of the 1996 financial year of Sampath Bank Limited.</p>
+<p>(in millions of rupees unless stated):</p>
+<p>			 H1 1996	  H1 1995</p>
+<p>    Turnover	 874.40   vs    742.81</p>
+<p>    Net profit     123.96   vs    111.85</p>
+<p>    Tax provision   66.74   vs     75.34</p>
+<p>NOTE - The blue chip Sampath Bank is one of four private commercial banks listed in Colombo.</p>
+<p>--Colombo newsroom tel 941-4343</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

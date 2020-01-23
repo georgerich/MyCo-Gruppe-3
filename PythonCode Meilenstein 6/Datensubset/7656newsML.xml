@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7656" id="root" date="1996-08-22" xml:lang="en">
+<title>RUSSIA: Russia's UES  EESR.RTS not yet ready for ADRs.</title>
+<headline>Russia's UES  EESR.RTS not yet ready for ADRs.</headline>
+<dateline>MOSCOW 1996-08-22</dateline>
+<text>
+<p>The board of Russian national power company Unified Energy System (UES) has not yet approved the final version of its application to the U.S. Securities and Exchange Commission to issue American Depositary Receipts, a senior UES official said on Thursday.</p>
+<p>UES's director for asset management, Alexander Lopatin, told Reuters the question of the F6 application to the SEC was on the board's agenda but it had not yet got round to discussing it. The board would meet again next week.</p>
+<p>UES plans to issue Level One ADRs, giving foreign investors access to existing shares while avoiding Russian settlement systems. They do not raise new capital.</p>
+<p>The SEC had asked RAO Yedinaya Energeticheskaya Sistema Rossii (UES) to amend the terms of its ADRs to include a ban on individual investors holding more than one percent of the voting shares, which was adopted at the shareholders' meeting in May.</p>
+<p>It had not been possible to do this until the company's articles were amended, which was done last week.</p>
+<p>Lopatin said the ADRs would cover shares which are not owned by the state or by the company itself.</p>
+<p>The state owns 60 percent of UES, foreign investors hold 20 percent, Russian companies 10 percent and Russian individuals 10 percent, according to UES.</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

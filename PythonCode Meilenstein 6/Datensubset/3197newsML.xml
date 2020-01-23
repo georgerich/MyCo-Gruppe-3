@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3197" id="root" date="1996-08-20" xml:lang="en">
+<title>SLOVENIA: PRESS DIGEST - Slovenia - Aug 20.</title>
+<headline>PRESS DIGEST - Slovenia - Aug 20.</headline>
+<text>
+<p>DELO</p>
+<p>- The number of domestic tourists in Slovenia fell by 17 percent in July, while the number of foreign visitors went up by 12 percent, the Slovenian Statistical Office said.</p>
+<p>- A coal mine in Zagorje started closure procedures on Monday. The mine, which has been operating for 240 years, is considered unprofitable and is due to close in 1999.</p>
+<p>- Employees of troubled machine producer Litostroj continued their strike for the 18th day on Monday. The strike was called over unpaid salaries.</p>
+<p>REPUBLIKA</p>
+<p>- State secretary for privatisation Edo Pirkmajer said the government was considering prolonging the validity of privatisation vouchers until the end of the year due to the slow privatisation process. The current validity expires at the end of September.</p>
+<p>- The unemployment rate fell to 13.3 percent in June from 13.7 percent in May, the Statistical Office said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7675" id="root" date="1996-08-22" xml:lang="en">
+<title>NEW ZEALAND: W/Horton sees pick-up in activity.</title>
+<headline>W/Horton sees pick-up in activity.</headline>
+<dateline>WELLINGTON 1996-08-22</dateline>
+<text>
+<p>New Zealand publisher Wilson and Horton said on Thursday it was well positioned to benefit as business activity picked up.</p>
+<p>&quot;The directors have confidence in the inherent strength of the economy and believe that as business activity increases the group is well positioned to benefit,&quot; it said in a statement accompanying its interim result.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

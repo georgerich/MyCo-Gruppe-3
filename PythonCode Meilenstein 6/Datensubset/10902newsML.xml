@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10902" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: Banks launch National Bank of Romania credit.</title>
+<headline>Banks launch National Bank of Romania credit.</headline>
+<text>
+<p>LONDON, Aug 23 (LPC) - ABN AMRO Bank and Citibank said they launched a $175 million syndicated loan for National Bank of Romania.</p>
+<p>The deal has a three-year final maturity and is priced 187.5 bps over LIBOR. Lenders have the option to call the loan at the end of the second year, according to the arrangers.</p>
+<p>Commitments of between $2.5 million and $10 million are being sought, with a top upfront fee of 40 bps offered. Banks coming in at $10 million will be designated co-arrangers. The credit is expected to close on September 16.</p>
+<p>Romania has a BB minus rating from Standard &amp; Poor's.</p>
+<p>LPC Newsroom 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

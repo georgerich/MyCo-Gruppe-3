@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8999" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: European cotton markets quiet, selective buying.</title>
+<headline>European cotton markets quiet, selective buying.</headline>
+<dateline>LIVERPOOL, ENGLAND 1996-08-22</dateline>
+<text>
+<p>Most markets in Western Europe remained quiet although spinners in Germany, Italy and Portugal in particular bought central Asian and African franc zone medium to better qualities selectively against known autumn requirements, industry sources said.</p>
+<p>In Eastern Europe, markets generally lacked feature and in the long staple sector, the fine trade was of insignificant proportions pending the start next month of first new crop export sales by Egypt.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERPOOL, ENGLAND"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6041" id="root" date="1996-08-21" xml:lang="en">
+<title>KAZAKHSTAN: Kazakhstan to close state-owned Kazair airline.</title>
+<headline>Kazakhstan to close state-owned Kazair airline.</headline>
+<dateline>ALMATY 1996-08-21</dateline>
+<text>
+<p>Kazakhstan's goverment has decided to shut down state-owned Kazakhstan National Airways (KazAir) and establish a new national carrier, KazAir vice-president Ildus Nazmutdinov said on Wednesday.</p>
+<p>KazAir emerged from the former Soviet airline Aeroflot and provided regular domestic and international flights. It also ran a network of 21 airports.</p>
+<p>It was managed by privately owned Kazkommertsbank after it ran into financial problems earlier this year.</p>
+<p>A new airline must be registered with all international aviation organisations, Nazmutdinov told Reuters, adding that non-profitable divisions would be excluded from the new airline's structure.</p>
+<p>He declined to give KazAir's sales volumes or say how many aircraft it was operating. It would be take about six months to get full information about its financial situation, he said.</p>
+<p>U.S. publication Airline Financial News said in July that KazAir was flying five Antonovs, an Ilyushin, four Tupolevs and a Yakovlev 42. Its one Boeing 747 was used for VIP purposes. Six 737s had been ordered but not delivered, it said.</p>
+<p>Ruslan Zusangaliyev, KazAir's debt manager, said the goverment wanted to write off around $58 million owed by the airline.</p>
+<p>--Almaty Newsroom, (3272) 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

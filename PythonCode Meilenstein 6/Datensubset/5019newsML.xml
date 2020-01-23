@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5019" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Closer Br.Airways-American air cargo links possible.</title>
+<headline>Closer Br.Airways-American air cargo links possible.</headline>
+<byline>Ian Verchere</byline>
+<dateline>LONDON, I 1996-08-02</dateline>
+<text>
+<p>Prospects for closer links between the air cargo operations of British Airways PLc and American Airlines are &quot;very favourable&quot;, American Airline's cargo spokesman, Tom Harwood told Reuters in a telephone interview.</p>
+<p>Speaking from Dallas he said that both sides had found more grounds for alignment than separation.</p>
+<p>A joint implementation group set up by the two carriers on how to align their cargo operations will present its findings at an August 29 meeting in New York to William Boesch, American's cargo president, and Kevin Hatton, managing director of BA World Cargo, Harwood added.</p>
+<p>The group will come to the meeting armed with specific recommendations, he said. These will then be incorporated into a final filing to respective governments whose approval or otherwise of the total alliance is hoped for by early November.</p>
+<p>The presentation will cover &quot;five key issues&quot; in seeking to ascertain whether a more integrated operation was achievable or whether they should remain separate, he said.</p>
+<p>The automation of cargo handling, including the barcoding of freight items, were among the more complex points under scrutiny, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON, I"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

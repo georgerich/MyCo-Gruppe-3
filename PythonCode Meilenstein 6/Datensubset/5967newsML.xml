@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5967" id="root" date="1996-08-21" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Aug 21.</title>
+<headline>Direct bond trades on the Czech PSE - Aug 21.</headline>
+<dateline>PRAGUE 1996-08-21</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p> CEZ 10,90/01		 95.50     95.50	2000   19439.120</p>
+<p> CEZ 11,0625/08	     94.00    100.05     12000  117413.502</p>
+<p> CEZ 11,3/05		  96.30     96.45	6000   59312.244</p>
+<p> CSOB 11,00/00		95.00     96.85	5000   48939.500</p>
+<p> CHEMAPOL 12,5/97	   99.35    100.05	5000   50817.620</p>
+<p> IPB 11,125/98		97.90     97.90	1900   18841.733</p>
+<p> KB 10,7/96		   99.10     99.10	3000   31977.000</p>
+<p> KB 11,1/98		  100.28    100.28	  61     622.993</p>
+<p> KB 11,4/01		   98.00    100.00     34905  381019.945</p>
+<p> KB VAR/97		    99.80    100.00     11500  120018.240</p>
+<p> ST.DLUHOP. 8,7/00	  95.25     95.25	2900   28899.109</p>
+<p> ST.DLUHOP.14,6/97	 101.81    101.81	4539   49124.030</p>
+<p> ST.DLUHOP.8,45/96	  99.08     99.08	3787   39992.727</p>
+<p> ST.DLUHOP.9,4/97	   97.30     97.30	1000   10458.500</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11397" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: CBOT soy products end mostly lower as soy slides.</title>
+<headline>CBOT soy products end mostly lower as soy slides.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>CBOT soy product futures closed mostly lower on a slide in soybean futures, traders said.</p>
+<p>Profit taking on the meal/oil spread also was noted but trading was quiet compared with recent sessions, they said.</p>
+<p>Soymeal futures volume was estimated at 19,000, down from 24,559 Thursday, according to the CBOT. Soymeal options volume was estimated at 1,900, down from 2,127 contracts Thursday.</p>
+<p>Soyoil futures volume was estimated at 16,000, down from 17,786 contracts Thursday. Soyoil options volume was estimated at 600, down from 803 Thursday.</p>
+<p>Soymeal futures closed $1.60 per ton lower to $2.50 per ton higher, with September down $1.00 at $258.10. Soyoil closed 0.01 to 0.10 cent per lb lower, with September down 0.09 at 24.90.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4026" id="root" date="1996-08-20" xml:lang="en">
+<title>IRAN: Iran opens $54 mln locally-built sponge iron plant.</title>
+<headline>Iran opens $54 mln locally-built sponge iron plant.</headline>
+<dateline>TEHRAN 1996-08-20</dateline>
+<text>
+<p>Iran on Tuesday commissioned a $54 million locally-designed sponge iron plant which it said represented a technological breakthrough in steel production.</p>
+<p>Tehran radio said the Qaem-2 plant in Isfahan in central Iran would have a yearly output of 600,000 tonnes of sponge iron, which is used in steel production, through a new Iranian-developed process which would save costs and energy compared to other techniques.</p>
+<p>The plant, built in 18 months for 88 billion rials ($50.3 million) and $3.8 million in hard currency, would raise the state-run Isfahan Steel Company's yearly output to 2.4 million tonnes, it added.</p>
+<p>The radio said the Qaem-2 direct reduction process required half the capital outlay of the Midrex technology and used 60 percent less electricity and 30 percent less gas than the process developed by the U.S.-based firm.</p>
+<p>Officials of Midrex Direct Reduction Corp, a unit of Japanese Kobe Steel, were quoted last year as saying previous attempts by other countries to develop alternative technology had failed but that they were interested to know more about the Iranian process.</p>
+<p>Iran reported steel production of about 4.7 million tonnes in the Iranian year that ended on March 19 and said output was expected to reach six million tonnes in the current year.</p>
+<p>($1=1,750 rials at the rate used for state budget accounts)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

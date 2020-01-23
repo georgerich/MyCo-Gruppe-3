@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9195" id="root" date="1996-08-22" xml:lang="en">
+<title>POLAND: Polish IDA agency to create bourse-bound fund.</title>
+<headline>Polish IDA agency to create bourse-bound fund.</headline>
+<dateline>WARSAW 1996-08-22</dateline>
+<text>
+<p>Poland's state-owned Industrial Development Agency (IDA) plans to form an investment fund which will group shoemaking and leather producing firms and eventually be listed on the Warsaw bourse, its president said on Thursday.</p>
+<p>Arkadiusz Krezel told Reuters the investment fund would be formed in the first half of 1997 and its bourse entry would be about two years later.</p>
+<p>&quot;The investment fund will be formed by leather and shoe producers and distribution firms...and we hope that it will be listed within two years of its formation,&quot; Krezel said.</p>
+<p>IDA, which has a balance sheet of 700 million zlotys, had bought five state-owned leather and shoemaking firms through debt-for-equity deals and became majority or strategic partner in all of these firms.</p>
+<p>Krezel said IDA would offer other institutions which also had part of the debt-for-equity deals to swap shares of the once-failing firms for the fund's shares so that the fund would have controlling stake in each of the firms.</p>
+<p>He said the fund's initial capital would be between 30 and 40 million zlotys and that it might raise more capital through share issues.</p>
+<p>-- Wojciech Moskwa +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

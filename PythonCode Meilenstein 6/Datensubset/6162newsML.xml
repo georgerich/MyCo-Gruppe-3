@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6162" id="root" date="1996-08-21" xml:lang="en">
+<title>BRAZIL: Brazil gov't, allies agree to end job guarantees.</title>
+<headline>Brazil gov't, allies agree to end job guarantees.</headline>
+<dateline>BRASILIA 1996-08-20</dateline>
+<text>
+<p>The Brazilian government and allied parties in Congress have agreed on the terms of an administrative reform which will do away with the job guarantees of civil servants, the government chief lower house whip said on Tuesday.</p>
+<p>Under the agreement, governments at federal, state and municipal level may dismiss employees to bring their payroll spending to under 60 percent, Benito Gama said.  </p>
+<p>The government had originally wanted the adminstrative reform to include no restrictions on firing staff, mainly to help state governments and municipalities who spend an average of 80 percent of their receipts on pay, benefits and pensions.</p>
+<p>But it agreed to the 60 percent ceiling as part of a compromise with two major allies in Congress who, until now, have opposed including an end to the job stability of fully qualified civil servants in the text of the reform.</p>
+<p>&quot;Stability is now included in the reform,&quot; Gama told Reuters. &quot;This is a victory for the government.&quot;  </p>
+<p>Gama said the revised text of the reform, which was drawn up on Tuesday, was due to be put to a vote by a special committee of the Chamber of Deputies next week, after which it will be sent to the floor of the lower house.</p>
+<p>There it requires two ballots with three-fifths majorities before moving on to the Senate.</p>
+<p>The administrative reform, along with reforms of the pension and tax systems, is considered essential to reducing public spending and trimming the role of the state in Brazil.</p>
+<p>-- William Schomberg, Brasilia newsroom 5561 2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

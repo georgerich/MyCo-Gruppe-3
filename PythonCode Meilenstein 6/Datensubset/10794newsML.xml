@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10794" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: NYMEX crude prices fall further in pre-close.</title>
+<headline>NYMEX crude prices fall further in pre-close.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>NYMEX crude oil prices weakened further towards the end of Friday's session with refined products failing to provide support, traders said.</p>
+<p>&quot;It's running out of steam. It couldn't get anywhere near the highs today,&quot; a trader said of crude oil.</p>
+<p>October crude fell 37 cents to a new intraday low of $21.93 a barrel. September heating oil fell 0.33 cent to 62.15 cents a gallon.</p>
+<p>&quot;The products are struggling a bit. Heating oil is not providing much impetus, and it is at best neutral,&quot; said John Saucer, an analyst with Smith Barney.  </p>
+<p>September gasoline fell 0.83 cent to 63.05 cents a gallon, following the rest of the oil complex lower, traders said.</p>
+<p>Smith Barney's Saucer said the shut down of three crude ports in Mexico due to Hurricane Dolly provided some support to crude in the first hour of the session, but all three ports have now re-opened.</p>
+<p>&quot;There is just not much working in favor of crude today,&quot; Saucer said.</p>
+<p>The October heating oil-to-crude crack spread widened to $4.12 a barrel compared to $3.94 a barrel Thursday, though the October-November crude intermonth spread was mainly unchanged.</p>
+<p>-- Harry Milling, New York Energy Desk, +1 212-859-1761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

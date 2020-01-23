@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2838" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: NYMEX energy complex closes off on profit-taking.</title>
+<headline>NYMEX energy complex closes off on profit-taking.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>NYMEX crude and refined products futures closed lower on profit-taking Tuesday, amid expectations the latest weekly inventory report by the American Petroleum Institute would be disappointing for the gasoline market.</p>
+<p>September unleaded closed down a steep 1.26 cents a gallon at 64.01 cents.</p>
+<p>&quot;In the last six weeks gasoline data has been disappointing with comparatively very little decline,&quot; said Nauman Barakat, a trader with Prudential.</p>
+<p>Weekly API gasoline inventory, which came out after the market's close, showed a drop of 864,000 barrels to 1.97 million.  </p>
+<p>Expectations proved accurate as API showed U.S. gasoline stocks off 864,000 billion barrels for the week ended August 16. A Reuters survey showed the average forecast for a draw of about 1.66 million barrels for unleaded.</p>
+<p>Heating oil, however, is being watched more closely as a tight supply picture has fueled a sharp rally in the distillate. Distillate stocks rose 1.83 million barrels compared to Reuters' survey estimate of a 1.13 million barrel rise.</p>
+<p>September heat closed down 0.91 cent a gallon to 61.67 cents.  </p>
+<p>&quot;So far its just some well-deserved profit-taking,&quot; said Peter Beutel, an analyst with Cameron Hanover, of the decline in the energy complex overall.</p>
+<p>September crude oil fell 0.40 cents to $22.86 a barrel in its final NYMEX session while traders rolled over positions into the October contract which posted a similar drop of 0.36 cents. October closed at $22.11 a barrel.</p>
+<p>Traders cited the the stable crude intermonth spread as bullish.</p>
+<p>&quot;Tommorow there will be a bounce,&quot; said a trader of the energy complex generally.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

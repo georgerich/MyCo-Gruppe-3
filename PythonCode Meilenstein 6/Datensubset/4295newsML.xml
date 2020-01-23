@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4295" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Just For Feet Inc Q2 net rises.</title>
+<headline>Just For Feet Inc Q2 net rises.</headline>
+<dateline>BIRMINGHAM, Ala. 1996-08-20</dateline>
+<text>
+<p>(in thousands, except per share and store data)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p> Periods ended July 31    1996	1995	1996	1995</p>
+<p> Net Sales		 $ 58,379  $ 25,434 $ 107,529  $ 46,571</p>
+<p> Gross Profit		24,811    10,810    45,564    19,669</p>
+<p> Net Income		   4,550     2,056     8,023     3,514</p>
+<p>Weighted Average Number</p>
+<p>  of Shares		  19,259    16,372    l8,948    16,245</p>
+<p> Net Income per Share	0.24	0.13	0.42	0.22</p>
+<p>Number of Company and</p>
+<p>Franchise Stores opened at</p>
+<p>  Quarter-End		    46	  28	  46	  28</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

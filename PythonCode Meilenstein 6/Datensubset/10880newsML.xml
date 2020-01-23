@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10880" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: UK halts controversial early release of prisoners.</title>
+<headline>UK halts controversial early release of prisoners.</headline>
+<dateline>LONDON 1996-08-24</dateline>
+<text>
+<p>Britain's interior minister has ordered a halt to the early release of hundreds of prisoners due to be freed following an embarrassing blunder by their jailers.</p>
+<p>Home Secretary Michael Howard challenged new guidelines from the prison service authorising the early release, saying the law was not clear and should be decided in court.</p>
+<p>&quot;The best thing to do is to suspend the release of the prisoners until we have an authoritative decision by the court,&quot; he told BBC television late on Friday.</p>
+<p>Howard had earlier said that many inmates might be entitled to compensation for having been kept too long behind bars.</p>
+<p>A legal challenge brought by inmates last year led to a ruling by Britain's court of appeal that the prison service was miscalculating the time due to be served by many prisoners given consecutive sentences for a number of offences.</p>
+<p>For instance, a prisoner who spent a month in a remand centre before trial, and was then given three consecutive sentences, should have the total period he had to serve in jail reduced by three months, not one, it ruled.</p>
+<p>The prison service had only just started to act on this ruling and this week released 45 inmates from three jails.</p>
+<p>Some ex-prisoners complained on Friday that they had not been prepared for their release and had no idea of how to cope with their unexpected freedom.</p>
+<p>The Times newspaper said prisoners who had spend an excessive amount of time in jail could receive 95 pounds ($147) a day in compensation for the blunder. The bill for the taxpayer could thus run into millions of pounds.</p>
+<p>The bungling is a further blow for Howard who has been embarrassed in the past year by a string of adverse court rulings and by critical inquiries into break-outs from two top high-security prisons.</p>
+<p>Late last year Howard dismissed the head of the prison service, Derek Lewis, after Lewis had criticised him for interfering in the day-to-day running of jails.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

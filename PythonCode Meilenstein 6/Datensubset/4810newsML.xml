@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4810" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan MOF says to offer 10-year JGBs on Wednesday.</title>
+<headline>Japan MOF says to offer 10-year JGBs on Wednesday.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>The Ministry of Finance plans to offer 10-year Japanese government bonds (JGBs) through a price-competitive auction on Wednesday, a MOF official said on Tuesday.</p>
+<p>The offer volume is likely to be one trillion yen, unchanged from the previous issue, traders said. The coupon rate of the new bond is likely to be set at 3.1 percent due to the recent rally in long-term JGBs, they said.</p>
+<p>MOF last offered one trillion yen worth of 10-year JGBs on July 23 and about 60 percent of the amount was auctioned. The coupon rate of that issue was set at 3.3 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6671" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: BOE gives UK money market help at set rates.</title>
+<headline>BOE gives UK money market help at set rates.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>The Bank of England said that it provided the UK money market with 351 million stg of assistance at established interest rates.  </p>
+<p>			    EARLY	1100 GMT   1300 GMT   LATE</p>
+<p> FORECAST SHORTAGE    850 MLN    850 MLN    750 MLN    =</p>
+<p> CUMULATIVE SUPPLY    =	    =	    351 MLN    =</p>
+<p>DETAILS</p>
+<p> BAND 1  T-BILLS	=	    =	    156 MLN*   =</p>
+<p> BAND 1  BANK BILLS   =	    =	    195 MLN*   =</p>
+<p>* INTEREST RATE - 5-11/16 PCT (INDICATES UNCHANGED BASE RATES)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

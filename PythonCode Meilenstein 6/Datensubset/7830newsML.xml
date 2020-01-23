@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7830" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: French stocks end up, off best after BoF rate cut.</title>
+<headline>French stocks end up, off best after BoF rate cut.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>The Paris bourse closed with sharp gains on Thursday, cheered by a surprise interest rate cut by the Bank of France, which followed an equally unexpected easing by the Bundesbank.</p>
+<p>&quot;The Bundesbank has once again taken the markets by surprise because since yesterday nobody was still expecting a cut,&quot; said Jacques-Antoine Bretteil, a director at brokers Leven.</p>
+<p>The blue-chip CAC-40 index closed up 17.12 points or 0.86 percent at 2,017.76, after hitting a day-high of 2,026.54 after the French rate reduction. The CAC-40 futures contract was up at 2,025 from 2,003 on Wednesday's close.</p>
+<p>Volume was a solid 4.29 billion francs.</p>
+<p>The French central bank cut of 20 basis points in the intervention rate to 3.35 percent caught some in the market off guard as they had thought the Bank would wait a while to see how the franc would react in the currency market.</p>
+<p>The franc firmed to trade at 3.4093 per mark in late afternoon compared to 3.4192 late Wednesday.</p>
+<p>One trader thought the CAC-40 index could hit the 2,030/50 range in the next few days.</p>
+<p>Financials rallied strongly on a view the rate reduction could help growth, credit demand and lower funding costs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

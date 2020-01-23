@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6132" id="root" date="1996-08-21" xml:lang="en">
+<title>VENEZUELA: Venezuela sells 70.68 bln bolivars of TEM bills.</title>
+<headline>Venezuela sells 70.68 bln bolivars of TEM bills.</headline>
+<dateline>CARACAS 1996-08-21</dateline>
+<text>
+<p>Venezuela's Central Bank said it sold 64.24 billion bolivars of 177-day &quot;monetary stabilization&quot;, or TEM, bills at a price of 97.79 pct.</p>
+<p>The 177-day bills carried a 23.86 percent coupon.</p>
+<p>The bank also sold 4.35 billion bolivars of 269-day notes with a 24.57 percent coupon at a price of 95.30 percent, and 1.90 billion bolivars of 358-day notes with a 25.29 percent coupon at an average price of 92.83 percent.</p>
+<p>The Bank had offered 80 billion bolivars of 177-day notes, 27 billion of 269-day notes and 28 billion of 358-day bills.  </p>
+<p>According to a preliminary calculation by Reuters that uses the Central Bank formula, the yield on the notes was 28.99 percent for the 177-day TEMs, 32.36 percent for the 269-day notes, and 35.01 percent for the 358-day TEMs.</p>
+<p>The yields for 177-, 269-, and 358-day bills rose at last week's auction to 23.85 percent, 27.87 percent and 30.22 percent respectively.</p>
+<p>The weekly TEM bill auctions are the Central Bank's principal tool of monetary policy, used to restrict liquidity and establish a benchmark for wider interest rates.</p>
+<p>-- Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3103" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: Manitoba Ag daily cash hog price for August 19.</title>
+<headline>Manitoba Ag daily cash hog price for August 19.</headline>
+<dateline>WINNIPEG 1996-08-20</dateline>
+<text>
+<p>Manitoba Agriculture daily hog slaughter prices and data for Aug 19--</p>
+<p>    --						Current     Prev</p>
+<p>Manitoba Average Daily Hog Price</p>
+<p>	 All weight categories		  227.92	227.86</p>
+<p>Number of hogs slaughtered</p>
+<p>	 All weight categories		   6,926	 5,707</p>
+<p>    Average carcass weight in kg	     81.68	 81.50</p>
+<p>Note: The daily hog price is in Canadian dollars per 100 kg, based on average of paid packer prices obtained from Schneider Corp, Burns Meats Ltd., Spring Hill Farms and Jack Forgan Meat Ltd. Basic dressed weight is 75-89 kg.</p>
+<p>(Gilbert Le Gras 204 947 3548)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

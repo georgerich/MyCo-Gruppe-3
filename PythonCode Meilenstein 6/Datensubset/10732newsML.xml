@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10732" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Continental Air stake cut by FMR-led group.</title>
+<headline>Continental Air stake cut by FMR-led group.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>A group led by FMR Corp said Friday it reduced its stake in Continental Airlines Inc to 6,544,220 class B common shares, or 13.92 percent of the class outstanding.</p>
+<p>In a filing with the U.S. Securities and Exchange Commission, the group said it sold a net of 334,000 class B shares of the company between July 12 and August 9 at prices ranging from $22.63 to $60.00 a share.</p>
+<p>In a previous filing, the group said it held 15.49 percent or 3,437,660 class B shares of the airline company.</p>
+<p>On June 26, Continental Airlines approved a two-for-one stock split, payable July 16 to holders of record of class B and class A common stock on July 2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

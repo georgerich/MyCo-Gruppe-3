@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4856" id="root" date="1996-08-20" xml:lang="en">
+<title>DUBAI: PRESS DIGEST - United Arab Emirates - Aug 20.</title>
+<headline>PRESS DIGEST - United Arab Emirates - Aug 20.</headline>
+<dateline>DUBAI 1996-08-20</dateline>
+<text>
+<p>These are some of the leading stories in the United Arab Emirates press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-ITTIHAD</p>
+<p>- UAE to hand over to Red Cross the Taliban militia guards overpowered by their Russian hostages during escape by plane to the UAE.</p>
+<p>AL-BAYAN</p>
+<p>- In the first half, 202,400 tonnes of cargo moved through Dubai Cargo village.</p>
+<p>AL-KHALEEJ</p>
+<p>- Abu Dhabi, Dubai, and Al Ain airports to be expanded.</p>
+<p>GULF NEWS</p>
+<p>- UAE to adopt new national anthem after it endorsed a permanent federal constitution.</p>
+<p>- International call charges from UAE to more than 220 countries to be reduced by 15 percent starting on September 1.</p>
+<p>- Ministry of Education to implement ambitious five-year vocational training programme to get more nationals in the private sector work force.</p>
+<p>- UAE national received a 5,000 dirhams ($1,362) reward for informing the Business Software Alliance of software piracy.</p>
+<p>KHALEEJ TIMES</p>
+<p>- Ministries of agriculture and health and Abu Dhabi municipality to curb use of pesticides.</p>
+<p>- Huge stocks of unfit food destroyed in Sharjah because of poor storage conditions.</p>
+<p>- Sri Lankan embassy to start registering maids' employment contracts to prevent harassment and other difficulties.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

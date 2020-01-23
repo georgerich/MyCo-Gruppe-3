@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12368" id="root" date="1996-08-23" xml:lang="en">
+<title>PHILIPPINES: Philippine 7-month budget surplus 4.9 bln pesos.</title>
+<headline>Philippine 7-month budget surplus 4.9 bln pesos.</headline>
+<dateline>MANILA 1996-08-23</dateline>
+<text>
+<p>The Philippines' seven-month budget surplus was at 4.9 billion pesos against a surplus of 5.9 billion pesos in the same period last year, the Department of Finance said on Friday.  </p>
+<p>FISCAL POSITION     Jan-July 96   Jan-June 96   Jan-July 95</p>
+<p>   Revenues	   239.5	   203.009	 214.9</p>
+<p>   Expenditures     234.5	   193.272	 209.0</p>
+<p>   Surplus		4.9	     9.737	   5.9</p>
+<p>Note: Figures are in billion pesos. First column does not tally to exact figure due to rounding off by Department of Finance.</p>
+<p>- Manila newsroom 63 2 841 8937 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

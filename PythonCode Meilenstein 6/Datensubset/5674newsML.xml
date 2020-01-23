@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5674" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Parlex Corp Q4 full results.</title>
+<headline>Parlex Corp Q4 full results.</headline>
+<dateline>METHUEN, Mass. 1996-08-21</dateline>
+<text>
+<p>Parlex Corp.</p>
+<p>					FY 1996		     FY 1995</p>
+<p>				   Fourth Qtr		  Fourth Qtr</p>
+<p> Total revenue	  $    12,258,030	   $    10,820,579</p>
+<p> Income before taxes	    702,592		     432,264</p>
+<p> Net income			 460,276		     400,001</p>
+<p> Net income per share		 .18			   .16</p>
+<p>Weighted average</p>
+<p>  shares outstanding	  2,463,511		   2,461,634</p>
+<p>				 12 Mos Ended		12 Mos Ended</p>
+<p>				 Jun 30, 1996		Jun 30, 1995</p>
+<p> Total revenue	  $    47,257,025	   $    40,251,299</p>
+<p> Income before taxes	  1,170,302		   2,240,301</p>
+<p> Net income			 770,486		   1,485,888</p>
+<p> Net income per share		 .31			   .61</p>
+<p>Weighted average</p>
+<p>  shares outstanding	  2,449,820		   2,434,035</p>
+<p> Backlog as of June 30 $    23 million	   $   22 million</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="METHUEN, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

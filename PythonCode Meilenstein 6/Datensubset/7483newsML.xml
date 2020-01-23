@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7483" id="root" date="1996-08-21" xml:lang="en">
+<title>KUWAIT: PRESS DIGEST - Kuwait - Aug 21.</title>
+<headline>PRESS DIGEST - Kuwait - Aug 21.</headline>
+<dateline>KUWAIT 1996-08-21</dateline>
+<text>
+<p>These are some of the leading stories in the Kuwaiti press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy:</p>
+<p>AL-QABAS</p>
+<p>- Crown Prince Sheikh Saad al-Abdulla al-Sabah says Israel's proposal to have peace with Lebanon first is meant to weaken the position of Arab states.</p>
+<p>- Kuwait's imports for the first quarter of 1996 amount to 596.4 million dinars ($1.994 billion), according to official figures.</p>
+<p>AL-WATAN</p>
+<p>- Banks lead active trade at Kuwait Stock Exchange.</p>
+<p>- Parliament recomends that government should halt the forced dismantling of farms that have been established by Kuwaitis in violation of the law. MPs who received complaints from farmers want to debate the removals with the government.</p>
+<p>ARAB TIMES</p>
+<p>- Parliament agreed to give its watchdog public funds protection committee investigatory powers to probe a proposed purchase of up to $100 million of naval missiles from Britain. Opposition MPs say they suspect irreguliarities may have occurred in the deal and say the government has not satifactorily explained why it turned down the offer of a cheaper French missile.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUWAIT"/>
+<dc element="dc.creator.location.country.name" value="KUWAIT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

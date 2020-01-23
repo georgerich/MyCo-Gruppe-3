@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7433" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: Taiwan central bank to inject funds on Wednesday.</title>
+<headline>Taiwan central bank to inject funds on Wednesday.</headline>
+<dateline>TAIPEI 1996-08-21</dateline>
+<text>
+<p>Taiwan's central bank said on Wednesday it would inject funds into the banking system later in the day through open market operations.</p>
+<p>The bank, through three bills finance companies, would execute within-30-day open market operations on qualified securities instruments offered by interested financial institutions, a bank official said.</p>
+<p>Bids would close at 1100 a.m (0300 GMT).</p>
+<p>The funds would be released according to actual demand, he said.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

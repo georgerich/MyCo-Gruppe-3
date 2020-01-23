@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9594" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Reno says drug war should be non-partisan.</title>
+<headline>Reno says drug war should be non-partisan.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Attorney General Janet Reno said Thursday she hoped the war against drugs and juvenile crime would not become partisan issues in the presidential election campaign.</p>
+<p>&quot;Our children should not be political footballs,&quot; Reno said at her weekly news conference.</p>
+<p>She was responding to attacks by Republican presidential nominee Bob Dole and other Republicans on President Clinton's anti-drug efforts after a report this week said there had been a sharp increase in teenage drug use in the last four years.</p>
+<p>&quot;My hope is that in these next 70-something days between now and the election, we can continue to work together at the state and local level in the partnership, to focus on our children, to continue our efforts to reduce youth violence in a bipartisan way, to reduce youth drug use and not to let these issues become part of the political season,&quot; Reno said.</p>
+<p>&quot;There is so much, as I have talked about before, about what can happen when Republicans and Democrats sit down together. There are so many good people on both sides of the aisle, Republicans and Democrats, who are trying to address some of these issues that should not be partisan in nature,&quot; she added.</p>
+<p>Reno said she tried to be non-partisan and to keep the Justice Department out of politics. She said she would not attend the Democratic convention in Chicago next week where Clinton may announce some anti-crime programmes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

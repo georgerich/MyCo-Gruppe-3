@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4811" id="root" date="1996-08-20" xml:lang="en">
+<title>VIETNAM: Vietnam to place prominent dissidents on trial.</title>
+<headline>Vietnam to place prominent dissidents on trial.</headline>
+<dateline>HANOI 1996-08-20</dateline>
+<text>
+<p>Vietnam will this week place on trial two prominent intellectuals who were jailed last year in a government crackdown on dissent, a rights group and dissident sources said on Tuesday.</p>
+<p>They said Le Hong Ha, a former high ranking Communist Party member and Ha Si Phu, a leading academic, would face a court in Hanoi on Thursday.  </p>
+<p>The two men were arrested in November last year as part of a crackdown on dissent in the run-up to Hanoi's Eighth Communist Party Congress.</p>
+<p>Phu was charged with leaking state secrets through an interview with a French radio station and through the distribution of documents in which he criticised the Hanoi government.</p>
+<p>Le Hong Ha had earlier been expelled from the Communist Party after voicing support for Hoang Minh Chinh, another prominent dissident.</p>
+<p>The Paris-based group Alliance Vietnam Liberte said in a statement on Tuesday the arrests had been condemned by numerous overseas bodies as well as international rights groups.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

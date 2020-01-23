@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4996" id="root" date="1996-08-21" xml:lang="en">
+<title>TURKEY: Turkish PM lauds &quot;natural&quot; gas deal with Iran.</title>
+<headline>Turkish PM lauds &quot;natural&quot; gas deal with Iran.</headline>
+<dateline>ANKARA 1996-08-21</dateline>
+<text>
+<p>Turkish Prime Minister Necmettin Erbakan on Wednesday defended a $23-billion natural gas deal with Iran which has angered the United States.</p>
+<p>&quot;What could be more natural than us getting such cheap, abundant natural gas from right next door?&quot; Erbakan told a news conference.</p>
+<p>Washington said earlier this month it would slap sanctions on companies investing more than $40 million in energy projects in Iran and Libya, calling them &quot;two supporters of terrorism.&quot;</p>
+<p>The United States has condemned the Turkey-Iran deal but said last week it was too early to decide whether to punish NATO ally Turkey.</p>
+<p>&quot;The American administration has shown understanding but certain circles in America are assessing (the deal) negatively,&quot; he said.</p>
+<p>Erbakan, Turkey's first Islamist leader, was speaking hours after returning from a 10-day foreign tour that included a stop in Iran where the gas agreement was signed last week.</p>
+<p>&quot;We want to improve all kinds of relations with both the East and the West,&quot; he said. &quot;This sincere desire was openly expressed on our visit.&quot; He also went to Pakistan, Singapore and Malaysia and Indonesia.</p>
+<p>Under the gas deal, a pipeline is to be built from the Iranian city of Tabriz to Ankara beginning in 1999.</p>
+<p>Turkey, facing an energy shortage, will buy a total of 190 billion cubic metres by the year 2022.</p>
+<p>&quot;Turkey is an independent country. We have the responsibiliy to sort out national problems. It is our duty,&quot; Erbakan said.</p>
+<p>He predicted the Iran project would boost the economy of Turkey's impoverished southeast, hit by 12 years of fighting between government forces and separatist Kurdish rebels.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

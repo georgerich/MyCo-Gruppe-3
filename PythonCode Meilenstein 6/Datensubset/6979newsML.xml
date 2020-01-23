@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6979" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: RESEARCH ALERT - Players International.</title>
+<headline>RESEARCH ALERT - Players International.</headline>
+<text>
+<p>-- Salomon Brothers said it downgraded Players International Inc to hold from buy.</p>
+<p>-- The stock closed at 6-14/16 Tuesday.</p>
+<p>-- Salomon cited &quot;July jurisdictional results for both Illinois and Louisiana as well as margin pressure at the company's Lake Charles, La., and Metropolis, Ill., properties.&quot;  </p>
+<p>-- Salomon's gaming analyst Bruce Turner also lowered his earnings estimates for the company, to $0.35 per share from $0.80 for 1996, to $0.45 from $1.15 for 1997, and to $0.55 from $1.25 for 1998.</p>
+<p>-- The pared earnings outlook is based on &quot;increased competitive pressures in the Lake Charles and Metropolis gaming markets.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

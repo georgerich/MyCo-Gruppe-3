@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2873" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Bowater stake held by D.E. Shaw-led group.</title>
+<headline>Bowater stake held by D.E. Shaw-led group.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>A group led by D.E. Shaw Investments L.P. said in a U.S. Securities and Exchange Commission filing Tuesday that it held a 19.4 percent stake in Bowater Inc, or 949,300 depositary shares.</p>
+<p>The group disclosed its Bowater holdings in a 13G filing.</p>
+<p>Depositary shares each represent a one-fourth interest in a share of preferred redeemable increased dividend equity securities, seven percent PRIDES, series convertible preferred stock, par value $1 per share.</p>
+<p>Filings under 13G are usually made by institutions and large investors with &quot;passive&quot; investment objectives in a company. In contrast with 13D filings, those reports do not list the latest transactions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

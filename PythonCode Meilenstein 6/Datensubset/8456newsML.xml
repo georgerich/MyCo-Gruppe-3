@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8456" id="root" date="1996-08-22" xml:lang="en">
+<title>NORWAY: Statoil makes big savings on Sleipner West.</title>
+<headline>Statoil makes big savings on Sleipner West.</headline>
+<dateline>OSLO 1996-08-22</dateline>
+<text>
+<p>Development of the Sleipner West gas and condensate field will come in roughly 2.6 billion crowns under budget, operator Den Norske Stats Oljeselskap AS (Statoil) said on Thursday.</p>
+<p>Costs for the development and operation of the newest field to start up on the Norwegian continental shelf will be around 9.5 billion crowns compared with original estimates of around 10.9 billion crowns.</p>
+<p>In addition, there were savings of about one billion crowns related to drilling wells and just over 200 million for modifying the pipeline terminal at Kaarstoe, north of Stavanger, Statoil said in its Status Weekly newsletter.</p>
+<p>The project comprised construction and installation of the Sleipner B wellhead and T treatment platforms, modification of existing installations on Sleipner East and laying of flowlines.</p>
+<p>&quot;The project has saved money on a number of fronts,&quot; said Joachim Kaisen, commercial manager for the development.</p>
+<p>Kaisen said close cooperation with contractors and extensive commissioning and testing of modules on land contributed to savings in time and costs.</p>
+<p>Statoil said the field could start up as early as September 1, compared with an original date of April 1, 1997.</p>
+<p>-- Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

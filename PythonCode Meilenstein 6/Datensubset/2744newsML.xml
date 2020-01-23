@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2744" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: Canada provincial T-bill auction results - Manitoba.</title>
+<headline>Canada provincial T-bill auction results - Manitoba.</headline>
+<text>
+<p>DATE  PROV   MAT    C$AMT   AVG   CHG  PRICE    HI    LO</p>
+<p>08/19/96  MAN   3-MO   25 MLN   4.155 -01  98.975  4.155 4.155</p>
+<p>08/15/96  ONT   3-MO  100 MLN   4.217 -23  98.9596 4.211 4.223</p>
+<p>08/15/96  ONT   6-MO   50 MLN   4.453 +02  97.8282 4.451 4.455</p>
+<p>08/14/96  QUE   3-MO  200 MLN   4.34  flat 98.929  4.33  4.35</p>
+<p>08/14/96  NFD   3-MO   30 MLN   4.30  -10  98.939  4.30  4.30</p>
+<p>07/31/96  QUE   6-MO   75 MLN   4.87  -23  97.628  4.87  4.88</p>
+<p>07/10/96  QUE   1YR    50 MLN   5.64  -05  94.674  5.64  5.65</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

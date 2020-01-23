@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9401" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Philippine defence chief says death rumour absurd.</title>
+<headline>Philippine defence chief says death rumour absurd.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>Philippine Defence Secretary Renato de Villa said on Thursday that rumours of his death which had sent the local peso into a tailspin were absurd.</p>
+<p>&quot;It's really wild. It's really out of the blue,&quot; de Villa told Reuters.</p>
+<p>&quot;Relax, I'm alive,&quot; he said, laughing after being told the peso had been battered on the foreign exchange market by rumours he had been killed in an ambush. &quot;I was here (at the defence ministry). I was holding a conference,&quot; he said.</p>
+<p>De Villa, a former armed forces chief of staff and often tipped as a future presidential candidate, said he had ordered an investigation into how the rumour started.</p>
+<p>&quot;I have asked some people to look into it,&quot; he said, adding the order had gone to armed forces intelligence units.</p>
+<p>Rumours that de Villa had been killed sent the Philippine peso to a low of 26.235 to the U.S. dollar in late trade against its Wednesday close of 26.193.</p>
+<p>Vigorous Central Bank intervention and equally vigorous denials from de Villa's aides helped the currency recover to close at 26.225 to the dollar. --Manila newsroom (632) 841-8936</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

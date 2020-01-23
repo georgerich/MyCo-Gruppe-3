@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3452" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Costello says budget eases pressure on rates.</title>
+<headline>RTRS-Costello says budget eases pressure on rates.</headline>
+<dateline>CANBERRA 1996-08-21</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said on Wednesday the government's 1996/97 (July-June) budget would ease pressure on interest rates.  </p>
+<p>&quot;I have always said -- and the Reserve Bank made this clear -- that if we have a good budget through the Senate and if we have a programme to get Australia out of deficit and debt reduction, that will take the pressure off interest rates,&quot; Costello said in a radio interview.</p>
+<p>He remark follows his presentation of the budget to parliament on Tuesday night.</p>
+<p>The budget slashes a net A$2.9 billion from spending and boosts revenues by a net A$1 billion to bring down the forecast underlying budget deficit to A$5.65 billion in 1996/97.  </p>
+<p>Costello and Prime Minister John Howard both said in the lead-up to the budget's presentation that the government's aim to cut debt and eliminate the budget deficit would make another interest rate cut more likely.</p>
+<p>The Reserve Bank of Australia cut its official cash rate by 50 basis points last month.</p>
+<p>-- Canberra bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

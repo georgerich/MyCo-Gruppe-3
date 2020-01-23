@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6185" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia's Fahey says Senate pressures rates.</title>
+<headline>RTRS-Australia's Fahey says Senate pressures rates.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Australian Finance Minister John Fahey said non government parties would reverse downard interest rate pressure if they combined in the Senate to obstruct the 1996/97 budget.</p>
+<p>&quot;If they combine to emaciate the savings in this budget then effectively they will be voting to reverse the downward pressure on interest rates,&quot; Fahey told a business breakfast.  </p>
+<p>Treausurer Peter Costello said last week that if the Senate obstructed part of the Budget, then the July 31 monetary policy easing might have to be reversed. The Reserve Bank cut official interest rates by 50 basis points to 7.0 percent at the end of July, the first rate change since December 1994.</p>
+<p>The 1996/97 Budget was handed down on Tuesday night, with the opposition parties closely looking at the plans to offload one third of telecommunications carrier Telstra Corp and some of its revisions to labour market programmes. The government does not have a majority in the Senate which will consider the budget legislation. -- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

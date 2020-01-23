@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9898" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Laverton sees gold by year-end.</title>
+<headline>RTRS-Laverton sees gold by year-end.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Laverton Gold NL said on Thursday it expects to pour its first gold bar from its Rawas mine in South Sumatra, Indonesia by year-end.</p>
+<p>The company said it had commenced waste-rock stripping at the project in anticpation of commissioning a gold treatment plant in the first week of December.</p>
+<p>Laverton said the mine should produce about 75,000 ounces of gold a year over the first five years.</p>
+<p>The waste rock will be used to build a tailings dam and as ore stockpile, the company said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

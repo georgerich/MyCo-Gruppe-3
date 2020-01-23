@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11335" id="root" date="1996-08-23" xml:lang="en">
+<title>SINGAPORE: Australian refinery cuts set to stem petrol exports.</title>
+<headline>Australian refinery cuts set to stem petrol exports.</headline>
+<byline>Marguerita Choy</byline>
+<dateline>SINGAPORE 1996-08-23</dateline>
+<text>
+<p>Cuts in Australian refinery production and industrial action have stemmed the country's gasoline exports, industry sources said on Friday.</p>
+<p>Australian refiners started to export gasoline cargoes in July as stocks built up and profits on the product dropped, switching to concentrate on producing jet-kerosene fuel and diesel, they said.</p>
+<p>The first cargo for export, beyond Australia's immediate neighbours like New Zealand, emerged in early July when a European oil major shipped 30,000 tonnes to Japan.</p>
+<p>Australia's largest petroleum refiner and marketer, Ampol Petroleum Pty Ltd, sold its first export cargo of gasoline on Tuesday but did not plan to offer further cargoes in the short term, one source said.</p>
+<p>&quot;We will probably have to cut crude runs because of poor refining margins from high Tapis crude prices and current low Singapore gasoline prices,&quot; he said.</p>
+<p>&quot;The margin for gasoline is basically zero,&quot; complained one refiner. &quot;For gas oil and kerosene, it is good but gasoline accounts for 50 percent of the barrel.&quot;</p>
+<p>He said Ampol planned to cut runs at its 100,000 barrel-per-day (bpd) refinery in Lytton, Brisbane, by up to six percent from September and was considering a seven percent cut in output at its 115,000 bpd Kurnell refinery in October.</p>
+<p>&quot;At this stage, the reduction is only for a month, but it really depends on margins,&quot; he said.</p>
+<p>Ampol's high stocks of gasoline will find some relief from a scheduled 10-day shutdown of a 20,000 bpd reformer at Kurnell, which produces gasoline from straight run naphtha, in the second half of September. The second 20,000 bpd reformer may also be shut down for regeneration in October, the source said.</p>
+<p>&quot;It helps,&quot; the refiner said.</p>
+<p>Traders said high stocks of Australian gasoline had also eased due to last week's partial shutdown of Shell Australia Ltd's 115,000 bpd Geelong refinery due to industrial action and of Mobil Refining Australia's 65,000 crude distillation unit at its Altona refinery due to technical problems.</p>
+<p>British Petroleum Co Plc has scheduled a one month shutdown of Australia's smallest refinery, the 57,000 bpd Bulwer Island refinery in Brisbane, on Tuesday and that should also reduce stocks, traders said.</p>
+<p>Ampol sold the 30,000 tonnes of 92-octane gasoline on Tuesday for lifting in early September to U.S. refiner Koch Oil at a discount to Singapore's 92-octane prices on a free-on-board basis.</p>
+<p>Industry sources said the cargo was destined for much stronger U.S. gasoline markets.</p>
+<p>&quot;Being so prompt and at these prices, it can work,&quot; said one trader.</p>
+<p>Others traders were more skeptical about taking advantage of different prices in different markets.</p>
+<p>&quot;Sure it works on paper, but the logistics of getting it to the U.S. on time, finding a buyer and meeting the specification is another thing,&quot; said a trader at a major oil company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

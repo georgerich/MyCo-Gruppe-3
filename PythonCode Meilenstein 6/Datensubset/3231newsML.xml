@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3231" id="root" date="1996-08-20" xml:lang="en">
+<title>MOLDOVA: Moldova 28, 182-day T-bill yields fall, 91-day up.</title>
+<headline>Moldova 28, 182-day T-bill yields fall, 91-day up.</headline>
+<dateline>CHISINAU 1996-08-20</dateline>
+<text>
+<p>The annualised yield on Moldova's 28-day Treasury bills fell to 26.60 percent at an auction on Tuesday from 29.31 percent at the previous auction last Tuesday, a National Bank official said.</p>
+<p>The yield on the country's 91-day T-bills rose to 32.05 percent annual from 31.12 percent at the previous auction last Tuesday, he told Reuters.</p>
+<p>The yield on 182 T-bills fell to 38.20 percent annual from 39.63 percent at the previous auction on July 23.</p>
+<p>Full details of the 28-day T-bill auction:</p>
+<p>						Aug 20	  Aug 13</p>
+<p>    Issue volume			  3.00 million lei  3.00 million lei</p>
+<p>    Denominations			 1,000 lei     1,000 lei</p>
+<p>    Nominal demand			6.38 million	1.94 million</p>
+<p>    Volume sold			   3.00 million	1.94 million</p>
+<p>    Yield				   26.60 pct     29.31 pct</p>
+<p>    Price				   98.0 pct	97.8 pct</p>
+<p>    Range of bids			 97.7-98.5 pct 97.8-98.6 pct</p>
+<p>    Maturity				Sep 19, 1996  Sep 12, 1996</p>
+<p>Full details of the 91-day T-bill auction:</p>
+<p>						Aug 20	  Aug 13</p>
+<p>    Issue volume			  10.00 million lei 10.00 million lei</p>
+<p>    Denominations			 1,000 lei     1,000 lei</p>
+<p>    Nominal demand			10.14 million     11.34 million</p>
+<p>    Volume sold			   10.00 million     10.00 million</p>
+<p>    Yield				   32.05 pct     31.12 pct</p>
+<p>    Price				   92.6 pct	92.8 pct</p>
+<p>    Range of bids			 92.6-95.0 pct 92.6-96.0 pct</p>
+<p>    Maturity				Nov 21, 1996  Nov 14, 1996</p>
+<p>Full details of the 182-day T-bill auction:</p>
+<p>						Aug 20	  July 23</p>
+<p>    Issue volume			  5.00 million lei  3.00 million lei</p>
+<p>    Denominations			 1,000 lei     1,000 lei</p>
+<p>    Nominal demand			4.06 million	8.91 million</p>
+<p>    Volume sold			   4.06 million	3.00 million</p>
+<p>    Yield				   38.20 pct     39.63 pct</p>
+<p>    Price				   84.0 pct	83.5 pct</p>
+<p>    Range of bids			 84.0-86.6 pct 81.5-92.0 pct</p>
+<p>    Maturity				Feb 20, 1997  Jan 23, 1997</p>
+<p>--Dmitry Solovyov, Moscow newsroom, +0795 941 85 20</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOLDV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHISINAU"/>
+<dc element="dc.creator.location.country.name" value="MOLDOVA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

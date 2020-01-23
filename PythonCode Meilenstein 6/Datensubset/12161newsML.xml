@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12161" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Costello says would like to see 97/98 balance.</title>
+<headline>RTRS-Costello says would like to see 97/98 balance.</headline>
+<dateline>MELBOURNE 1996-08-23</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said he would like to see the budget near balance in the fiscal year to June 1998, despite Tuesday's budget forecast for a small deficit.</p>
+<p>Asked how he would like to report on the Australian economy in a year's time, he said: &quot;I would like to be able to say that in the forthcoming year we'll go close to balance, although on current projections it would be a deficit, it'd be a very small deficit.&quot;  </p>
+<p>In Tuesday's budget the underlying deficit, which excludes asset sales and other one off items, was forecast to fall to A$5.65 billion in 1996/97 from A$10.3 billion in 1995/96 and then to A$1.5 billion in June 1998. The budget forecast an underlying surplus of A$1.0 billion by June 1999.</p>
+<p>On winning office in March, Costello had originally committed the Liberal National government to restoring underlying balance by the end of the 1997/98 fiscal year, but this was pushed out to 1998/99 when figures released last month showed the underlying deficit for 1995/96 was over A$1.0 billion higher than earlier thought. -- Canberra Bureau 61-6 273 2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

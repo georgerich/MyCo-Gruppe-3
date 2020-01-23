@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3040" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: First Call Earnings Surprises for August 20.</title>
+<headline>First Call Earnings Surprises for August 20.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.</p>
+<p>			 First Call Earnings Surprises</p>
+<p>Positive Surprises</p>
+<p>------------------	First Call</p>
+<p>				   Consensus  Actual</p>
+<p>Company Name	 Period     EPS	EPS   Surprise</p>
+<p>S&amp;K Famous Brands  Q2Jul96    0.13     0.17     30.8%</p>
+<p>Brown Group Inc    Q2Jul96    0.25     0.31     24.0%</p>
+<p>National Picture   Q1Jul96    0.11     0.13     18.2%</p>
+<p>Layne Inc	    Q2Jul96    0.25     0.28     12.0%</p>
+<p>Shiloh Industries  Q3Jul96    0.28     0.31     10.7%</p>
+<p>PHH Corp	     Q1Jul96    0.56     0.61	8.9%</p>
+<p>Harnischfeger Corp Q3Jul96    0.74     0.80	8.1%</p>
+<p>Toys R Us Inc	Q2Jul96    0.09     0.10	N/A</p>
+<p>Negative Surprises</p>
+<p>------------------				First Call</p>
+<p>				   Consensus Actual</p>
+<p>Company Name	 Period    EPS     EPS   Surprise</p>
+<p>BioWhittaker Inc    Q3Jul96   0.14    0.13     -7.1%</p>
+<p>Designs Inc	   Q2Jul96   0.08    0.04	N/A</p>
+<p>			Other Companies Reporting Today</p>
+<p>Positive Reports</p>
+<p>----------------			     First Call</p>
+<p>				   Consensus  Actual</p>
+<p>Company Name	 Period     EPS	EPS     Diff.</p>
+<p>Harcourt General    Q3Jul96    1.45     1.45     0.0%</p>
+<p>SCB Computer Techno Q1Jul96    0.18     0.18     0.0%</p>
+<p>Negative Reports</p>
+<p>----------------				First Call</p>
+<p>				    Consensus  Actual</p>
+<p> Company Name	Period     EPS	EPS     Diff.</p>
+<p>None Reported.</p>
+<p>Legend:</p>
+<p>N/A	All or some data necessary for calculation is</p>
+<p>	   unavailable.</p>
+<p>N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and</p>
+<p>	   there is more than one estimate.</p>
+<p>N+	 Actual EPS is larger than Mean estimate. Mean</p>
+<p>	   estimate is negative or zero.</p>
+<p>N-	 Actual EPS is smaller than Mean estimate. Mean</p>
+<p>	   estimate is negative or zero.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I32754">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I6540030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

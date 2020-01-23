@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9479" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Fourteen inmates injured in Texas prison riot.</title>
+<headline>Fourteen inmates injured in Texas prison riot.</headline>
+<dateline>EDEN, Texas 1996-08-22</dateline>
+<text>
+<p>Fourteen inmates and two guards were injured during a 15-hour riot involving hundreds of prisoners at a privately-run prison in west Texas, prison officials said on Thursday.</p>
+<p>Guards lobbed pepper gas into a crowd of about 400 inmates who gathered in a recreation yard at the Eden Detention Centre here on Wednesday and refused to return to their cells, prison officials said.</p>
+<p>At least two inmates were struck by buckshot pellets fired as warning shots when some inmates attempted to escape by scaling a security fence at the prison, said a spokeswoman with Corrections Corp. of America, which operates the facility.</p>
+<p>&quot;Two inmates underwent surgery to remove buckshot pellets and remain in the hospital. Twelve other inmates were treated at area hospitals for minor, superficial wounds, including bruises and lacerations,&quot; said Susan Hart, spokeswoman with the Nashville, Tenn.-based company.</p>
+<p>One guard was hospitalized after his jaw was broken by a rock thrown during the melee, which started at midday on Wednesday when inmates began protesting conditions at the 1,000-bed facility, said Laureen Chernow, a spokeswoman with the Texas Department of Public Safety.</p>
+<p>State police and Texas Rangers were called in about seven hours later and patrolled the prison's perimeter with helicopters and floodlights while guards inside worked to end the uprising, Chernow said.</p>
+<p>About 120 inmates identified as &quot;ringleaders&quot; in the fracas were being transferred out of the detention centre, which is located about 45 miles (70 km) southeast of San Angelo, Hart said.</p>
+<p>The incident is the second this month at a Texas prison facility operated by the company. On Aug. 7, two convicted sex offenders at a company operated jail in Houston escaped, raising concerns from local police who said they were not notified of the escape for several hours and were unaware sex offenders were housed there.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDEN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

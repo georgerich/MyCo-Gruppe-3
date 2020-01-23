@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3668" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: U.S. identity fraud is on the rise - government.</title>
+<headline>U.S. identity fraud is on the rise - government.</headline>
+<byline>Tabassum Zakaria</byline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>Identity fraud is on the rise in the United States, with criminals using stolen social security numbers and driver's licenses to take over their victims' jobs and mortgages, a government agency said Tuesday.</p>
+<p>&quot;The case histories that we see are frankly frightening,&quot; said Janet Steiger, a member of the Federal Trade Commission. &quot;In a flash, the victim's credit record ... is destroyed,&quot; and it may take years to undo the damage, she said.</p>
+<p>&quot;The bureau ... has become more and more aware of the problem of identity fraud because we are receiving an increasing number of consumer complaints,&quot; Steiger said.</p>
+<p>She was addressing a meeting hosted by the FTC to start a working group of industry, government and consumer respresentatives on how to tackle the problem.</p>
+<p>Victims of such fraud have lost jobs, credit accounts, had cars repossessed, and some have lost mortgages and been denied college tuition loans, Steiger said. &quot;In some cases they have been arrested for crimes committed by the criminal who stole their very identity,&quot; she added.</p>
+<p>John Smith, a general contractor from Bakersfield, Calif., said it took him a year to sort out the mess after someone grabbed his identity.</p>
+<p>The impostor applied for credit at dozens of businesses and put Smith's address as his previous address and a phony address as the current address, so nothing was ever mailed to Smith from any of the fraudulent transactions, Smith said.</p>
+<p>&quot;(He) received at least $50,000 in merchandise and services on my identity alone, and I was not the only one he was working,&quot; Smith said.</p>
+<p>The criminal obtained forged driver's licenses using addresses of recently vacated houses, Smith said.</p>
+<p>The man then went into a used car lot asking to test drive a truck and was asked for a driver's license, but claimed he forgot his social security number.</p>
+<p>The dealer ran a credit check and several names came up on the screen and the impostor pointed to Smith's name, saying that his address had changed as he had recently moved.</p>
+<p>The man was able to get enough information, including the social security number, &quot;to set the chain of events in motion,&quot; Smith said.</p>
+<p>He noted that access to credit information should only be allowed if the person can supply a social security number.</p>
+<p>Solutions mooted at the forum included tightening access to credit reports, stricter and standardized requirements for obtaining driver's licenses and shredding old licenses rather than just throwing them away.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

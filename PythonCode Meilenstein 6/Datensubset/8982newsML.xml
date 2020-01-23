@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8982" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: LPC-Tunisia to get $100 million in 7-year loan.</title>
+<headline>LPC-Tunisia to get $100 million in 7-year loan.</headline>
+<text>
+<p>LONDON, August 22 (LPC) - Arrangers ABC International, Bank of Tokyo-Mitsubishi, Dresdner Bank Luxembourg, Natwest Markets and Societe Generale today launched syndication of a seven year, $100 million term loan for the Republic of Tunisia, the banks announced.</p>
+<p>The fully underwritten transaction, which will be used for general financing purposes, is priced at 50 bps over LIBOR for the first five years, rising to 60 bps thereafter.</p>
+<p>The facility will be repaid in equal semi-annual installments after a 60 month grace period from the signing date and must be drawn within three months of signing.</p>
+<p>This deal compares favourably with a five-year facility of the same size which the Republic sought in December 1995. That credit was priced 70 bps over LIBOR.</p>
+<p>- LPC Newsroom 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

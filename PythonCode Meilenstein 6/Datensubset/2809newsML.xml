@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2809" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Longs Drug Store Corp Q2 net rises.</title>
+<headline>Longs Drug Store Corp Q2 net rises.</headline>
+<text>
+<p>WALNUT CREEK, Calif, Aug 20 (Reuter)</p>
+<p>		     August 25, 1996	 August 27, 1995</p>
+<p> Shr		 $     0.69	     $     0.62</p>
+<p> Net		     13,512		   12,486</p>
+<p> Revs		   681,503		  646,359</p>
+<p> Avg shrs		19,711		   20,274</p>
+<p>				6 MONTHS</p>
+<p> Shr		 $	1.39	    $	1.26</p>
+<p> Net		     27,560		    25,790</p>
+<p> Revs		 1,346,911		 1,286,160</p>
+<p> Avg shrs		19,790		    20,450</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

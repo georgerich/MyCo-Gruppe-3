@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6586" id="root" date="1996-08-21" xml:lang="en">
+<title>INDIA: Indian gold, silver close higher on thin supply.</title>
+<headline>Indian gold, silver close higher on thin supply.</headline>
+<dateline>BOMBAY 1996-08-21</dateline>
+<text>
+<p>Gold and silver opened on a subdued note but lifted smartly towards close, aided by thin supplies and a shortage of ready stock, dealers said.</p>
+<p>&quot;Fresh physical buying ahead of festivals as well as renewed speculative buying also pushed the market upwards,&quot; said a dealer. On Tuesday gold was up 12 rupees per 10 grammes and silver 75 rupees per kg.</p>
+<p>Gold biscuits (116.50 grammes) settled 100 rupees higher at 60,700 rupees.</p>
+<p>Dealers said the market undertone was firm due to an uptrend in the world market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

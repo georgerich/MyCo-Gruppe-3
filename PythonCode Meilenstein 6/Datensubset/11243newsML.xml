@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11243" id="root" date="1996-08-23" xml:lang="en">
+<title>MEXICO: Mexico crude ports move to re-opening - captains.</title>
+<headline>Mexico crude ports move to re-opening - captains.</headline>
+<dateline>MEXICO CITY 1996-08-23</dateline>
+<text>
+<p>Mexico's Cayo Arcas crude port in the Gulf of Mexico reopened early Friday, the port captain told Reuters.</p>
+<p>Both Ciudad del Carmen and Cayo Arcas re-opened at 0905 local time (1405 GMT),&quot; Jorge Rios Macbeth told Reuters in a telephone interview.</p>
+<p>Coatzacoalcos port captain Juan Francisco Resendez Estrada said he was considering re-opening the port of Pajaritos, whoch comes under his jurisdiction, between 0930 local/1430 GMT and 1000 local/1500 GMT. &quot;We are going to see what the situation is and consider re-opening soon,&quot; he said.  </p>
+<p>The captain of Mexico's third crude port in the Gulf of Mexico, Dos Bocas in the state of Tabasco, was not immediately available to confirm if that port had also reopened.</p>
+<p>But Captain Ruben Villegas Dominguez, the captain of Frontera port in the same state, said he had re-opened his port to large ships earlier this morning. &quot;I cannot comment about Dos Bocas, you will have to ask there,&quot; he said.</p>
+<p>The three crucial crude export ports have been closed for two days because of the threat posed by Hurricane Dolly, which has now passed further to the northwest and is poised to make landfall on the border of the states of Veracruz and Tamaulipas.</p>
+<p>The three ports are the main exit points for crude shipment to the United States and Europe.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12425" id="root" date="1996-08-23" xml:lang="en">
+<title>CHINA: China reaffirms ban on overdrafting for new shares.</title>
+<headline>China reaffirms ban on overdrafting for new shares.</headline>
+<dateline>SHANGHAI 1996-08-23</dateline>
+<text>
+<p>China's top securities watchdog on Friday reaffirmed a ban on overdrafting in subscribing new shares, saying violaters could have their business licenses revoked, the China Securities newspaper said.</p>
+<p>In a circular, the China Securities Regulatory Commission (CSRC) said that recently there had been irregularities in subscribing of new shares, including overdrafting -- subscribing on credit -- prompting it to re-affirm the ban, the paper said.</p>
+<p>The CSRC circular ordered all exchanges and securities houses to improve supervision and management of special accounts for new share issues, the paper said.  </p>
+<p>No brokerage is allowed to overdraft to subscribe new shares nor it is allowed to do this for customers. Any institution found of violating the ban will have part of their business suspended and serious violators will have licenses revoked.</p>
+<p>Exchanges should ban overdrafting in new share issues and should annul overdrafting subscriptions, the circular said.</p>
+<p>Since the start of the year, Beijing has allowed the stock markets in Shanghai and Shenzhen to expand more quickly than at any time in the five-year history of the modern Chinese stock market.</p>
+<p>Unprecedented enthusiasm for new shares has made the rate of oversubscription of many new issues hit records.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8787" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Microsoft says Netscape charges baseless.</title>
+<headline>Microsoft says Netscape charges baseless.</headline>
+<dateline>SEATTLE 1996-08-22</dateline>
+<text>
+<p>Microsoft Corp said Thursday that allegations made by rival Netscape Communications Corp in letters to the U.S. Justice Department are &quot;without merit.&quot;</p>
+<p>In a response statement issued by the company and posted on the Internet, Microsoft said it &quot;adheres strictly to all legal requirements&quot; including those contained in a 1994 consent decree settling federal antitrust charges.  </p>
+<p>Specifically, Microsoft denied the charge that it offers a $3 discount on its Windows 95 operating system to computer makers who promise to hamper access to Netscape's Navigator browser.</p>
+<p>&quot;There is not and has never been any $3 discount for making competing browsers 'less accessible,'&quot; Microsoft said in the unsigned statement.</p>
+<p>Microsoft also denied that any of its agreements with Internet service providers obligate them to provide Microsoft's Internet Explorer browser exclusively and noted that customers are free to switch between browsers.  </p>
+<p>And Microsoft defended its practice of limiting the number of users allowed on a single copy of its Windows NT Workstation as &quot;standard practice in the software industry.&quot;</p>
+<p>Microsoft said Netscape, which has criticized the new licensing arrangement, similarly uses licensing agreements to limit the number of users allowed to connect to some of its software products.  </p>
+<p>Netscape's letter to the Justice Department from its lawyer Gary Reback, who has tangled with Microsoft in the past, suggested that the software giant's strategy of integrating the Internet browser with its operating system was a violation of antitrust laws.</p>
+<p>Microsoft, which has withstood federal antitrust scrutiny on the issue before, called the claim &quot;preposterous.&quot;</p>
+<p>In 1994, Microsoft denied any wrongdoing but agreed to settle a long Justice Department probe by changing certain licensing practices.  </p>
+<p>In its statement, Microsoft also denied that its strategy of giving away the Internet was &quot;predatory,&quot; as Netscape had charged. Microsoft noted that Netscape initially obtained its dominant share of the browser market largely by giving away the product.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

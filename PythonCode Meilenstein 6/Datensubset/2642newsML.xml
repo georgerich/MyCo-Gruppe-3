@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2642" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: TENNIS-RESULTS AT HAMLET CUP.</title>
+<headline>TENNIS-RESULTS AT HAMLET CUP.</headline>
+<dateline>COMMACK, New York 1996-08-19</dateline>
+<text>
+<p>Results from the</p>
+<p>Waldbaum Hamlet Cup tennis tournament on Monday (prefix number</p>
+<p>denotes seeding):</p>
+<p>First round</p>
+<p>1-Michael Chang (U.S.) beat David Prinosil (Germany) 6-1 6-3</p>
+<p>6-Younes El Aynaoui (Morocco) beat Nicolas Lapentti (Ecuador)</p>
+<p>6-4 6-3</p>
+<p>Hicham Arazi (Morocco) beat 8-Magnus Larsson (Sweden) 6-3 2-6</p>
+<p>6-4</p>
+<p>Karol Kucera (Slovakia) beat Guillermo Canas (Argentina) 2-6</p>
+<p>6-3 6-4</p>
+<p>Thomas Johansson (Sweden) beat Stefano Pescosolido (Italy)</p>
+<p>6-3 6-4</p>
+<p>Martin Damm (Czech Republic) beat Max Mirnyi (Bulgaria) 6-2</p>
+<p>7-6 (7-4)</p>
+<p>Sergi Bruguera (Spain) beat Andrei Cherkasov (Russia) 3-6 6-3</p>
+<p>7-6 (7-5)</p>
+<p>Nir Welgreen (Israel) beat Albert Chang (Canada) 5-7 6-3 7-5</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COMMACK, New York"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

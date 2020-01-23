@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10692" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Netscape says to expand consumer presence.</title>
+<headline>Netscape says to expand consumer presence.</headline>
+<dateline>PALO ALTO, Calif. 1996-08-23</dateline>
+<text>
+<p>Netscape Communications Corp, engaged in a showdown with software superpower Microsoft Corp over competing Internet software, plans to expand its consumer market presence.</p>
+<p>A spokeswoman said late on Friday the company's founders, Marc Andreesen and high-tech entrepreneur Jim Clark, will hold a news conference at a San Francisco hotel at 1030 PDT (1730 GMT) on Monday to make an announcement that &quot;expands our presence in the consumer marketplace.&quot;</p>
+<p>Netscape officials declined to provide further details, or to say whether other companies would be involved.  </p>
+<p>Within the last week, Netscape had launched the latest edition of its popular Internet browser, Netscape Navigator 3.0, which enables computer users to access the multimedia World Wide Web portion of the Internet.</p>
+<p>Although Netscape, which went public just one year ago with a sensational first-day share gain, has dominated the browser market with a market share of more than 80 percent, Microsoft is providing intense competition.  </p>
+<p>The Redmond, Wash.-based software giant launched an updated version of its Internet Explorer browser a week before Netscape's, and more than one million copies were downloaded off Microsoft's Web site in the first week.</p>
+<p>An outside counsel for Netscape wrote to the U.S. Department of Justice in a letter released to reporters earlier this week urging the department investigate allegations Microsoft unfairly promoting its browser.</p>
+<p>Netscape alleges, among other things, that Microsoft has offered better pricing on its operating systems to companies which will demonstrate prominent use of Internet Explorer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

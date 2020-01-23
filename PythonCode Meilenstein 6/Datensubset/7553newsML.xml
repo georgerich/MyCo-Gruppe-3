@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7553" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Dreyfus says chairman to retire.</title>
+<headline>Dreyfus says chairman to retire.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Dreyfus Corp. said Thursday that Howard Stein will retire as chairman and chief executive officer of the mutual fund company effective Aug. 31.</p>
+<p>Dreyfus, which is a subsidiary of Mellon Bank, said it named Keith Smith chairman, while Christopher Condron will be chief executive officer.</p>
+<p>Smith currently serves as vice chairman of Mellon Bank, which merged with Dreyfus in August of 1994. Condron is currently Dreyfus' president and chief operating officer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

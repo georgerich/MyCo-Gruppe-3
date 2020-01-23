@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3667" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: U.S. indicates it will prosecute Cuban hijackers.</title>
+<headline>U.S. indicates it will prosecute Cuban hijackers.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>The United States indicated on Tuesday it intended to prosecute three Cubans who hijacked a plane last Friday to flee their homeland and whose return was demanded by the Havana authorities.</p>
+<p>State Department spokesman Glyn Davies also said he knew of no plans to repatriate a fourth Cuban who hijacked another plane in a separate incident last month.</p>
+<p>In Friday's incident the hijackers forced the pilot of a small plane used for tourist trips to fly towards the west coast of Florida, where the aircraft ditched in the Gulf of Mexico. After being rescued, the hijackers asked for asylum, while the pilot said he wanted to return home.</p>
+<p>Davies said the pilot was in the custody of the Immigration and Naturalisation Service assisting an investigation into the incident.</p>
+<p>But he said the United States was &quot;working to facilitate his return to Cuba, and that may occur in the not too distant future&quot;.</p>
+<p>&quot;We want very much to develop a case against the hijackers,&quot; Davies said. &quot;One of the reasons that we brought the pilot to the United States (was) to see if he can't help us develop a case against these three, so that we can prosecute them.&quot;</p>
+<p>Cuba said on Tuesday U.S. failure to hand back the three, as well as the man involved in last month's hijacking, could jeopardise existing immigration accords between the two countries.</p>
+<p>In the earlier case, a former interior ministry officer, Jose Fernandez Pupo, hijacked a Cuban commercial plane at gunpoint July 7 and sought asylum in the U.S. Guantanamo Bay military base.</p>
+<p>Davies said U.S. authorities were still questioning Fernandez Pupo. &quot;I don't know of any plans to repatriate him to Cuba,&quot; he said. &quot;If we can develop a case, then we can prosecute the individual ... sometimes these cases take a while to develop,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

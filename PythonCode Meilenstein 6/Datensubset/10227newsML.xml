@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10227" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: German stocks close steady before weekend.</title>
+<headline>German stocks close steady before weekend.</headline>
+<dateline>FRANKFURT 1996-08-23</dateline>
+<text>
+<p>German equities ended on Friday almost unchanged from closing levels on Thursday, as a weaker dollar and softer German bonds weighed on trading sentiment.</p>
+<p>Despite support from a strong close on Wall Street overnight and a positive reaction to the Bundesbank's decision to cut the securities repurchase, or repo, rate on Thursday, shares could not find direction over the floor-trade session.</p>
+<p>At the end of bourse trade the DAX index, which measures floor trade in 30 blue-chip shares, was down 2.10 points, or 0.08 percent, at 2,555.16 points.</p>
+<p>The IBIS DAX index, which measures all-day electronic trade in German blue-chips, ended the day up 2.70 at 2,562.12.</p>
+<p>&quot;Sentiment is definitely warmer after the repo cut. We're not really going to see any kind of trend until Monday,&quot; said one Frankfurt trader.</p>
+<p>Chemical shares were among the main winners of the day, especially BASF AG which ended late trade up 20 pfennigs at 43.70 marks, off session highs.</p>
+<p>BASF was boosted by a 14.7 percent rise in first-half profits which it reported on Thursday and dealers said an analysts' meeting on Thursday also buoyed the share.</p>
+<p>Positive sentiment on BASF lifted other chemical stocks, including Hoechst AG, which ended up 40 pfennigs at 51.60 marks, Bayer AG, up 68 pfennigs at 53.75 marks, and Degussa AG, which ended bourse up 2.50 marks at 507 marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

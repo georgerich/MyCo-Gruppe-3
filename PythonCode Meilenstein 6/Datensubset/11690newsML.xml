@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11690" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: United Airlines orders 51 new jets worth $4.4 billion.</title>
+<headline>United Airlines orders 51 new jets worth $4.4 billion.</headline>
+<byline>Kevin Drawbaugh</byline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>United Airlines said Thursday it ordered 51 new airliners valued at $4.4 billion from Boeing Co. and Airbus Industrie, and although the lion's share went to Boeing, one industry analyst said the European consortium scored a big victory over arch-rival Boeing.</p>
+<p>United said it will buy 24 narrow-body A319 aircraft from Airbus. The order is valued at $900 million based on manufacturers' list prices, but United will likely pay much less thanks to special discounts.</p>
+<p>United chose the Airbus planes over competing Boeing 737-700s and 737-300s after evaluating both, a UAL spokesman said.</p>
+<p>&quot;It certainly is a big win for Airbus,&quot; said Peter Jacobs, aerospace analyst at Ragen MacKenzie.</p>
+<p>Boeing hardly walked away empty-handed, as United said it will buy 27 new wide-body planes -- 19 747-400s, six 757s and two 777s -- from the Seattle-based aircraft manufacturer.</p>
+<p>The Boeing order is valued at $3.5 billion based on list prices. But again, United spokesman Joe Hopkins said, &quot;We're not paying the retail price.&quot;</p>
+<p>Jacobs said United may have won discounts from Boeing and Airbus of 10 percent to 15 percent off list price.</p>
+<p>The new wide-body planes will replace older Boeings in United's fleet, said the airline, a unit of Chicago-based UAL Corp.</p>
+<p>Boeing has been flooded with orders for new aircraft over the past 18 months. That may have made the manufacturer less willing to offer rock-bottom prices to beat Airbus for the narrow-body planes, Jacobs said.</p>
+<p>&quot;Boeing may have been more willing to walk away from an order than it would have been earlier,&quot; he said.</p>
+<p>Airbus initially sold United a fleet of narrow-body A320s in 1992 by offering the airline deep discounts and an unusual walk-away lease arrangement.</p>
+<p>&quot;What that did was it got Airbus planes into the United fleet. That made this next decision for United easier,&quot; Jacobs said.</p>
+<p>United will likely need to order another 100 narrow-body planes over the next seven years to update its fleet, he added.</p>
+<p>United said the planes will be part of its &quot;retire and replace&quot; programme to update its fleet.</p>
+<p>&quot;By 2000, the programme is expected to generate more than $100 million in annual operating cost savings, reducing fuel, maintenance and labour costs,&quot; it said.</p>
+<p>The programme will also ensure that United meets certain noise reduction requirements.</p>
+<p>Delivery of all aircraft is scheduled to be completed by 2002, United said.</p>
+<p>The carrier said it placed orders with United Technologies Corp.'s Pratt &amp; Whitney unit for engines for the Boeing aircraft and with International Aero Engines AG for engines for the Airbus jets. United Technologies owns 33 percent of International Aero Engines.</p>
+<p>The Airbus A319s will replace United's older Boeing 737-200s, the airline and Airbus said. The new planes are configured to seat 126 passengers.</p>
+<p>The A319 is a smaller derivative of the Airbus A320. United already operates 34 A320s and will take delivery of 16 more by the end of 1998, they said.</p>
+<p>United joins German airline Deutsche Lufthansa AG as the largest airline customers for the A320 family, each with 74 planes.</p>
+<p>Airbus Industrie is a consortium made up of French-owned Societe Nationale Industrielle, British Aerospace Plc, Daimler-Benz Aerospace, a unit of Germany's Daimler-Benz AG, and Construcciones Aeronauticas SA of Spain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3640002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

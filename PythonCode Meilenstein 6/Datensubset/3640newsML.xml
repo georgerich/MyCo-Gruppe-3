@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3640" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: FORECAST -- API stock estimates, week ended Aug 16.</title>
+<headline>FORECAST -- API stock estimates, week ended Aug 16.</headline>
+<text>
+<p>(STOCKS IN THOUSAND/BBLS, CHANGES IN MLN/BBLS)</p>
+<p>REUTER SURVEY ESTIMATES	    STOCKS FOR</p>
+<p>FOR WEEK ENDED 08/16/96	    WEEK ENDED 08/09/96-CHANGE</p>
+<p>-------------------------------------------------------------</p>
+<p>CRUDE.........DN 1.16 million bbls    308,130	   DN 1.49 MLN</p>
+<p>DISTILLATE....UP 1.13 million bbls    104,291	   UP 0.36 MLN</p>
+<p>GASOLINE......DN 1.66 million bbls    197,635	   DN 0.92 MLN</p>
+<p>UTILIZATION...UP 0.09 PCT PTS	94.7 PCT	 UP 0.7  PTS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

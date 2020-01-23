@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8911" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Southern Natl to acquire Fidelity Financial.</title>
+<headline>Southern Natl to acquire Fidelity Financial.</headline>
+<dateline>WINSTON-SALEM, N.C. 1996-08-22</dateline>
+<text>
+<p>Southern National Corp said on Thursday it would acquire Fidelity Financial Bankshares Corp of Richmond, Va., in a stock transaction valued at $59.4 million.</p>
+<p>Fidelity Financial shareholders will receive 0.7931 share of Southern National for each share of Fidelity Financial, the companies said.</p>
+<p>The deal is valued at $24.68 per Fidelity share.</p>
+<p>The exchange ratio is fixed between Southern National stock prices of $26.50 and $31.50. There will be adjustments within an outer collar of $24 and $35 in Southern National shares.  </p>
+<p>Southern National said any adjustment in the exchange ratio will be based on the average Southern National stock price for a specified 20-day period prior to closing.</p>
+<p>The transaction, which is expected to close in the first quarter of 1997, will not result in any material dilution to Southern National 1997 earnings and is expected to be earnings per share accretive in 1998, the company said.</p>
+<p>Fidelity Financial has granted Southern National an option to purchase Fidelity Financial common stock equal to 19.9 percent of the currently outstanding shares, at $13 per share, the company said. The option is exercisable only in certain events if the transaction is not completed, Southern National said.</p>
+<p>It said the deal, which will be accounted for as a pooling of interests, is subject to regulatory and Fidelity Financial shareholder approval.</p>
+<p>Southern National operates 428 branches in 219 cities and towns through its banking subsidiaries in North Carolina, South Carolina and Virginia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINSTON-SALEM, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8341" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: German rapeseed crop to date shows mixed results.</title>
+<headline>German rapeseed crop to date shows mixed results.</headline>
+<dateline>HAMBURG 1996-08-22</dateline>
+<text>
+<p>Rapeseed harvests in Germany continued amid regional rainfall, producing yields generally below last year's 3.2 tonnes a hectare, farm and trade sources said on Thursday.</p>
+<p>Some 50 to 90 percent had been harvested, with slower progress seen in Schleswig-Holstein in the north and with just one third harvested in eastern German states.</p>
+<p>Yields in the north ranged from one t/ha in fields which suffered winter damage to 3.5 t/ha or better in others.</p>
+<p>Moisture levels were between nine and 13 percent -- with eight percent the target -- while oil content was mostly fair above 40 percent.</p>
+<p>Bavarian farmers in the south reported lower volumes which were snapped up by the trade, but crushers did not respond to the trend as weak oil business discouraged buying.</p>
+<p>Regional yields were around 2.0-2.5 t/ha, with oil content at 40-42 percent and moisture at 12-16 percent.</p>
+<p>National ex-farm rapeseed prices were in a 380-420 marks a tonne range, according to price statistics office ZMP.</p>
+<p>Farmers and traders were aiming for higher prices on the strength of high moisture and weed levels and uneven ripening which they said caused extra costs.</p>
+<p>Crushers were reluctant to agree mill delivered prices which were roughly 30-70 marks above the farmgate level, boosted by producer and trade retention.</p>
+<p>They also pointed to weak oil and meal business and the possibility of replacind rape with soya.</p>
+<p>The farm ministry at a press conference on August 29 is expected to issue preliminary rapeseed harvest results.</p>
+<p>-- Vera Eckert, Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

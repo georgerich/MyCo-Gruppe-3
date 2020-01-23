@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11117" id="root" date="1996-08-23" xml:lang="en">
+<title>GEORGIA: Georgian consumer prices fall 1.4 pct in July.</title>
+<headline>Georgian consumer prices fall 1.4 pct in July.</headline>
+<dateline>TBILISI 1996-08-23</dateline>
+<text>
+<p>Georgia's consumer prices fell a monthly 1.4 percent in July compared with June's price rise of 0.8 percent, the Department for Social and Economic Information said on Friday.</p>
+<p>    GEORGIAN CONSUMER PRICES  JULY 96   JUNE 96   JULY 95</p>
+<p>    Month-on-month change	  -1.4	+0.8	+0.8</p>
+<p>    Year-on-year change	  +151.6    +154.7    +520.0</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TBILISI"/>
+<dc element="dc.creator.location.country.name" value="GEORGIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

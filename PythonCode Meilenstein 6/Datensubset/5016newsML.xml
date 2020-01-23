@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5016" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: UK post unions warned by management before strike.</title>
+<headline>UK post unions warned by management before strike.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>British post office unions were warned by management on Wednesday that jobs could be at risk if the Royal Mail's monopoly on letter delivery was suspended for a further three months because of strike.</p>
+<p>Mail workers belonging to the Communications Workers Union (CWU) are to stage a 24-hour strike on Thursday, the latest in a series of stoppages over proposed new working arrangements.</p>
+<p>The government suspended the Royal Mail's monopoly from August 6 because of the disruption caused by the strikes, and threatened a three-month extension if the stoppages continued.</p>
+<p>Post Office Chief Executive John Roberts summoned leaders of the CWU and other postal unions to a meeting to spell out what this would mean.</p>
+<p>&quot;Any squeeze on our business inevitably means a squeeze on our costs. In a business where 65 percent of our costs are people costs, jobs will be a major focus of attention,&quot; he told them, according to a statement issued by the Post Office.</p>
+<p>He again called on the CWU to ballot its members on the new working arrangements, which had been accepted the union's negotiators but then rejected by its executive.</p>
+<p>The CWU wants further talks. The Post Office said there was no discussion at Wednesday's meeting of the issues behind the dispute.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

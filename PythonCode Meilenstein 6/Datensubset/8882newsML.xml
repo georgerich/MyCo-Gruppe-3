@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8882" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Bausch &amp; Lomb sees yr oper shr $2.20-$2.30.</title>
+<headline>Bausch &amp; Lomb sees yr oper shr $2.20-$2.30.</headline>
+<dateline>ROCHESTER, N.Y. 1996-08-22</dateline>
+<text>
+<p>Bausch &amp; Lomb said on Thursday that it expects earnings before one-time charges to be in the range of $2.20- $2.30 for the full year, below consensus Wall Street estimates of $2.35 to $2.40.</p>
+<p>The company said it expects revenue growth from continuing operations in the range of five percent for the third quarter of 1996.</p>
+<p>Bausch &amp; Lomb said its outlook is hurt by softness in sunglass sales, primarily in sunglass specialty channels.</p>
+<p>The company also cited previously-announced one-time costs of about $5 million, associated with several business restructuring and cost-cutting measures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCHESTER, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12230" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: IBJ to pay extra tax as write-off method rejected.</title>
+<headline>IBJ to pay extra tax as write-off method rejected.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>The Industrial Bank of Japan Ltd said on Friday it would pay an additional 200 billion yen in tax as the method it used to write off bad loan losses in the fiscal year that ended on March 31 had been rejected by Tokyo's taxation office.  </p>
+<p>An IBJ official told reporters the extra tax payment would have little impact on its earnings for the current 1996/97 fiscal year or on future earnings.</p>
+<p>The official said the bank would appeal against the tax office's decision.</p>
+<p>In 1995/96, IBJ wrote off problem loan losses of 376 billion yen to a failed mortgage firm it set up with other financial institutions.</p>
+<p>Many Japanese banks made loan-loss provisions on problem loans to failed mortgage firms, or &quot;jusen&quot;, on a taxable basis.</p>
+<p>IBJ and the Long-Term Credit Bank of Japan Ltd (LTCB) wrote off the loans assuming they would not have to pay tax.</p>
+<p>In 1995/96, IBJ disposed of about 850 billion yen of problem loans, resulting in a 166.99 billion yen parent current loss.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

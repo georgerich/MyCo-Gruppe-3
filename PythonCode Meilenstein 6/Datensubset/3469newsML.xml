@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3469" id="root" date="1996-08-20" xml:lang="en">
+<title>NEW ZEALAND: NZ July dwelling estimates show decline - SNZ.</title>
+<headline>NZ July dwelling estimates show decline - SNZ.</headline>
+<dateline>WELLINGTON 1996-08-21</dateline>
+<text>
+<p>An estimated 1,821 new dwelling units were authorised for construction in July 1996, Statistics New Zealand said on Wednesday.</p>
+<p>The trend estimate, which had been increasing since September 1995, has now turned down, it said.</p>
+<p>The short-term trend indicator for the number of new dwellings decreased by two percent from June to July 1996. This follows a decrease of 1.5 percent for the previous month.  </p>
+<p>The largest increases from July 1995 to July 1996 were for Manukau City, up to 208 from 137, Wellington City, up to 69 from 20, and Tauranga District, up to 129 from 91.</p>
+<p>The largest decreases over the same period were for Queenstown-Lakes District, down to 10 from 36, Rodney District, down to 69 from 95, and Dunedin City, down to 14 from 25.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

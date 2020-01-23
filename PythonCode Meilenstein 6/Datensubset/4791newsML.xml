@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4791" id="root" date="1996-08-20" xml:lang="en">
+<title>PHILIPPINES: Agriculture seen boosting Philippine Q2 GNP.</title>
+<headline>Agriculture seen boosting Philippine Q2 GNP.</headline>
+<dateline>DAVAO, Philippines 1996-08-20</dateline>
+<text>
+<p>Philippine gross national product (GNP) growth in the second quarter of 1996 is likely to exceed the 6.24 percent registered in the first quarter, a senior government official said on Tuesday.</p>
+<p>&quot;We won't be surprised if it's higher than first quarter because of the strong agriculture sector,&quot; Dante Canlas, deputy director general of the National Economic and Development Authority (NEDA), told Reuters.  </p>
+<p>Canlas, who declined to give figures, said second quarter growth was normally lower than the first quarter due to seasonal fluctuations in the agriculture sector.</p>
+<p>He added that the improvement in agriculture this year would more than offset the impact of the export sector, which had not been performing as well as expected.</p>
+<p>NEDA is expected to release the second quarter growth figures around the end of August.</p>
+<p>The Philippine government says it expects full-year GNP growth of 6.5 to 7.5 percent against 5.7 percent in 1995.</p>
+<p>Canlas is in the southern Philippine city of Davao attending a meeting of senior officials of the Asia-Pacific Economic Cooperation forum.</p>
+<p>-Manila newsroom 632 8418938 Fax 8176267.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAVAO, Philippines"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

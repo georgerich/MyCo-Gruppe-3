@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9421" id="root" date="1996-08-22" xml:lang="en">
+<title>THAILAND: Noisy saw leads Thai police to heroin hideaway.</title>
+<headline>Noisy saw leads Thai police to heroin hideaway.</headline>
+<dateline>BANGKOK 1996-08-22</dateline>
+<text>
+<p>A Hong Kong carpenter was arrested in the Thai seaside town of Pattaya after police seized 18 kg (39.7 pounds) of heroin following complaints by residents of a noisy saw, police said on Thursday.</p>
+<p>Cheung Siu Man, 40, was arrested late on Wednesday after police searched a house and found heroin in bags and hidden in hollow spaces in wooden planks, police said.</p>
+<p>The suspect said he was hired to make a wooden box from the planks in order to hide the heroin.</p>
+<p>Police went to the house after receiving complaints of sawing during the night over the course of several days. When they arrived to investigate, police saw people escaping from the back door so they decided to search the house.</p>
+<p>The seized heroin has an estimated street value of about 300 million baht ($12 million), police said.</p>
+<p>Officials are now hunting for the suspect's collaborators, police said.</p>
+<p>Cheung was being detained pending formal charges, police said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

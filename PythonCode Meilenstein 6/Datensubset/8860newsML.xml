@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8860" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Outdoor Systems completes Gannett purchase.</title>
+<headline>Outdoor Systems completes Gannett purchase.</headline>
+<dateline>PHOENIX 1996-08-22</dateline>
+<text>
+<p>Outdoor Systems Inc said Thursday it has completed its $710 million purchase of Gannett Co Inc's Outdoor Division, making Outdoor Systems the the largest outdoor advertising company in North America.</p>
+<p>Outdoor Systems also exercised an option to buy Gannett's Outdoor operations in Houston, subject to obtaining applicable government approvals, said.</p>
+<p>The acquisition is expected to boost Outdoor's sales to $400 million from $90 million.  It will now operate about 58,000 billboards, posters and transit displays in the United States and Canada and cover 22 major metropolitan markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

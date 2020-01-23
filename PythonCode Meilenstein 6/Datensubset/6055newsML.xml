@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6055" id="root" date="1996-08-21" xml:lang="en">
+<title>POLAND: Polish treasury offers PLN 391 mln of 1-yr bonds.</title>
+<headline>Polish treasury offers PLN 391 mln of 1-yr bonds.</headline>
+<dateline>WARSAW 1996-08-21</dateline>
+<text>
+<p>The Polish treasury is offering 391 million zlotys worth of one-year index-linked bonds at institutional tender on August 27, the National Bank of Poland said.</p>
+<p>The auction for the bonds due September 3, 1997 is open to members of the National Securities Depository (KDPW).</p>
+<p>The pay date is September 2, 1996.</p>
+<p>- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
