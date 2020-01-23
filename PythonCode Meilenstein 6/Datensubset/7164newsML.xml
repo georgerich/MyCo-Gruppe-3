@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7164" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: Promodes cuts loss after forecast.</title>
+<headline>Promodes cuts loss after forecast.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>Shares in retailer Promodes cut their losses on Wednesday after the company said it reaffirmed its expectation of a 10 to 15 percent higher 1996 net attributable profit.</p>
+<p>The share had earlier been falling on talk of profit downgrades following the August 8 first half sales figures which were seen as disappointing.</p>
+<p>Promodes said its first half net profit would be higher despite a decline in operating income.</p>
+<p>At 0927 GMT, Promodes was down 1.4 percent at 1,199 after having hit a day-low of 1,171 francs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

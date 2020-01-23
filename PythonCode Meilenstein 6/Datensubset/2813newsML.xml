@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2813" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Sun Intl, Griffin clarify terms.</title>
+<headline>Sun Intl, Griffin clarify terms.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Sun International Hotels Ltd and Griffin Gaming &amp; Entertainment Inc said on Tuesday that they clarified the merger terms that were announced yesterday.</p>
+<p>The deal provides for each share of Griffin Gaming common stock to be exchanged for 0.4324 ordinary shares of Sun International.</p>
+<p>Sun International, however, can terminate the deal if the price of Sun International shares falls below $41.625, unless Griffin Gaming agrees to accept a fixed exchange ratio of 0.4925 shares of Sun for each share of Griffin, the companies said. This detail was not mentioned in the company's announcement yesterday.</p>
+<p>Sun International shares fell 3-5/8 points today to 48-1/8 on 505,000 shares traded. Griffin shares closed sharply higher at 19-3/8, up 7-1/8 points, setting a 52-week high on 582,600 shares traded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

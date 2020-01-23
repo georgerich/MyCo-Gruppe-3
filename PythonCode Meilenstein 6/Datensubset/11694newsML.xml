@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11694" id="root" date="1996-08-23" xml:lang="en">
+<title>usa: Most active stocks on NYSE and AMEX.</title>
+<headline>Most active stocks on NYSE and AMEX.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active shares on the New York and American stock exchanges in consolidated trading Thursday.</p>
+<p>NYSE-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 6,970,400   PHILIP MORRIS	   86 7/8  OFF  3/4</p>
+<p> 5,491,600   ZENITH ELTR CORP	16 7/8  UP   5 1/2</p>
+<p> 4,787,100   PEPSICO INC	     31 1/8  UP   5/8</p>
+<p> 3,708,600   MICRON TECH	     23 7/8  UP   3/8</p>
+<p> 2,788,500   RJR NABISCO HLDS	25 1/4  OFF  1/8</p>
+<p> 2,570,300   MESA INC		  4 3/8   UP   1 1/8</p>
+<p> 2,481,300   WAL-MART STORES	 27 3/8  UP   1/2</p>
+<p> 2,465,500   WESTINGHOUS ELEC	16 1/8  UP   1/2</p>
+<p> 2,267,500   GENERAL ELEC CO	 84 5/8  UP   5/8</p>
+<p> 2,173,300   PANENRGY CP	     33 7/8  UP   1/4</p>
+<p>AMEX-CONSOLIDATED CLOSING ACTIVES</p>
+<p> 819,600   WESTERN INV TR	  12 1/2  UP   1/8</p>
+<p> 672,700   ECHO BAY MINES	  10 1/4  UP   1/8</p>
+<p> 565,900   S&amp;P DEPOS RECPTS	67 7/32 UP   5/8</p>
+<p> 543,500   AMPEX CORP		7 3/16  UP   1 1/8</p>
+<p> 489,700   BEMA GOLD		 8 7/16  UP   3/8</p>
+<p> 450,300   HARKEN ENERGY CP	2 13/16 UNCH</p>
+<p> 427,100   US ALCOHOL TEST	 2 1/8   UP   5/16</p>
+<p> 413,800   NTN COMM INC	    5 1/4   UP   1/8</p>
+<p> 396,500   TRANS WORLD AIR	 10 1/2  OFF  1/8</p>
+<p> 366,300   JTS CORP		  4 1/4   OFF  1/4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

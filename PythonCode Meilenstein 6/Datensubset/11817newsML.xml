@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11817" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Bank of Canada weekly assets and liabilities.</title>
+<headline>Bank of Canada weekly assets and liabilities.</headline>
+<text>
+<p>DATE	ASSETS			  C$(million)	 CHANGE(C$million)</p>
+<p>08/21    Total T-bills		   19,343	    -152</p>
+<p>	   3-years and under		1,411</p>
+<p>	   Over three years		 4,398	     234</p>
+<p>	   Amount held under</p>
+<p>	   purchase/resale agreements</p>
+<p>	   Advances			     789	     359</p>
+<p>		     TOTAL:		  28,281	    -153</p>
+<p>	    LIABILITIES</p>
+<p>	   Notes in circulation	  26,917	     290</p>
+<p>	   C$ deposits:</p>
+<p>	   Government of Canada		10		-7</p>
+<p>	   Chartered banks		    597	     255</p>
+<p>	   Other CPA members		   65		 7</p>
+<p>		     TOTAL:		  28,281	    -153</p>
+<p>Net completed securities transactions with the market: 0.</p>
+<p>Securities to be purchased under sale/repurchase agreements: 0.</p>
+<p>-- Reuters Toronto bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11763" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Wis. says is first state to apply for new welfare.</title>
+<headline>Wis. says is first state to apply for new welfare.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>In keeping with its pioneering image in the area of welfare, Wisconsin was the first state to submit an administrative plan under the nation's new welfare law, Gov. Tommy Thompson said Thursday.</p>
+<p>According to a new release from the governor, Wisconsin submitted a plan to the U.S. Department of Health and Human Services for administration of the new block grant system for welfare just minutes after President Bill Clinton signed the measure into law Thursday.</p>
+<p>&quot;As the nation's leader in welfare reform, Wisconsin is far ahead of the curve and ready to go under this new system,&quot; Thompson said.</p>
+<p>Still, the governor said the new law does not go as far as the state's own welfare reform program, dubbed W-2.</p>
+<p>He said that despite the new law, Wisconsin will still require federal waivers allowing the working poor to acquire health care coverage from the state, a 60-day residency requirement for participation in the welfare program, and child support collections to go directly to custodial parents.</p>
+<p>The nation's new welfare reform law limits eligibility, gives states more power and ends direct federal aid for poor children.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

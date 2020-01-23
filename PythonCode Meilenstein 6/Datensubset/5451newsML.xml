@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5451" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: FORINT RETURNS TO NBH BID, BCE ECU FUTURES ACTIVE.</title>
+<headline>FORINT RETURNS TO NBH BID, BCE ECU FUTURES ACTIVE.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>Foreign currency selling brought the forint back to the central bank bid in the afternoon session of the Hungarian interbank forex market, dealers said on Wednesday.</p>
+<p>&quot;Although there were no dramatic events, large amounts of foreign currency were on offer,&quot; said Ervin Csengeri of Inter-Europa Bank.</p>
+<p>The forint, helped by the firming mark, closed stronger at 150.75/80 to the U.S. unit, compared with its opening of 150.95/151.05.  </p>
+<p>The forint floats against the central bank's currency basket made up 70 percent of the Ecu and 30 percent of the dollar.</p>
+<p>On the Budapest Commodity Exchange, Ecu futures accounted for three quarters of the relatively low 417 million forints turnover.</p>
+<p>Japanese yen contracts were the main movers, dropping for five maturities, while other currency futures ended mostly steady.</p>
+<p>-- Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

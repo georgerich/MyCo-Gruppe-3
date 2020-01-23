@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5678" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: NBC, Panasonic announce new Times Square screen.</title>
+<headline>NBC, Panasonic announce new Times Square screen.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>A giant videoscreen equipped with the same technology as those mounted at the Atlanta Olympics would be hung over Times Square to beam television programs, NBC and Panasonic said Wednesday.</p>
+<p>Company officials told a news conference that the &quot;NBC Astrovision by Panasonic&quot; was scheduled to begin operation in the autumn over One Times Square, the building famous worldwide for the New Year's Eve ball drop.</p>
+<p>Matsushita Electric Industrial Co Ltd is the parent of Panasonic consumer electronics. NBC is the television unit of General Electric Co.  </p>
+<p>The screen replaces the so-called Jumbotron, which beamed advertisements and news over Times Square for six years until it was switched off by manufacturers Sony Corp.at the end of May.</p>
+<p>A 1,100 square foot (102 sq metre) Astrovision screen displayed events at the Olympic Stadium in Atlanta this summer. More than 150 Astrovision screens are in use at stadiums and arenas all over the world.  </p>
+<p>&quot;Ten years from now everyone will be calling it NBC Astrovision along with us,&quot; said Bill Bolster, president of CNBC, the network primarily known for its daytime financial news broadcasts.</p>
+<p>Bolster said the screen would display news and events from the NBC network, NBC channel 4 New York, CNBC and MSNBC, the all-news cable venture that NBC started in July with Microsoft Corp.</p>
+<p>Matsushita said the screen would be 27 percent larger than the Jumbotron. It had advanced fluorescent technology that would provide clear pictures even in direct sunlight, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

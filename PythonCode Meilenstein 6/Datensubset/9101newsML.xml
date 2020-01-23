@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9101" id="root" date="1996-08-22" xml:lang="en">
+<title>SOUTH AFRICA: No S.African trade data today, likely next week.</title>
+<headline>No S.African trade data today, likely next week.</headline>
+<dateline>JOHANNESBURG 1996-08-22</dateline>
+<text>
+<p>South Africa's trade balance for July will not be announced on Thursday, an official at the South African Revenue Services said.</p>
+<p>The data was likely to be announced next week, although there was a chance it could be ready by Friday. Officials had earlier said the figures would be announced from Thursday.</p>
+<p>Analysts polled by Reuters have forecast a 600 million rand surplus for the month, after a deficit of 27.6 million rand in June.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

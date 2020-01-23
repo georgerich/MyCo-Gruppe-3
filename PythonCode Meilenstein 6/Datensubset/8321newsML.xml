@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8321" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: Bank of France makes surprise rate cut. [Corrected 15:56 gmt]</title>
+<headline>Bank of France makes surprise rate cut. [Corrected 15:56 gmt]</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>The Bank of France made an unexpected cut in a key interest rate on Thursday, shaving less than a German Bundesbank rate move announced earlier in the day.</p>
+<p>The decision by the independent French central bank followed a recent call by Prime Minister Alain Juppe for lower rates and comments by President Jacques Chirac on the July 14 national holiday that rates should come down.</p>
+<p>Economists welcomed the cut and the franc rose against the mark, while French government bonds and share prices surged.</p>
+<p>&quot;This should be the end to the mini-crisis for the franc. The cut is bigger than expected in Germany and in France. I'm not sure you can conclude that this was the last cut from the Buba (Bundesbank),&quot; said economist Philippe Brossard at ABN-AMRO bank.</p>
+<p>The Bank of France said after its first monetary policy council meeting since the summer break that it cut its intervention rate to 3.35 percent from 3.55 at a money market tender.</p>
+<p>Economists had virtually ruled out a cut so soon because of recent franc weakness but minutes earlier the Bundesbank reduced its repo rate to 3.0 percent from 3.30, also surprising markets.</p>
+<p>The French central bank left the ceiling five-to-10 day rate, which is considered less important, unchanged at 4.75 (corrects from 4.90) percent. The intervention rate was last cut -- from 3.60 percent -- on July 4, 1996.</p>
+<p>The French franc extended its gains on the cut, trading at 3.4055/60 francs per mark compared with around 3.4090 before the French cut and around 3.42 francs before the Bundesbank cut.</p>
+<p>&quot;The Bundesbank gave the Bank of France a margin of manoeuvre,&quot; said Jean-Louis Mourier, economist at Louis Dreyfus Finance.</p>
+<p>&quot;There could be more tension on the franc around budget time (in September). The franc weakness was not an interest rate story. It was about worries over the budget. That's why I think the Bank of France did not use all its room for manoeuvre at once,&quot; he added.</p>
+<p>The franc has been under pressure recently as the government prepares the 1997 budget. This will include spending cuts to reach the budget deficit criteria required to qualify for European monetary union as well as tax cuts to deliver on election promises.</p>
+<p>Juppe and Chirac are set to meet this weekend to discuss the main lines of the budget, being made at a time of lower-than-expected tax revenues because the economy is not growing as fast as hoped.</p>
+<p>A rate cut could give the economy a shot in the arm by reducing the cost of borrowing for companies and consumers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

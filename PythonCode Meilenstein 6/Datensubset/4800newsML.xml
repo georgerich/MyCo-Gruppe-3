@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4800" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: US Treasuries barely twitch in Tokyo ahead of FOMC.</title>
+<headline>US Treasuries barely twitch in Tokyo ahead of FOMC.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>U.S. Treasuries were little changed at Tokyo midday on Tuesday as all eyes were set on the outcome of the U.S. Federal Open Market Committee (FOMC) meeting, to be held later today, traders said.</p>
+<p>Although most Tokyo traders expect no policy change to emerge from the meeting, traders said participants are choosing to stand on the sidelines in case the Fed decides to make a surprise rate hike. The outcome of the meeting is expected to be reported around 1815 GMT.</p>
+<p>At 0216 GMT, the benchmark 6-3/4 percent 30-year bond was standing down 1/32 at 99-12/32 with a yield of 6.80 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

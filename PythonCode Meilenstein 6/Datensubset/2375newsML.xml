@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2375" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: M&amp;G joins fray to manage KEPIT.</title>
+<headline>M&amp;G joins fray to manage KEPIT.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>M&amp;G Group Plc said it had submitted proposals to take over management of the embattled Kleinwort European Privatisation Investment Trust Plc (KEPIT).</p>
+<p>&quot;The only way to reduce the discount to net asset value at which KEPIT is trading is to look at unitisation,&quot; M&amp;G spokeswoman Rachel Medill said.</p>
+<p>August 19 was the closing date for bids for the 500 million pound trust, which attracted record subscriptions for a British investment trust when it was launched in 1994. Unitisation means shareholders would then hold units in a trust that owned shares, rather than owning shares directly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

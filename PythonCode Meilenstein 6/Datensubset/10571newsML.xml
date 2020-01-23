@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10571" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: CRICKET-RAIN FORCES ENGLAND AND CRAWLEY TO WAIT.</title>
+<headline>CRICKET-RAIN FORCES ENGLAND AND CRAWLEY TO WAIT.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Heavy overnight rain and morning drizzle ruled out a prompt resumption on the second day of the third and final test between England and Pakistan at the Oval on Friday.</p>
+<p>With several damp patches on the square and the outfield, there was no possibility of play starting as scheduled at 1100 local time (1000 GMT) and the umpires announced a preliminary inspection at 1030 GMT, provided the rain stopped.</p>
+<p>The delay was particularly frustrating for England batsman John Crawley, who needs just six more runs to register his maiden test century when the home side resume on 278 for six.  </p>
+<p>When rain returned, the umpires ordered an early lunch at 1230 local time (1130 GMT) and said they would make a further inspection at 1310 (1210 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11035" id="root" date="1996-08-23" xml:lang="en">
+<title>HUNGARY: Hungary's int'l reserves rise to $9,84 bln in June.</title>
+<headline>Hungary's int'l reserves rise to $9,84 bln in June.</headline>
+<dateline>BUDAPEST 1996-08-23</dateline>
+<text>
+<p>Hungary's international reserves rose to $9.84 billion in June from $9.55 billion in May, the National Bank of Hungary said on Friday.</p>
+<p>    HUNGARY RESERVES ($ million)  June 1996   May 1995</p>
+<p>    International reserves	  9,835.1     9,552.2</p>
+<p>	Of which gold			40.7	  41.7</p>
+<p>    Other foreign assets	    3,421.4     3,303.6</p>
+<p>NOTE - The NBH values gold at London market prices.</p>
+<p>-- Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

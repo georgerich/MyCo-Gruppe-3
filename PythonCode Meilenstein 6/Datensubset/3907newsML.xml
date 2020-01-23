@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3907" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: Indian metals steady in light trade.</title>
+<headline>Indian metals steady in light trade.</headline>
+<dateline>BOMBAY 1996-08-20</dateline>
+<text>
+<p>Base metals were steady in narrow price range on Tuesday while ready copper was quiet after falling on Monday, dealers said.</p>
+<p>Copper was unchanged at 12,800 rupees per quintal on tighter supplies after falling 200 rupees on Monday, they said.</p>
+<p>Tin held ground at the improved level of 36,000 rupees per quintal as also nickel at 37,300 on stray physical support. Tin gained 200 rupees and nickel 300 on Monday.</p>
+<p>Aluminium was quiet at 7,450 rupees per quintal, zinc at 6,300 and lead at 4,850 in nominal trading.</p>
+<p>--Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

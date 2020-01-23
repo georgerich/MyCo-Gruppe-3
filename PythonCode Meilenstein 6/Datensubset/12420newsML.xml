@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12420" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Japan July brass mill output down for 10th month.</title>
+<headline>Japan July brass mill output down for 10th month.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Production at Japan's brass mills fell for the 10th consecutive month in July, sliding 2.7 percent from the same month a year ago to 100,240 tonnes, according to preliminary data released on Friday by the Japan Brass Makers Association.</p>
+<p>Month-on-month, output was up a marginal 0.3 percent.</p>
+<p>Output data for June was revised downward to 99,918 tonnes from 100,180, for a year-on-year decline of 8.5 percent.</p>
+<p>June shipments fell for the fifth consecutive month, sliding 9.0 percent year-on-year to 98,700 tonnes. Declines were noted in nearly all sectors, with especially sharp falls in the car and semiconductor industries.</p>
+<p>Inventories in June rose slightly to 42,555 tonnes from 41,431, reaching 43.1 percent of one-month shipments.</p>
+<p>Output in the first seven months of calendar 1996 was off 3.4 percent from the same period of 1995, while first-half shipments were off 3.8 percent.</p>
+<p>--Tokyo Commodities Desk (81-3 3432 6179)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

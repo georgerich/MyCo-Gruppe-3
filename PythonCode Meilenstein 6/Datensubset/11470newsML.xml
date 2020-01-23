@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11470" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: USDA to buy 4,752,000 lbs frozen beef for schools.</title>
+<headline>USDA to buy 4,752,000 lbs frozen beef for schools.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>The Agricultural Marketing Service (AMS) of the U.S. Department of Agriculture said it plans to buy 4,752,000 lbs of frozen ground beef and beef patties for use in the National School Lunch Program and other federal food assistance programs.</p>
+<p>All offers must be in the format prescribed in LS-48 and be received by 1430 EDT in Washington, D.C., on Friday, August 30, 1996. Acceptances will be announced by midnight Friday, September 6, 1996.</p>
+<p>Shipments must be made between October 5 and 18, 1996.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3913" id="root" date="1996-08-20" xml:lang="en">
+<title>PAKISTAN: Pakistan group joins Dutch-Indonesian consortium.</title>
+<headline>Pakistan group joins Dutch-Indonesian consortium.</headline>
+<dateline>ISLAMABAD</dateline>
+<text>
+<p>Pakistan Air Force's business and welfare group Shaheen Foundation joined a Dutch-Indonesian consortium on Tuesday to bid for the state-run Pakistan Telecommunication Company Ltd (PTCL).</p>
+<p>A Shaheen Foundation statement said it had joined with Setdco group of Indonesia and Dutch PTT Telecom to bid for a 26 percent strategic stake and management control of PTCL.</p>
+<p>Pakistan is yet to announce a date for the bidding.</p>
+<p>&quot;If successful this consortium would not only bring over $2 billion in foreign exchange but also modernise and expand the present communication network in the country,&quot; it added.</p>
+<p>Business executives from Setdco and PTT Telecom arrived in Islamabad on Tuesday for a three-day stay to meet and government and PTCL officials, said Zubair Ejaz, a Privatisation Commission consultant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8863" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Con Ed says Indian Pt 2 nuke restart unknown.</title>
+<headline>Con Ed says Indian Pt 2 nuke restart unknown.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Consolidated Edison Co of New York Inc (ConEd) said Thursday it still does not have a restart date for its 975 megawatt Indian Point 2 nuclear power plant.</p>
+<p>The unit tripped off line late Wednesday for the third time this week.</p>
+<p>&quot;When we began restart last night, the plant reacted to a high water level in one of four steam generators,&quot; said company spokesman Joan Burger.</p>
+<p>&quot;We should have a better idea as to when it will restart later this afternoon,&quot; she said.</p>
+<p>This latest attempted restart followed a manual shutdown Tuesday when plant operators identified a check valve not operating properly while ramping up from Monday's outage.</p>
+<p>The unit automatically tripped off line Monday when a piece of electrical equipment failed.</p>
+<p>Indian Point is located along the Hudson River about 50 miles north of New York City.</p>
+<p>-- New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

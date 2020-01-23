@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12422" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Peregrine sets Cheung Kong Infra warrants.</title>
+<headline>Peregrine sets Cheung Kong Infra warrants.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Peregrine Derivatives Ltd said Friday it intended to issue 176 million American style call warrants on shares of Cheung Kong Infrastructure Holdings Ltd.</p>
+<p>Ten warrants control one share.</p>
+<p> STRIKE PRICE	HK$11.00    PREMIUM	 9.88 PCT</p>
+<p> ISSUE PRICE	 HK$0.323    GEARING	 4.01X</p>
+<p> EXPIRATION	  30.OCT.97   PAYDATE	 3 WKS AFTER LAUNCH</p>
+<p> LISTING	     HONG KONG   MIN EXER LOT  10,000</p>
+<p> SPOT REFERENCE    HK$12.95</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

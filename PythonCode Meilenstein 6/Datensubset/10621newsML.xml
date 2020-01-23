@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10621" id="root" date="1996-08-23" xml:lang="en">
+<title>ANGOLA: PRESS DIGEST - ANGOLA - AUG 23.</title>
+<headline>PRESS DIGEST - ANGOLA - AUG 23.</headline>
+<dateline>LUANDA 1996-08-23</dateline>
+<text>
+<p>These are the leading stories in the Angolan press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>- - - -</p>
+<p>JORNAL DE ANGOLA</p>
+<p>- The Angolan Chief of State addressed a letter to UN Security Council proposing dates for the conclusion of the peace process in Angola.</p>
+<p>He proposed definite dates, August 25 for return of Unita generals to the joint army, September 5 for the beginning of the formation of the Government of National Unity and Reconciliation. Until this date the free circulation of peoples and goods should be guaranteed, the government administration installed in all areas and the Unita deputies should occupy their places in the National Assembly. The president justified his proposal by the delays verified in the peace process, including the fact that areas under Unita control or occupation have not been effectively demilitarised, where the Unita military forces have been substituted by their so-called police.</p>
+<p>- President Dos Santos proposes the establishment by UN Security Council of definitive and final timetable for the tasks and obligations under the Lusaka Agreement and the sending of a mission of SC, as soon as possible, to supervise the execution of the agreement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ANGOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUANDA"/>
+<dc element="dc.creator.location.country.name" value="ANGOLA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

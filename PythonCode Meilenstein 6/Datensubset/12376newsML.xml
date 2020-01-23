@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12376" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: All Pantronic year net down 31.22 pct.</title>
+<headline>All Pantronic year net down 31.22 pct.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   13.8   vs 20.6</p>
+<p>    Dividend (H.K. cents)    1.75   vs 6.0</p>
+<p>    Exceptional items	  nil    vs 6.79 gain</p>
+<p>    Net			    38.00  vs 55.25</p>
+<p>    Turnover		     362.04 vs 332.50</p>
+<p>    Company name		 All Pantronic Holdings Ltd</p>
+<p>    Books close		  September 24-27</p>
+<p>    Dividend payable	   October 14</p>
+<p>NOTE - All Pantronic is a voltage converter maker.</p>
+<p>Total dividend for year is 7.25 H.K. cents (including interim dividend of 5.5 cents) vs 11 cents.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

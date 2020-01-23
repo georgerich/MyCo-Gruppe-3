@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6119" id="root" date="1996-08-21" xml:lang="en">
+<title>CHILE: Chile approves controversial U.S. timber project.</title>
+<headline>Chile approves controversial U.S. timber project.</headline>
+<dateline>SANTIAGO, Chile 1996-08-21</dateline>
+<text>
+<p>Chilean authorities gave final approval on Wednesday to an American company's plans to cut down rare beech forests in Tierra del Fuego, overruling objections from environmentalists.</p>
+<p>The National Environmental Commission approved the project by Trillium Corp. of Bellingham, Washington, to harvest trees in a 316,000 acre (128,000 hectare) tract of virtually untouched woodlands at Chile's southernmost tip.</p>
+<p>But Chile's equivalent of the U.S. Environmental Protection Agency ordered Trillium to carry out a series of environmental safeguards including a set-aside of about 25,000 acres (10,000 hectares) as a &quot;biological reserve.&quot;</p>
+<p>Local and foreign environmentalists, who protested that the project doomed one of Chile's last major tracts of virgin forest, said they would study the ruling before commenting. They conceded, however, that appeals looked exhausted.</p>
+<p>&quot;The project has the green light now,&quot; said Manuel Baquedano, head of the country's leading environmental group, the Political Ecology Institute.</p>
+<p>The project attracted bitter opposition in Chile, where a growing green movement has sought to preserve rare temperate rain forests against encroachment by timber firms and farms.</p>
+<p>Trillium officials have insisted they would harvest the forest in an environmentally sustainable way and would cull only mature trees, without the clear-cutting that has denuded hillsides and caused erosion elsewhere.</p>
+<p>Sensitive to public opinion about forest destruction, they have said they will cut trees slowly enough for the forest to regenerate naturally.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO, Chile"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

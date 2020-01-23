@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5151" id="root" date="1996-08-21" xml:lang="en">
+<title>TURKEY: Turkish shares surge on selective demand.</title>
+<headline>Turkish shares surge on selective demand.</headline>
+<dateline>ISTANBUL 1996-08-21</dateline>
+<text>
+<p>Turkish shares rose by 1.47 percent on Wednesday amid selective demand and improved market mood, brokers said.</p>
+<p>The IMKB-100  .ISEC stood at 64,302.67, up 932.98 points from Tuesday. Gains so far this week have totalled 3.12 percent.</p>
+<p>Daily volume rose to 7.8 trillion lira ($90.7 million) from Tuesday's 5.0 trillion ($58.1 million)</p>
+<p>&quot;The market can rise to 65,000 tomorrow but profit-taking sales may come after that,&quot; said Cenk Akyoldas from Yatirim Finansman.</p>
+<p>&quot;I think the buying in state shares came in the afternoon because share prices are cheap and there was nothing to spoil market mood,&quot; he added.</p>
+<p>Brokers said buying in state-sector shares towards the end of the session had spilled over to the rest of the market, dragging the index higher.</p>
+<p>They said there was still no fresh cash entry to the market in the lack of fresh expectations or market-moving news but they said cheaper prices after last week's 4.16 percent drop spurred selective activity. SA ERC</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

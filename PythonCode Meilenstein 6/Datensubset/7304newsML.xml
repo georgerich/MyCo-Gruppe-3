@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7304" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: RESEARCH ALERT - Salomon downgrades Jilin Chemical.</title>
+<headline>RESEARCH ALERT - Salomon downgrades Jilin Chemical.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>Salomon Brothers downgraded Jilin Chemical Industrial Co Ltd to underperform, citing higher oil costs and lower profit margins in the second half of 1996.</p>
+<p>Jilin management expects its full-year oil costs to rise by 7.5 percent, indicating the second half rise would exceed the 6.9 percent rise recorded in the first six months, Salomon said.</p>
+<p>The second-half operating margin was expected to be 11.8 percent versus 13 percent in the first half, analyst Pitzi Lau said in a report.</p>
+<p>Salomon forecast net profit for Jilin at 658 million yuan and 691 million yuan for 1996 and 1997 respectively.</p>
+<p>-- HONG KONG NEWSROOM (852) 2843 6369</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

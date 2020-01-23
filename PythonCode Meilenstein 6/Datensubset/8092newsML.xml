@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8092" id="root" date="1996-08-22" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Aug 22.</title>
+<headline>PRESS DIGEST - Morocco - Aug 22.</headline>
+<dateline>RABAT 1996-08-22</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- Morocco's plan to split parliament into two chambers paves way for democracy and devolution.</p>
+<p>L'OPINION</p>
+<p>- Interior ministry announces end of registration on electoral lists.</p>
+<p>- Depressed policeman shoots himself in Casablanca.</p>
+<p>- Referendum on parliament split to be held on September 13.</p>
+<p>ALMAGHRIB</p>
+<p>- More than 60 percent of Moroccan businessmen invest in textile sector.</p>
+<p>LIBERATION</p>
+<p>- King Hassan sets agenda of reforms in TV speech.</p>
+<p>AL-ITTIHAD-AL-ISHTIRAKI</p>
+<p>- Morocco sells four mines to its largest private conglomerate ONA group.</p>
+<p>- Former Israeli prime minister Shimon Peres expected on private visit to Morocco on Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5749" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Pilgrim's Pride says reached $1 bln sales.</title>
+<headline>Pilgrim's Pride says reached $1 bln sales.</headline>
+<dateline>PITTSBURGH, Texas 1996-08-21</dateline>
+<text>
+<p>Pilgrim's Pride Corp said Wednesday its annual sales have surpassed $1 billion for the first time in a fiscal year.</p>
+<p>The mark was hit with seven weeks remaining in its fiscal year, which ends September 28, company Chairman and Chief Executive Lonnie Pilgrim said.</p>
+<p>Pilgrim's Pride, a 50-year-old chicken producer, came close to the $1 billion mark last year, when it reached $931.8 million in sales, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

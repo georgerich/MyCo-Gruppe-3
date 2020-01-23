@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4757" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH KOREA: Chronology of student occupation of Seoul campus.</title>
+<headline>Chronology of student occupation of Seoul campus.</headline>
+<dateline>SEOUL 1996-08-20</dateline>
+<text>
+<p>South Korean riot police on Tuesday ended a seven-day occupation of a university campus by more than 2,000 students calling for reunification with communist North Korea.</p>
+<p>Here is chronology of the Yonsei protests:</p>
+<p>Aug 13 - Students begin three-day festival at Yonsei University calling for unification with communist North Korea. Hundreds of radicals, who also demand the withdrawal of 37,000 U.S. troops stationed in the South, are blocked from leaving Seoul to march towards the border. The festival is outlawed.</p>
+<p>Aug 14 - Riot police backed by helicopters and armoured vehicles firing tear gas storm Yonsei to break up the festival attended by about 2,000 students. Students shelter at a classroom complex and a science block. Police ring the campus.</p>
+<p>Aug 15 - About 6,000 students gather at Yonsei to mark the 51st anniversary of the end of World War Two that liberated Korea from 35-year Japanese colonial rule but divided the peninsula into communist North and the capitalist South. Police storm Yonsei again.</p>
+<p>Aug 16 - Police raid the campus again to try to arrest about 3,600 students continuing violent protests. They pull back after failing to seize the students. Some students sneak off the campus into surrounding hills.</p>
+<p>Aug 17 - More than 10,000 riot police storm the university for the fourth straight day and mass around the two buildings. More than 2,000 students hole up inside.</p>
+<p>Aug 18 - Police step up pressure on students by stopping parents from delivering food and medicine. Police seek to cut power supply to the buildings but the university refuses permission because a blackout could spoil costly projects under way in science block laboratories.</p>
+<p>Aug 19 - Weary students begin fainting and ambulances rush about a dozen of them, some unconscious, to hospital. More than 10 students surrender. Police warn they could use firearms to break up violent protests. Prime Minister Lee Soo-sung vows severe punishment for radical leaders but promises leniency for students who have simply taken part in occupation.</p>
+<p>Aug 20 - Crack police units backed by helicopters storm the classroom building to end seven-day occupation. Hours later, students at the science block escape into narrow alleyways and hills surrounding Yonsei. Police arrest more than 1,000 students from the captured complex and more than 700 fleeing from the science block.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

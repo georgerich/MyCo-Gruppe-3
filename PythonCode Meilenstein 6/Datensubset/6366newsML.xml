@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6366" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: U.S. Spring/White Wheat- Spring bids remain lower.</title>
+<headline>U.S. Spring/White Wheat- Spring bids remain lower.</headline>
+<dateline>KANSAS CITY, Mo. 1996-08-21</dateline>
+<text>
+<p>Dark northern spring and soft white wheat values fell on Wednesday as dealers reported very little movement.</p>
+<p>Farmers are holding tight to their new crop, waiting for higher prices, one Minnesota dealer said.</p>
+<p>He said about 60 to 70 percent of the spring wheat harvest is over, but rain has delayed some harvesting in northern North Dakota.</p>
+<p>In Montana, the spring wheat harvest is also winding down in the southern part of the state. &quot;In northern and central Montana, it (the harvest) is going strong,&quot; a Montana dealer said.</p>
+<p>Even the soft wheat harvest in the Pacific Northwest is almost over, an Oregon dealer said. &quot;The harvest is on is downward tail,&quot; he said.</p>
+<p>MGE spring wheat closed lower in thin trade with September down 3-1/2 cents at $4.61-1/2 a bushel.  </p>
+<p>Price per bushel for 14-pct protein dark northern spring, durum and white wheats, in dollars per bushel:</p>
+<p>		    Spring    Chg   Durum(m) Chg   White  Chg</p>
+<p>MINNESOTA</p>
+<p> Minneapolis     5.21   dn .09  5.25     dn .25  --    --</p>
+<p> Duluth	    5.21   dn .09   ---     ---     --    --</p>
+<p>NORTH DAKOTA</p>
+<p>Hunter</p>
+<p> (Red River)     4.52   dn .03   4.80    unc     --    --</p>
+<p>		    Spring   Chg   HRW 12pct Chg   White  Chg</p>
+<p> Billings MT     4.62   dn .03   4.40 dn .03   ---    ---</p>
+<p> Havre MT	  4.50   dn .03   ---     ---   ---    ---</p>
+<p> Rudyard MT	4.50   dn .05   ---     ---   ---    ---</p>
+<p> Wolf Point MT   4.37   dn .01   ---     ---   ---    ---</p>
+<p> Portland OR     5.57   dn .12		    5.0500 unc</p>
+<p> Pendleton OR    ---    ---	---     ---  4.6100 dn .01</p>
+<p> Coolee City WA  5.11   dn .11   ---     ---  4.5800 dn .02</p>
+<p> Waterville WA   5.03   dn .09   ---     ---  4.5000 dn .01</p>
+<p> Wenatchee WA    5.13   dn .11   ---     ---  4.6200 dn .02</p>
+<p>Note: m=milling durum, t=terminal</p>
+<p>nc=no comparison, na=not available</p>
+<p>(Chicago bureau 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

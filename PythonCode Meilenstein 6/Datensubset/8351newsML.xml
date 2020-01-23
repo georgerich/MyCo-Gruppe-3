@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8351" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: Cumulative breakdown of French EU wheat bids.</title>
+<headline>Cumulative breakdown of French EU wheat bids.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>French grain traders gave the following breakdown for leading bids placed through France for soft wheat in the main European Union export tender.</p>
+<p>    Cumulative tonnage   Minimum tax (Ecus per tonne)</p>
+<p>	  56,000		  2.27</p>
+<p>	 124,000		  1.17</p>
+<p>	 164,000		  0.87</p>
+<p>	 249,000		  0.51</p>
+<p>	 278,750		  0.30</p>
+<p>French cereals office ONIC earlier said traders had bid in the main soft wheat tender for 278,750 tonnes to third countries with taxes between 0.30 and 3.08 Ecus and for 45,000 tonnes of soft wheat with refunds between 0.87 and 3.27 Ecus.</p>
+<p>They also sought 41,000 tonnes for ACP importing countries. --Paris newsroom +331 4221 5146</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

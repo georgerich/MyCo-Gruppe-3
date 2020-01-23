@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6296" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Greek railways firm may issue samurais - sources.</title>
+<headline>Greek railways firm may issue samurais - sources.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Greek state railways firm OSE is considering issuing samurai bonds, underwriting sources in Tokyo said on Wednesday.</p>
+<p>Some OSE officials told Japanese underwriters that the railway company was considering raising funds in the samurai market, sources said.</p>
+<p>&quot;The OSE started to collect necessary information from Japanese underwriters on Friday...and it is possible that it will pick the lead manager for the deal soon,&quot; one source said.</p>
+<p>The OSE is hoping to raise about eight billion yen for maturities of 15 years or longer, sources added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

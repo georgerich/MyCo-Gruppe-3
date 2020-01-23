@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8694" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: EPA encouraged by negotiations on cleaner cars.</title>
+<headline>EPA encouraged by negotiations on cleaner cars.</headline>
+<byline>Vicki Allen</byline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The Environmental Protection Agency said Thursday it was more optimistic that automakers and Northeastern states can agree on a program for cars with much cleaner emissions.</p>
+<p>However, some observers said the two sides remained in a stalemate.</p>
+<p>&quot;We're encouraged by the progress that the automakers and the 12 Northeastern states have made in exploring a possible low emissions vehicle for the nation,&quot; the EPA said. &quot;We understand they have reached agreement on most of the substantive issues, with more discussions to come on remaining issues.&quot;</p>
+<p>The American Autmobile Manufacturers Association and the Association of International Automobile Manufacturers said they signed a memorandum of understanding that should break the deadlock, and urged the Northeastern states to sign it.</p>
+<p>Instead, the states drafted and signed their own memo on a plan for cars that would be up to 70 percent cleaner than current models.</p>
+<p>&quot;Folks may have reasserted their positions in a new way by signing&quot; memoranda of understanding, said Paul Billings of the American Lung Association. &quot;But the fundamental issue that divided them remains.&quot;</p>
+<p>While the memos show an agreement on the nuts and bolts of the national clean car program, the sticking point remains over Massachusetts' and New York's requirement for some sales of electric-powered -- or zero emissions --  vehicles.</p>
+<p>The states' memo reaffirms the rights of individual states to pursue their own programs such as mandates for zero emissions vehicles.</p>
+<p>The carmakers have unsuccessfully tried to defeat Massachusett's and New York's laws in court, and have resisted signing a deal that keeps those laws.</p>
+<p>&quot;The ZEV mandates in Massachusetts and New York should not be a factor in this decision,&quot; said Andrew Card, president of the American Automobile Manufacturers Association.</p>
+<p>He said the states should sign the carmakers' memo that calls for a separate negotiation on zero emission mandates.</p>
+<p>The carmakers proposed offering cleaner cars nationwide to avoid having to build and market different cars for different regions. They also hope to avoid the Northeastern states' plan to use some electric cars to meet their region's air quality targets.</p>
+<p>Card said time is running out for the two sides to get an agreement that would enable manufacturers to produce cleaner cars in the 1998 model year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

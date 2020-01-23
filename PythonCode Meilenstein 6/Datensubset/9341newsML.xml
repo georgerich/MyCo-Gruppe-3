@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9341" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Philippine peso pounded by fake death rumour.</title>
+<headline>Philippine peso pounded by fake death rumour.</headline>
+<byline>Alistair McIntosh</byline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>The Philippine foreign exchange market was plunged into chaos on Thursday by false rumours that the national defence chief had been killed in an ambush.</p>
+<p>&quot;Relax, I'm alive,&quot; Secretary of National Defence Renato de Villa told Reuters.</p>
+<p>De Villa said he had ordered military intelligence units to investigate the rumours, which traders said swept the normally placid market like wildfire late in the afternoon.</p>
+<p>&quot;It's really wild. It's really out of the blue,&quot; said the former armed forces commander who is often touted as a future presidential candidate.</p>
+<p>The peso had been ambling along around 26.190 to 26.197 to the dollar in routine trade until the rumour took hold, sending the local currency plummeting to 26.235.</p>
+<p>&quot;There was panic-buying on the dollar. Everybody thought that because of the assassination, foreign funds would be pulling out of the (equities) market,&quot; one trader at a local bank said.</p>
+<p>Order was restored only after vigorous intervention by the Central Bank and equally vigorous assertions by de Villa's aides that he was still alive.</p>
+<p>&quot;I was here (at the defence ministry). I was holding a conference,&quot; de Villa said.</p>
+<p>Traders said the rumour had provided some excitement in an often dull market and that several banks had made handsome trading profits.</p>
+<p>&quot;It was a heaven-sent rumour,&quot; a trader at a foreign bank said.</p>
+<p>&quot;It's a blessing in disguise,&quot; another said.</p>
+<p>Turnover on the forex market soared to $180 million, almost twice its normal daily average.</p>
+<p>The Central Bank sold $20 million in the last minutes of trade to calm the market and pledged further intervention on Friday if the jitters continued.</p>
+<p>&quot;We'll use (interest rates) if necessary. We'll just have to wait. I believe it has calmed down actually,&quot; Central Bank treasurer Sergio Edeza said.</p>
+<p>Trading ended with the peso at 26.225 against Wednesday's 26.193 close.</p>
+<p>Thursday's rumour came the day after the Philippines marked the 13th anniversary of an assassination that ushered in years of often violent unrest and left its economy in almost total disarray.</p>
+<p>It has been only in the past couple of years that the Philippines has been able to emerge from the economic and political turmoil that began with the death of opposition leader Benigno Aquino.</p>
+<p>Aquino's murder as he stepped off a plane bringing him home from exile in the United States eventually led to the overthrow of the late President Ferdinand Marcos.</p>
+<p>The next government, led by Aquino's widow Corazon, had to endure several coup attempts by rightist soldiers and a crippling power crisis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

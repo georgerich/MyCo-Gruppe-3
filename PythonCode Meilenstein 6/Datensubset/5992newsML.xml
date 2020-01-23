@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5992" id="root" date="1996-08-21" xml:lang="en">
+<title>ESTONIA: Forexbank busy on otherwise quiet Estonian market.</title>
+<headline>Forexbank busy on otherwise quiet Estonian market.</headline>
+<dateline>TALLINN 1996-08-21</dateline>
+<text>
+<p>Shares in Forexbank were the most active on the Estonian stock exchange on Wednesday, with the rest of the market staying fairly quiet, dealers said.</p>
+<p>Forexbank turnover was 3.02 million kroons but its shares were barely changed at 77.20 kroons versus 77.30 kroons.</p>
+<p>&quot;It was just a few orders coming into the market at the same time, it was nothing in particular,&quot; said one dealer of Forexbank's activity.</p>
+<p>Overall stock exchange turnover on the main list was 4.57 million kroons and the Tallinn stock exchange index moved fractionally lower, ending 0.01 percent down at 96.02.</p>
+<p>On the secondary free market, investors showed fair interest in the Norma plastics company.</p>
+<p>It had turnover of 1.49 million kroons and its shares dipped to end at 20.35 kroons from 20.40 kroons.</p>
+<p>Overall free market turnover was 2.25 million kroons.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

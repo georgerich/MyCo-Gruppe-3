@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4021" id="root" date="1996-08-20" xml:lang="en">
+<title>TURKEY: Turk domestic debt up to 2,376 trln lira end-July.</title>
+<headline>Turk domestic debt up to 2,376 trln lira end-July.</headline>
+<dateline>ANKARA 1996-08-20</dateline>
+<text>
+<p>Turkey's domestic debt rose to 2,376 trillion lira at end-July from 1,125 trillion lira in the corresponding 1995 period, the treasury said on Tuesday.  </p>
+<p>It said outstanding debt was 2,184 trillion lira at end-June.</p>
+<p>The end-July debt included 1,510 trillion lira in t-bills and 626 trillion lira in government bonds, which has at least one-year maturities.</p>
+<p>Turkey's domestic debt was 1,361 trillion lira at end-1995.</p>
+<p>--Ankara Newsroom, 90-312-4462940</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

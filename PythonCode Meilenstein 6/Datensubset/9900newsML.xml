@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9900" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Kalamazoo sees 96/97 H2 improvement.</title>
+<headline>RTRS-Kalamazoo sees 96/97 H2 improvement.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Electrical, building products and office supply group Kalamazoo Holdings Ltd it expects continued soft economic conditions for the rest of 1996 and some improvement in the first half of 1997.</p>
+<p>&quot;The company's outlook for the year to 30 June 1997 is for a continuation of current soft economic conditions for the balance of 1996 with some improvement in activity anticipated in the second half to June 1997,&quot; Kalamazoo said.</p>
+<p>Kalamazoo earlier reported a 66 percent fall in net profit to A$11.80 million for the year ended June 30, while sales rose 11.6 percent to A$113.53 million.  </p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

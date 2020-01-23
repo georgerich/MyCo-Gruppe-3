@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8738" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: System Software Q3 July 31 full results.</title>
+<headline>System Software Q3 July 31 full results.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>	 (in millions, except per share data)   (unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					July 31,		July 31,</p>
+<p>				   1996	 1995     1996	1995</p>
+<p>Revenues:</p>
+<p>   License fees	    $ 48.2     $ 72.3  $ 179.0   $ 173.4</p>
+<p>Client services and</p>
+<p>    other			27.1	 32.7     86.2	93.3</p>
+<p>    Total revenues	   75.3	105.0    265.2     266.7</p>
+<p>Costs and Expenses:</p>
+<p>   Cost of license fees    19.2	 21.0     59.2	51.9</p>
+<p>Cost of client services</p>
+<p>    and other		  23.4	 21.3     64.8	56.3</p>
+<p>   Sales and marketing     26.1	 20.7     71.9	58.8</p>
+<p>Research and development</p>
+<p>				   14.9	 10.0     38.2	29.0</p>
+<p>General and</p>
+<p>    administrative	   24.0	 14.6     57.7	43.9</p>
+<p>Total costs and</p>
+<p>     expenses		 107.6	 87.6    291.8     239.9</p>
+<p> Operating income (loss) (32.3)	 17.4   (26.6)	26.8</p>
+<p>Gain on sale of</p>
+<p>available-for-sale</p>
+<p>  securities		    3.6	    -	3.6	   -</p>
+<p>Other non-operating</p>
+<p>  income (expense), net   (1.2)	(0.1)    (2.0)     (0.1)</p>
+<p>Income (loss) before</p>
+<p>income taxes and</p>
+<p>  minority interest	(29.9)	 17.3   (25.0)	26.7</p>
+<p>Provision (benefit) for</p>
+<p>  income taxes	     (10.8)	  6.1    (9.1)	 9.4</p>
+<p>Income (loss) before</p>
+<p>  minority interest	(19.1)	 11.2   (15.9)	17.3</p>
+<p> Minority interest		-	    -	  -     (0.1)</p>
+<p> Net income (loss)	 (19.1)	 11.2   (15.9)	17.2</p>
+<p>Earnings (loss) per</p>
+<p>  share		     ( 0.44)	 0.27  ( 0.37)	0.42</p>
+<p>Weighted average common</p>
+<p>and equivalent shares</p>
+<p>  outstanding		  43.0	 42.0     43.1	41.7</p>
+<p>NOTE: Full co name is System Software Associates Inc.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

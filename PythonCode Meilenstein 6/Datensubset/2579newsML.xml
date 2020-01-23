@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2579" id="root" date="1996-08-20" xml:lang="en">
+<title>BELGIUM: Foreign currency rates against the Ecu.</title>
+<headline>Foreign currency rates against the Ecu.</headline>
+<dateline>BRUSSELS 1996-08-20</dateline>
+<text>
+<p>The European Commission on Tuesday gave the following official foreign currency rates for one European Currency unit (Ecu):  Belgian Franc	39.2169  US Dollar	    1.27721</p>
+<p> Danish Krone	 7.35293  Canadian Dollar    1.75528</p>
+<p> Deutsche Mark	1.90369  Japanese Yen	 137.863</p>
+<p> Greek Drachma	303.964  Swiss Franc	  1.54479</p>
+<p> Spanish Peseta     160.878  Norwegian Krone    8.21505</p>
+<p> French Franc	 6.50422  Icelandic Krona    84.8709</p>
+<p> Irish Punt	  0.795673  Australian Dollar  1.62372</p>
+<p> Italian Lira	 1938.51  New Zealand Dollar 1.85157</p>
+<p> Dutch Guilder	2.13550  Maltese Lira	0.459182</p>
+<p> Austrian Schilling 13.3967  Turkish Lira	 109582.</p>
+<p> Portuguese Escudo  195.171  Cyprus Pound	0.590565</p>
+<p> Finnish Markka     5.72320  South African Rand 5.83368</p>
+<p> Swedish Krona	8.44111  Hungarian Forint   197.279</p>
+<p> Sterling	    0.826302  Slovenian Tolar    169.547</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="G155">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

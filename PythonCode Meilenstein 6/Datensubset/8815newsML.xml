@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8815" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Struthers Industries Inc Q2 profit vs loss.</title>
+<headline>Struthers Industries Inc Q2 profit vs loss.</headline>
+<dateline>TULSA, Okla. 1996-08-22</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>				   June 30,	     June 30,</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Sales and</p>
+<p>   revenues   $ 1,939,233 $ 2,070,135 $ 4,139,790 $ 3,742,384</p>
+<p>Income tax</p>
+<p>   benefit	(767,000)	    --   (811,000)	    --</p>
+<p>Net earnings</p>
+<p>   (loss)	   454,429 (2,053,886)     439,231 (2,224,606)</p>
+<p> Shr		     0.04	(0.23)	  0.04	(0.25)</p>
+<p> Avg shrs	11,720,967   8,935,133  11,683,000   8,935,133</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TULSA, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

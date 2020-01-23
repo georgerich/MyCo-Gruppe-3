@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2300" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Most active stocks in Nasdaq trading.</title>
+<headline>Most active stocks in Nasdaq trading.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Tuesday</p>
+<p>  Cisco Systems     5,807,600	 55	   off    1</p>
+<p>  Iomega Corp	 5,699,900	 13 7/8     off    1 5/16</p>
+<p>  Viking Office     5,500,000	 24 1/8     up     1</p>
+<p>  Hbo &amp; Co	    5,375,300	 56 1/2     off    5 1/4</p>
+<p>  Lm Erics Tel	4,314,900	 22 3/4     up     7/16</p>
+<p>  Ascend Comm	 4,246,300	 43 1/2     off    1</p>
+<p>  Oracle Corp	 4,177,400	 39	   off    5/8</p>
+<p>  Intel Corp	  4,167,200	 79 1/2     off    1 1/4</p>
+<p>  Three Com Cp	3,705,000	 43	   off   1 15/16</p>
+<p>  Tele Comm Inc A   3,559,000	 15 7/8     up     1/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

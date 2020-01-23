@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9026" id="root" date="1996-08-22" xml:lang="en">
+<title>CANADA: North and Central America port conditions - Lloyds.</title>
+<headline>North and Central America port conditions - Lloyds.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service</p>
+<p>CANADA, Aug 19 - Vancouver - grain - five vessels loading, 2 Waiting. Minimal delays. 17 vessels due to load before 31/8. Coal - Roberts Bank - no vessels loading or waiting. 16 vessels due by 31/8 for loading. 24 vessels to load in September.</p>
+<p>EL SALVADOR, Aug 16 - Acajutla - 14 vessels due (containers, steel products, petroleum products, soda ash, general cargo, tallow and cottonseed oil, bulk soy, bulk sugar). Delays depend on weather conditions. 1 bulk soya discharging at berth, 1 petroleum discharging at anchorage.</p>
+<p>HONDURAS, Aug 19 - Puerto Cortes - vessels berthed - 3 discharging/loading containers, 1 discharging bulk wheat, 3 loading bananas. Vessels awaiting berth - 1 general for discharging/loading, 2 containers for discharging/loading, 1 bananas for discharging. Vessels due - 10 to discharge/load containers, 1 to discharge/load generals, 3 to load bananas, 1 to discharge bulk rice.</p>
+<p>PANAMA, Aug 19 - Balboa - vessels in port 2 chemical tankers, 1 tanker, 1 general cargo, 1 fish carrier. Cristobal - vessels in port 1 ro-ro, 1 vehicle carrier, 3 container carriers, 1 general cargo, 1 bulker, 1 reefer/general, 1 passenger ro/ro. Panama Canal - canal authorities confirmed Miraflores locks lane outage scheduled from 26/8 to 5/9. During this period projected daily transit capacity of 32-34 vessels. Transit delays estimated to be about 2 days, depending on vessel numbers arriving and how canal authorities maintain daily schedules. Booking system will be heavily used during this period, booking advice recommended. 36 vessels due, 34 in queue, 11 booked, 43 scheduled.</p>
+<p>UNITED STATES, Aug 19 - Baltimore, MD - vessels operating - 7 bulkers, 6 container vessels, 2 ro/ro, 1 auto vessel, 1 tanker, 3 general cargo. 2 cable vessels on standby. 6 vessels in repair yard. 2 bulkers awaiting berth. Columbia River - a busy autumn and winter is expected due to an above average wheat crop. Some anchorage congestion, expected to become worse. Loading delays for wheat vessels 1 to 7 days, depending on elevator. Astoria - five grain vessels anchored. Portland - eight grain vessels anchored. 3 grain vessels loading. 2 under repairs. 1 cement vessel discharging. 1 general cargo vessel alongside. 1 container vessel alongside. 1 loading steel scrap. 1 auto vessel discharging. Vancouver, Wa - one grain vessel loading. 1 general cargo vessel alongside. Kalama - two grain vessels loading. Longview - one grain, 1 log vessel anchored. 3 logs, 1 potash vessel loading. Hampton roads, VA - four general cargo/container vessels in pier operating. 5 vessels in pier loading coal, 2 anchored waiting to load. 1 Tanker discharging crude oil. 7 vessels in pier under repairs and/or layberth. 1 bulker loading grain. 1 parcel tanker discharging caustic soda. 1 bulker loading fertiliser. Honolulu, Hawaii - Harbour - 2 container vessels, 3 tugs and barges alongside. Offport anchorage - 1 tanker anchored awaiting berth. Barbers Point, Hawaii - harbour - 2 tugs and barges alongside. 1 coal vessel berthed. Offport moorings - 1 tanker discharging crude. Jersey City, NJ - one vessel in port. Port Newark, NJ - three in port. Port Elizabeth, NJ - five in port. Perth Amboy, NJ - two in port. Bayway, NJ - one in port. Cartaret, NJ - two in port.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

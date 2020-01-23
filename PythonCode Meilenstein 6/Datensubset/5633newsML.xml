@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5633" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Georgia Power to sell preferred shares.</title>
+<headline>Georgia Power to sell preferred shares.</headline>
+<dateline>ATLANTA 1996-08-21</dateline>
+<text>
+<p>George Power Co said Wednesday it has agreed to sell nine million of preferred securities at $25 per share.</p>
+<p>Quarterly distributions on the preferred shares will be payable at a rate of 7.75 percent per year.</p>
+<p>The closing is scheduled for August 28.</p>
+<p>The securities will be issued through Georgia Power Capital Trust I, and the $225 million sale will be handled by an underwriting group headed by Lehman Brothers.</p>
+<p>George Power is a subsidiary of Southern Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9857" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: India RBI chief sees cut in cash reserve ratio.</title>
+<headline>India RBI chief sees cut in cash reserve ratio.</headline>
+<dateline>NEW DELHI 1996-08-22</dateline>
+<text>
+<p>The Reserve bank of India governor C. Rangarajan said on Thursday that he expected the cash reserve ratio (CRR) maintained by banks to be reduced over the medium term.</p>
+<p>&quot;Over the medium term, yes,&quot; he told Reuters after addressing industrialists in the capital.</p>
+<p>He denied having said in a recent newspaper interview that the CRR could be raised if necessary. He said he was only trying (in that newspaper report) to explain the theoretical position on the use of the CRR by central banks to manage money supply.  </p>
+<p>Rangarajan explained that the cash reserve ratio was an instrument that central banks could use to regulate money supply by reducing or increasing the ratio.</p>
+<p>But in the current context, the government stood by an earlier commitment to reduce it over a period of time, he said in response to a question.</p>
+<p>-- New Delhi newsroom, +91-11-3012024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7001" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: H&amp;R Block Q1 loss impacted by expenses.</title>
+<headline>H&amp;R Block Q1 loss impacted by expenses.</headline>
+<dateline>KANSAS CITY, Mo. 1996-08-21</dateline>
+<text>
+<p>H&amp;R Block Inc, which offers tax and financial services, said its loss for the fiscal first quarter was due to anticipated increases in expenses associated with compensation, rent and utilities.</p>
+<p>Incremental operating costs and amortization of goodwill from tax businesses acquired in fiscal 1996 also increased expenses for the quarter.</p>
+<p>H&amp;R Block reported a net loss from continuing operations of $0.27 a share. A year ago, it had a net loss from continuing operations of $0.20 a share, which included a one-time gain realized on the MECA Software Inc sale and the write-down of certain impaired assets.</p>
+<p>H&amp;R Block said its tax services business typically reports losses in the first three quarters. &quot;While most of the revenues for the tax business are generated in the fourth quarter, certain expenses remain year round,&quot; Frank Salizzoni, interim president, said in a statement.</p>
+<p>Revenues from H&amp;R Block Tax Services' U.S. operations rose nearly 22 percent to $9.6 million in the quarter. Revenues from international tax operations increased more than 29 percent to $2.7 million. Revenues for Block Financial Corp increased nearly 31 percent to $8.2 million.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

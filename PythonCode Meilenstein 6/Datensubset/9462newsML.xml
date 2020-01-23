@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9462" id="root" date="1996-08-22" xml:lang="en">
+<title>IRAN: Iran easing visa procedures to woo tourists.</title>
+<headline>Iran easing visa procedures to woo tourists.</headline>
+<dateline>TEHRAN 1996-08-22</dateline>
+<text>
+<p>Iran is to cut long waiting periods for tourist visas to revive its withered tourism industry, a newspaper said on Thursday.</p>
+<p>The daily Resalat quoted Deputy Culture and Islamic Guidance Minister Hossein Taheri as saying Iranian embassies would issue tourist visas within 24 hours.</p>
+<p>Travel agents in Tehran said tourist groups received visas after a few weeks while individuals applying for visas have had to wait sometime for months.</p>
+<p>Taheri said boosting tourism was an essential part of Iran's development plans and Tehran aimed to raise the annual number of visitors to 700,000 from 450,000 in three years, Resalat said.</p>
+<p>Iran earned $250 million from tourism in the Iranian year that ended on March 19, he added.</p>
+<p>Iran was once a high-profile destination for Western tourists drawn by its archeological and artistic treasures, with about 600,000 visitors a year.</p>
+<p>But tourism plummeted after the 1979 Islamic revolution and most visitors now are from Iran's low-income neighbours who come on pilgrimage to Shi'ite shrines or for small-scale trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

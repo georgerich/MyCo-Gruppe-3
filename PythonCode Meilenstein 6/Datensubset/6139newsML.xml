@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6139" id="root" date="1996-08-21" xml:lang="en">
+<title>CHILE: CTC credit rating to remain stable - D&amp;P.</title>
+<headline>CTC credit rating to remain stable - D&amp;P.</headline>
+<dateline>SANTIAGO 1996-08-21</dateline>
+<text>
+<p>Compania de Telecomunicaciones de Chile's credit quality should remain steady due to its solid position in the local market, Duff &amp; Phelps Credit Rating Co said.</p>
+<p>&quot;CTC remains in a strong competitive position in the Chilean telecommunications market,&quot; said a statement datelined in Chicago.</p>
+<p>The advent of the multicarrier long-distance system in late 1994 cut into revenues last year, said the statement.  </p>
+<p>&quot;However, productivity gains allowed CTC to reduce operating costs by nine percent between year-end 1994 and 1995, which resulted in an 8.1 percent increase in operating income,&quot; it said.</p>
+<p>The agency currently rates CTC's senior debt A-minus and its convertible subordinate debentures BBB-plus, it said.</p>
+<p>-- Roger Atwood, Santiago newsroom +56-2-699-5595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

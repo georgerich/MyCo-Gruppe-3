@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3937" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: India call money rates hover below 11 percent mark.</title>
+<headline>India call money rates hover below 11 percent mark.</headline>
+<dateline>BOMBAY 1996-08-20</dateline>
+<text>
+<p>Indian call money rates hovered below the 11 percent mark on Tuesday, dealers said.</p>
+<p>Call rates opened at 10.25-10.75 percent but crept up to 10.75-10.90 percent in later deals, dealers said. They said call rates appeared to be heading down.</p>
+<p>&quot;Some people were quoting 11 percent but I don't think there are any deals at that rate because of (availability of) RBI (Reserve Bank of India) refinance at 11 percent,&quot; said a dealer.</p>
+<p>Dealers said the secondary market in securities had almost died out following the recent spurt in call rates to double-digits.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

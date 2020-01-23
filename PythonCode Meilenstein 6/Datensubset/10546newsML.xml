@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10546" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: LANNEN TEHTAAT JOINS FOOD SECTOR RALLY.</title>
+<headline>LANNEN TEHTAAT JOINS FOOD SECTOR RALLY.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>Shares in Finnish foodstuffs and animal feed group Lannen Tehtaat Oy rose sharply in healthy volume on Friday after recent gains in other food sector stocks, brokers said.</p>
+<p>At 1530/1230 GMT, Lannen Tehtaat traded at 57.00 markka, up 5.00 markka or almost ten percent. Volume was over seven million markka, most of which however consisted of a big in-house deal.</p>
+<p>Recent strong gains in Raision Tehtaat Oy  particularly helped Lannen Tehtaat, brokers said.</p>
+<p>-- Helsinki newsroom +358-0-6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

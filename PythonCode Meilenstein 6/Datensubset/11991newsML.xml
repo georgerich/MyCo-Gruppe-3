@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11991" id="root" date="1996-08-23" xml:lang="en">
+<title>DENMARK: ISS could raise 675 mln DKK from US sale.</title>
+<headline>ISS could raise 675 mln DKK from US sale.</headline>
+<dateline>COPENHAGEN 1996-08-23</dateline>
+<text>
+<p>Danish cleaning group ISS could get up to 675 million crowns ($117 million) if it succeeds in its plan to sell disaster-stricken U.S. unit ISS Inc, an independent analysis indicated on Friday.</p>
+<p>Analysts Dansk Aktie Analyse, commissioned by financial weekly Borsens Nyhedsmagasin, based their valuation on ISS Inc's U.S. cleaning contracts and the parent's stated aim of retaining around 25 percent of the American firm's shares after a sale.</p>
+<p>ISS last week published first half 1996 results showing a two billion crown loss caused by falsified accounts in ISS Inc and said that charges and provisions earlier estimated at $100 million would have to be increased to $146 million.</p>
+<p>In its half-year report ISS listed its capital at June 30 as 729 million crowns. It said full-year results would depend on attempts to sell between 70 and 75 percent of ISS Inc.</p>
+<p>Analysts said that under existing legislation is was doubtful whether the ISS group in Denmark could obtain any significant tax relief against losses by its U.S. unit.</p>
+<p>--Per Bech Thomsen, Copenhagen newsroom +45 33969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10770" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. West spot power firm on heat, flat BPA prices.</title>
+<headline>U.S. West spot power firm on heat, flat BPA prices.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>U.S. West spot electricity prices were steady Friday on forecasts of a heatwave through next week and Bonneville Power Administration (BPA) keeping its next-day power prices steady, market sources said.</p>
+<p>The latest six- to 10-day forecasts showed temperatures in the western U.S. to be above normal to much-above normal.</p>
+<p>BPA reportedly held the value of electricity in 17-18 hour blocks for Saturday and Sunday delivery at $23.00 per megawatt hour (MWh), unchanged from Thursday's prices for Friday.</p>
+<p>But the federal power marketing agency lowered 16-hour blocks for delivery Monday at $21.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

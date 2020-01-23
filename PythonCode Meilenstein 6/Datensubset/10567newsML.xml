@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10567" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: CRICKET-ENGLAND V PAKISTAN FINAL TEST SCOREBOARD.</title>
+<headline>CRICKET-ENGLAND V PAKISTAN FINAL TEST SCOREBOARD.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Scoreboard on the second day of</p>
+<p>the third and final test between England and Pakistan at The</p>
+<p>Oval on Friday:</p>
+<p>England first innings</p>
+<p> M.Atherton b Waqar Younis			 31</p>
+<p> A.Stewart b Mushtaq Ahmed			 44</p>
+<p> N.Hussain c Saeed Anwar b Waqar Younis	12</p>
+<p> G.Thorpe lbw b Mohammad Akram		   54</p>
+<p> J.Crawley b Waqar Younis			 106</p>
+<p> N.Knight b Mushtaq Ahmed			  17</p>
+<p> C.Lewis b Wasim Akram				5</p>
+<p> I.Salisbury c Inzamam-ul-Haq b Wasim Akram   5</p>
+<p> D.Cork c Moin Khan b Waqar Younis		0</p>
+<p> R.Croft not out					5</p>
+<p> A.Mullally b Wasim Akram			  24</p>
+<p> Extras (lb-12 w-1 nb-10)			  23</p>
+<p> Total						  326</p>
+<p>Fall of wickets: 1-64 2-85 3-116 4-205 5-248 6-273 7-283</p>
+<p>8-284 9-295</p>
+<p>Bowling: Wasim Akram 29.2-9-83-3, Waqar Younis 25-6-95-4,</p>
+<p>Mohammad Akram 12-1-41-1, Mushtaq Ahmed 27-5-78-2, Aamir Sohail</p>
+<p>6-1-17-0</p>
+<p>Pakistan first innings</p>
+<p> Saeed Anwar not out	    116</p>
+<p> Aamir Sohail c Cork b Croft   46</p>
+<p> Ijaz Ahmed not out		58</p>
+<p> Extras (lb-1 nb-8)		 9</p>
+<p> Total (for one wicket)	 229</p>
+<p>Fall of wicket - 1-106</p>
+<p>To bat: Inzamam-ul-Haq, Salim Malik, Asif Mujtaba, Wasim</p>
+<p>Akram, Moin Khan, Mushtaq Ahmed, Waqar Younis, Mohammad Akam</p>
+<p>Bowling (to date): Lewis 9-1-49-0, Mullally 9-3-28-0, Croft</p>
+<p>17-3-42-1, Cork 7-1-38-0, Salisbury 14-0-71-0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

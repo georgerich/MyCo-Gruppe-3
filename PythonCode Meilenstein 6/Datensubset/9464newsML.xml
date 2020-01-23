@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9464" id="root" date="1996-08-22" xml:lang="en">
+<title>ISRAEL: Palestinians accuse PA of banning books.</title>
+<headline>Palestinians accuse PA of banning books.</headline>
+<dateline>NABLUS, West Bank 1996-08-22</dateline>
+<text>
+<p>A West Bank bookseller charged on Thursday that the Palestinian Information Ministry has forced him to sign an undertaking not to distribute books written by critics of Israeli-PLO self-rule deals.</p>
+<p>&quot;They made me sign an undertaking not to sell the books to anyone at the risk of legal action. One official told me 'you have to either destroy the books or return them to Amman',&quot; Daoud Makkawi, owner of the Nablus-based al-Risala bookshop, told Reuters.</p>
+<p>He said ministry officials made him sign this a few weeks ago after he brought about a dozen copies from Jordan of a book by Edward Said, a prominent scholar at New York City's Columbia University.</p>
+<p>Said, a U.S. citizen of Palestinian origin, has been an outspoken critic of the 1993 Israeli-PLO self-rule deal and has written at least two books on the accord.</p>
+<p>On Wednesday a bookseller in the West Bank town of Ramallah said police about a month ago confiscated several copies of two of Said's books on the Israel-PLO self-rule deals.</p>
+<p>Palestinian Information Ministry Director-General Mutawakel Taha denied that ministry officials forced anyone to sign any undertaking and insisted that the Palestinian Authority has no plans to censor books.</p>
+<p>&quot;There is no strategy to ban books or to suppress freedom of expression in any form whatsoever,&quot; Taha told Reuters.</p>
+<p>But Taha said that the absence of relevent legislations may have resulted in some mistakes by some security officials.</p>
+<p>&quot;This may explain some mistakes against some journalists and writers,&quot; he said.</p>
+<p>Daoud said books by other authors, including British Journalist Patrick Seale, were also banned. He said that security officials often visit his shop to make sure he was not selling the books.</p>
+<p>&quot;I think this is a bad beginning. If we have confidence, why should we be afraid of the other opinion?&quot; Daoud said.</p>
+<p>Thousands of books were banned from sale in the West Bank and Gaza Strip by the Israeli military authorities before the Jewish state handed over parts of the two areas to the PLO under a self-rule deal in 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NABLUS, West Bank"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

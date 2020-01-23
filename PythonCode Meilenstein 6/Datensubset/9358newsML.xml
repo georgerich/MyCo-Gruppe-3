@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9358" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Manila files child sex charges against German.</title>
+<headline>Manila files child sex charges against German.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>Philippine investigators on Thursday filed criminal charges against a German accused of sexually molesting several teenaged boys.</p>
+<p>Conrad Jecht, 63, from Halle, Germany, was arrested by police in Bulacan province near Manila on Tuesday after two boys accused him of paying them 120 pesos ($4.60) each to have sex, officials of the National Bureau of Investigation (NBI) said.</p>
+<p>He was charged under a 1992 child abuse law designed to erase the country's image as a haven for paedophiles.</p>
+<p>NBI lawyers filed the charges with the Department of Justice which will determine if there is enough evidence to send the case to the courts for trial.</p>
+<p>Philippine courts recently sentenced a Briton and an Australian to up to 17 years each for sexually molesting children.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

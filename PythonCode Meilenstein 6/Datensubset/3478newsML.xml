@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3478" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Union unlikely to choose arbitration at Shell.</title>
+<headline>RTRS-Union unlikely to choose arbitration at Shell.</headline>
+<dateline>MELBOURNE 1996-08-20</dateline>
+<text>
+<p>The Australian Workers' Union (AWU) said on Tuesday it was unlikely to accept arbitration as an option to resolve a strike over work practices at Shell Australia Ltd's refinery in Geelong, Victoria.</p>
+<p>&quot;We're going through the process of consulting with our members now ... but the way things are heading it's highly unlikely that our members will accept arbitration,&quot; AWU Victoria state organiser Cesar Melhem told Reuters.  </p>
+<p>The Australian Industrial Relations Commission (AIRC) on Tuesday requested the parties consent to arbitration over the strike, which has reduced production at the 115,000 barrels-per-day refinery and stopped distribution at its ocean tanker and Lara LPG distribution facilities.</p>
+<p>Shell said in a statement it would consider the request.</p>
+<p>The parties must to respond to the AIRC by 5.00 p.m. (0700 GMT) on Wednesday.</p>
+<p>&quot;We will give it due consideration and report back to the Commission tomorrow (Wednesday),&quot; Shell industrial relations manager Warren Stooke said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

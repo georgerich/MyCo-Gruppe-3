@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10147" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Mitsubishi Oil refinery back on stream.</title>
+<headline>Mitsubishi Oil refinery back on stream.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Mitsubishi Oil Co Ltd said on Thursday that its 150,000 barrel-per-day (bpd) crude distillation unit at its Mizushima refinery was back on stream after a July 27 fire.  </p>
+<p>A company spokesman said the unit, located in western Japan, came back on stream on Tuesday evening.</p>
+<p>The crude distillation unit halted operations after a minor fire broke out on July 27 due to a fuel oil leak from the facility.</p>
+<p>The fire did not affect the operations of another 100,000 bpd crude distillation unit at the Mizushima plant.</p>
+<p>Mitsubishi Oil also operates a 100,000 bpd plant in Sendai, northern Japan, and a 75,000 bpd refinery in Kawasaki on the western outskirts of Tokyo.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

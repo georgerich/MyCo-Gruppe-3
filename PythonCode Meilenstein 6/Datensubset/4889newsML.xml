@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4889" id="root" date="1996-08-20" xml:lang="en">
+<title>SWEDEN: PRESS DIGEST - Sweden - Aug 20.</title>
+<headline>PRESS DIGEST - Sweden - Aug 20.</headline>
+<dateline>STOCKHOLM 1996-08-20</dateline>
+<text>
+<p>Following are some of the leading stories in the Swedish papers this morning. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>DAGENS NYHETER</p>
+<p>- Swedish insurance giant Skandia says it is losing ground on the Swedish life insurance market because of a recent increase in competition from banks.</p>
+<p>- The deregulation of domestic flights in Sweden has been successful but has not led to lower prices for customers, according to a Swedish survey. But the survey said SAS had lost over one billion crowns on the domestic service since 1992.</p>
+<p>- Over 50 percent of Swedes are against joining the European Monetary Union, according to a Swedish polling group.</p>
+<p>SVENSKA DAGBLADET</p>
+<p>- Cheating is becoming a way of life in Sweden, the Swedish daily says. The paper said Swedes take in over 11 billion crowns in black market income each year and over eight billion in benefits.</p>
+<p>- Workers in Swedish industry are increasingly working longer hours as work hours have risen by 12 percent between April 1995 and April 1996, according to Statistics Sweden.</p>
+<p>- Sweden is to relax its labour laws by giving employers greater flexibility in employing people.</p>
+<p>DAGENS INDUSTRI</p>
+<p>- Swedish stockbrokers are furious at plans by the Stockholm Stock Exchange to allow institutional investors and major traders to buy and sell shares directly via computer link-ups starting in September.</p>
+<p>- The Chilean Air Force is considering buying Jas 39 Gripen Fighters, produced by Saab Military Aircraft.</p>
+<p>-- Paul de Bendern, Stockholm newsroom +46-8-700 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

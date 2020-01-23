@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12434" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: KDD in talks with Thai telecom firm on cell phones.</title>
+<headline>KDD in talks with Thai telecom firm on cell phones.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Japanese international telecommunications firm Kokusai Denshin Denwa Co Ltd (KDD) said on Friday it was negotiating with state-owned Telephone Organisation of Thailand over a possible tie-up in the personal handyphone system (PHS) business in Bangkok.</p>
+<p>A KDD spokeswoman, however, declined to comment further on the tie-up, saying that the two sides were still in negotiations.</p>
+<p>The PHS is a Japan-developed mobile phone which can be used only in a limited area but is cheaper than conventional mobile phones.  </p>
+<p>The Japanese business daily Nihon Keizai Shimbun reported on Friday that KDD and the Thai firm had agreed to set up a joint venture for the PHS project, aiming to get approval from the Thai government by early 1997.</p>
+<p>KDD is planning to start the PHS business in other parts of Southeast Asia, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

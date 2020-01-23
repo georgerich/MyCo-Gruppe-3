@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2306" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Kansas files lawsuit against tobacco companies.</title>
+<headline>Kansas files lawsuit against tobacco companies.</headline>
+<dateline>TOPEKA, Kan. 1996-08-20</dateline>
+<text>
+<p>Kansas and Arizona filed lawsuits Tuesday against major tobacco companies to recover Medicaid costs for smoking-related illnesses, joining a growing list of states and cities taking on Big Tobacco in court.</p>
+<p>Kansas became the 11th state and Arizona the 12th to join the anti-tobacco litigation.</p>
+<p>Kansas Attorney General Carla Stovall told a news conference her state's lawsuit was the broadest filed to date.</p>
+<p>Stovall said that, in addition to trying to recover Medicaid costs, she would seek to require companies to stop marketing products to children, to disclose their knowledge of nicotine addiction, to publish corrective advertising and to fund a public education campaign on smoking.</p>
+<p>Arizona Attorney General Grant Woods said his state was seeking more than $300 million in damages related to Medicaid costs Arizona has incurred in providing health care to indigent residents with alleged tobacco-related illnesses.</p>
+<p>Woods said the tobacco companies have engaged in a &quot;massive illegal conspiracy&quot; representing that smoking is not addictive.</p>
+<p>Arizona's lawsuit also alleged the companies violated antitrust, consumer fraud and fair trade practices.</p>
+<p>In addition to the monetary damages, Arizona's lawsuit also asks the court to prohibit the companies from targeting children in their advertising, promotion and sales.</p>
+<p>Woods alleged that tobacco products kill an estimated 5,000 Arizona residents a year.</p>
+<p>Among the defendants in the two lawsuits were RJ Reynolds Tobacco Co., Brown &amp; Williamson Tobacco Corp., Philip Morris Cos. Inc., Lorillard Tobacco Co. Inc., American Tobacco Co., public relations firm Hill and Knowlton Inc., the Council for Tobacco Research, and the Tobacco Institute.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOPEKA, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

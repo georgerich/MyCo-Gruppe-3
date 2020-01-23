@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8721" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Crown Cork sees 1996 EPS at low-end of estimates.</title>
+<headline>Crown Cork sees 1996 EPS at low-end of estimates.</headline>
+<dateline>PHILADELPHIA 1996-08-22</dateline>
+<text>
+<p>Crown Cork &amp; Seal Co Inc said it was comfortable with the lower-end of analysts' 1996 earnings per share estimates.</p>
+<p>According to First Call, analysts expect the company to earn between $2.15 to $2.75 a share for 1996, with a mean of $2.35 a share. Crown Cork earned $0.83 a share for the 1995 full year. The company also said it was comfortable with the middle range of earnings estimates for 1997. Analysts estimates range from $3.00 to $3.75 a share, with a mean of $3.37, according to First Call.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

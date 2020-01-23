@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8836" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: ECRI future U.S. inflation gauge 104.8 Aug 9 week.</title>
+<headline>ECRI future U.S. inflation gauge 104.8 Aug 9 week.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The Economic Cycle Research Institute (ECRI) weekly Future Inflation Gauge (FIG) rose to 104.8 in the week ended August 9 from 104.5 the previous week, ECRI said.</p>
+<p>Faster growth of real estate loans, a narrowing of the yield spread between the 10-year Treasury note and three-month Treasury bill and a drop in the growth rate of industrial materials prices contributed to the rise, ECRI said.</p>
+<p>&quot;Although there is a gradual lessening of disinflationary tendencies, underlying inflation pressures are likely to remain contained,&quot; ECRI said.</p>
+<p>--N.A. Treasury Desk 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

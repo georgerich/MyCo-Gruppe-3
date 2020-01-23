@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9495" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PRESALE-Rush City School District No 139, Minn.</title>
+<headline>PRESALE-Rush City School District No 139, Minn.</headline>
+<text>
+<p>AMT: 1,810,000	DATE: 08/26/96	NYC Time: 1200	CUSIP: 781802</p>
+<p>ISSUER: Rush City Independent School District No 139	  ST: MN</p>
+<p>ISSUE: GO School Building, Series 1996			   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 09/01/96							     SURE BID: Y</p>
+<p>DUE: 3/1/99-17						SR MGR:</p>
+<p>1ST CPN: 03/01/97</p>
+<p>CALL: 3/1/04 @ par					  TIC</p>
+<p>DELIVERY: 40 days					   ORDERS:</p>
+<p>PAYING AGENT: First Trust N.A., St. Paul</p>
+<p>L.O.: Knutson, Flynn, Hetland, Deans &amp; Olsen, St. Paul</p>
+<p>F.A.: Ehlers &amp; Associates, Minneapolis</p>
+<p>LAST SALE: $7,080,000 12/15/93 @ 5.2149% NIC; 16yrs 1mos avg; BBI- 5.33%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1999		     50,000</p>
+<p>2000		     55,000</p>
+<p>2001		     55,000</p>
+<p>2002		     60,000</p>
+<p>2003		     65,000</p>
+<p>2004		     70,000</p>
+<p>2005		     75,000</p>
+<p>2006		     80,000</p>
+<p>2007		     85,000</p>
+<p>2008		     90,000</p>
+<p>2009		     95,000</p>
+<p>2010		    100,000</p>
+<p>2011		    110,000</p>
+<p>2012		    115,000</p>
+<p>2013		    125,000</p>
+<p>2014		    130,000</p>
+<p>2015		    140,000</p>
+<p>2016		    150,000</p>
+<p>2017		    160,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

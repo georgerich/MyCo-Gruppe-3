@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9442" id="root" date="1996-08-22" xml:lang="en">
+<title>INDONESIA: Indonesia says Idaho to supply equipment.</title>
+<headline>Indonesia says Idaho to supply equipment.</headline>
+<dateline>JAKARTA 1996-08-22</dateline>
+<text>
+<p>Indonesian Transmigration Minister Siswono Yudohusodo said on Thursday Idaho Power Company of the United States will supply solar energy equipment and technology to areas in Indonesia where settlements are planned.</p>
+<p>&quot;We will develop solar energy for 40,000 families in three areas in Indonesia. We will cooperate with Idaho Power Company to carry out this programme,&quot; Yudohusudo told reporters after meeting President Suharto.</p>
+<p>Families who agree to migrate from Indonesia's crowded Java island to more remote parts of the archipelago can rent solar energy equipment from the company for between 12,000 rupiah ($5) and 44,000 rupiah ($18) per month, he said.</p>
+<p>He said the settlement areas were in the provinces of Jambi and Riau in Sumatra, and in West Kalimantan.</p>
+<p>&quot;This cooperation is purely between private sectors. Idaho will provide technology and also maintenance,&quot; he said.</p>
+<p>He gave no other details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

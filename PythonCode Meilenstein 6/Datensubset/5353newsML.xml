@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5353" id="root" date="1996-08-21" xml:lang="en">
+<title>ITALY: SOCCER-ITALIAN CLUB WANTS TO SIGN CONVICT.</title>
+<headline>SOCCER-ITALIAN CLUB WANTS TO SIGN CONVICT.</headline>
+<dateline>UDINE, Italy 1996-08-21</dateline>
+<text>
+<p>A northern Italian amateur soccer club has urged prison authorities to release a Moroccan midfielder on match days so he can play for them.</p>
+<p>Dario Zearo, president of Tolmezzo soccer club, said on Wednesday he wanted to sign 28-year-old Abdul Hajim but recognised that his jail sentence posed a problem.</p>
+<p>Hajim, who says he played in the Moroccan first division before arriving in Italy, impressed when he scored four goals against players from nearby serie A club Udinese in a recent friendly match involving a prison team.</p>
+<p>The Moroccan, who would not say what crimes he had committed, is due to be freed in December 1997.</p>
+<p>Zearo said he had asked the director of the local prison if Hajim could be granted day release.</p>
+<p>&quot;It would be the first case of day release being granted in Italy on sporting grounds,&quot; he said.</p>
+<p>Prison director Salvatore Pirruccio said he would contact magistrates and let Zearo know their decision.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UDINE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

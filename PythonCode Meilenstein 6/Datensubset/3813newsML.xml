@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3813" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Unwired Planet to carry InfoSpace directories.</title>
+<headline>Unwired Planet to carry InfoSpace directories.</headline>
+<dateline>REDMOND, Wash. 1996-08-20</dateline>
+<text>
+<p>InfoSpace Inc said on Tuesday that its People, Business, and Email directories will be available on  Unwired Planet's wireless products.</p>
+<p>InfoSpace said Unwired Planet has teamed with AT&amp;T Corp, GTE Corp's GTE Mobilnet, Bell Atlantic Corp, and NYNEX Corp's NYNEX Mobile unit, among others, to allow customers to use cellular phones and pagers to obtain information stored on the Internet.</p>
+<p>The phones and pagers would display a variety of information from InfoSpace's directories to make it easier for users to locate people, businesses, and e-mail addresses on the Internet.</p>
+<p>--New York Newsdesk, 212/859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

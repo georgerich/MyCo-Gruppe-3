@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10199" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: LONDON CURRENCY AND GOLD BULLION RATES.</title>
+<headline>LONDON CURRENCY AND GOLD BULLION RATES.</headline>
+<text>
+<p>LONDON, Reuter - Following are the buying and selling rates for leading world currencies and gold against the dollar on the London foreign exchange and bullion markets today.</p>
+<p>(Tourist rates will differ from those quoted)</p>
+<p>US$1.00 COSTS    1.3700/05  Canadian Dollars</p>
+<p>		     1.4873/80  German Marks</p>
+<p>		     1.6675/80  Dutch Guilders</p>
+<p>		     1.2040/50  Swiss Francs</p>
+<p>		     30.64/65   Belgian Francs</p>
+<p>		     5.0795/05  French Francs</p>
+<p>		     1515.1/5.6 Italian Lire</p>
+<p>		     108.48/53  Japanese Yen</p>
+<p>		     6.5940/40  Swedish Crowns</p>
+<p>		     6.4313/88  Norwegian Crowns</p>
+<p>		     5.7465/95  Danish Crowns</p>
+<p>		     1.4100/10  Singapore Dollars</p>
+<p>		     0.7903/08  Australian Dollars</p>
+<p>		     7.7328/38  Hong Kong Dollars</p>
+<p>One Sterling     US$1.5538/48</p>
+<p>Gold (ounce)     US$387.40/387.90</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

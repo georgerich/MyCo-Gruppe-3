@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10588" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: SOCCER-ST PAULI TAKE POINT WITH LATE FIGHTBACK.</title>
+<headline>SOCCER-ST PAULI TAKE POINT WITH LATE FIGHTBACK.</headline>
+<dateline>BONN 1996-08-23</dateline>
+<text>
+<p>Hamburg side St Pauli, tipped as prime candidates for relegation, produced a stunning second-half fightback to draw 4-4 in their Bundesliga clash with Schalke on Friday.</p>
+<p>Schalke, who finished third last season, raced to a 3-1 lead at halftime.</p>
+<p>St Pauli pulled a goal back through Andre Trulsen but Schalke striker Martin Max restored his team's two-goal cushion shortly afterwards.</p>
+<p>Christian Springer put St Pauli back in touch in the 64th minute and three minutes later they were level, thanks to a penalty from Thomas Sabotzik.</p>
+<p>In the night's only other match, Hamburg beat Hansa Rostock 1-0, Karsten Baeron scoring the winner after some dazzling build-up from in-form midfielder Harald Spoerl.</p>
+<p>The win put Hamburg in second place in the German first division after three games, though that may change after the other sides play on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

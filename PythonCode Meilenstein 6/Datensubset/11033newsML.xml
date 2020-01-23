@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11033" id="root" date="1996-08-23" xml:lang="en">
+<title>ROMANIA: Romanian leu 3,158 to the dollar for Aug 27 - BNR.</title>
+<headline>Romanian leu 3,158 to the dollar for Aug 27 - BNR.</headline>
+<dateline>BUCHAREST 1996-08-23</dateline>
+<text>
+<p>Romania's National Bank (BNR) announced the leu's reference rate at 3,158 to the dollar for August 27.</p>
+<p>This reference rate was set on Friday as a weighted average based on daily reports of foreign exchange operators. It is a guidance rate used for statistical accounting purposes.</p>
+<p>The leu's reference rate set on Thursday for August 26 is also 3,158 to the dollar. It was 3,157 on Friday. -- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

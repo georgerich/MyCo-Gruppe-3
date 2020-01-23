@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8173" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Tosco says fire at N.J refinery &quot;non-event&quot;.</title>
+<headline>Tosco says fire at N.J refinery &quot;non-event&quot;.</headline>
+<dateline>LOS ANGELES 1996-08-21</dateline>
+<text>
+<p>Tosco Corp said on Wednesday that an early morning fire at its Bayway, New Jersey, refinery did not affect operations.</p>
+<p>&quot;It was really a non-event,&quot; said Dwight Wiggins, president of Tosco Refining Co, a unit of Tosco Corp.</p>
+<p>But the news gave a slight lift to energy futures prices during overnight ACCESS trade in New York, brokers said.</p>
+<p>Wiggins said the fire was small and quickly extinguished.</p>
+<p>It broke out in the refinery's crude unit.</p>
+<p>No workers were hospitalized.</p>
+<p>The refinery processes 230,000 barrels of crude oil daily.</p>
+<p>--David Brinkerhoff, Los Angeles +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

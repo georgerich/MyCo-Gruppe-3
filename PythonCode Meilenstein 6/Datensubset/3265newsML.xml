@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3265" id="root" date="1996-08-20" xml:lang="en">
+<title>CZECH REPUBLIC: Czech Interpol says has no trace of Belgian girls.</title>
+<headline>Czech Interpol says has no trace of Belgian girls.</headline>
+<dateline>PRAGUE 1996-08-20</dateline>
+<text>
+<p>The Prague office of Interpol said on Tuesday said it had no evidence that two young women kidnapped in Belgium a year ago were in the Czech Republic.</p>
+<p>Speculation in Belgian media has focused on the possibly that they were sold into prostitution in the Czech Republic after being abducted by Marc Dutroux, the chief accused in a child abuse case which has horrified Belgians.</p>
+<p>But there were also reports saying leads were under investigation in Germany, the Netherlands, and France.</p>
+<p>&quot;We have no evidence that the two girls would be on Czech territory,&quot; Vratislav Gregr, vice-director of Czech Interpol told Reuters.</p>
+<p>He said Czech national police were handling investigation of the claims, but nothing concrete had been found.</p>
+<p>An Marchal and Eefje Lambrecks went missing in August last year at the Belgian port of Ostend. According to an on-line Interpol file, Marchal would now be 19 and Lambrecks 20.</p>
+<p>Dutroux, a convicted child abuser, was charged last week with the abduction and illegal imprisonment of two other girls aged 14 and 12.</p>
+<p>Dutroux on Saturday led police to the bodies of two other eight-year-old girls who died of starvation earlier this year after their abduction in June, 1995.</p>
+<p>Gregr said if Marchal and Lambrecks were found in the country of their own will, the police might not be allowed to contact the girls' families, as both are adults.</p>
+<p>&quot;They are of age which means even if they are found, it is up to them whether they would let their families know or those who asked for the investigation of their location. They do not have to do so,&quot; Gregr said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

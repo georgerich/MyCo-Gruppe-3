@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11168" id="root" date="1996-08-23" xml:lang="en">
+<title>MEXICO: Mexico's Nafin says its lending program slow.</title>
+<headline>Mexico's Nafin says its lending program slow.</headline>
+<dateline>MEXICO CITY 1996-08-23</dateline>
+<text>
+<p>A sluggish lending program by Nacional Financiera is expected to pick up in the coming months as the economic growth filters down to smaller firms, the development bank said on Friday.</p>
+<p>In a statement, it said it had only lent 836 million pesos in July, 25 percent of a targetted 3.292 billion pesos it had aimed to disburse that month.</p>
+<p>So far this year, its lending program known as the Unique Funding Program for Industrial Modernization (Promin) has funnelled credits worth 6.966 billion pesos, an amount it acknowledged was small. It said it would reprogram credits for the rest of the year.</p>
+<p>&quot;This reprogramming foresees an increase in the granting of credits in coming months because the recovery of the economy, currently spearheaded by big manufacturing sector firms, could extend to mini and small firms.</p>
+<p>It also expected interest rates to continue declining, and a government program offering debt relief to small firms to bear its first fruits.</p>
+<p>The total funding channeled through Promin in the first seven months was 3.207 billion pesos and $501 million, Nafin said.</p>
+<p>-- Henry Tricks, Mexico City newsroom +525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

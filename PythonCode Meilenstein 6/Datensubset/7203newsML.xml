@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7203" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: Fletcher details equity in NZ Forest Corp buy.</title>
+<headline>Fletcher details equity in NZ Forest Corp buy.</headline>
+<dateline>WELLINGTON 1996-08-21</dateline>
+<text>
+<p>Fletcher Challenge Ltd on Wednesday confirmed its Forest Division and China's Citic would inject NZ$240 million each in equity to the consortium buying New Zealand's state-owned Forestry Corporation.</p>
+<p>Brierley Investments Ltd will inject $160 million.  </p>
+<p>Fletcher Forest will take on subordinated debt of NZ$316 million and Brierley $30 million, and bank debt in the name of the consortium will total NZ$1.2 billion, FCL told an analysts' briefing.</p>
+<p>The purchase price for Forestry Corp was NZ$2.026 billion. Fletcher and Citic each make up 37.5 percent of the consortium, and BIL 25 percent.</p>
+<p>The bank debt and subordinated debt is committed unconditionally to the consortium. Bank debt is committed for 12 months and will be refinanced along with the subordinated debt before the term expires.  </p>
+<p>Fletcher Challenge has a contingent exposure of NZ$200 million to repay bank debt in the situation of no refinance or extension to the term.</p>
+<p>Fletcher has a forest management contract, for which the fee will be the lesser of five percent of gross revenues or 50 percent of the amount by which real dollar cashflows from the business exceed the minimum target cashflows.</p>
+<p>Fletcher said its own cost savings were estimated at NZ$18 million per annum due to synergies.  </p>
+<p>The consortium is liable for on-site environmental costs and losses which are less than NZ$30 million, and half of any costs between NZ$30-50 million.</p>
+<p>The government will be fully liable for on-site costs above $50 million and all off-site costs and losses.</p>
+<p>-- Wellington newsroom 64 4 473-4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

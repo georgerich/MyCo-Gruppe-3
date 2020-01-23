@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5459" id="root" date="1996-08-21" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH CROWN/DOLLAR FIX MIDPOINT 27.301 - UNOFFICIAL.</title>
+<headline>CZECH CROWN/DOLLAR FIX MIDPOINT 27.301 - UNOFFICIAL.</headline>
+<dateline>PRAGUE 1996-08-21</dateline>
+<text>
+<p>The dollar traded at 1.4851 marks</p>
+<p>exactly at 1130 CET (0930 GMT), according to Reuters monitoring</p>
+<p>of European foreign exchange trading.</p>
+<p>The Czech National Bank (CNB) calculates its fixing for the</p>
+<p>crown against a mark/dollar basket based on a rate chosen</p>
+<p>between 11:30:00 and 11:30:59.</p>
+<p>Using the unofficial 11:30:00 dollar/mark rate as a</p>
+<p>reference, the midpoint for the daily CNB fixing of the crown</p>
+<p>against these currencies would be:</p>
+<p>    U.S. DOLLAR    27.301	  GERMAN MARK	   18.384</p>
+<p>The CNB fixes the crown within plus/minus 7.5 percent of</p>
+<p>the midpoint of the mark/dollar basket based on a chosen rate</p>
+<p>at this time.</p>
+<p>The official CNB fixing is released at about 1140 CET.</p>
+<p>-- Prague newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11164" id="root" date="1996-08-23" xml:lang="en">
+<title>PERU: Peru net reserves fall to $8.421 bln on August 21.</title>
+<headline>Peru net reserves fall to $8.421 bln on August 21.</headline>
+<dateline>LIMA 1996-08-23</dateline>
+<text>
+<p>Peru's Central Reserve Bank said Friday its net international reserves stood at $8.421 billion on August 21, down from $8.494 billion the week before.</p>
+<p>The bank's foreign exchange position, or total liquidity minus short and long-term debt obligations, was $1.706 billion on the same day.</p>
+<p>International reserves were $6.641 billion at the end of 1995.</p>
+<p>-- Andrew Cawthorne, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

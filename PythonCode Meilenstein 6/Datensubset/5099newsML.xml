@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5099" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: AsiaSat announces top reshuffle.</title>
+<headline>AsiaSat announces top reshuffle.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>Asia Satellite Telecommunications Holdings Ltd said on Wednesday Peter Burleigh had resigned as director effective from today.</p>
+<p>Burleigh, to be reassigned within the Cable and Wireless Plc Group, would be replaced by Richard Goswell, chief executive of Southeast Asia and Pacific of Cable and Wireless plc.</p>
+<p>Cable &amp; Wireless holds 23 percent of AsiaSat.</p>
+<p>-- Hong Kong newsroom (852) 28436441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

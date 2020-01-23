@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7814" id="root" date="1996-08-22" xml:lang="en">
+<title>PORTUGAL: Selloff creates Portugal's 4th biggest bank.</title>
+<headline>Selloff creates Portugal's 4th biggest bank.</headline>
+<dateline>LISBON, Portugal</dateline>
+<text>
+<p>Banco Portugues de Investimento fulfilled a long-held ambition on Thursday when it won the struggle for Banco de Fomento &amp; Exterior, the state-sector bank that is being privatised, in a move that will create the country's fourth largest banking group.</p>
+<p>The Finance Ministry announced that Banco Portugues was the only candidate left after a special jury had eliminated its only two rivals for the 65 percent of BFE on offer.</p>
+<p>&quot;The recommendation of the jury was that the only proposal to pass to the final phase was that of BPI,&quot; Sousa Franco told a news conference.</p>
+<p>The ministry said that the cabinet had unanimously accepted the recommendation of the jury which felt that BPI was best-placed to support the increase in debt that buying out BFE would involve.</p>
+<p>Although no price has yet emerged, BPI must have offered at least 1,980 escudos ($12.94) per share for the 52 million shares in BFE being sold. BFE stock was suspended on Thursday ahead of the announcement at 2,545 escudos ($16.63), which would value the stake at 130 billion escudos ($850 million).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON, Portugal"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

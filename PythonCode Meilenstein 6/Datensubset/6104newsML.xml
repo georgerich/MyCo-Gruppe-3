@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6104" id="root" date="1996-08-21" xml:lang="en">
+<title>BRAZIL: Seven dead in Brazil road crash.</title>
+<headline>Seven dead in Brazil road crash.</headline>
+<dateline>BRASILIA 1996-08-21</dateline>
+<text>
+<p>Seven people died and 19 were injured when a bus and a truck collided in the southern Brazilian state of Minas Gerais on Wednesday, police said.</p>
+<p>A police spokesman said the accident happened in the early morning on a bridge near the city of Pouso Alegre, 250 miles (400 km) from the state capital Belo Horizonte. The injured were taken to a hospital, where one was in serious condition.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

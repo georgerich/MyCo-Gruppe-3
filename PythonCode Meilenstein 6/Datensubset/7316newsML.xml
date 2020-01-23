@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7316" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Tokyo corn futures end mixed, CBOT corn higher.</title>
+<headline>Tokyo corn futures end mixed, CBOT corn higher.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Tokyo corn futures ended mixed on Wednesday, after distant contracts recovered in the afternoon from earlier losses, local traders said.</p>
+<p>Prices ranged from 90 yen lower to 60 yen higher, with the benchmark September 1997 contract up 50 yen at 17,960 yen per tonne. Daily volume was 42,446 lots.</p>
+<p>Weaker CBOT corn futures overnight triggered selling from individual investors during the morning session, the traders said. But higher CBOT corn futures on Project A overnight trading and the yen's easing against the dollar encouraged investors to buy in the afternoon, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

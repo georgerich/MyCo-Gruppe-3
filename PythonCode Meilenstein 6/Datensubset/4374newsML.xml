@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4374" id="root" date="1996-08-20" xml:lang="en">
+<title>FINLAND: Nordic prime ministers to meet in Helsinki Aug 26.</title>
+<headline>Nordic prime ministers to meet in Helsinki Aug 26.</headline>
+<dateline>HELSINKI 1996-08-20</dateline>
+<text>
+<p>The Nordic prime minsters' traditional summer meeting will be held in Helsinki on August 26, the Finnish government said in a statement on Tuesday.</p>
+<p>All five Nordic premiers would attend, from Finland, Norway, Sweden, Denmark and Iceland, it said.</p>
+<p>&quot;The meeting will address e.g. the Nordic countries' regional co-operation, energy policies and topical EU issues,&quot; the government said.</p>
+<p>The prime ministers would also meet Finnish President Martti Ahtisaari, it said.</p>
+<p>They would hold a news conference at 1500/1200 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ICEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

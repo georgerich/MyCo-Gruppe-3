@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2700" id="root" date="1996-08-20" xml:lang="en">
+<title>PORTUGAL: INDICATORS - PORTUGAL - UPDATED AUG 20.</title>
+<headline>INDICATORS - PORTUGAL - UPDATED AUG 20.</headline>
+<text>
+<p>Indicators - monthly</p>
+<p>				 July     June     July 95</p>
+<p>CPI (pct change)	   +0.2     -0.1	 0</p>
+<p>Avg annual inflation     +3.4     +3.3	+4.3</p>
+<p>Year/year inflation	+3.8     +3.6	+3.7</p>
+<p>Index			 131.6     131.4     126.8</p>
+<p>(Index base 100 in 1991)</p>
+<p>Retail Sales Index	  Mar 96     Feb 96	Mar 95</p>
+<p>				   147.0     132.1	 138.9</p>
+<p>				  May 96  April 96    May 95</p>
+<p>Industrial production index 101.8     98.7	102.1</p>
+<p>				  </p>
+<p>GDP (percent)		Q4 95    Q3 95    Q4 94</p>
+<p>				  1.9	1.6	0.7</p>
+<p>				  May 96    Apr 96     May 95</p>
+<p>Registered unemployed(a)  477,650   486,932   423,665</p>
+<p>Unemployment rate (b)    Q2 96     Q1 96     Q2 95</p>
+<p>(pct)			   7.2	 7.5	7.0</p>
+<p>				 Jan-Jun 96 Jan-May 96 Jan-Jun 95</p>
+<p>C/A balance(bln escudos) -521.6     -459.3	-446.0</p>
+<p>				 Jan-Apr 96 Jan-Mar 96 Jan-Apr 95</p>
+<p>Trade balance (bln esc)  -456.3	-302.3     -529.2</p>
+<p>				  Jul	June	Jul 95</p>
+<p>Forex reserves (bln dlrs) 22.343   22.377   21.927</p>
+<p>Money supply   (L-) (pct) June	May     June 95</p>
+<p>				   7.5	6.7	11.2</p>
+<p>PSBR			    Jan-June 96	Jan-June 95</p>
+<p>(bln escudos)		 420.6		 348.3</p>
+<p>NOTE - Sources: National Statistics Institute (INE)/Bank of</p>
+<p>Portugal/Institute for Employment and Professional Training</p>
+<p>(IEFP).</p>
+<p>(a) Monthly data on number of unemployed provided by IEFP</p>
+<p>which does not express the figure as a percentage of the total</p>
+<p>labour force. Its figures are consistently higher than INE's</p>
+<p>quarterly updates.</p>
+<p>(b) Percentage of unemployed provided by INE.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

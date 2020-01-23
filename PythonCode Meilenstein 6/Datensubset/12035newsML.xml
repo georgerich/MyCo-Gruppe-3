@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12035" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRIA: Austria investigates domestic exports to Libya.</title>
+<headline>Austria investigates domestic exports to Libya.</headline>
+<dateline>VIENNA 1996-08-23</dateline>
+<text>
+<p>Austrian state police are investigating whether domestic companies were involved in exporting chemical weapons-making technology to Libya, the Interior Ministry said on Friday.</p>
+<p>The news came after Germany revealed this week that 3.2 million marks ($2.15 million) worth of high-tech equipment to mix poison gases was sent to Libya from Germany between 1990 and 1993 in defiance of national arms control laws.</p>
+<p>&quot;The Austrian state police is in contact with German authorities and is exchanging information with them to examine whether Austrian firms were also involved in this case,&quot; Interior Ministry spokesman Rudolf Gollia told Reuters.</p>
+<p>U.S. officials accuse Libya of trying to build an underground chemical weapons plant near Tarhuna, 65 km (40 miles) southeast of the capital Tripoli.</p>
+<p>Washington has made a major issue out of the alleged plant and has raised the prospect of possible military action.</p>
+<p>Gollia declined to say whether Austria had launched a full-scale inquiry and did not specify what measures authorities had taken so far.</p>
+<p>&quot;But the contact with the German state police is active,&quot; he said.</p>
+<p>Libya strongly denies the U.S. allegations, but says Arabs had a right to own poison gas and germ warfare weapons to compensate for Israel's possession of banned arms.</p>
+<p>The government of Muammar Gaddafi failed in 1993 to sign a United Nations chemical weapons ban. It also refused to sign the nuclear Non-Proliferation Treaty designed to stop the spread of atomic weapons.</p>
+<p>Austrian companies may export to and invest in Libya, but they face constraints through U.N. resolutions limiting business deals with the northern African state.</p>
+<p>In 1991 the United Nations slapped an air and limited trade embargo on Libya after the country refused to extradite two Libyans suspected of blowing up a Pan Am airliner over Lockerbie, Scotland, in 1988.</p>
+<p>Austrian companies are also subject to European Union legislation, which requires so-called dual-use technology, which can be used for peaceful and military means, to be approved by the authorities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

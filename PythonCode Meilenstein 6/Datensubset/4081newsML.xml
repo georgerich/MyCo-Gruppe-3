@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4081" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: MGE spring wheat futures lower in retracement.</title>
+<headline>MGE spring wheat futures lower in retracement.</headline>
+<dateline>MINNEAPOLIS 1996-08-20</dateline>
+<text>
+<p>MGE spring wheat futures were lower at the midsession as the market retraced Monday's gains, traders said.</p>
+<p>&quot;There's no reason why we were up as high as we got yesterday, so we're seeing a slight retracement of yesterday's gains. Plus the trade's realized that the talk of a frost (in Canada next week) was a crock,&quot; a MGE floor source said.</p>
+<p>Traders said Monday's crop progress report, which showed a slight decline in spring wheat condition, was having a muted effect on values.</p>
+<p>By 1025 CDT, MGE spring wheat was 1/2 to three cents per bushel lower, with Sept down 1-1/2 cents at $4.63-1/2 a bushel.</p>
+<p>Traders said volumes were light to moderate. Atwood Peavey was reported to have bull-spread 1.5 million Sept/Dec bushels.</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

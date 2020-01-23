@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6251" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Japan credit associations seek merger.</title>
+<headline>Japan credit associations seek merger.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Japanese credit association Omagari Shinkin Bank said on Wednesday that it was seeking a merger with financially troubled credit association Noshiro Shinkin Bank.</p>
+<p>Both are located in Akita Prefecture.</p>
+<p>Omagari Shinkin had a meeting of its major investors earlier in the day in order to explain the plan, a senior Omagari official said. &quot;We expect the decision to come in September,&quot; he said.</p>
+<p>Last May, depositors rushed to remove funds from Noshiro due to rumours it would be liquidated.</p>
+<p>If the merger goes ahead, about four billion yen in problem loans held by Noshiro would be written off under the support of the Zenshinren Bank, a central organisation of credit associations, sources said.</p>
+<p>Credit associations, or shinkin banks, are small financial institutions which lend money mainly to members.</p>
+<p>Noshiro Shinkin Bank, which mainly serves the lumber-processing industry, has been hard hit by the industry's slump since the late 1980s.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

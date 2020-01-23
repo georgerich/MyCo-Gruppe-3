@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8155" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. corn weekly export sales highlights--USDA.</title>
+<headline>U.S. corn weekly export sales highlights--USDA.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>U.S. corn major net sales activity in the week ended Aug 15 reported by exporters for the following purchasing countries, in tonnes:</p>
+<p>Net Sales:    1995/96		    1996/97</p>
+<p>  Canada	16,000	  Japan    121,500</p>
+<p>  Venezuela   10,000	  Malaysia  98,000</p>
+<p>  Japan     -150,500	  Taiwan    54,000</p>
+<p>  Malaysia  -135,000-A	Unknown  -55,000</p>
+<p>  Unknown    -50,000	  S. Korea -52,500</p>
+<p>A- Switched to 1996/97</p>
+<p>Primary export destinations: Japan, Taiwan and South Korea.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

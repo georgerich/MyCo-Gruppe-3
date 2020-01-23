@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3927" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: India sees big trade opportunity in East Africa.</title>
+<headline>India sees big trade opportunity in East Africa.</headline>
+<dateline>NEW DELHI 1996-08-20</dateline>
+<text>
+<p>Commerce Minister Bolla Buli Ramaiah said on Tuesday that India saw a big opportunity to boost exports to East African countries after holding a trade show in Kenya this month.</p>
+<p>&quot;In East Africa there is a $1.0 billion export that we can easily catch,&quot; he told a seminar on export development in the Indian capital.</p>
+<p>He did not give further details.</p>
+<p>India said earlier this year that its exports to the entire continent of Africa totalled 20.74 billion rupees ($582 million) in 1994/95 (April-March).</p>
+<p>Ramaiah said India needed to boost infrastructure facilities if it wanted to increase its share of world trade to one percent by the year 2000 from 0.64 percent in 1995/96.</p>
+<p>Roads, ports, power and banking facilities must be improved to help exporters, Ramaiah said. Interest rates were high and credit availability was not sufficient to boost exports, he said.</p>
+<p>-- New Delhi newsroom, +91-11-3012024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

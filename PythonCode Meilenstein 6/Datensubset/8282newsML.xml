@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8282" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: WTD Industries Q1 turns to profit.</title>
+<headline>WTD Industries Q1 turns to profit.</headline>
+<dateline>PORTLAND, Ore. 1996-08-22</dateline>
+<text>
+<p>WTD Industries Inc</p>
+<p> THREE MONTHS ENDED JULY 31,		1996		1995</p>
+<p> Net Sales					$66,973	 $38,798</p>
+<p> Gross Profit				     7,662	     597</p>
+<p> Net Income (Loss)				2,094	  (1,920)</p>
+<p> Preferred Dividends				557	     608</p>
+<p> Net Income (Loss) after pfd divs	   1,537	  (2,528)</p>
+<p> Net Income (Loss) Per Common Share	 $0.14	  ($0.23)</p>
+<p>Number Of Shrs</p>
+<p>   Primary					 11,298	  11,077</p>
+<p>   Fully Diluted				 11,312	  11,077</p>
+<p>		(In thousands, except per-share amounts)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

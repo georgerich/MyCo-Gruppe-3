@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11765" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: NY to spend $32 mln on canals to spur jobs, tourism.</title>
+<headline>NY to spend $32 mln on canals to spur jobs, tourism.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>In an effort to attract more tourists, New York State said it planned to spend $32.3 million to preserve and develop its canal system.</p>
+<p>The program, which is expected to create 500 construction jobs, will be funded mainly through revenues that the canal system now produces and federal aid, the New York State Thruway Authority/Canal Corp said on Wednesday.</p>
+<p>The improvements that the Authority plans include developing 70 miles of trail along the Erie Canal and upgrading services for boaters, it said in prepared remarks.</p>
+<p>The state agency also will seek to create opportunities for public and private partnerships.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6723" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Britain may close polluted city centres to traffic.</title>
+<headline>Britain may close polluted city centres to traffic.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>The British government was announcing plans on Wednesday to give local councils sweeping powers temporarily to close town and city centres to traffic if new pollution norms are exceeded.</p>
+<p>Environment Secretary John Gummer called a news conference to launch a so-called new National Air Quality strategy.</p>
+<p>BBC Television, which had obtained advance details, said in a programme on Monday evening that Gummer will acknowledge traffic pollution as a major health risk and set pollution limits which are currently exceeded regularly in major cities.</p>
+<p>For instance, it said, the 50 microgrammes per cubic metre maximum for particulates, which come from diesel engines, was surpassed on 43 days in London last year and on 51 days in the northwest England city of Liverpool.</p>
+<p>The government will leave it to local councils to police the limits, allowing them to close whole areas of cities to traffic where they are exceeded, the BBC said.</p>
+<p>The Environment Department declined to comment on Gummer's proposals until he had officially launched them.</p>
+<p>Two reports published on Tuesday warned of the dangers from pollution agents largely caused by vehicles.</p>
+<p>The British Lung Foundation reported research showing even healthy people were in danger of suffering inflammation of the airways when exposed to the levels of low-level ozone common in summer in traffic-clogged streets.</p>
+<p>The minority Liberal Democrats called a news conference to publicise a research paper showing asthma has increased fourfold in 30 years and blaming the rise on increased traffic.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

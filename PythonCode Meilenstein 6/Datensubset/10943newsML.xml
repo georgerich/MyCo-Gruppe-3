@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10943" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Alberta Wheat Pool crop growth index to August 23.</title>
+<headline>Alberta Wheat Pool crop growth index to August 23.</headline>
+<dateline>WINNIPEG 1996-08-23</dateline>
+<text>
+<p>Alberta Wheat Pool field reporters rated crop growth conditions during the week ended August 23 as above average but below the previous rating.</p>
+<p>AWP reporters rate crop growth on a weekly basis until harvest. A rating of 50 is average and 100 is optimal.</p>
+<p>	   CROP CONDITIONS INDEX</p>
+<p>CROP		    THIS WEEK  LAST WEEK</p>
+<p>Hard Red Spring Wheat   69	   72</p>
+<p>Canada Prairie S. Wheat 73	   72</p>
+<p>Soft White S. Wheat     62	   66</p>
+<p>Winter Wheat		53	   57</p>
+<p>Durum Wheat		 55	   58</p>
+<p>Oats			  78	   77</p>
+<p>Barley			73	   75</p>
+<p>Flax			  62	   66</p>
+<p>Rye			   61	   64</p>
+<p>Canola			69	   72</p>
+<p>Average Crop Condition  71	   73</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

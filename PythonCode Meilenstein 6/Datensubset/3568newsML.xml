@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3568" id="root" date="1996-08-20" xml:lang="en">
+<title>HONG KONG: Pearl Oriental interim net up 81.9 pct.</title>
+<headline>Pearl Oriental interim net up 81.9 pct.</headline>
+<dateline>HONG KONG 1996-08-20</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   9.1	   vs 6.0 (adjusted)</p>
+<p>    Dividend (H.K. cents)    4.0	   vs 2.7 (adjusted)</p>
+<p>    Exceptional items	  245.42 gain vs nil</p>
+<p>    Net			    393.64	vs 216.37</p>
+<p>    Turnover		     815.15	vs 1,007.38</p>
+<p>    Company name		 Pearl Oriental Holdings</p>
+<p>Ltd</p>
+<p>    Books close		  September 19-23</p>
+<p>    Dividend payable	   September 27</p>
+<p>NOTE - Pearl Oriental engages in commercial property trading and development, project management, hotel management and consultancy services.</p>
+<p>Net is after an exceptional gain on forfeiture of deposits from pre-sale of properties.</p>
+<p>Comparative share earnings and interim dividend have been adjusted for the bonus issue in April 1996.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

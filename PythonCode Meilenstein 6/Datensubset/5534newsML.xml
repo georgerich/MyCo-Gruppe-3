@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5534" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Calif utility panel worried by lack of enforcement.</title>
+<headline>Calif utility panel worried by lack of enforcement.</headline>
+<dateline>SAN FRANCISCO 1996-08-21</dateline>
+<text>
+<p>The California Public Utilities Commission (CPUC) expressed concern Wednesday that state regulators cannot enforce procedures and industry standards on out-of-state utilities and government entities.</p>
+<p>These procedures are designed to minimize the risk to transmission and generating facilities in the western part of the United States during major power outages.</p>
+<p>&quot;We can take sanctions here (in California),&quot; said CPUC President Gregory Conlon in a telephone interview. &quot;But if it's an out of state entity, like the Bonneville Power Administration, we do not have authority.&quot;  </p>
+<p>The CPUC convened an emergency meeting on Wednesday in San Francisco to review the reliability of California's electric transmission grid. The meeting was called following a huge blackout on August 10 affecting nine Western states.</p>
+<p>A failure on the Pacific Intertie, the main transmission lines linking California to the Northwest, caused the blackout, the second major outage in the West in six weeks.</p>
+<p>Currently, when major system disruptions occur, utilities are expected to cut demand by halting service to some customers. In so doing, utilities prevent further disruptions and damage to generating and transmission facilities.  </p>
+<p>CPUC commissioners said they were concerned by their lack of authority to sanction utilities and government entities outside the state who may violate these protocols.</p>
+<p>CPUC Commissioner Daniel Fessler added: &quot;At some juncture, quite soon, there should be adequate consequences built into the system to sanction entities that fail to take the steps necessary for the problems they cause.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

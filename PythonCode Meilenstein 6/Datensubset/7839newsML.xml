@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7839" id="root" date="1996-08-22" xml:lang="en">
+<title>SWITZERLAND: Swiss stocks end higher on Roche, Buba repo cut.</title>
+<headline>Swiss stocks end higher on Roche, Buba repo cut.</headline>
+<dateline>ZURICH 1996-08-22</dateline>
+<text>
+<p>Swiss shares ended markedly higher on the back of a strong rise in Roche certificates and an unexpectedly clear German repo rate cut of 30 basis points to 3.0 percent, dealers said.</p>
+<p>Roche certificates rose 150 Swiss francs to 9,400, which was partially due to a study by Deutsche Morgan Grenfell that targeted the Roche price at 11,000 francs, one dealer said.</p>
+<p>The certificates were also rebounding after a recent weak streak due to switches from Roche into pharmaceuticals Ciba and Sandoz.</p>
+<p>The blue-chip Swiss Market Index (SMI) advanced 29.2 points, or 0.79 percent, to 3,713.0 points.</p>
+<p>Broad Swiss Performance Index (SPI) added 16.86 points, or 0.71 percent, to 2,376.50.</p>
+<p>Ciba and Sandoz, which plan to merge as Novartis, also firmed.</p>
+<p>CS Holding traded steadily at 128.50 francs. The group had reported a 20 percent rise in net profit excluding minorities for the half-year, below market expectations.</p>
+<p>Elektrowatt continued its recent rise, triggered by talk about CS Holding's imminent divestment of its 44.9 percent stake in utility firm Elektrowatt. CS Holding has said that it planned to sell its 44.9 percent stake, though no date is set.</p>
+<p>A recent study by bank Pictet said it was unlikely that Elektrowatt would be sold as a whole. Pictet said Elektrowatts' break-up value was around 610 francs per share. Elektrowatt rose eight francs to 483.</p>
+<p>Dealers said they believed CS Holding would sell its stake in Elektrowatt before the end of the year.</p>
+<p>Among financials, bank group UBS and insurers Zurich and Winterthur posted sizeable gains.</p>
+<p>Recently pressured Swissair shares were recommended by two banks and added 39 to 1,100 francs, a dealer noted.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

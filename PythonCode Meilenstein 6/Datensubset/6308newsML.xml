@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6308" id="root" date="1996-08-21" xml:lang="en">
+<title>MOROCCO: Moroccan stock market ends session lower.</title>
+<headline>Moroccan stock market ends session lower.</headline>
+<dateline>CASABLANCA 1996-08-21</dateline>
+<text>
+<p>The Casablanca stock market ended Wednesday's session slightly lower, pulled down mainly by a five-point decline of blue chip Societe Nationale d'Investissement, stockbrokers said.</p>
+<p>The all-share index closed at 397.65 points, down 0.07 percent.</p>
+<p>SNI holding, one of the market most liquid stocks and which has stakes in more than 40 companies, lost five dirhams to 555 dirhams. A block of nearly half a million dirhams of SNI shares exchanged hands, a market analyst said.</p>
+<p>The bourse total turnover reached 20.8 million dirhams, including 13.8 million dirhams of first tranche privatisation bonds, Mohamed Mekouar, an analyst at Upline Securities said.</p>
+<p>First tranche privatisation bonds, which were issued in January, traded at 1,075 dirhams, up five dirhams on the previous session. The bonds are negotiable on the market or can be converted into equity in future privatisations.</p>
+<p>&quot;Generally speaking, the closing prices of most stocks remained at the same level compared with the previous bourse session,&quot; Mekouar added. ($1= 8.6 dirhams)</p>
+<p>-- Rabat newsroom (212-7) 726518</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CASABLANCA"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

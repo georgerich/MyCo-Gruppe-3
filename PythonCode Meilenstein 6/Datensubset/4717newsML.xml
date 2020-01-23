@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4717" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Urban Life -6mth parent results.</title>
+<headline>Urban Life -6mth parent results.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 14.66		vs	    3.36</p>
+<p> Operating     loss 1.97		vs   loss 792    million</p>
+<p> Current	 loss 2.41		vs     loss 2.16</p>
+<p> Net	     loss 2.21		vs     loss 2.16</p>
+<p> EPS	   loss 212.76 yen	  vs   loss 207.70 yen</p>
+<p> Shares	     10 million	  vs	  10 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Urban Life Co Ltd is a real estate company specialising in condominiums.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

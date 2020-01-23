@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2776" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: U.S. issues new air cargo security rules.</title>
+<headline>U.S. issues new air cargo security rules.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>Federal aviation authorities on Tuesday ended a delay in issuing new anti-terrorism rules for cargo shippers, sending out a notice that the regulations would now go into effect on August 28.</p>
+<p>The tighter standards, announced by the Federal Aviation Administation following the explosion of Trans World Airlines flight 800 off New York on July 17, were to have gone into effect on August 16.  </p>
+<p>Investigators have not yet determined the cause of the explosion, which killed all 230 people on board, but one possible cause being weighed is a bomb in the cargo hold of the Paris-bound Boeing 747.</p>
+<p>FAA officials said the delay in imposing the new security steps followed complaints by shippers that the regulations were unclear and needed clarification and that they imposed unnecessary paperwork on them,</p>
+<p>They would impose tighter certification of cargo by forwarders, consolidators and other handlers to make sure no explosive or hazardous materials were being shipped.</p>
+<p>The FAA said the certification of handlers and cargo would include personal photo identification of shipper and consent to search the cargo, but gave few other details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

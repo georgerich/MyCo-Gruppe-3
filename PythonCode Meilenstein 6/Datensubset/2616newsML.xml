@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2616" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: SPD's Scharping favours cutting top tax rates.</title>
+<headline>SPD's Scharping favours cutting top tax rates.</headline>
+<dateline>BONN 1996-08-20</dateline>
+<text>
+<p>Rudolf Scharping, parliamentary leader of the opposition Social Democrats, said he considered possible a cut in the top German income tax rate to 40 percent from the current 53 percent.</p>
+<p>In an interview with the Hannoversche Allgemeine Zeitung newspaper, Scharping said the SPD would put priority on lowering the lowest rate to 20 percent from 25.9 percent, but that it would also consider a cut in the top rate.</p>
+<p>Scharping said his party would prepare a comprehensive proposal on cutting subsidies and taxes by autumn.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

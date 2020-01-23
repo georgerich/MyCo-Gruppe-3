@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6439" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Mid-South direct hogs carcass close - USDA.</title>
+<headline>Mid-South direct hogs carcass close - USDA.</headline>
+<dateline>THOMASVILLE, GA 1996-08-21</dateline>
+<text>
+<p>Receipts: Wednesday, 54,650, Week Ago: 52,800, Year Ago: 44,100. Trend: $0.67 to 1.50 lower. - USDA</p>
+<p>Lean Value Summary for 170-191 lbs Carcasses</p>
+<p>    Percent  10th Rib	Last Rib     Carcass Cwt</p>
+<p>Lean	Backfat	 Backfat     Price Range</p>
+<p>45-46   1.15-1.24&quot;   1.20-1.29&quot;    76.73  77.90</p>
+<p>47-48   1.00-1.14&quot;   1.10-1.19&quot;    77.48  79.07</p>
+<p>49-50    .90- .99&quot;   1.00-1.09&quot;    78.73  80.24</p>
+<p>51-52    .75- .89&quot;    .80- .99&quot;    79.98  81.40</p>
+<p>53-54    .60- .74&quot;    .60- .79&quot;    80.98  82.57</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THOMASVILLE, GA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

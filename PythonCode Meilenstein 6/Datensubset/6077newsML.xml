@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6077" id="root" date="1996-08-21" xml:lang="en">
+<title>HAITI: Haitian opposition party leader and member killed.</title>
+<headline>Haitian opposition party leader and member killed.</headline>
+<byline>Nicole Volpe</byline>
+<dateline>PORT-AU-PRINCE, Haiti 1996-08-20</dateline>
+<text>
+<p>A Haitian opposition leader and another member of his party were killed by unidentified gunmen on Tuesday afternoon, police and witnesses said.</p>
+<p>Pastor Antoine Leroy, the No. 2 of the conservative opposition Mobilisation for National Development party, and Jacques Dorval, a member of the party, were killed near Dorval's home in Delmas 19, a Port-au-Prince suburb.</p>
+<p>&quot;Ten armed men in two vehicles shot and killed two civilians,&quot; said U.N. spokesman Eric Falt. &quot;One of the victims was handcuffed before he was killed.&quot;</p>
+<p>Haitian National Police and international police trainers rushed to the scene of the attack, according to Falt.</p>
+<p>Dorval's body was left in the back of his pickup truck about a block away from his home. He was handcuffed and had been shot in the head. Leroy's body was sprawled outside of what witnesses and police said was Dorval's house.</p>
+<p>&quot;Both men were found with nine millimeter pistols in their hands,&quot; said Octave St. Juste, a Delams Justice of the Peace. &quot;Leroy was killed outside of the home of Dorval, where he had been staying since Saturday night.&quot;</p>
+<p>A witness at the scene giving a slightly different version of what happened said Leroy had been shot in the house and dragged out to the street.</p>
+<p>&quot;There was a lot of men with big automatic guns that came in three cars,&quot; he said. &quot;They killed Leroy and Dorval and then shot in the air, telling everyone on the street to get down, and then they left.&quot;</p>
+<p>As Dorval had arrived handcuffed in the back of his own truck, neighbors speculated he had been kidnapped, perhaps to provide the whereabouts of Leroy.</p>
+<p>U.N. officials said the MDN party had close links with former members of the disbanded Haitian military.</p>
+<p>The assassination followed an attack on the Port-Au-Prince police station on Monday by unidentified men in military uniforms. One civilian was killed and two police officers were wounded in the attack.</p>
+<p>The Haitian military was disbanded by former President Jean-Bertrand Aristide in January, 1995, shortly after he was restored to power by U.S. troops. He was ousted in 1991 in a bloody military coup.</p>
+<p>The Haitian National Police replaced the military as the nation's security force. Former soldiers have been marching in the capital, angry that they no longer receive a paycheck.</p>
+<p>On Tuesday, President Rene Preval said the military was responsible for recent destabilisation of the country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT-AU-PRINCE, Haiti"/>
+<dc element="dc.creator.location.country.name" value="HAITI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

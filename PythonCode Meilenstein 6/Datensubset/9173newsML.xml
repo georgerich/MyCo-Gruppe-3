@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9173" id="root" date="1996-08-22" xml:lang="en">
+<title>CZECH REPUBLIC: Direct equity trades on the Czech PSE - Aug 22.</title>
+<headline>Direct equity trades on the Czech PSE - Aug 22.</headline>
+<dateline>PRAGUE 1996-08-22</dateline>
+<text>
+<p>The following is a list of direct</p>
+<p>equity trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		   Min. Price  Max. Price  Volume Turnover</p>
+<p>				(CZK)     (CZK)     (shares)(CZK 000's)</p>
+<p> BARUM HOLDING	     168.00    168.00	2000     336.000</p>
+<p> CESKA SPORITELNA	  280.00    359.00    129320   36545.264</p>
+<p> CESKA ZBROJOVKA	  1647.88   1647.88	1300    2142.255</p>
+<p> CEZ			  1034.55   1034.55	 650     672.457</p>
+<p> CKD PRAHA HOLDING	 378.00    378.00	2400     907.200</p>
+<p> DEZA			 2336.62   2336.62	 300     700.987</p>
+<p> FATRA			 876.48    888.54     14692   12965.837</p>
+<p> HOT.INTERNATIONAL	 500.00    500.00	9201    4600.500</p>
+<p> CHEMOPETROL GROUP	1300.00   1300.00	2000    2600.000</p>
+<p> KOMERCNI BANKA	   2210.00   2265.00     34300   76499.419</p>
+<p> METROSTAV		  2970.00   2970.00	3000    8910.000</p>
+<p> MORAVIAFROST		600.00    600.00	1887    1132.200</p>
+<p> NOVA HUT		    435.00    435.00	7327    3187.245</p>
+<p> OBAL ROZKOS		 215.00    215.00	7000    1505.000</p>
+<p> OKD			   109.00    110.00     28038    3074.180</p>
+<p> OSTRAVAR		   1800.00   1800.00	 163     293.400</p>
+<p> PRVNI SEVZAP.TEPL.     1280.00   1280.00	2000    2560.000</p>
+<p> RIF			   900.00    900.00	2000    1800.000</p>
+<p> SOKOLOVSKA UHELNA	 701.95    701.95	5000    3509.750</p>
+<p> SPIF CESKY		  338.00    338.00	5000    1690.000</p>
+<p> SPIF VYNOSOVY	     148.00    148.00	6500     962.000</p>
+<p> SPT TELECOM		3325.00   3357.70	2150    7170.008</p>
+<p> STROJPLAST TACHOV	  95.00     95.00     11170    1061.150</p>
+<p> SKODA PLZEN		1063.65   1093.45     10730   11648.082</p>
+<p> TATRA			 137.00    145.00     60000    8420.000</p>
+<p> ZPS ZLIN		   1890.90   1910.00     12518   23811.330</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

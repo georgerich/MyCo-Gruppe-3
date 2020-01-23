@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2976" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Dakota Mining Corp Q2 full results.</title>
+<headline>Dakota Mining Corp Q2 full results.</headline>
+<dateline>DENVER 1996-08-20</dateline>
+<text>
+<p>Summary of Second Quarter Results</p>
+<p>			   Three Months Ended   Six Months Ended</p>
+<p>			Jun 30,     Jun 30,     Jun 30,     Jun 30,</p>
+<p>			  1996	  1995	  1996	  1995</p>
+<p>Operating</p>
+<p>   Revenues    $3,604,052  $1,480,343  $6,800,767  $3,447,788</p>
+<p> Net Loss     (3,207,213) (1,725,896) (4,152,646) (2,950,104)</p>
+<p>Net Loss Per</p>
+<p>   Common Share    (O.11)	(O.07)	(O.15)	(O.12)</p>
+<p>Included in the second quarter's net loss was a nonrecurring accrual of $1.7 million for future reclamation and mining at the Golden Reward mine and $1.1 million in depreciation and depletion.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

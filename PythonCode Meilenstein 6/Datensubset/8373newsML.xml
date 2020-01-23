@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8373" id="root" date="1996-08-22" xml:lang="en">
+<title>BELGIUM: Belgium cuts central, end-of-day rates.</title>
+<headline>Belgium cuts central, end-of-day rates.</headline>
+<dateline>BRUSSELS 1996-08-22</dateline>
+<text>
+<p>The Belgian National Bank on Thursday cut its key central interest rate to 3.00 percent from 3.20 percent, and its end-of-day rate to 4.25 percent from 4.45.</p>
+<p>The changes are effective Friday.  </p>
+<p>The Belgian rate changes came after the Bundesbank sliced 30 basis point of its repo rate, taking it to 3.00 percent.</p>
+<p>The central rate applies to overnight lending for primary dealers of government debt, the end-of-day rate to overnight lending for all others. Financial institutions can only draw funds at these rates up to fixed amounts.</p>
+<p>The emergency lending rate was left unchanged at 6.00 percent. The discount rate stands at 2.50 percent.</p>
+<p>The emergency lending rate applies to overnight funds without volume limits for all financial institutions. It is roughly equivalent to the Bundesbank's Lombard rate.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

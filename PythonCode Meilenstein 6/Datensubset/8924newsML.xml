@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8924" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Gruntal distances itself from analyst's essay.</title>
+<headline>Gruntal distances itself from analyst's essay.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Gruntal &amp; Co has moved to distance itself from an essay on airline safety written by its airline analyst Steve Lewins.</p>
+<p>&quot;This was not authorized or approved by Gruntal, nor does Gruntal endorse the opinions and statements expressed by Mr Lewins,&quot; Randy Bradley, Gruntal senior vice president and executive assistant to the chairman, said in a brief statement dated August 21.</p>
+<p>Lewins told Reuters the essay dealt with airline safety and offered recommendations for improved safety and security in the skies.  </p>
+<p>The essay was not immediately available to Reuters.</p>
+<p>Lewins declined to give details about the essay but said it was a personal assessment and was not related to his role as Gruntal's airline analyst.</p>
+<p>Lewins also said he agreed &quot;wholeheartedly&quot; with Gruntal's statement and, in fact, had suggested it be written.</p>
+<p>Bradley's statement said Gruntal has begun an investigation &quot;and will take all appropriate actions.&quot; Bradley said Lewins continued to be employed by Gruntal, adding only, &quot;We are reviewing the situation.&quot;</p>
+<p>He declined to elaborate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

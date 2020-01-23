@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12402" id="root" date="1996-08-23" xml:lang="en">
+<title>INDONESIA: Jakarta call money edges down to 12.0/13.0 percent.</title>
+<headline>Jakarta call money edges down to 12.0/13.0 percent.</headline>
+<dateline>JAKARTA 1996-08-23</dateline>
+<text>
+<p>Jakarta call money edged down to 12.0/13.0 percent from 13.0/14.0 percent on light excess supply of liquidity in the money market on Friday, dealers said.</p>
+<p>They said modest central bank injection of some 160 billion rupiah and inflow of fund transfers from the government into state banks for civil servants' salaries continued to fill overall market demand.</p>
+<p>One foreign bank dealer said there were sufficient supply of short-term money but over-month money was a bit tight.</p>
+<p>He said operators were also preparing to face the approaching month-end next week.</p>
+<p>The dealer said swap rates of all maturities were easing but may firm up next week due to the month-end factor.</p>
+<p>The average overnight interbank rate on Thursday was 11.56 percent, compared with 13.44 percent on Wednesday.</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

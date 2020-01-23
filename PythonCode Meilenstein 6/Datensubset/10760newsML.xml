@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10760" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Healthcare Imaging Q2 loss vs profit.</title>
+<headline>Healthcare Imaging Q2 loss vs profit.</headline>
+<dateline>MIDDLETOWN, N.J. 1996-08-23</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>				     June 30,	   June 30,</p>
+<p>			    1996	 1995	 1996	  1995</p>
+<p> Revenues	  $2,283,056 $2,511,183 $4,637,948  $4,874,014</p>
+<p>Operating expenses</p>
+<p>before non-cash</p>
+<p>compensation charge</p>
+<p>			2,170,782  2,332,694  4,357,422   4,719,136</p>
+<p>Income before non-cash</p>
+<p>compensation charge,</p>
+<p>minority interests</p>
+<p>in joint ventures</p>
+<p>  and income taxes  112,274    178,489    280,526     154,878</p>
+<p>Minority interests</p>
+<p>in joint ventures</p>
+<p>			 (99,551)  (106,498)  (184,990)   (174,814)</p>
+<p>Non-cash compensation</p>
+<p>  charge	    (368,994)	    -  (706,431)	     -</p>
+<p>Net (loss) income</p>
+<p>			(372,260)     26,496  (638,584)   (113,431)</p>
+<p>Weighted average</p>
+<p>common shares</p>
+<p>  outstanding     4,711,974  4,711,974  4,711,974   4,711,974</p>
+<p>Net (loss) income</p>
+<p>  per common share    (.08)	  .01	(.14)	 (.02)</p>
+<p>NOTE: Full company name HealthCare Imaging Services Inc.</p>
+<p>	  -- New York Newsdesk 212 859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIDDLETOWN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

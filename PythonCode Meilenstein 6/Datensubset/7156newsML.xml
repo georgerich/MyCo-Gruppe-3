@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7156" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: French analysts cut corporate forecasts in August.</title>
+<headline>French analysts cut corporate forecasts in August.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>The French Associes en Finance research institute said their August poll of 18 brokerages showed that French corporate forecasts had again been reduced for both 1996 and 1997.</p>
+<p>The 1996 forecasts, on an earnings per share basis, were downgraded by an average 1.8 percent and those for 1997 by 0.8 percent compared to the July poll.</p>
+<p>For the CAC-40 companies the decline was less pronounced at 0.4 percent for both 1996 and 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

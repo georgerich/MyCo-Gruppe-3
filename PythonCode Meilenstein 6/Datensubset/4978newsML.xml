@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4978" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Compaq sees halved 1996 European PC sales growth.</title>
+<headline>Compaq sees halved 1996 European PC sales growth.</headline>
+<byline>Neil Winton</byline>
+<dateline>LONDON</dateline>
+<text>
+<p>Growth in European personal computer sales is expected to slow by more than half, but the industry will still expand at a rate most industries only dream about,according to Compaq Computer Corp.</p>
+<p>Sales growth in Europe by all manufacturers will slow to less than half of the rapid 35 percent rate set last year, said Compaq, the world's biggest maker of personal computers.</p>
+<p>Compaq Wednesday began selling its Presario line of computers in Britain, France, Italy and the Netherlands.</p>
+<p>It hopes the Presarios, which sell for $2,000 to $5,000, will be simple enough to allow it to make a play for a largely untapped mass market for PCs.</p>
+<p>&quot;Growth for the whole year (in Europe) will be about 15 percent, which looks nice but is still far behind the predicted 35 percent that was predicted by forecasting companies like Dataquest. Last year, growth was 35 percent,&quot; Compaq's Consumer Group vice president, Toon Bouten, said in an interview.</p>
+<p>Last month, the Context research company said European personal computer sales in the three months ended June 30 were 10.4 percent above the same period last year at 3.58 million.</p>
+<p>Compaq was the market leader with 12.1 percent, followed by International Business Machines Corp.'s 9.7 percent and Hewlett-Packard with 5.4 percent.</p>
+<p>Bouten said the slowing sales growth was largely due to a lack of consumer confidence in Germany, Europe's biggest market.</p>
+<p>German consumers, worried by the economic outlook late last year, quickly switched to saving from spending. Confidence should return during the fourth quarter, Bouten said.</p>
+<p>Personal computer sales exploded across the world in the '90s. About 35 percent of American households now have computers; the figure is about 20 percent in Europe.</p>
+<p>Industry experts say that most sales represent purchases by businesses and the computer-literate, who perhaps work in the industry or use computers at work.</p>
+<p>These individuals can handle quirky high-technology machines, which often &quot;crash&quot; and present frustrated users with impossibly jargon-ridden instructions.</p>
+<p>The personal computer industry is investing heavily to produce new machines which are easier to use. It is seeking a breakthrough like the old Ford Model T, which was said to be the first modern automobile that could be driven without needing a mechanic in the passenger seat.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

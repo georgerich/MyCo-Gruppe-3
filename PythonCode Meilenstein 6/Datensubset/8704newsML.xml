@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8704" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Seagate Technology launches ExecView.</title>
+<headline>Seagate Technology launches ExecView.</headline>
+<dateline>ORLANDO, Fla. 1996-08-22</dateline>
+<text>
+<p>Seagate Technology's Seagate Software said on Thursday it launched Seagate ExecView, touting it as the first solution that provides integrated, cross-platform storage management for enterprise networks running Microsoft Windows NT and Novell NetWare operating systems.</p>
+<p>Loaded on either a Windows NT server or a Windows 95 client, ExecView provides administrators with information on all Seagate Backup Exec for Windows NT and Seagate Backup Exec for NetWare operations from a single administrator console, the company said.</p>
+<p>ExecView initially will be released in English and is expected to be available in August at an suggested retail price of $1,395 for 5 servers, $3,595 for 20 servers and $5,595 for 50 servers, the company said.</p>
+<p>With ExecView, administrators can monitor all scheduled, active and completed backup operations to ensure compliance with company data protection standards and identify backup operations that need attention, the company said.</p>
+<p>French, German and Spanish versions are expected to be available in September, the company said.</p>
+<p>- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

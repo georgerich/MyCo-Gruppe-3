@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5213" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Genesco Inc Q2 net grows, shr $0.08.</title>
+<headline>Genesco Inc Q2 net grows, shr $0.08.</headline>
+<dateline>NASHVILLE, Tenn. 1996-08-21</dateline>
+<text>
+<p>GENESCO INC.</p>
+<p>	   Three Months Ended July 31  Six Months Ended July 31</p>
+<p> In Thousands		    1996     1995	1996     1995</p>
+<p> Net sales		   $102,955 $109,600  $203,174 $202,825</p>
+<p> Cost of sales		 62,142   67,101   121,773  124,789</p>
+<p>Restructuring and other</p>
+<p>  charges			     0    2,216	   0   16,329</p>
+<p>Earnings (loss) before</p>
+<p>  discontinued operations   2,073   (1,185)    3,039  (14,516)</p>
+<p>Discontinued operations:  </p>
+<p>Excess provision for future</p>
+<p>     losses			   0    1,699	   0   14,352</p>
+<p> Net Earnings (loss)	  2,073	514     3,039   ( 164)</p>
+<p>Earnings (loss) per share:</p>
+<p>Earnings (loss) before</p>
+<p>discontinued operations</p>
+<p>				  .08   (.05)		.11    (.60)</p>
+<p>Discontinued operations</p>
+<p>				  .00     .07		.00	.59</p>
+<p>  Net earnings (loss)     .08     .02		.11    (.01)</p>
+<p>Average common and common</p>
+<p> equivalent shares	   25,599   24,344    25,348   24,344</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASHVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

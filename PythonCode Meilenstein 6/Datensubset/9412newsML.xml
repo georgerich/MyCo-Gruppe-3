@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9412" id="root" date="1996-08-22" xml:lang="en">
+<title>SINGAPORE: Stamford acquires U.S. unit.</title>
+<headline>Stamford acquires U.S. unit.</headline>
+<dateline>SINGAPORE 1996-08-22</dateline>
+<text>
+<p>Stamford Tyres Corp Ltd said on Thursday it had bought the entire equity in STC Tires (USA)) Inc (STC-USA), a private limited company incorporated in Miami, Florida.</p>
+<p>The authorised, issued and paid up capital of STC-USA is US$10,000, made up of 10,000 ordinary shares of US$1 par value each.</p>
+<p>It said it had bought STC-USA for the purpose of setting up a tyre distribution centre in Miami that would provide easy access to the Carribean Islands, South and Central America.</p>
+<p>The Miami presence will also give the Group opportunities to source for tyres for group distribution from North America and to sell the in-house brand of tyres there.</p>
+<p>-Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

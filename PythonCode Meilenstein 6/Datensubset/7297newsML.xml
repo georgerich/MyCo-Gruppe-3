@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7297" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Sokkia sets terms on straight bond.</title>
+<headline>Sokkia sets terms on straight bond.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>BORROWER - Sokkia Co Ltd</p>
+<p>LEAD MGR - Sakura Securities Co Ltd</p>
+<p>TRUSTEE - Bank of Yokohama Ltd</p>
+<p> TYPE straight bond   ISSUE NO   1	  AMT   7 bln yen</p>
+<p> COUPON 2.675%	  ISS PRICE  100 yen  MATURITY 11.Sep.00</p>
+<p> LAST MOODY	     PAY DATE 11.Sep.96</p>
+<p> 1ST INT PAY 11.Mar.97  INT PAY 11th Mar/Sep</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 21.Aug</p>
+<p> LAST JCR   BBB+	LAST JBRI	     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

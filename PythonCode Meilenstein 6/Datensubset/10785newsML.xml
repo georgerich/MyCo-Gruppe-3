@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10785" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: AMRE, Viking Builders sign agreement.</title>
+<headline>AMRE, Viking Builders sign agreement.</headline>
+<dateline>DALLAS 1996-08-23</dateline>
+<text>
+<p>AMRE Inc's Century 21 Home Improvements Inc unit has signed an agreement to market, sell and install Viking Builders Inc's home improvement products, the companies said Friday.</p>
+<p>Terms were not disclosed.</p>
+<p>Century 21 Home provides installed home improvements. Viking supplies patio enclosures, sunrooms, carports and other related products.</p>
+<p>The companies said they hope to cover the U.S. market by December 31, 1997, and then branch out further.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

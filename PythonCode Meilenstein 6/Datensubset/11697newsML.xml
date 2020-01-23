@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11697" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. grain prices at Gulf export points - USDA.</title>
+<headline>U.S. grain prices at Gulf export points - USDA.</headline>
+<dateline>ST JOSEPH 1996-08-22</dateline>
+<text>
+<p>Gulf export bids for grain delivered to gulf export elevators, barge to Louisiana gulf, rail to Texas gulf, prompt or 30 day shipment, dollar per bushel, except sorghum per cwt. Change in Cents. -- USDA</p>
+<p>			  Basis     Bids		 Change</p>
+<p>No 1 hrw wheat     +40/42  5.2150-5.2350   up 2</p>
+<p>No 2 srw wheat     +22/24  4.7250-4.7450   dn 1/2-1 1/2</p>
+<p>No 2 yellow corn +113/115  4.8050-4.8250   dn 13 3/4-11 3/4</p>
+<p>No 2 sorghum rail     +51  6.96		up 3</p>
+<p>		barge     +40  6.76		up 1</p>
+<p>No 1 soybeans	+58/60  8.4325-8.4525   up 6 1/4</p>
+<p>Basis: HRW KCBT Sept, SRW CBOT Sept, Corn CBOT Sept, Sorghum</p>
+<p>CBOT Sep corn, Soybeans CBOT Aug.</p>
+<p>(Chicago newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST JOSEPH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

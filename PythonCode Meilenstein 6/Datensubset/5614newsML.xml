@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5614" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Campbell says weighing restructuring options.</title>
+<headline>Campbell says weighing restructuring options.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Campbell Soup Co said on Wednesday that it will weigh various options on restructuring its operations now being studied by the management consulting firm Coopers &amp; Lybrand.</p>
+<p>Spokesman Jerry Buckley said the report, which began in early May, is nearing completion and will review various growth strategies, including the possibilities of a staff reduction, plant closures and the brand divestitures, but added that there were no definite plans.  </p>
+<p>The Philadelphia Inquirer reported in Wednesday editions that the company is considering a plan to reduce its staff in its headquarter in Camden, New Jersey and to close one of the four major soup plants.</p>
+<p>The newspaper also said the company was considering divesting brand names including Swanson frozen foods.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

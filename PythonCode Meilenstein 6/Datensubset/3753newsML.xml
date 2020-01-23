@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3753" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Azle, Texas, GO issue at 5.82 pct yield in 2025.</title>
+<headline>Azle, Texas, GO issue at 5.82 pct yield in 2025.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Rauscher Pierce Refsnes said it priced $6.4 million of Azle, Texas, general obligation bonds, with a top yield of 5.82 percent in 2025.</p>
+<p>The bonds are FGIC insured and rated Aaa/Baa by Moody's Investors Service and AAA/BBB-plus by Standard &amp; Poor's Corp.</p>
+<p>The bonds are dated 8/1/1996 and due 8/15/1999 through 2012 and due in 2017 and 2025.</p>
+<p>The first coupon is 2/15/1997.</p>
+<p>The bonds are callable 8/15/1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

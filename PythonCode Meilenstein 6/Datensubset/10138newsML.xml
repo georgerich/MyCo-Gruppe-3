@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10138" id="root" date="1996-08-22" xml:lang="en">
+<title>SOUTH KOREA: S.Korea to allow M&amp;A by foreigners from 1997.</title>
+<headline>S.Korea to allow M&amp;A by foreigners from 1997.</headline>
+<dateline>SEOUL 1996-08-22</dateline>
+<text>
+<p>South Korea's finance ministry said on Thursday it would allow friendly mergers and acquisitions of domestic companies by foreign investors from 1997.  </p>
+<p>The ministry said such mergers and acquisitions (M&amp;A), designed to attract foreign investment, would require agreement from the board of directors of the local firm.</p>
+<p>Foreign takeovers of local companies with assets of two trillion won or more must obtain finance ministry approval. But if the foreign stake rose to no more than 15 percent of a local company, approval would be automatic, a ministry statement said.</p>
+<p>The ban on purchases of shares in local companies in certain sectors will remain in force, however.  </p>
+<p>The limit for foreign stakes in local publication and printing businesses will be 50 percent, under 50 percent for power generation and domestic shipping businesses, and 20 percent for air transport.</p>
+<p>The ministry also said foreign direct investment in sectors that now require ministry approval would only require notification from next year.</p>
+<p>Of the 1,148 sectors currently open to foreign investment, 49 sectors require ministry approval. Foreigners can enter the remaining 1,099 sectors simply by notifying the ministry.  </p>
+<p>The ministry further said it would cut red tape relating to contruction of plants. It added it would seek ways of exempting rents for plant sites for a maximum of 20 years if they were state-owned.</p>
+<p>Foreign companies would also be allowed to make loans with a five-year maturity or longer from their parent companies if the funds were used to buy facilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

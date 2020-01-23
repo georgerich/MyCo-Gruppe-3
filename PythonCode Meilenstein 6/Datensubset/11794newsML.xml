@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11794" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Kevorkian client's widower in tax arrears - report.</title>
+<headline>Kevorkian client's widower in tax arrears - report.</headline>
+<dateline>BOSTON 1996-08-23</dateline>
+<text>
+<p>The husband of the Massachusetts woman who died last week in the presence of Dr. Jack Kervorkian owes the Internal Revenue Service up to $335,000, The Boston Herald reported on Friday.</p>
+<p>Dr. Franklin Curren, widower of Judith Curren, told the newspaper that his tax arrears were mostly due to the cost of caring for his late wife.</p>
+<p>The IRS placed a lien of $320,674 on Curren's property earlier this week on top of a $14,393 lien filed by the federal agency last year, the Herald said.</p>
+<p>&quot;Her illness took its toll financially,&quot; Curren, a psychiatrist, told the newspaper.</p>
+<p>Neither Curren nor IRS officials could be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

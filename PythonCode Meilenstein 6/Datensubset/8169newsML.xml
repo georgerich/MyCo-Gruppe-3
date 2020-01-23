@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8169" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Jet halts take-off after engine fire.</title>
+<headline>Jet halts take-off after engine fire.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>An American Airlines jet stopped just before takeoff from LaGuardia Airport on Wednesday night when a fire was detected in one of the engines, airport officials said.</p>
+<p>The pilot of American Flight 803 bound for Miami &quot;discovered an indicator light indicating a possible engine fire&quot; and turned the plane around before lifting off, said Gwen Williams, a spokeswoman for the Port Authority, the agency that oversees local airports.</p>
+<p>None of the 63 passengers were injured, she said.</p>
+<p>Mechanics for American Airlines, operated by Dallas-based AMR Corp ,found that there had been a fire in the number two engine of the 727 aircraft that had &quot;self-extinguished,&quot; Williams said.</p>
+<p>Passengers interviewed by local television news said the plane started accelerating for takeoff, when they heard popping sounds and the pilot brought the plane to a halt.</p>
+<p>The incident came a week after two planes in as many days rained plane parts on New York City.</p>
+<p>Last Wednesday night a Delta Airlines plane dropped a turbine piece on Flushing, Queens. On Thursday night a 9-foot-long (2.8-meter-long) wing flap from a TWA jet fell on the Howard Beach neighborhood of Queens before the plane landed at nearby John F. Kennedy International Airport.</p>
+<p>American confirmed that the plane had engine trouble, but had no further details or comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

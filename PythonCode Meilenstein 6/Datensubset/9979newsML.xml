@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9979" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Qantas year net profit climbs.</title>
+<headline>RTRS-Qantas year net profit climbs.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Year to June 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Operating profit		    401.4 vs 320.4</p>
+<p>    Net				     246.2 vs 180.1</p>
+<p>    Divdends (cents)		     13.0 vs 3.50</p>
+<p>NOTE: Qantas Airways Ltd is about 25 percent owned by British Airways Plc. Analysts had forecast a net profit before abnormals of between A$237 million and A$249 million.  </p>
+<p>    Final dividend (cents)	     6.50 vs 3.50</p>
+<p>    Sales (billion)			7.60 vs 7.16</p>
+<p>    Other income			  146.2 vs 113.4</p>
+<p>    Shr (cents)			    24.2 vs 18.0</p>
+<p>    Abnormal items			  nil vs nil</p>
+<p>Dividend is unfranked</p>
+<p>Pay date Dec 6</p>
+<p>Reg date Nov 8</p>
+<p>    Tax				     154.7 vs 140.1</p>
+<p>    Interest				196.7 vs 216.5</p>
+<p>    Depreciation			  418.8 vs 388.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

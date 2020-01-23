@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8793" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PHLX to list Portland Genl, PP&amp;L options.</title>
+<headline>PHLX to list Portland Genl, PP&amp;L options.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>The Philadelphia Stock Exchange (PHLX) said on Thursday it would list put and call options on shares of Portland General Corp and PP&amp;L Resources Inc on August 27.</p>
+<p>The options on both companies will trade on the February expiration cycle, with initial expiration months of September, October, November and February. Susquehanna Investment Group will be the specialist for both.</p>
+<p>Portland General will have initial strikes of 35, 40 and 45 and PP&amp;L will have initial strikes of 20, 22-1/2 and 25. -Derivatives desk, 312-408-8750/E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

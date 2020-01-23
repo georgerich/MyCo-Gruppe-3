@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3037" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Detroit Diesel to make engines for Chrysler.</title>
+<headline>Detroit Diesel to make engines for Chrysler.</headline>
+<dateline>DETROIT 1996-08-20</dateline>
+<text>
+<p>Detroit Diesel Corp said Tuesday it plans to establish a new engine manufacturing operation in Brazil to provide diesel engines to Chrysler Corp.</p>
+<p>The engines will be used for Chrysler's new Dakota assembly plant in Brazil and for a Jeep Cherokee assembly plant in Argentina.</p>
+<p>The engines will also be used by a Chrysler Jeep assembly plant in Toledo, Ohio, for use in export production.</p>
+<p>The new operation is expected to begin production in early 1998, Detroit Diesel said in a statement.  </p>
+<p>Chrysler said Tuesday it plans to build a manufacturing plant in Brazil to assemble a new Dakota pickup truck. It also said it will add production of its Jeep Cherokee sport utility vehicle at a plant under construction in Argentina.</p>
+<p>&quot;This new operation represents a continuation of our global partnership with Chrysler,&quot; Detroit Diesel Chairman Roger Penske said in a statement. Detroit Diesel currently supplies almost 40,000 engines a year to Chrysler assembly plants in the United States and Europe.</p>
+<p>Detroit Diesel said it plans to supply Chrysler with 15,000 engines the first year following start of production, building to 30,000 engines a year within three years.</p>
+<p>This new operation could also be a South American base for other Detroit Diesel products and markets, Penske said.</p>
+<p>The company's VM Turbotronic 425 engine is intended to meet local content requirements of 60 percent within three years and Detroit Diesel said it is confident it will meet that goal. It currently imports about $24 million worth of material from Brazil used in Detroit Diesel engines a year.</p>
+<p>Detroit Diesel makes, remanufactures, sells and services heavy-duty diesel and alternative fuel engines, automotive diesel engines and related products.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

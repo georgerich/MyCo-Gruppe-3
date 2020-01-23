@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3600" id="root" date="1996-08-20" xml:lang="en">
+<title>TUNISIA: Arafat in Tunis to meet president.</title>
+<headline>Arafat in Tunis to meet president.</headline>
+<dateline>TUNIS 1996-08-20</dateline>
+<text>
+<p>Palestinian President Yasser Arafat arrived in Tunis on Tuesday to discuss the stalled Middle East peace process with President Zine al-Abidine Ben Ali, PLO and Tunisian officials said.</p>
+<p>They said Arafat is expected to ask Tunisia to help overcome obstacles put by the new hardline Israeli government in the way of implementing the PLO-Israel 1993 interim peace deal and the resumption of talks on the final status of the West Bank and Gaza Strip.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

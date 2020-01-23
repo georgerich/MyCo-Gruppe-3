@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3293" id="root" date="1996-08-20" xml:lang="en">
+<title>BOSNIA: PRESS DIGEST - Bosnia - Aug 20.</title>
+<headline>PRESS DIGEST - Bosnia - Aug 20.</headline>
+<dateline>SARAJEVO 1996-08-20</dateline>
+<text>
+<p>These are the leading stories in the Sarajevo press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>OSLOBODJENJE</p>
+<p>- In undertaking Operation &quot;Volcano&quot; to destroy contraband Bosnian Serb ammunition, new NATO commander Admiral Joseph Lopez seems more decisive than did his predecesor Admiral Leighton Smith, says front-page commentary.</p>
+<p>DNEVNI AVAZ</p>
+<p>- Bosnia's federation Vice-President Ejup Ganic holds talks with Slovenia's Milan Kucan in Ljubljana on Slovenian government's recent decision to requre Bosnian citizens to obtain visas. Ganic demands the visa requirement be lifted, arguing it damages economic ties between the two countries.</p>
+<p>VECERNJE NOVINE</p>
+<p>- Bosnian dinar shortage temporarily solved with additional bank notes recently printed. Cash withrawals no longer take two weeks, says director of Bosnia's Bureau of Accounts, Husref Gazibegovic.</p>
+<p>--Sarajevo newsroom, +387-71-663-864.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

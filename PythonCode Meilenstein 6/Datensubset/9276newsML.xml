@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9276" id="root" date="1996-08-22" xml:lang="en">
+<title>ARGENTINA: Argentine weekly official crop progress.</title>
+<headline>Argentine weekly official crop progress.</headline>
+<dateline>BUENOS AIRES 1996-08-22</dateline>
+<text>
+<p>Argentine farmers had sown 6.55 million hectares with wheat by August 9, 94.7 percent of their intended total, the Agriculture Secretariat said in its weekly crop report Thursday.</p>
+<p>While early wheat planted in Buenos Aires is in good shape, later wheat in the province is developing more slowly. Wheat planted in Cordoba, Santa Fe and Entre Rios is discolored and developing poorly. It needs rain quickly. The final wheat area sown will depend on prompt rainfall. Maize sowing could rise by up to 14.6 percent, with the grain displacing first-crop soybeans and sunflower seed.  </p>
+<p>Intended total planting (thousands of hectares) and the percentage already sown (year-earlier in brackets). Harvest levels (thousands of hectares) and as a percentage of planted area, (year-earlier in brackets). Yield in quintals per hectare.</p>
+<p> ..........Planting.............Harvest..................Yield</p>
+<p> Wheat     6,911   94.7 (86.6)     n/a    n/a   (n/a)    (n/a)</p>
+<p> Maize     3,405  100.0(100.0)   2,592   99.3  (99.7)   (40.2)</p>
+<p> Soybeans  6,075  100.0(100.0)   5,990  100.0 (100.0)   (21.1)</p>
+<p> Sunseed   3,389  100.0(100.0)   3,213  100.0 (100.0)   (17.0)</p>
+<p> Sorghum     675  100.0(100.0)     557  100.0 (100.0)   (38.7)</p>
+<p> Cotton    1,004  100.0  (n/a)     960   99.7 (100.0)   (13.5)</p>
+<p>-- Jason Webb, Buenos Aires Newsroom +541-318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

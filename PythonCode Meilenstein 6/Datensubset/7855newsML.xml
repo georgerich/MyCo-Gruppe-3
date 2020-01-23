@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7855" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: Bonn welcomes Bundesbank's repo rate cut.</title>
+<headline>Bonn welcomes Bundesbank's repo rate cut.</headline>
+<dateline>BONN 1996-08-22</dateline>
+<text>
+<p>The German government on Thursday welcomed the Bundesbank's decision to cut the repo rate 30 basis points to 3.0 percent.</p>
+<p>A finance ministry spokesman said the central bank's decision made use of the available room for manoeuvre as M3 money supply growth has neared the target corridor of four to seven percent.</p>
+<p>The cut was made possible by continued low inflation, he said.</p>
+<p>Economics Minister Guenter Rexrodt also greeted the move, saying, &quot;Against a background of great stability in prices and weaker money supply growth, this measure fits well in the economic environment.&quot;</p>
+<p>The Bundesbank's policy committee gave no reason for the repo rate cut.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49 228 2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

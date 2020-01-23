@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5955" id="root" date="1996-08-21" xml:lang="en">
+<title>CZECH REPUBLIC: Czech government approves draft nuclear bill.</title>
+<headline>Czech government approves draft nuclear bill.</headline>
+<dateline>PRAGUE 1996-08-21</dateline>
+<text>
+<p>The Czech government on Wednesday approved a draft law on nuclear materials which could eventually allow the stationing of NATO nuclear weapons on Czech territory.</p>
+<p>The cabinet changed an earlier draft of the law which included a complete ban on nuclear weapons within the country, after parliamentary committees decided it could collide with the country's desire to join NATO.</p>
+<p>The new draft, which must still be passed by parliament, would ban development, import, production, transfer, ownership, storage and other activity with nuclear weapons &quot;unless an international treaty by which the Czech Republic is bound states otherwise,&quot; Prime Minister Vaclav Klaus told a news conference.</p>
+<p>The addition leaves the door open for a NATO agreement which might require all new members to deploy nuclear weapons on their territory as is the case with current member states.</p>
+<p>&quot;We are persuaded that it is a correct and needed addition to the draft law,&quot; Klaus told reporters after a regular cabinet meeting.</p>
+<p>The country is widely considered as one of the leading former East Bloc aspirants to join the North Atlantic security alliance along with Poland and Hungary, but NATO has yet to say when or with whom it would expand its membership.</p>
+<p>Diplomats have said a decision might come later this year.</p>
+<p>The alliance has yet to say if new members would be required to deploy nuclear weapons as a condition for membership, but Klaus and President Vaclav Havel have both said the country must be prepared to accept this responsibility.</p>
+<p>The Czech draft passed on Wednesday also sets rules for commercial use of nuclear power, in connection with the new Temelin nuclear power station under construction in the southern part of the country close to the border with Austria.</p>
+<p>The Czech Republic has one operating atomic power plant at Dukovany in the southeast of the country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

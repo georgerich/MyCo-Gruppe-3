@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8234" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Toll Brothers Q3 shr flat.</title>
+<headline>Toll Brothers Q3 shr flat.</headline>
+<dateline>HUNTINGDON VALLEY, Pa. 1996-08-22</dateline>
+<text>
+<p>TOLL BROTHERS, INC.</p>
+<p>	     CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>(Unaudited; Amounts in thousands except per share data)</p>
+<p>					    Nine months  Three months</p>
+<p>					   ended July 31  ended July 31</p>
+<p>				     1996	1995     1996     1995</p>
+<p>Revenues:</p>
+<p>    Housing sales	   $499,219 $445,030 $212,597 $186,604</p>
+<p>    Interest and other	 1,137    1,703	181	324</p>
+<p>				   500,356  446,733  212,778  186,928</p>
+<p> Net income		     31,659   32,946   15,413   15,242</p>
+<p>Income per share:</p>
+<p>     Primary			 .92	.98	.45	.45</p>
+<p>     Fully-diluted		 .89	.94	.43	.43</p>
+<p>Weighted average number of shares</p>
+<p>     Primary		    34,496   33,769   34,435   34,074</p>
+<p>     Fully-diluted	    36,910   36,504   36,780   36,605</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGDON VALLEY, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

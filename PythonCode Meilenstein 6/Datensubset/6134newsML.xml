@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6134" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexico same-day peso closes weaker on lower rates.</title>
+<headline>Mexico same-day peso closes weaker on lower rates.</headline>
+<dateline>MEXICO CITY 1996-08-21</dateline>
+<text>
+<p>Mexico's same-day peso closed slightly weaker against the dollar on Wednesday in reaction to the sharp drop in interest rates from Tuesday's primary Cetes auction.</p>
+<p>The same-day peso lost 0.15 of a centavo to 7.4740/7.4790.</p>
+<p>Meanwhile, the benchmark 48-hour or spot peso fell 1.6 centavos at mid-day to 7.4830/7.4880 and the 24-hour peso lost 1.8 centavos to 7.4790/7.4840.</p>
+<p>&quot;The drop in interest rates was about what was expected, but in the end it was enough to affect the peso,&quot; one trader said.</p>
+<p>Traders said the same-day peso could have lost more ground, but trading volume was light because of the street demonstration that forced the suspension of floor trading on the stock exchange all morning.</p>
+<p>-- Alexis Quinones, Mexico City newsroom, (525) 728-9555</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

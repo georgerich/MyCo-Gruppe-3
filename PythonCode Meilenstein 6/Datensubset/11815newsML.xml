@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11815" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Polygram unit in pact with Chicago label.</title>
+<headline>Polygram unit in pact with Chicago label.</headline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>Polygram NV's Mercury Records unit said on Thursday it formed a joint venture with Scratchie Records, a Chicago-based label co-founded by two members of the popular rock band, Smashing Pumpkins.</p>
+<p>Mercury will market, promote, manufacture and distribute releases from the year-old label whose mission is to put out music &quot;as diverse as cutting edge rock and Jamaican Dancehall,&quot; a statement said.</p>
+<p>Financial terms were not disclosed.</p>
+<p>Scratchie was formed last year by James Iha and D'arcy Wretzky, guitarist and bass player respectively with the Smashing Pumpkins, Wretzky's husband Kerry Brown, Adam Schlesinger, Jamie Stewart and Jeremy Freeman.</p>
+<p>Upcoming releases include albums from Fulflej (cq), the Chainsaw Kittens and the Frogs, whose drummer Matt Walker was recently hired by the Smashing Pumpkins after they fired drug casualty Jimmy Chamberlin.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

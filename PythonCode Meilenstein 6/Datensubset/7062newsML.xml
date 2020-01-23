@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7062" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: French turn sour on TV's ability to inform.</title>
+<headline>French turn sour on TV's ability to inform.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>The French people are losing faith in television's ability to keep them informed and teach them good citizenship, according to a public opinion poll released on Wednesday.</p>
+<p>The CSA poll, conducted for the Roman Catholic weekly La Vie, found that 58 percent of adults believed television was doing a good job of keeping them in touch with world events, compared with 74 percent two years ago.</p>
+<p>Just 21 percent thought television was performing well in teaching them to be good citizens, down from 30 percent two years ago.</p>
+<p>&quot;The French broadcaster increasingly sees viewers as consumers rather than as citizens,&quot; the magazine concluded.</p>
+<p>The poll was based on interviews conducted in late July with 1,003 adults aged 18 and over.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

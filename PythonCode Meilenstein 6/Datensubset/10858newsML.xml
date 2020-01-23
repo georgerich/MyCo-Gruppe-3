@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10858" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Arizona Public sees N.M. plant back Aug 29.</title>
+<headline>Arizona Public sees N.M. plant back Aug 29.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Arizona Public Service expects to restart a 745 megawatt (MW) coal-fired unit at its power plant near Farmington, N.M. on Aug 29, the company said Friday.  </p>
+<p>The unit, part of the Four Corners facility, was shut Aug 22 to repair a leaking boiler tube.</p>
+<p>&quot;It's going to be a week,&quot; said company spokesman Bruce Richardson, when asked how long the unit would be out of service.</p>
+<p>&quot;They're in the tough area of the boiler,&quot; he said, referring to engineers' repair work being carried out in the boiler's reheater section.</p>
+<p>Arizona Public Service, a subsidiary of Pinnacle West Capital Corp, has a 15 percent share in Four Corners' units 4 and 5.</p>
+<p>Edison International's Southern California Edison Co has a 48 percent interest in units 4 and 5, each of which have a generation capacity of 745 MW.</p>
+<p>Arizona Public Service, a subsidiary of Pinnacle West Capital Corp, has 100 percent ownership of Four Corners units 1, 2 and 3.</p>
+<p>Units 1 and 2 each have a generation capacity 170 MW, while unit 3 has a capacity of 220 MW.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

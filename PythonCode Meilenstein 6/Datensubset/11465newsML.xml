@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11465" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Facts about the Democratic National Convention.</title>
+<headline>Facts about the Democratic National Convention.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>Here are some key facts about the August 26-29 Democratic National Convention that will nominate President Bill Clinton as the party's candidate for the November 5 presidential election.</p>
+<p>Number of delegates: 4,329, chosen in primaries and caucuses in each state and U.S. territory.</p>
+<p>Number of delegates needed to nominate Clinton: 2,165.</p>
+<p>When nomination will occur: Wednesday, August 28, during a roll call of states and territories.</p>
+<p>Location: United Centre, a $175 million sports arena on Chicago's near West Side, a poverty-stricken, crime-riddled area. The arena holds more than 20,000 people.</p>
+<p>Schedule:</p>
+<p>-- Monday, August 26: Convention opens 4 p.m. CDT (2100 GMT) for afternoon session; evening session begins 7 p.m. CDT (0001 GMT), ends at 10 p.m. CDT (0300 GMT).</p>
+<p>Highlights: presentation by actor Edward James Olmos; remarks by actor Christopher Reeve.</p>
+<p>-- Tuesday, August 27: Convention activities begin 3:30 p.m. CDT (2030 GMT); evening programme begins 7 p.m. CDT (0001 GMT), ends at 10 p.m. CDT (0300 GMT).</p>
+<p>Highlights: remarks by Reverend Jesse Jackson, first lady Hillary Rodham Clinton.</p>
+<p>-- Wednesday, August 28: Convention activities begin 3:30 p.m. CDT  (2030 GMT); evening programme begins 7 p.m. CDT (0001 GMT), ends at 10 p.m. CDT (0300 GMT).</p>
+<p>Highlights: Nomination of President Bill Clinton; address by Vice President Al Gore.</p>
+<p>-- Thursday, August 29: Convention activities begin 3:30 p.m. CDT  (2030 GMT); evening programme begins 7 p.m. CDT (0001 GMT), convention closes at 10 p.m. CDT (0300 GMT).</p>
+<p>Highlight: Clinton accepts nomination.</p>
+<p>Convention theme: &quot;Opportunity, responsibility and community.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

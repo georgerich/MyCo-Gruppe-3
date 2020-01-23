@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6020" id="root" date="1996-08-21" xml:lang="en">
+<title>RUSSIA: Russian 6-mth T-bill yield falls to 74.16 pct.</title>
+<headline>Russian 6-mth T-bill yield falls to 74.16 pct.</headline>
+<dateline>MOSCOW 1996-08-21</dateline>
+<text>
+<p>An issue of 7.50 trillion roubles of six-month GKO discount Treasury bills yielded an average 74.16 percent at auction, the Russian central bank said on Wednesday.</p>
+<p>At the previous auction of six-month T-bills on August 14, the average yield was 80.40 percent.</p>
+<p>Full details of the auction:</p>
+<p>				     Aug 21	     Aug 14</p>
+<p>    Issue volume		 7.50 trln rbls   8.00 trln rbls</p>
+<p>    Denominations		1 million		1 million</p>
+<p>    Bids (nominal)	    10.12 trln	 13.11 trln</p>
+<p>    Sold (nominal)	     6.24 trln	  6.64 trln</p>
+<p>    Proceeds		     4.33 trln	  4.50 trln</p>
+<p>    Average price		69.40 pct	 67.66 pct</p>
+<p>    Lowest accepted price    69.29 pct	 67.45 pct</p>
+<p>    Average yield		74.16 pct	 80.40 pct</p>
+<p>    Highest accepted yield   74.55 pct	 81.17 pct</p>
+<p>    Tenor			  217 days	   217 days</p>
+<p>    Maturity		     March 26, 1997   March 19, 1997</p>
+<p>Earlier, the finance ministry raised 2.67 trillion roubles when it sold 3.23 trillion roubles nominal of a 4.00 trillion roubles issue of a new tranche of three-month T-bills. It has also repaid about seven trillion roubles in maturing six-month T-bills.</p>
+<p>--Anna Smirnova, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

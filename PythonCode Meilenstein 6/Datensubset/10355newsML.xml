@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10355" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Japanese car giants say July production up.</title>
+<headline>Japanese car giants say July production up.</headline>
+<byline>Mitsuo Suzuki</byline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Japanese car giants Toyota Motor Corp and Nissan Motor Co Ltd enjoyed growth in their domestic production in July and said robust demand for recreational vehicles was a driving force behind the better figures.</p>
+<p>Toyota, Japan's biggest carmaker, and Nissan, its closest rival, also announced increases on Friday in their overseas production for July.</p>
+<p>&quot;We introduced two types of recreational vehicles earlier this year and they have been very popular,&quot; a Toyota spokeswoman said.</p>
+<p>&quot;Our business is certainly picking up. We plan to launch new models later this year and we would like our share (of the domestic market) to exceed 40 percent this year,&quot; she said.</p>
+<p>Toyota currently holds 39.5 percent of the domestic market.</p>
+<p>It said its domestic production in July rose 16 percent from the year before. Its exports in July were up 37.3 percent year-on-year and overseas production up 15.8 percent.</p>
+<p>&quot;In July last year, our exports to the Middle East were small due to the high yen, and the U.S.-Japan car dispute had a negative impact on our exports to the United States,&quot; the Toyota spokeswoman said. Exports to Asia rose this July.</p>
+<p>Nissan also said active demand for recreational vehicles pushed up its production in July. Demand for luxury cars was also robust, a company spokeswoman said.</p>
+<p>Nissan said its July domestic production was up 5.4 percent from the previous year. Exports were down 1.1 percent but overseas production was up 14.8 percent.</p>
+<p>In contrast with its bigger rivals, domestic production at Mitsubishi Motors Corp, Japan's third-largest car maker, rose only 0.1 percent year-on-year in July.</p>
+<p>&quot;Our figures have been lower than other makers lately. We enjoyed an unrivalled share in the recreational vehicle market in the past, but other makers have entered the business,&quot; a Mitsubishi spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

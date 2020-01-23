@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5890" id="root" date="1996-08-21" xml:lang="en">
+<title>NIGERIA: Nigerian AP Q1 profits steady.</title>
+<headline>Nigerian AP Q1 profits steady.</headline>
+<dateline>LAGOS 1996-08-21</dateline>
+<text>
+<p>First quarter results for African Petroleum to end-March, 1996. (In millions of naira)</p>
+<p>				   1996	   1995</p>
+<p> Turnover			 3,200   vs    3,300</p>
+<p> Profit before taxation	 412   vs	436.4</p>
+<p> Taxation			   131.8 vs	163.6</p>
+<p> Profit after taxation	  280.2 vs	272.8</p>
+<p>($1=80 naira)</p>
+<p>--Lagos newsroom +234 1 263 03 17</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11976" id="root" date="1996-08-23" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Tullow Oil says to start testing in Pakistan.</title>
+<headline>Tullow Oil says to start testing in Pakistan.</headline>
+<dateline>DUBLIN 1996-08-23</dateline>
+<text>
+<p>Irish exploration group Tullow Oil Plc said on Friday that it was about to commence a testing programme in Pakistan following the detection of gas shows during drilling.</p>
+<p>Tullow said that the result of the drilling should be known within the next two weeks.</p>
+<p>&quot;If the results are material a further announcement will be made,&quot; Tullow said in a statement prompted by recent stock market activity in its shares and a jump in its share price.</p>
+<p>Tullow shares were at 105.5 Irish pence in Dublin by 1328 GMT, up 11 pence on the day.</p>
+<p>-- Dublin Newsroom +353 1 676 9779</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

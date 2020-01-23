@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12379" id="root" date="1996-08-23" xml:lang="en">
+<title>THAILAND: Thai arrest order issued for Australian woman.</title>
+<headline>Thai arrest order issued for Australian woman.</headline>
+<dateline>BANGKOK 1996-08-23</dateline>
+<text>
+<p>Bangkok's criminal court on Friday ordered a warrant for the arrest of the Australian-born daughter of a Hong Kong-based businessman after she failed to appear to face drug-trafficking charges.</p>
+<p>Lisa Marie Smith, 20, who carries Australian and British passports, was arrested at Bangkok airport on February 13 after she was found with four kilograms (8.8 pounds) of a substance police originally thought was opium but later said was cannabis and 565 amphetamine tablets.</p>
+<p>Smith, the Melbourne-born daughter of Terry Smith, chief of insurance giant National Mutual Asia, was released on 1.5 million baht bail (US$59,500) in June, becoming the first foreigner facing drug charges to be released on bail.</p>
+<p>Her lawyer was not immediately available for comment.</p>
+<p>Soon after her arrest, Smith told reporters she had been tricked into carrying the drugs to Tokyo by Pakistani drinking friends. But she said she would plead guilty.</p>
+<p>Smith became the second Australian to evade Thai justice this week.</p>
+<p>Daniel Westlake, 46, from Victoria made the first successful jailbreak from Klongprem prison in the northern outskirts of Bangkok on Sunday night. He, too, was facing drug charges.</p>
+<p>Westlake, arrested in December 1993 and charged with heroin trafficking, sawed the iron grill off his cell window and climbed down the prison's five-metre (15 foot) wall on a rope made from bed sheets, a prison official said.</p>
+<p>Prison authorities ordered that all foreign inmates be chained at night to prevent more breakouts.</p>
+<p>There are 266 Westerners, including six Australians, in the prison, most awaiting trial on drugs charges. There also are about 5,000 Thai inmates in Klongprem, the prison official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3834" id="root" date="1996-08-20" xml:lang="en">
+<title>BELGIUM: Belgians still searching for missing girls.</title>
+<headline>Belgians still searching for missing girls.</headline>
+<dateline>NEUFCHATEAU, Belgium 1996-08-20</dateline>
+<text>
+<p>Belgian police are still searching for two teenage girls missing in the country's child sex scandal and remain hopeful but have not yet found them, Public Prosecutor Michel Bourlet said on Tuesday.</p>
+<p>&quot;We are focusing on trying to find An (Marchal) and Eefje (Lambrecks). We are still hopeful but unfortunately we have no news to report,&quot; Bourlet told a news conference.  </p>
+<p>Convicted child rapist Marc Dutroux has admitted kidnapping Marchal and Lambrecks in the port of Ostend last August. But their fate is a mystery.</p>
+<p>Belgian investigators opened communications via Interpol with a number of countries on Tuesday as Belgian media speculated that the two girls had been found in the Czech Republic.</p>
+<p>But Bourlet firmly squashed that rumour on Tuesday, and Interpol in Prague said there was no trace of the missing girls on Czech soil.</p>
+<p>The investigation is part of Belgium's child sex scandal. Dutroux led police on Saturday to the bodies of eight-year-olds Julie Lejeune and Melissa Russo after 14-year-old Laetitia Delhez and 12-year-old Sabine Dardenne were rescued from a makeshift dungeon in a house he owns in Charleroi.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEUFCHATEAU, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

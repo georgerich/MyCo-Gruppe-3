@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5396" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: BASEBALL-RESULTS OF S. KOREAN PRO-BASEBALL GAMES.</title>
+<headline>BASEBALL-RESULTS OF S. KOREAN PRO-BASEBALL GAMES.</headline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>Results of South Korean</p>
+<p>pro-baseball games played on Tuesday.</p>
+<p>    OB			 0	Haitai	     0</p>
+<p>    Ssangbangwool	  4	Lotte		2</p>
+<p>    LG			10	Samsung	    5</p>
+<p>    Hanwha		   7	Hyundai	    3</p>
+<p>Standings after games played on Tuesday (tabulate under won,</p>
+<p>drawn, lost, winning percentage, games behind first place)</p>
+<p>			  W   D    L     PCT	   GB</p>
+<p>    Haitai	   60   2   39    .604	    -</p>
+<p>    Hyundai	  53   5   44    .544	    6</p>
+<p>    Hanwha	   53   1   45    .540	6 1/2</p>
+<p>    Ssangbangwool  53   2   47    .529	7 1/2</p>
+<p>    Lotte	    43   5   49    .469     13 1/2</p>
+<p>    Samsung	  45   5   52    .466	   14</p>
+<p>    LG		 43   5   54    .446	   16</p>
+<p>    OB		 38   5   58    .401     20 1/2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

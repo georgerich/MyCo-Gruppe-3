@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2672" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: SOCCER-KARLSRUHE WIN INTERTOTO CUP, GRAB UEFA SPOT.</title>
+<headline>SOCCER-KARLSRUHE WIN INTERTOTO CUP, GRAB UEFA SPOT.</headline>
+<dateline>BONN 1996-08-20</dateline>
+<text>
+<p>Germany's Karlsruhe grabbed a last-minute UEFA Cup place on Tuesday with a dramatic win in the final of the Intertoto Cup against Standard Liege of Belgium, who had three players sent off in the dying moments of the game.</p>
+<p>Two substitutes scored in the last 10 minutes of the summer tournament to give Karlsruhe a 3-1 home win and cancel out Liege's 1-0 first leg victory.</p>
+<p>Germany's European Championship winning midfielder Thomas Haessler put Karlsruhe level on aggregate with a 37th minute penalty, but Axel Lawaree put the Belgians ahead again in the 61st minute.</p>
+<p>Needing two goals to win, Karlsruhe piled on the pressure.</p>
+<p>Manfred Bender scored from a header in the 80th minute, four minutes after coming on. Markus Schroth, who had come on with Bender, fired in a rebound two minutes from time.</p>
+<p>In the chaotic minutes which followed, Swedish referee Anders Frisk sent off libero Didier Ernst, and midfielders Guy Hellers and Roberto Bisconti for complaining.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

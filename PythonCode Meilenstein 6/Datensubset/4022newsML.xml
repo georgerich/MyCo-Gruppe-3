@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4022" id="root" date="1996-08-20" xml:lang="en">
+<title>TURKEY: Istanbul gold prices rise as turnover drops.</title>
+<headline>Istanbul gold prices rise as turnover drops.</headline>
+<dateline>ISTANBUL 1996-08-20</dateline>
+<text>
+<p>Istanbul gold prices ended higher on Tuesday on the back of some firming on world markets but volume dropped slightly, dealers said.</p>
+<p>Gold gained 3,050 lira per gram and $0.75 to end at 1,075,250 lira per gram and $388.20 per ounce.</p>
+<p>The lira closed weaker at 86,070 per dollar versus Monday's 86,000 on higher central bank dollar rate for banks' forex transfers.</p>
+<p>Traded volume dropped by 26 percent to 1,096 kilos but trade was active as demand from the free market was intact, dealers said.</p>
+<p>They said demand from the free market had increased amid increasing jewellery sales in the summer.</p>
+<p>There was 796 kilos of trade in the morning and 300 kilos of trade in the afternoon. Of the total trade, 93 percent was in dollar terms due to slightly higher gold prices abroad.</p>
+<p>-- Istanbul Newsroom, +90-212-275 0875</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

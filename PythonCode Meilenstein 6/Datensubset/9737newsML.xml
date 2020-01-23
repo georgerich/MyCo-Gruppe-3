@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9737" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: German air passenger numbers rise 1.1 in July.</title>
+<headline>German air passenger numbers rise 1.1 in July.</headline>
+<dateline>FRANKFURT 1996-08-22</dateline>
+<text>
+<p>The number of air passengers at German airports recovered in July with a 1.1 percent rise after a 0.4 percent fall in June, the German airports association ADV said.</p>
+<p>A total of 10.9 million passengers were registered at the country's 16 international airports last months compared with 10.2 million in June, the ADV monthly statistical report said.</p>
+<p>Domestic travel within Germany fell 1.4 percent in July, passenger numbers to European destinations rose 2.6 percent while intercontinental travel increased 0.7 percent.</p>
+<p>Total air passenger numbers in Germany have risen 2.4 percent to 63.9 million January-July, with a 1.6 percent fall in domestic air travel, a 5.7 percent increase in European travel and a 0.9 percent rise in intercontinental travel. - Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

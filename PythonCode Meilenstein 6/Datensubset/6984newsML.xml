@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6984" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: BALANCE - Palo Alto USD, Calif., at $17.4 mln.</title>
+<headline>BALANCE - Palo Alto USD, Calif., at $17.4 mln.</headline>
+<text>
+<p>RE: $122,500,000</p>
+<p>SANTA CLARA COUNTY, CALIFORNIA</p>
+<p>GENERAL OBLIGATION BONDS, ELECTION OF 1995</p>
+<p>SERIES B (ULT)</p>
+<p>BALANCES ARE AVAILABLE ON A FIRST COME FIRST SERVED BASIS.</p>
+<p>    MOODY'S: Aa		    S&amp;P: AA</p>
+<p>Delivery Date: 08/29/1996</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>08/01/2002	   2,410M    5.25	  4.45</p>
+<p>08/01/2003	   2,505M    5.25	  4.55</p>
+<p>08/01/2004	   2,295M    5.25	  4.65</p>
+<p>08/01/2007	   3,350M    5.375	 4.95</p>
+<p>08/01/2008	   3,555M    5.375	 5.05</p>
+<p>08/01/2010	   1,720M    5.375	 5.30</p>
+<p>08/01/2011	   1,620M    5.375	 5.35</p>
+<p>  Total:	    17,455M</p>
+<p>PaineWebber Incorporated</p>
+<p>Lehman Brothers</p>
+<p>Goldman, Sachs &amp; Co.</p>
+<p>EVEREN Securities Incorporated</p>
+<p>Dillon, Read &amp; Co. Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

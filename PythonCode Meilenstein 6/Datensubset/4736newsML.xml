@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4736" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan checking whether fighters chased Qantas jet.</title>
+<headline>Japan checking whether fighters chased Qantas jet.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Japan is investigating reports that two Japanese fighter planes chased a Qantas airliner earlier this month, forcing it to take emergency evasive action, Defence Minister Hideo Usui said on Tuesday.</p>
+<p>According to an Australian Broadcasting Corp (ABC) report, Qantas flight 22 from Tokyo to Sydney was tailed off Japan's Pacific coast on August 8.</p>
+<p>The pilot saw on his radar that two Japanese fighters were tracking the Boeing 747 and pulled the plane into a steep ascent to avoid an incident, ABC radio reported.</p>
+<p>Commenting on the report, officials of Japan's air force said there was no record of its fighters scrambling or taking emergency steps on that date and that there are no Japanese air force training zones along the route from Tokyo to Sydney.</p>
+<p>The Ministry of Transportation said it had received a request from its Australian counterpart to investigate what the ministry called the &quot;approach&quot; of two fighters toward the Qantas jet, but said it was unable to confirm the origin of the planes.</p>
+<p>The Qantas captain filed a report complaining of the intimidating behaviour of the Japanese fighter jets, ABC radio said.</p>
+<p>The report comes as Japan's armed forces are working to overcome criticism for shooting down friendly aircraft twice in the past nine months.</p>
+<p>In June a Japanese navy destroyer shot down a U.S. warplane during naval manoeuvres in the mid-Pacific near Hawaii.</p>
+<p>The previous incident involving Japan's military happened last November, when a Japanese Air Force F-15 fighter shot down another Japanese F-15 during dogfight training in the Sea of Japan.</p>
+<p>In both cases, the pilots were rescued unharmed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

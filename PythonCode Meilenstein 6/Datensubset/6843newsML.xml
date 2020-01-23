@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6843" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: RESEARCH ALERT - Arnold Industries starts.</title>
+<headline>RESEARCH ALERT - Arnold Industries starts.</headline>
+<text>
+<p>-- Morgan Stanley said analyst Charles Rupinski initiated coverage of Arnold Industries Inc with a strong buy rating.</p>
+<p>-- shares gained 1-1/2 to 15-1/2.  </p>
+<p>-- Rupinski estimated earnings at $1.05 per share for 1996, and $1.35 for 1997.</p>
+<p>-- set 12-month price target of $20.</p>
+<p>-- sees further expansion in high-growth truckload segment of market.</p>
+<p>-- sees acquisition on LTL -- or less than truckload -- segment increasing earnings growth.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

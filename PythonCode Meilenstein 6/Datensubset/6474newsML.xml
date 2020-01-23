@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6474" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: FPC sees 825 MW nuke at full output today.</title>
+<headline>FPC sees 825 MW nuke at full output today.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Florida Power Corp's (FPC) 825 megawatt (MW) Crystal River 3 nuclear power station is expected to resume full output after production was reduced late Tuesday, the company said Wednesday.</p>
+<p>&quot;They started the pump back at 1100 EDT,&quot; said FPC spokeswoman Melodie Hendrix. &quot;If all goes well, we'll start returning to (full) power at 1500 EDT.&quot;</p>
+<p>The utility scaled back the operation of the unit to about 60 percent of capacity to correct a condensate pump problem.</p>
+<p>Hendrix added it would take four to six hours for the plant to ramp up to full service.</p>
+<p>Crystal River 3 produces 15 percent of FPC's electricity deliveries in its Florida service territory, Hendrix said.</p>
+<p>FPC, a subsidiary of Florida Progress Corp, is the operator and major owner of the Crystal River 3.</p>
+<p>The Crystal River facility is located in Red Level, Fla.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

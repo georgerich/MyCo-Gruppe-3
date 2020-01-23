@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3137" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH AFRICA: Italtile yr share rises, div up.</title>
+<headline>Italtile yr share rises, div up.</headline>
+<dateline>JOHANNESBURG 1996-08-20</dateline>
+<text>
+<p>Yr ended June 30 1996</p>
+<p>			(million rand unless stated)</p>
+<p>    Shr, headline (cts)   71.7    vs    52.3</p>
+<p>    Shr attrib (cts)	78.8    vs    52.3</p>
+<p>    Div (cts)		 14	vs    11</p>
+<p>    Attrib income	   14.06   vs     9.49</p>
+<p>    Pre-tax		   20.91   vs    14.69</p>
+<p>    Tax			  6.74   vs     5.15</p>
+<p>    Interest paid	    0.45   vs     0.85</p>
+<p>    Turnover		 226.45   vs   209.17</p>
+<p>Div payable: Oct 4</p>
+<p>On register: Sept 6</p>
+<p>Full name: Italtile Ltd</p>
+<p>NOTE - Ceramics retailer Italtile said several new franchised and group-owned stores were scheduled to open within the next 12 months.</p>
+<p>All divisions had budgeted for improved results and continued real growth in earnings per share was expected.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

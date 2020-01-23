@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12213" id="root" date="1996-08-23" xml:lang="en">
+<title>CHINA: Work on new Shanghai airport to start in September.</title>
+<headline>Work on new Shanghai airport to start in September.</headline>
+<dateline>SHANGHAI 1996-08-23</dateline>
+<text>
+<p>Work on Shanghai's second international airport is due to begin in September and the new airport will start operations at the end of 1999, an official city government statement said on Friday.</p>
+<p>The new airport, to be built next to the sea in the Pudong New Area and 30 kilometres (18.75 miles) from the city centre, will have a final handling capacity of 70 million passengers and five million tonnes of cargo a year, the statement said.</p>
+<p>It will have a passenger terminal of 800,000 square meters and four runways by the time of its completion, the statement said.</p>
+<p>The airport project was formally approved by the central government on June 6 this year and the first contract was awarded to the Airport Company of Paris to design the terminal building, the statement said.</p>
+<p>The statement gave no financial details.</p>
+<p>But the official Shanghai Star newspaper said on Friday that the first phase is estimated to cost 12 billion yuan.</p>
+<p>One third of the cost will come from the Shanghai city government and the rest from loans by China's State Development Bank and the Japanese government, the paper said.  </p>
+<p>The newspaper quoted an unnamed official as saying negotiations were underway with Japan for government loans of 16 billion yen.</p>
+<p>The first phase to be completed by 1999 will have a 4,000-metre runway and a terminal of 150,000 square metres as well as 50,000 square metres of commercial buildings, it said.</p>
+<p>Shanghai currently only has one international airport, Hongqiao international airport in the west of the city.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I5020002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

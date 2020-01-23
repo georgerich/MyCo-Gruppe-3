@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11946" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: French capital markets closing report.</title>
+<headline>French capital markets closing report.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>French bond futures gave up much of the progress they had made on the back of Thursday's German and French interest rate cuts as a strong U.S. durable goods number for July weighed on an already consolidating market.</p>
+<p>Traders said there was little in sight to pick up the baton after the rally on Thursday and that the contract was vulnerable again to more U.S. data next week.</p>
+<p>PIBOR interest rate futures to ran out of steam, ending the day's MATIF session two basis point lower at 96.05 as the franc also drooped against the mark in late European trade as the mark remained robust.  </p>
+<p>The franc, which stood at 3.4085/90 after rising as high as 3.4041 versus the mark after the French rate cut on Thursday slipped as low as 3.4148 in the afternoon but firmed a little again to 3.4136/39 at 1505 GMT.</p>
+<p>The 10-year future opened firmer, at one point touching 124.0 but started sliding with the help of an extra shove after U.S. durable goods orders for July came in higher than expected with a 1.6 percent rise versus a Reuter poll forecast average rise of 0.3 percent.</p>
+<p>A small pick up towards the end of the Matif session lifted the future to 123.52 after a drop as low as 123.34 earlier.  </p>
+<p>U.S. figures next week include second quarter GDP and new home sales. French July unemployment data comes out on Friday.</p>
+<p>Prime Minister Alain juppe and President Jacques Chirac meet at the Bregancon presidential summer residence on tax reform and the budget in advance of the mid-September budget presentation.</p>
+<p>A finance ministry official said on Friday the budget would most likely be presented on September 18 but that September 25 was still not ruled out as an alternative.</p>
+<p>On the union front, Le Figaro reported Force Ouvriere leader March Blondel as saying a joint protest with the Communist-led CGT was possible on September 21.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

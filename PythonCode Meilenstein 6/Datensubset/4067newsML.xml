@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4067" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: PRESALE - Cowley Cty USD 470, Kan..</title>
+<headline>PRESALE - Cowley Cty USD 470, Kan..</headline>
+<text>
+<p>AMT: 11,800,000     DATE: 08/22/96	NYC Time: 1300	CUSIP: NA</p>
+<p>ISSUER: Cowley Cty Unified Sch Dist No. 470		     ST: KS</p>
+<p>ISSUE: G.O. school building Series 1996			   TAX STAT:Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 08/15/96							     SURE BID: Y</p>
+<p>DUE: 12/1/00-19					     SR MGR:</p>
+<p>1ST CPN: 06/01/98</p>
+<p>CALL: 12/1/06 @ par					 NIC</p>
+<p>DELIVERY: 9/17/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: State Treasurer, Topeka</p>
+<p>L.O.: Gilmore &amp; Bell, Wichita</p>
+<p>F.A.: Ranson &amp; Assoc., Wichita</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2000		    330,000</p>
+<p>2001		    350,000</p>
+<p>2002		    370,000</p>
+<p>2003		    395,000</p>
+<p>2004		    420,000</p>
+<p>2005		    445,000</p>
+<p>2006		    470,000</p>
+<p>2007		    495,000</p>
+<p>2008		    520,000</p>
+<p>2009		    550,000</p>
+<p>2010		    580,000</p>
+<p>2011		    610,000</p>
+<p>2012		    645,000</p>
+<p>2013		    680,000</p>
+<p>2014		    715,000</p>
+<p>2015		    755,000</p>
+<p>2016		    800,000</p>
+<p>2017		    845,000</p>
+<p>2018		    890,000</p>
+<p>2019		    935,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

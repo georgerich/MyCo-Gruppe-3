@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8616" id="root" date="1996-08-22" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH IPB TAKES OVER VERTEX.</title>
+<headline>CZECH IPB TAKES OVER VERTEX.</headline>
+<dateline>PRAGUE 1996-08-22</dateline>
+<text>
+<p>The financial group connected to Investicni a Postovni Banka a.s. (IPB) said on Thursday that it had taken control over the Czech glass fibre producer Vertex a.s. .</p>
+<p>Spokesman for IPB investment arm Prvni Investicni, Tomas Kopriva, told Reuters that the IPB Group had placed its chosen directors on Vertex's board by controlling more than 51 percent of the voting shares present at an extraordinary shareholders meeting in the eastern Czech town of Litomysl.  </p>
+<p>&quot;Altogether more than 51 percent voted with us,&quot; Kopriva said.</p>
+<p>IPB has been battling for the control of Vertex with another large Czech banking group Komercni Banka a.s. .</p>
+<p>In June and July analysts said both groups had been amassing shares in Vertex through the secondary market, helping to push the stock's price over 7,000 crowns.</p>
+<p>The stock was down 251 crowns from Wednesday's close at 4,783 at the Prague Stock Exchange's daily fixing, prior to the results of the general meeting.</p>
+<p>-- Radek Narovec, Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24794">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

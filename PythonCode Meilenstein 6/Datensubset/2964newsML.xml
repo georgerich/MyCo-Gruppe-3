@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2964" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: J.M. Smucker Co Q1 net falls.</title>
+<headline>J.M. Smucker Co Q1 net falls.</headline>
+<dateline>ORRVILLE, Ohio 1996-08-20</dateline>
+<text>
+<p>Quarter ended</p>
+<p>								July 31,</p>
+<p>							   1996	 1995</p>
+<p>						   (Dollars in Thousands)</p>
+<p> Net Sales					 $134,154    $133,897</p>
+<p> Gross Profit					48,271	48,602</p>
+<p> Operating Income				  13,229	15,758</p>
+<p> Income from Continuing Operations	    7,489	 9,384</p>
+<p>Income from Discontinued Operations - net</p>
+<p>   of taxes					     ---	   140</p>
+<p> Net Income					   7,489	 9,524</p>
+<p>Income per Common Share:</p>
+<p> Continuing Operations(A)			   .26	   .33</p>
+<p> Discontinued Operations - net of taxes	 ---	   ---</p>
+<p> Net income per Common Share			.26	   .33</p>
+<p>NOTE: Results exclude discontinued Mrs. Smith's operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORRVILLE, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

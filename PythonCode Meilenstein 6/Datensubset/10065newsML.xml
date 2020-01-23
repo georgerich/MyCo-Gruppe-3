@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10065" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Harada Industry to issue SFR warrant.</title>
+<headline>Harada Industry to issue SFR warrant.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>BORROWER - Harada Industry Co Ltd</p>
+<p>LEAD MGR - Daiwa Securities Bank (Switzerland)</p>
+<p>TRUSTEE - Asahi Bank Ltd</p>
+<p> TYPE warrant	   ISSUE NO		AMT   40 million SFR</p>
+<p> COUPON		   ISS PRICE PAR	 MATURITY 19.Sep.00</p>
+<p> EXER PRICE	     CURR RATE</p>
+<p> EXER FROM 3.Oct.96   EXER TO 12.Sep.00</p>
+<p> LAST MOODY	     PAY DATE 19.Sep.96  INT PAY 19.Sep</p>
+<p> LAST S&amp;P		 SIGN DATE 28.Aug.96 SUB DATE</p>
+<p> LAST JCR		 LAST JBRI	     LAST NIS</p>
+<p>The coupon, conversion price and currency rate will be decided on August 28.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

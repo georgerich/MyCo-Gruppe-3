@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9799" id="root" date="1996-08-22" xml:lang="en">
+<title>ITALY: Italy's Florence sees August CPI up 2.7 pct yr/yr.</title>
+<headline>Italy's Florence sees August CPI up 2.7 pct yr/yr.</headline>
+<dateline>FLORENCE, Italy 1996-08-22</dateline>
+<text>
+<p>The Italian city of Florence said its August consumer price index stood at +0.2 percent month-on-month and +2.7 percent year-on-year.</p>
+<p>In July, Florence's inflation rate fell 0.3 percent but grew 2.6 percent year on year.</p>
+<p>Florence is one of 10 Italian cities publishing inflation data yesterday and today.</p>
+<p>The city's CPI has a weighting of 6.08 percent on the national index. The 10 sample cities have a combined weighting of 69.67 percent on the total index.  </p>
+<p>Following is the breakdown of the price changes.</p>
+<p>(figures in brackets refer to July 1996):</p>
+<p>					    Month/Month     Year/Year</p>
+<p>    General index		     0.2   (-0.3)    2.7  (2.6)</p>
+<p>    Food				 -0.3   (-0.4)    4.3  (4.5)</p>
+<p>    Clothing and footwear	   0.1   (-0.1)    2.7  (2.7)</p>
+<p>    Housing and utility charges   0.6   (-1.9)    3.4  (2.7)</p>
+<p>    Furniture			   0.6    (0.0)    2.4  (1.9)</p>
+<p>    Health services		   0.0   (-0.3)    2.7  (2.6)</p>
+<p>    Transportation		    0.4    (0.2)    1.9  (1.5)</p>
+<p>    Entertainment and culture     0.2    (0.0)    2.0  (2.4)</p>
+<p>    Education			   1.1    (0.1)    2.2  (3.5)</p>
+<p>    Hotels and restaurants	  0.0    (0.0)    3.3  (3.3)</p>
+<p>    Other goods or services	 0.0   (-0.1)    1.4  (1.5)</p>
+<p>-- Milan newsroom ++392 66129526</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLORENCE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

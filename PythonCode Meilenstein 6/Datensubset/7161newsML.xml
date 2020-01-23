@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7161" id="root" date="1996-08-21" xml:lang="en">
+<title>PORTUGAL: Fund buys 3.6 pct of Portugal's Somague.</title>
+<headline>Fund buys 3.6 pct of Portugal's Somague.</headline>
+<dateline>LISBON 1996-08-21</dateline>
+<text>
+<p>An investment fund bought just over 3.6 percent of Portuguese construction firm Somague-SGPS in pre-trade on the Lisbon bourse, a company spokesman said.</p>
+<p>&quot;A fund bought 400,000 shares in Somague. I won't say if it was a national or a foreign fund,&quot; Somague's vice president Diogo Vaz Guedes told Reuters.</p>
+<p>Somague stood unchanged at 1,100 escudos in volume of 450,200 shares on Lisbon bourse at 0955 GMT.</p>
+<p>&quot;Institutional investors are very interested in Somague, and today's operation shows that the market recognised the results of our restructuring and once again considers that we are a big player in Portuguese construction,&quot; Vaz Guedes said.</p>
+<p>-- Jose Barata, Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

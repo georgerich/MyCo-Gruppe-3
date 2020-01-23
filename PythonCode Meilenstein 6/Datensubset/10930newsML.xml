@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10930" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Canada couple found alive on beach after air crash.</title>
+<headline>Canada couple found alive on beach after air crash.</headline>
+<dateline>VANCOUVER, British Columbia 1996-08-23</dateline>
+<text>
+<p>A Canadian couple presumed to have died in a plane crash three days ago were found alive on Friday almost by chance on a nearby beach, police said.</p>
+<p>Brian and Sheila Johnson were piloting a light plane on a sightseeing flight on Tuesday on the remote west coast of Vancouver Island when they crashed into a lake. Rescue crews later found their identification floating among the wreckage and gave up the search, presuming they had died.</p>
+<p>A Royal Canadian Mounted Police officer flew to the site at Gaultheria Lake on Friday with a coroner and divers to compile a final report on the incident. As he circled his helicopter to take pictures of the crash site, he spotted the pair on a beach about a mile (two km) away.</p>
+<p>&quot;Both survivors were tired and exhausted but healthy,&quot; the police said in a statement. They were flown to the outpost of Port McNeill on Vancouver Island.</p>
+<p>Police spokesman Peter Montague said the Johnsons had managed to scramble out of the plane with one survival kit when it hit the water.</p>
+<p>They decided to hike to a nearby beach having seen a group of ocean kayakers as their plane went down. But their trek took them outside the area where search crews were focusing their efforts, Montague said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER, British Columbia"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

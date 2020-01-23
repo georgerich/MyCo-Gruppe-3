@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5665" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Rymer Foods adjourns shareholder meeting.</title>
+<headline>Rymer Foods adjourns shareholder meeting.</headline>
+<dateline>CHICAGO 1996-08-21</dateline>
+<text>
+<p>Rymer Foods Inc said Wednesday it adjourned a special shareholders meeting called to approve a proposed sale of certain of the company's assets.</p>
+<p>The meeting was adjourned to Wednesday, August 28, 1996.  </p>
+<p>The company said that solicitation of proxies will continue until August 28.</p>
+<p>In January, Rymer agreed to sell the assets of its seafood brokerage business for about $12.7 million to a company formed by the president of the operation. The proposed transaction was subject to approval of 66-2/3 percent of Rymer's outstanding common stock and holders of a majority of Rymer's outstanding 11 percent senior notes.</p>
+<p>Rymer supplies portion-controlled meat and seafood products to foodservice and retail markets.</p>
+<p>		  Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

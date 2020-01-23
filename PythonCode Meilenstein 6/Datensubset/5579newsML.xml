@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5579" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Diplomat Corp Q2 net falls.</title>
+<headline>Diplomat Corp Q2 net falls.</headline>
+<dateline>STONY POINT, N.Y. 1996-08-21</dateline>
+<text>
+<p>Summary Statement of Operations</p>
+<p>				 Six Months Ended  Three Months Ended</p>
+<p>				     June 30,	    June 30,</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p>						  (in dollars)</p>
+<p> Net Sales	  14,393,000  7,463,000  9,240,000  4,766,000</p>
+<p> Operating Income     17,000    744,000    347,000    509,000</p>
+<p>Net Income (Loss)</p>
+<p>			 (324,000)    453,000     14,000    376,000</p>
+<p>Net Income (Loss)</p>
+<p>  Per Share		(.07)	  .11	  .00	  .09</p>
+<p>Number of Shares Used in Computation:  4,493,525  3,985,755 4,493,525  3,985,755</p>
+<p>NOTE - Includes the operations of Biobottoms Inc from the date of Feb. 9 acquisition.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STONY POINT, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

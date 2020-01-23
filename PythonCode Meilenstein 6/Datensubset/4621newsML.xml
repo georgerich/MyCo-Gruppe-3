@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4621" id="root" date="1996-08-20" xml:lang="en">
+<title>INDONESIA: Indonesia Convertible Bonds Listed Overseas.</title>
+<headline>Indonesia Convertible Bonds Listed Overseas.</headline>
+<dateline>JAKARTA 1996-08-20</dateline>
+<text>
+<p>The following list of convertible bonds from Indonesian companies listed overseas is compiled from various securities houses.</p>
+<p>===============================================================</p>
+<p>ISSUER   COUPON REDEMPTION BID-OFFER	 CONVER.PREMIUM/YIELD</p>
+<p>	    (%)					PRICE  DISCOUNT</p>
+<p>===============================================================</p>
+<p>ASTRA INT 6.75  300506  BZW:  82.00- 84.00	    160.90 9.30</p>
+<p>				ML :  83.00- 84.00 5,758.75 111.40 9.30</p>
+<p>				MS :  82.75- 83.75	    157.00 9.35</p>
+<p>Issue size: US$ 125 million</p>
+<p>Share price: 2,770 rupiah (foreign)</p>
+<p>---------------------------------------------------------------</p>
+<p>INDORAMA  1.75  250700  SBC: 103.50-104.50 7,700	 Y  4.11</p>
+<p>Issue size: CHF 40 million</p>
+<p>Share price: 5,500 (foreign)</p>
+<p>---------------------------------------------------------------</p>
+<p>INDORAYON 4.75  311297  SBC: 100.00-100.75		 Y  4.12</p>
+<p>Isse size: CHF 60 million</p>
+<p>Share price: 1,950 rupiah</p>
+<p>---------------------------------------------------------------</p>
+<p>INDORAYON 5.50  100102   BZW: 115.50-117.50  4,250 218.80  7.30</p>
+<p>				  ML: 116.00-117.00	  192.80  7.70</p>
+<p>				  MS: 115.70-116.70	  200.00  7.81</p>
+<p>Issue size : US$ 60 million</p>
+<p>Share price: 1,950 rupiah</p>
+<p>---------------------------------------------------------------</p>
+<p>INDORAYON 7.00  050206   BZW:  77.00- 79.00	  192.10 10.55</p>
+<p>				  ML:  78.00- 79.50	  171.20 10.45</p>
+<p>				  MS:  78.00- 79.00	  185.00 10.50</p>
+<p>Issue size: US$ 60 million</p>
+<p>Share price: 1,950 rupiah</p>
+<p>---------------------------------------------------------------</p>
+<p>POLYMAX   2.00  270206   BZW:  89.00- 90.00 10,465  52.14  9.53</p>
+<p>				  ML:  89.50- 90.50	   54.70  9.28</p>
+<p>				  MS:  88.50- 89.50	   54.20  9.68</p>
+<p>Issue size: US$ 200 million</p>
+<p>Share price: 6,250 rupiah (Indocement)</p>
+<p>---------------------------------------------------------------</p>
+<p>TJIWIKIMIA0.00  260397   BZW: 113.00-125.00  3,550  11.36  7.30</p>
+<p>Issue size: US$ 40 million</p>
+<p>Share price:  2,300 rupiah</p>
+<p>---------------------------------------------------------------</p>
+<p>TJIWIKIMIA7.25  120401   BZW:  93.50- 95.50	   37.64  8.44</p>
+<p>				  ML:  92.50- 94.00	   35.30  8.86</p>
+<p>				  MS:  93.50- 95.00	   36.60  8.59</p>
+<p>Issue size: 75 million</p>
+<p>Share price: 2,300 rupiah</p>
+<p>===============================================================</p>
+<p>BZW= Barclays de Zoete Wedd, ML= Merril Lynch, MS= Morgan Stanley, and SBCW= Swiss Bank Corporation Warburg.</p>
+<p>The above mentioned rates are indicative only and may differ from current bid/offer. Share prices were fixed at 08.17 GMT -- Jakarta newsroom +621 384-6364.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

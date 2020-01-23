@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8776" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Arel Communications Q2 full results.</title>
+<headline>Arel Communications Q2 full results.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Arel Communications and Software Ltd.</p>
+<p>		    (An Israeli Corporation) in U.S. dollars</p>
+<p>		    Condensed Statements of Income (loss) For the</p>
+<p>		 Six Months Ended  Three Months Ended  Year Ended</p>
+<p>			 June 30,		June 30,	 Dec. 31</p>
+<p>		   1996	1995	1996	 1995	1995</p>
+<p>				     (Unaudited)		(Audited)</p>
+<p>Revenues from sales,</p>
+<p>services  $2,526,361 $2,522,927 $755,946 $1,364,332 $6,276,432</p>
+<p>Cost of sales and</p>
+<p> services  1,152,408   763,294   491,980    395,495  1,814,905</p>
+<p>Gross</p>
+<p> profit    1,373,953  1,759,633  263,966    968,837  4,461,527</p>
+<p>Research, development</p>
+<p> costs-net  593,102    367,183   373,693    218,126   809,051</p>
+<p>S, G and A</p>
+<p>expenses</p>
+<p>	    1,524,234  1,059,710   831,160    557,849  2,394,674</p>
+<p>Operating income</p>
+<p>  (loss)  (743,383)    332,740  (940,887)   192,862  1,257,802</p>
+<p>Financial income - net</p>
+<p>		 61,190    177,783    49,034    102,605   325,383</p>
+<p>Income (loss) before</p>
+<p>taxes income</p>
+<p>	    (682,193)    510,523  (891,853)   295,467  1,583,185</p>
+<p> Taxes on income	  51,425   (7,788)     30,000    178,874</p>
+<p>Net income</p>
+<p>	    (682,193)    459,098  (884,065)   265,467  1,404,311</p>
+<p>Earning (loss)</p>
+<p>  per share  (0.12)	 0.08    (0.16)	 0.05	0.25</p>
+<p>Avg shares outstanding</p>
+<p>	    5,673,633  5,518,396  5,518,396 5,524,000  5,582,680</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

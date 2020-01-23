@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8059" id="root" date="1996-08-22" xml:lang="en">
+<title>TURKEY: Turk central bank reserve down $168 mln last week.</title>
+<headline>Turk central bank reserve down $168 mln last week.</headline>
+<dateline>ANKARA 1996-08-22</dateline>
+<text>
+<p>The Turkish central bank said on Thursday its foreign currency reserves fell $168 million last week to $15.770 billion on August 16.</p>
+<p>Figures in billion dollars:</p>
+<p>		   Aug 16	 Aug 9	  end-1995 Forex reserve</p>
+<p>		   15.770	 15.938	 12.391</p>
+<p>Gold reserve    1.383	  1.383	  1.383</p>
+<p>Total reserve  17.153	 17.321	 13.774</p>
+<p>Gross international reserves, including gold and commercial bank holdings, fell $17 million to $26.479 billion in the week ending August 2, the bank said.</p>
+<p>It said Turkey had serviced $5.932 billion of state foreign debt in the period of January 1-August 21, including $4.740 billion repaid by the treasury.</p>
+<p>--Ankara Newsroom, 90-312-4462940</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

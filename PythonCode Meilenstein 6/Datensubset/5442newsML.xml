@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5442" id="root" date="1996-08-21" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</headline>
+<dateline>BUCHAREST 1996-08-21</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* Health Minister Iulian Mincu and Culture Minister Viorel Marginean told the state radio they had tendered their resignations for personal reasons. Their decision to quit was confirmed by Vacaroiu.</p>
+<p>* Foreign Ministry spokesman Sorin Ducaru told a news conference President Ion Iliescu and government would organise next week a meeting with parliamentary parties to discuss the final text of the Romanian-Hungarian political treaty.</p>
+<p>* Ducaru said both collective rights and autonomy on ethnic grounds had not been included in treaty due to be signed soon by the presidents of the two countries.</p>
+<p>* Ducaru said all diplomats involved in politics or the electoral campaign should resign temporarily, in line with regulations forbidding diplomats to get involved in politics.</p>
+<p>* Labour Minister Dan Mircea Popescu met prefects of counties where unemployement is high to discuss ways to solve the issue. He put the country's unemployement at 6.7 percent.</p>
+<p>* Ivan Truter, deputy director of Council for National Minorities told a news conference the Council of Europe and the Romanian government would organise an international conference on &quot;Governments for minorities&quot; in Bucharest, September 10-11. --Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

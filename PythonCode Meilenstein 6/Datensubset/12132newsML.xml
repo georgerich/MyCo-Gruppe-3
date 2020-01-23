@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12132" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Court action to be defended - Auspine.</title>
+<headline>RTRS-Court action to be defended - Auspine.</headline>
+<dateline>ADELAIDE 1996-08-23</dateline>
+<text>
+<p>Timber producer Auspine Ltd said it would defend Supreme court proceedings brought against it by IOOF Australia Trustees Ltd.</p>
+<p>Auspine said the proceedings made allegations concerning the operation and management of plantations and the sale of timber from plantations subject to covenants issued by Auspine and related entities.</p>
+<p>The amount claimed by IOOF was not specified as yet, the company said.</p>
+<p>Auspine shares were suspended pending an announcement prior to the commencement of trading on Friday.  </p>
+<p>Its previous close on Thursday was A$3.31, up one cent.</p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

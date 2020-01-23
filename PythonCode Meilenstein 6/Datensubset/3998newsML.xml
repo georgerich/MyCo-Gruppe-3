@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3998" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: Tunisia crude tender points to firmer Med sweets.</title>
+<headline>Tunisia crude tender points to firmer Med sweets.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>Tunisia's crude oil sales tender for early September cargoes was awarded at the top end of traders' price expectations, prompting some to speculate that sweet crude in the Mediterranean could be following the North Sea higher, traders said on Tuesday.</p>
+<p>A cargo of Zarzaitine loading on September 8-10 was won by Elf at Dated Brent +48.5 cents while Glencore was believed to have won a Rhemoura loading on September 1-5 at an undisclosed price.</p>
+<p>This supported Algeria's attempt to raise its September Saharan Blend contract prices from the current 56 cent premium to Dated Brent, a trader said, although contract holders are lobbying to keep prices unchanged.</p>
+<p>&quot;Oseberg is strong, West African is stable. There is no reason why Mediterranean sweets should go down,&quot; he added.</p>
+<p>-- Tom Ashby, London Newsroom +44 171 542 8145</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

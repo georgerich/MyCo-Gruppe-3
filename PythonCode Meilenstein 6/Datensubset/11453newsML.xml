@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11453" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. DAP prices flat to lower amid slow market.</title>
+<headline>U.S. DAP prices flat to lower amid slow market.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>U.S. cash diammonium phosphate prices were steady to lower on Friday and movement was slow, dealers said. Ammonia prices were unavailable.</p>
+<p>			   Dlrs/short ton	 Chg from Wednesday</p>
+<p>DAP central Fla	   182-184			    dn 1</p>
+<p>DAP central La Gulf     189-191			     unc</p>
+<p>Ammonia/La Gulf		 unq</p>
+<p>--(Chicago newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

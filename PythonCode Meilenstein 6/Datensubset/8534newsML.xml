@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8534" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: GOLF-SCORES AT WORLD SERIES OF GOLF.</title>
+<headline>GOLF-SCORES AT WORLD SERIES OF GOLF.</headline>
+<dateline>AKRON, Ohio 1996-08-22</dateline>
+<text>
+<p>Scores from the $2.1</p>
+<p>million NEC World Series of Golf after the first round</p>
+<p>Thursday at the 7,149 yard, par 70 Firestone C.C course</p>
+<p>(players U.S. unless stated):</p>
+<p>66 Paul Goydos, Billy Mayfair, Hidemichi Tanaka (Japan)</p>
+<p>68 Steve Stricker</p>
+<p>69 Justin Leonard, Mark Brooks</p>
+<p>70 Tim Herron, Duffy Waldorf, Davis Love, Anders Forsbrand</p>
+<p>(Sweden), Nick Faldo (Britain), John Cook, Steve Jones, Phil</p>
+<p>Mickelson, Greg Norman (Australia)</p>
+<p>71 Ernie Els (South Africa), Scott Hoch</p>
+<p>72 Clarence Rose, Loren Roberts, Fred Funk, Sven Struver</p>
+<p>(Germany), Alexander Cejka (Germany), Hal Sutton, Tom Lehman</p>
+<p>73 D.A. Weibring, Brad Bryant, Craig Parry (Australia),</p>
+<p>Stewart Ginn (Australia), Corey Pavin, Craig Stadler, Mark</p>
+<p>O'Meara, Fred Couples</p>
+<p>74 Paul Stankowski, Costantino Rocca (Italy)</p>
+<p>75 Jim Furyk, Satoshi Higashi (Japan), Willie Wood, Shigeki</p>
+<p>Maruyama (Japan)</p>
+<p>76 Scott McCarron</p>
+<p>77 Wayne Westner (South Africa), Steve Schneiter</p>
+<p>79 Tom Watson</p>
+<p>81 Seiki Okuda (Japan)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AKRON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

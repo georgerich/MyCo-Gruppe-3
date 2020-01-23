@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6048" id="root" date="1996-08-21" xml:lang="en">
+<title>SLOVAKIA: Slovak central bank crown fixings - Aug 21.</title>
+<headline>Slovak central bank crown fixings - Aug 21.</headline>
+<dateline>BRATISLAVA 1996-08-21</dateline>
+<text>
+<p>The National Bank of Slovakia (NBS) said on Wednesday it had fixed the crown at 30.405 to the dollar after Tuesday's fixing at 30.468.</p>
+<p>The crown was fixed at 20.473 to the mark after 20.446.</p>
+<p>				    Aug 21		 Aug 20</p>
+<p>    British pound	     47.055		 47.110</p>
+<p>    Swiss franc		 25.295		 25.197</p>
+<p>    Austrian schilling	 2.910		  2.905</p>
+<p>    Czech crown		  1.148		  1.144</p>
+<p>-- Bratislava Newsroom, 42-7-210-3688</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

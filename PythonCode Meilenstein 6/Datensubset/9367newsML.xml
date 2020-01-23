@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9367" id="root" date="1996-08-22" xml:lang="en">
+<title>MALAYSIA: Malaysia IJM H1 net rises 22 pct.</title>
+<headline>Malaysia IJM H1 net rises 22 pct.</headline>
+<dateline>KUALA LUMPUR 1996-08-22</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>		    (In million ringgit unless stated)</p>
+<p>    Net profit	     36.98	 vs	    30.34</p>
+<p>    Shr	   (cents)  12.13	 vs	    10.87</p>
+<p>    Dividend    (cents)   3.0	  vs	     3.0</p>
+<p>    Turnover		492.86	 vs	   424.64</p>
+<p>    Pre-tax profit	 55.82	 vs	    46.50</p>
+<p>    Minorities	less  2.84	 vs   less    3.61</p>
+<p>    Extraordinaries	 5.82	 vs	     0.08</p>
+<p>NOTE - The full name of the company is IJM Corp Bhd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

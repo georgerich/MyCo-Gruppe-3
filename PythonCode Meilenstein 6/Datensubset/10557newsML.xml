@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10557" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: GOLF-BRISKY, SWARTZ TIED FOR LEAD AT INAUGURAL VANCOUVER OPEN.</title>
+<headline>GOLF-BRISKY, SWARTZ TIED FOR LEAD AT INAUGURAL VANCOUVER OPEN.</headline>
+<dateline>CLOVERDALE, British Columbia 1996-08-22</dateline>
+<text>
+<p>Mike Brisky and Mike Swartz shot four-under-par 67s Thursday and were tied for the lead after the opening round of the inaugural Vancouver Open at the Northview Golf and Country Club.</p>
+<p>Brisky and Swartz are winless on the PGA Tour and are trying to take advantage of a weaker field with many of the top players participating in the lucrative World Series of Golf.</p>
+<p>They held a one-shot lead over Jeff Maggert, Robin Freeman, Emlyn Aubrey, Ronnie Black, Joe Daley and Brent Franklin, a Canadian native who plays out of the British West Indies, who shot opening-round 68s.</p>
+<p>Maggert is battling for a spot on the U.S. team for the upcoming Presidents Cup competition. He ranks 14th, with the top 10 automatically earning berths on the team, which will be announced Monday. The Presidents Cup pits the United States against an international squad in match-play competition.</p>
+<p>The Vancouver Open is the first full-field event added to the Tour since 1986. The Northview Golf and Country Club course is a par-71 layout measuring 6,900 yards.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLOVERDALE, British Columbia"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

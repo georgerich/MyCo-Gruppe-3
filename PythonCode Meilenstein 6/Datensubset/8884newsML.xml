@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8884" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Seagram to merge its two U.S. wines cos.</title>
+<headline>Seagram to merge its two U.S. wines cos.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Joseph E. Seagram &amp; Sons Inc said on Thursday that it is merging its two United States based wine companies, Seagram Chateau &amp; Estate Wines Co and Seagram Classics Wine Co.</p>
+<p>Sam Bronfman II, currently president of The Seagram Classics Wine, will be president of the new entity and John Laird, presently president of Seagram Chateau &amp; Estate, will be the new company's executive vice president.</p>
+<p>Abdallah Simon, founder and chairman of Seagram Chateau &amp; Estate, will be chairman of the new company.</p>
+<p>Seagram said that the name of the new company, with revenues of over $200 million, will be announced later this fall.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

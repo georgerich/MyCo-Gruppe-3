@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6593" id="root" date="1996-08-21" xml:lang="en">
+<title>PAKISTAN: Pakistani yarn rates end steady, seen falling.</title>
+<headline>Pakistani yarn rates end steady, seen falling.</headline>
+<dateline>KARACHI, Pakistan 1996-08-21</dateline>
+<text>
+<p>Pakistani cotton yarn rates closed steady on Wednesday but are likely to fall because of a decrease in domestic cotton rates amid a rise in supplies in the past few days, dealers said.</p>
+<p>Rates in rupees supplied by the Pakistan Yarn Merchants Association for a 10-lb (4.54 kg) cone of 21 counts:</p>
+<p>				     Wednesday    Previous</p>
+<p>    Al-Karam (A.K.)	    430	    430</p>
+<p>    M.G.M.			 420	    420</p>
+<p>    Globe (Hina)		 420	    420</p>
+<p>    ($1 = 35.61 rupees)    -- Ovais Subhani 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

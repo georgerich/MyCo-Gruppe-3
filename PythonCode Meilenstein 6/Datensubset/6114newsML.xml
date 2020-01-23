@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6114" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexican peso closes weaker but off lows.</title>
+<headline>Mexican peso closes weaker but off lows.</headline>
+<dateline>MEXICO CITY 1996-08-21</dateline>
+<text>
+<p>The Mexican peso closed weaker against the U.S. dollar on Wednesday because of lower interest rates but made up lost ground in the afternoon when foreigners started taking pesos in order to buy Mexican stocks, traders said.</p>
+<p>The benchmark 48-hour or spot peso lost 0.7 of a centavo to 7.4760/7.4790, while the 24-hour peso gave up 1.1 centavos to 7.4730/7.4770.</p>
+<p>Earlier Wednesday, the same-day peso closed 0.15 of a centavo weaker to 7.4740/7.4790.</p>
+<p>&quot;Ever since midday, the peso started gaining back some once foreigners starting entering the stock market,&quot; one dealer said.</p>
+<p>Floor trade on the stock exchange was suspended all morning because protesters blocked the entrance to the building. Stock prices shot up once floor trading began.</p>
+<p>&quot;I think the peso would have been hurt more by the higher yields on the U.S. long bond if it weren't for the historic highs on the bolsa,&quot; one peso trader said.</p>
+<p>-- Alexis Quinones, Mexico City newsroom, (525) 728-9555</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10475" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Atari founder to offer games, music via Internet.</title>
+<headline>Atari founder to offer games, music via Internet.</headline>
+<byline>Samuel Perry</byline>
+<dateline>WOODSIDE, California 1996-08-22</dateline>
+<text>
+<p>The Silicon Valley entrepreneur who founded Atari Corp said on Thursday he believes he has the formula to sell billions of dollars of coin-operated video games and music using the Internet.</p>
+<p>Nolan Bushnell, 52, who now provides seed money and serves as a visionary to numerous high tech firms, told reporters in a wood-paneled room of his mansion here that he expects the market to be worth &quot;billions and billions.&quot;</p>
+<p>Bushnell said he and Aristo International have invested more than $10 million to develop a line of products that can deliver the Internet, fast-action team games and a jukebox with thousands of titles by accessing the Internet.</p>
+<p>At a drop of a coin, or the slide of a credit card for big spenders, individuals will be able to call up the latest electronic games, order a hot new compact disk or access their electronic mail using the systems, he said.</p>
+<p>Aristo International plans to roll out three machines -- MusicNet Plus, TouchNet and TeamNet -- to the worldwide market in early September. It has gathered some 75 of the 100 or so distributors of pay-per-play vendor machines this week to unveil the machines and generate orders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOODSIDE, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

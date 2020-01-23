@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2798" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Ramsay names Bert Cibran president, COO.</title>
+<headline>Ramsay names Bert Cibran president, COO.</headline>
+<dateline>NEW ORLEANS 1996-08-20</dateline>
+<text>
+<p>Ramsay Health Care Inc said on Tuesday it named Bert Cibran president and chief operating officer.</p>
+<p>He is succeeding Reynold Jennings who will continue as executive vice president and president of the company's behavioral hospital division. Jennings resigned as a director of the company, effective August 12, the company said.</p>
+<p>Most recently, Cibran was president and chief operating officer for the Florida operations of Physician Corp of America.</p>
+<p>Ramsay, a behavioral health services company, also said it named Carol Lang vice president and chief financial officer. She is replacing Daniel Sims, who is moving to the Florida branch of the company, Ramsay said.</p>
+<p>Lang currently is president of HealthLink Enterprises Inc, a financial advisory and consulting company focused on the healthcare industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

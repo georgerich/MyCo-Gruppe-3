@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9741" id="root" date="1996-08-22" xml:lang="en">
+<title>NETHERLANDS: Amsterdam-Rotterdam-Antwerp stock levels dip.</title>
+<headline>Amsterdam-Rotterdam-Antwerp stock levels dip.</headline>
+<dateline>AMSTERDAM 1996-08-22</dateline>
+<text>
+<p>Oil product inventories held in independent tankage in the Amsterdam-Rotterdam-Antwerp area were at the following levels, with week-ago and year-ago levels, industry sources said.</p>
+<p>All figures in thousands of tonnes:</p>
+<p>			15/8/96		  15/8/96	     25/8/95</p>
+<p>    Gasoline	400-425			450	     450-475</p>
+<p>    Naphtha	  75-100		    50-75		 50-75</p>
+<p>    Gas oil	   1,650		    1,650		 1,800</p>
+<p>    Fuel oil	325-350			375		   400</p>
+<p>    Jet kero	  15-20		    15-20		    25</p>
+<p>Motor gasoline stocks dipped as cargoes left for transatlantic journeys.</p>
+<p>Naphtha inventories were balanced as some coaster cargoes arrived, but material left for the German chemical industry.</p>
+<p>Gas oil stocks were stable with quick throughput of cargoes from the former Soviet Union to German and Swiss markets. Some blending material arrived.</p>
+<p>Fuel oil inventories dipped as incoming straight-run matched outgoing bunker flows.</p>
+<p>Jet fuel stocks were stable with little activity.</p>
+<p>-- Philip Blenkinsop, Amsterdam 31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

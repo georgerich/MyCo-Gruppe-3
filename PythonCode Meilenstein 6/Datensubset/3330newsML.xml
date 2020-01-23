@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3330" id="root" date="1996-08-20" xml:lang="en">
+<title>HAITI: Opposition politician killed in Haiti.</title>
+<headline>Opposition politician killed in Haiti.</headline>
+<dateline>PORT-AU-PRINCE 1996-08-20</dateline>
+<text>
+<p>An opposition politician and another man were killed by unknown assailants on Tuesday at the politician's house in a Port-Au-Prince suburb, acccording to local radio stations.</p>
+<p>A United Nations spokesman in Haiti, Eric Falt, confirmed that two men had been shot but could not confirm that the politician, Pasteur Antoine Leroy, was dead.  </p>
+<p>Pasteur is considered the number two man in the opposition Mobilization for the National Development (MDN). Radio Metropole and Radio Kiskeya named Paster but not the other victim.</p>
+<p>&quot;Ten armed man in two vehicles shot and killed two civilians,&quot; Falt said. &quot;One of the victims was handcuffed before he was killed.&quot;</p>
+<p>Haitian national police and international police trainers rushed to the scene of the attack, according to Falt.</p>
+<p>UN officials characterized the MDN party as closely associated with former members of the Haitian military. The assassination followed an attack at the Port-Au-Prince police station (on) Monday which was believed to have been carried out by ex-military personnel. One civilian was killed in that attack.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT-AU-PRINCE"/>
+<dc element="dc.creator.location.country.name" value="HAITI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

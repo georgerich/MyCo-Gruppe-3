@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7513" id="root" date="1996-08-21" xml:lang="en">
+<title>DENMARK: PRESS DIGEST - Denmark - Aug 21.</title>
+<headline>PRESS DIGEST - Denmark - Aug 21.</headline>
+<dateline>COPENHAGEN 1996-08-21</dateline>
+<text>
+<p>Here are the highlights of stories in the Danish press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>BERLINGSKE TIDENDE</p>
+<p>--- British carrier Debonair is to operate a new scheduled air route between London and Copenhagen starting on October 1 with two daily flights.</p>
+<p>--- A 51-year-old Danish citizen suspected of having sex with under-age boys has been imprisoned for two months in Nepal while the local authorities consider what action to take.</p>
+<p>--- New statistics show there are advanced computers in 43 percent of all Danish homes.</p>
+<p>POLITIKEN</p>
+<p>--- The number of Danish publishers has more than trebled within the last six years from 329 firms in 1990 to 1,069 in 1996.</p>
+<p>JYLLANDS-POSTEN</p>
+<p>--- One out of five Danish retail stores employ children and/or youngsters in illegal jobs after hours according to a new survey by local work authorities based on random visits to shops.</p>
+<p>--- Danish construction group Comet has won a contract to build part of the new underground railway system in Copenhagen. The construction of the new subway will create 2,000 new jobs.</p>
+<p>BORSEN</p>
+<p>--- Danisco Ingredients, a unit of Danish sugar group Danisco, will be one of the first Danish companies to open up in Yugoslavia (Serbia and Montenegro) in September following the end of of the United Nations' trade boycott.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

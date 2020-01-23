@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9592" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: USDA to donate $1.2 mln in farm goods to Ukraine.</title>
+<headline>USDA to donate $1.2 mln in farm goods to Ukraine.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The U.S. Agriculture Department Thursday said it would donate about $1.2 million worth of U.S. farm goods to the private organization Lishkas Ezras Achim to distribute to the needy in the Ukraine.</p>
+<p>The donated commodities will include 400 tonnes of vegetable oil, 280 tonnes of rice and 120 tonnes of wheat flour, USDA said.</p>
+<p>The donation was made under USDA's Food for Progress program. The supply period is fiscal year 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

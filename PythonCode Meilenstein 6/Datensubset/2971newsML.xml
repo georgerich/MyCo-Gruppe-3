@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2971" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Ohio Blue Cross approves Columbia/HCA deal.</title>
+<headline>Ohio Blue Cross approves Columbia/HCA deal.</headline>
+<dateline>CLEVELAND 1996-08-20</dateline>
+<text>
+<p>Columbia/HCA Healthcare Corp's proposed $299.5 million acquisition of most of Blue Cross &amp; Blue Shield of Ohio cleared a hurdle Tuesday when the health insurer's policyholders approved the deal at a special meeting, Blue Cross said.</p>
+<p>About 60 protestors outside the meeting outnumbered the 38 who attended it. Most proxies were mailed in advance of the meeting, a Blue Cross spokesman said.</p>
+<p>Protestors, carrying signs reading, &quot;Stop the Merger,&quot; said they represented retirees, trade union members and others. Blue Cross is currently a not-for-profit entity.  </p>
+<p>Blue Cross and Columbia have said the acquisition will reduce health care costs and improve care.</p>
+<p>&quot;This could be a role model for the entire country,&quot; Blue Cross chairman and chief executive officer John Burry said at the meeting. &quot;This an opportunity to get doctors, hospitals and insurers to work together for the benefit of the patient.&quot;</p>
+<p>Questions about the deal have been raised by consumer activists, some policyholders, the Ohio Attorney General, the national Blue Cross and Blue Shield Association and others.</p>
+<p>Last week, Congressman Sherrod Brown (Democrat-Ohio) said he asked the Federal Trade Commission to review the proposal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

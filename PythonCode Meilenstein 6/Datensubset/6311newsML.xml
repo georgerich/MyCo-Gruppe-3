@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6311" id="root" date="1996-08-21" xml:lang="en">
+<title>TURKEY: Turkey's Kurd rebels deny civilian killings.</title>
+<headline>Turkey's Kurd rebels deny civilian killings.</headline>
+<dateline>ANKARA 1996-08-21</dateline>
+<text>
+<p>The Kurdistan Workers Party (PKK) rebel group has denied charges by Turkish security officials that it killed three civilians in an attack in central Turkey this week, a Kurdish news agency said on Wednesday.</p>
+<p>The DEM news agency quoted the press office of the PKK's military wing, the ARGK, as accusing Turkish security forces of carrying out the attack in Sivas province on Monday night.</p>
+<p>&quot;The ARGK press office said its guerrilla forces had nothing to do with the incident,&quot; the agency said.</p>
+<p>Two woman and a two-year-old child died when assailants opened fire on two cars on a lonely road in Sivas. &quot;The state forces carried out the killings,&quot; DEM quoted the rebels as saying.</p>
+<p>More than 20,000 people have died in a 12-year-old conflict between security forces and the guerrillas, fighting for autonomy or independence in the mainly Kurdish southeast.</p>
+<p>Sivas has only a small Kurdish population and is not one of the ten southeastern provinces under emergency rule where the rebels are most active.</p>
+<p>PKK leader Abdullah Ocalan warned last week that his rebels would stage attacks on the periphery of the mainly Kurdish southeast to stretch security forces.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

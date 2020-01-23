@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11548" id="root" date="1996-08-23" xml:lang="en">
+<title>INDIA: Indian cotton prices steady on restricted supplies.</title>
+<headline>Indian cotton prices steady on restricted supplies.</headline>
+<dateline>BOMBAY 1996-08-23</dateline>
+<text>
+<p>Indian cotton prices, helped by restricted supplies, were steady on Friday in a narrow trading range, dealers said.</p>
+<p>Thye said export deals were however low and only a few thousand bales (170 kg each) were traded.</p>
+<p>In spot deals Punjab saw-ginned was steady at 1,675/1,700 rupees per maund (37.32 kg) while Bengal-deshi was steady at 880/950 rupees. Gujarat Kalyan (medium-staple) remained steady at 11,800/12,000 rupees per candy (355.56 kg).</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

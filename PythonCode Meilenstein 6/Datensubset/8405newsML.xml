@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8405" id="root" date="1996-08-22" xml:lang="en">
+<title>SWEDEN: Skanska posts rise in H1 profit.</title>
+<headline>Skanska posts rise in H1 profit.</headline>
+<dateline>STOCKHOLM 1996-08-22</dateline>
+<text>
+<p>Swedish construction and real</p>
+<p>estate group Skanska AB reports its results for the six months</p>
+<p>to June 30, 1996, compared to a year ago.</p>
+<p>					(million crowns unless stated)</p>
+<p> Profit after fin items		  2,377 vs   1,508</p>
+<p> Order intake			     23,810 vs  19,721</p>
+<p> Sales					22,881 vs  18,856</p>
+<p> Operating profit after deprec	   696 vs   1,689</p>
+<p> Operating costs			  22,056 vs 17,321</p>
+<p> Depreciation				  603 vs    498</p>
+<p> Net interest items			  462 vs    441</p>
+<p> Exchange differences		CHARGE 16 vs     15 CHARGE</p>
+<p> Gain on share sales/participation   1,755 vs	4</p>
+<p> Other financial items		CREDIT 2 vs	4 CHARGE</p>
+<p> Tax					     592 vs    407</p>
+<p> Minorities				    133 vs    175</p>
+<p> Net profit				  1,601 vs    926</p>
+<p>NOTE -- Skanska AB is a Swedish construction and real estate company.</p>
+<p>A Reuters poll of eight analysts found the market was expecting Skanska to post a profit after financial items of 3.10 billion crowns.</p>
+<p>-- Stockholm newsroom +46-8-7001017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

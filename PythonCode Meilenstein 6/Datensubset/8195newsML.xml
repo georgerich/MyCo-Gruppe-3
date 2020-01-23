@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8195" id="root" date="1996-08-22" xml:lang="en">
+<title>CANADA: Four Seasons to hold vote on share changes.</title>
+<headline>Four Seasons to hold vote on share changes.</headline>
+<dateline>TORONTO 1996-08-22</dateline>
+<text>
+<p>Four Seasons Hotels Inc said on Thursday it will hold a special meeting of shareholders on October 3 at which holders will vote on an amendment to the articles of the company dealing with share capital.</p>
+<p>Since 1986, the family of Isadore Sharp has controlled Four Seasons through holdings of multiple voting shares, now representing roughly 65 percent of the votes attached to the company's outstanding shares.</p>
+<p>The company said to ensure that future growth does not does not significantly alter the present voting arrangement, it will propose a change in its share structure.  </p>
+<p>The company is proposing that the existing multiple voting shares, which each carry 12 votes, be swapped for new variable voting shares, which carry a number of votes that increases proportionately as more subordinate voting shares are issued.</p>
+<p>The variable voting shares would therefore continue to carry about 65 percent of the voting power no matter how many subordinate voting shares are issued, Four Seasons said.</p>
+<p>This process would be subject to a ratification vote from a majority of subordinate voting shareholders other than Isadore Sharp and his associates every three years, beginning at Four Seasons' annual meeting in the year 2000.  </p>
+<p>Four Seasons will also propose that its articles will be amended to provide that from the time the votes are adjusted, the dividend entitlement on the variable voting shares will decrease to 50 percent of the entitlement per share of the subordinate voting shares. The subordinate voting shares will be renamed limited voting shares.</p>
+<p>The proposal is subject to regulatory approval as well as that of a majority of the votes cast by holders of subordinate voting shares, other than Isadore Sharp and his associates. It must also win the approval of two-thirds of the votes cast by holders of the multiple voting and subordinate voting shares.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

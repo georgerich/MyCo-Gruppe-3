@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11665" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: SW Saskatchewan, mid-Alberta saw slight frost risk.</title>
+<headline>SW Saskatchewan, mid-Alberta saw slight frost risk.</headline>
+<dateline>WINNIPEG 1996-08-23</dateline>
+<text>
+<p>Southwest Saskatchewan's Parkland area and mid-Alberta's Red Deer area saw two hours of a slight risk of frost Friday, Environment Canada said.</p>
+<p>Val Marie, Sask., reported a low of 3.2 Celsius (37.8 F) at chest level at 0600 CDT/1100 GMT, and 3.8 Celsius (38.8 F) at 0700 CDT/1200 GMT, meteorologist Gerald Machnee said.</p>
+<p>Red Deer, Alta., reported a low of 4.0 Celsius (39.2 F) for two hours.</p>
+<p>&quot;At three to four degrees you can get close to zero (freezing) in some spots,&quot; Machnee said.</p>
+<p>The remainder of the Prairies were 5.6 Celsius or warmer.</p>
+<p>Temperatures at ground level can be 2.0 to 5.0 Celsius lower than at chest level depending on windspeed, sky conditions and ground surface moisture.</p>
+<p>Freezing occurs at 0 Celsius (32.0 F).</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

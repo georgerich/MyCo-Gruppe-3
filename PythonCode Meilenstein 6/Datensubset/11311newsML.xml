@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11311" id="root" date="1996-08-23" xml:lang="en">
+<title>SINGAPORE: Hotel Props says expects better 2H.</title>
+<headline>Hotel Props says expects better 2H.</headline>
+<dateline>SINGAPORE 1996-08-23</dateline>
+<text>
+<p>Hotel Properties Ltd said on Friday it expects its second half performance to be an improvement over its first half as it continues to recognise profits from the Nassim Jade and Scotts 28 developments.  </p>
+<p>For the six months ended June, Hotel Props reported a 1.9 percent fall in net profit to Singapore $10.71 million.</p>
+<p>Turnover fell by 28 percent to S$265.6 million mainly due to the deconsolidation of a subsidiary, Brashs Pty Ltd, said a company note accompanying the results.</p>
+<p>The group had sold 44.1 percent of Brashs at the beginning of the year and currently holds 45.9 percent.</p>
+<p>-- Singapore Newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8928" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: SEC gives final approval to NASD suitability rule.</title>
+<headline>SEC gives final approval to NASD suitability rule.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>SEC approved long-awaited NASD &quot;suitability&quot; rules requiring government securities dealers to be more careful in sales to institutional buyers, including municipalities.</p>
+<p>National Association of Securities Dealers rules already require dealers to have &quot;reasonable grounds&quot; for believing that a recommendation is &quot;suitable&quot; for a particular customer.</p>
+<p>The final rules, approved Aug 20 by the Securities and Exchange Commission and expected to be announced later today, expand on that requirement as it applies to institutional buyers.  </p>
+<p>The rules come one week after Morgan Stanley &amp; Co. settled charges that it inappropriately sold risky government securities to West Virginia's Consolidated Investment Fund, resulting in losses of $32 million. The firm agreed to pay $20 million without admitting or denying charges.</p>
+<p>NASD's new rule says dealers should consider several things when deciding whether an institution is capable of making suitable purchases.</p>
+<p>Does the buyer use consultants, investment advisers or bank trust departments to help steer them in the right direction? NASD says a dealer should consider.  </p>
+<p>Is the buyer experienced in financial markets and is it familiar with the instruments it wants to buy? NASD says.</p>
+<p>Can the buyer understand an instrument's economic features, like what happens to the security when interest rates rise or fall? the new rule asks.</p>
+<p>And dealers should consider the complexity of the security, in a provision aimed, for instance, at firms selling sophisticated derivates to localities.</p>
+<p>NASD says a dealer can decide if a customer is making an independent investment decision using several criteria.  </p>
+<p>For instance, is there a written or oral understanding about what services the dealer is to provide? NASD says.</p>
+<p>Does the buyer have a pattern of accepting the dealer's recommendations, the rule says.</p>
+<p>Does the customer use ideas and information it gets from other buyers, particularly those buying the same kind of securities, the rule says.</p>
+<p>And to what extent has the dealer received broad portfoliio information from the buyer, NASD's rule asks.  </p>
+<p>The Government Finance Officers Association (GFOA) said it is &quot;extremely gratified&quot; by the new rule's approval.</p>
+<p>&quot;The rule will go a long way in protecting the investments of state and local government taxpayers,&quot; the group said.</p>
+<p>Congress authorized the new suitability rule in the Government Securities Act Amendments of 1993, enacted in December 1993.</p>
+<p>An earlier version of the NASD rule was shelved after states and localities voiced strong objections, GFOA notes.</p>
+<p>The group added that securities industry efforts earlier this year to get Congress to reverse the latest version was &quot;thwarted.&quot;</p>
+<p>--Vicky Stamas, 202-898-8314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

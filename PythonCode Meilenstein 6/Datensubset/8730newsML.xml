@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8730" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: AFTER THE BELL-Novell shrs make modest rise.</title>
+<headline>AFTER THE BELL-Novell shrs make modest rise.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Shares in Novell Inc increased 1/8 to trade after hours at 12 in light volume, traders said.</p>
+<p>The Utah-based company posted third-quarter results of $0.17 per share compared to a year ago's $0.27 per share shortly after Wall Street closed for the day. The First Call consensus estimate for the quarter was $0.18 per share.</p>
+<p>During market hours, Novell rose 5/8 before settling at 11-7/8.  </p>
+<p>Traders said the week's light volume continued and no other stocks moved significantly off their closing prices.</p>
+<p>The New York Stock Exchange said its session one volume was 3,500 compared to Wednesday's volume of 82,400 shares. Session two volume was 451,741 shares compared to no volume on Wednesday.</p>
+<p>The American Stock Exchange said there was no after-hours trading.</p>
+<p>	  -- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

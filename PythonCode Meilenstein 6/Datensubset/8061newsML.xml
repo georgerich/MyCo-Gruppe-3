@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8061" id="root" date="1996-08-22" xml:lang="en">
+<title>ISRAEL: Israel delays liberalisation for steel products.</title>
+<headline>Israel delays liberalisation for steel products.</headline>
+<dateline>JERUSALEM 1996-08-22</dateline>
+<text>
+<p>Israel's Finance Ministry and the Ministry of Trade and Industry have decided to slow down the liberalisation process for some steel products, sources in the Finance Ministry said.</p>
+<p>According to the sources, the ministries have bowed to pressure from local industry and agreed to postpone lowering customs duties for two kinds of steel products by a year.</p>
+<p>Local companies said they had difficulty competing against products imported from countries with which Israel does not have free trade agreements.</p>
+<p>The final stage of a five-year liberalisation programme for most industrial products, including steel, will come into effect on September 1.</p>
+<p>At the end of the liberalisation programme in September customs on raw materials will be eight percent and 12 percent on finished and semi-finished products.</p>
+<p>The liberalisation process for wood products, ceramics, footware, cables and fertilisers, considered to be sensitive to competition, will end on September 1, 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

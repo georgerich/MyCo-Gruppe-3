@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7787" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Aflatoxin found in Texas milk, testing under way.</title>
+<headline>Aflatoxin found in Texas milk, testing under way.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>Milk shipments from three Texas dairies were halted recently after testing positive for aflatoxin, a potent carcinogen, and the state will soon instruct all dairies to test for the toxin, state officials said.</p>
+<p>However, state officials said the situation is mild compared with last year's higher incidences of contamination.</p>
+<p>The Texas Department of Health will send a letter instructing the state's nearly 40 milk processing plants to test for aflatoxin &quot;if they are not already,&quot; said Jim Fraley, the department's manager of milk sampling.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

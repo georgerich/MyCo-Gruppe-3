@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9272" id="root" date="1996-08-22" xml:lang="en">
+<title>COLOMBIA: Boat passengers rescued off Colombian coast.</title>
+<headline>Boat passengers rescued off Colombian coast.</headline>
+<dateline>BOGOTA, Colombia 1996-08-22</dateline>
+<text>
+<p>Colombia's Coast Guard on Thursday rescued 12 people lost for three days in an open boat off the Pacific coast, officials said.</p>
+<p>The boat had been missing since Monday afternoon when it left the tiny island of Gorgona off Colombia's southwest coast with sightseers for a return trip to Narino province, near the border with Ecuador.</p>
+<p>The boat ran out of fuel and did not have a radio to call for help, Navy spokesman Lt. Italo Pineda said .</p>
+<p>He said 11 passengers and one boatman survived on coconuts and rainwater during 65 hours lost at sea. The boat was towed to the port city of Buenaventura.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA, Colombia"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

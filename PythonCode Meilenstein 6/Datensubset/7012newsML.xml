@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7012" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Moldova seeking 35,000 tonnes PL-480 HRW wheat.</title>
+<headline>Moldova seeking 35,000 tonnes PL-480 HRW wheat.</headline>
+<dateline>CHICAGO 1996-08-21</dateline>
+<text>
+<p>Moldova will tender on August 27 for 35,000 tonnes of U.S. hard red winter wheat to be financed by Title I PL-480 funding, the country's agent said.</p>
+<p>Moldova seeks number two or better HRW wheat, minumum 12 percent protein and maximum 13 percent moisture, for shipment between September 5 and 25, 1996.</p>
+<p>The agent said that wheat offered under the tender must be certified not to originate in any U.S. area subject to the tilletia indica (karnal bunt) fungus, with phytosanitary certificate attached.</p>
+<p>Moldova on August 13 was authorized to buy $10 million of U.S. wheat under PL-480, covering the current tender. Results of the tender are expected by August 28.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOLDV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

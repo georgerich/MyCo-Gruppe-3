@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3500" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: Australian yr to June productivity at 4.7 pct.</title>
+<headline>Australian yr to June productivity at 4.7 pct.</headline>
+<dateline>CANBERRA 1996-08-20</dateline>
+<text>
+<p>Australian labour productivity rose 4.7 percent in trend terms in the year to June, the Australian Bureau of Statistics said.</p>
+<p>Trend labour productivity growth, as measured in the non-farm market sector, moderated to 0.8 percent in the June quarter, compared to 1.4 percent in the March quarter and 1.7 percent in the December 1995 quarter.</p>
+<p>The ABS measure of wages growth, average non-farm wages, salaries and supplements per wage and salary earner, rose 5.6 percent in the year to June.  </p>
+<p>The June quarter growth of 1.2 percent was stronger than the 1.0 percent recorded in the March quarter, but below the 1.4 percent and 1.9 percent growth rates of the September and December 1995 quarters respectively.</p>
+<p>-- Canberra newsroom 61-6 273 2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

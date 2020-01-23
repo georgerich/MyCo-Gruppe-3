@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5560" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Wall St. fears dueling tax cuts in U.S. election.</title>
+<headline>Wall St. fears dueling tax cuts in U.S. election.</headline>
+<byline>Andrej Gustincic</byline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Stocks of companies in the defense, tobacco and tax service industries will be among the winners if Republican Bob Dole takes the lead in the presidential race, but many Wall Street professionals are worried about the prospect of dueling tax cuts.</p>
+<p>While most on heavily Republican Wall Street are glad  Dole has slashed President Clinton's lead in polls, many fear Dole's pledge to cut taxes 15 percent across the board could hurt both the bond and stock markets and cause a flight to cash.  </p>
+<p>Potential gains through portfolio adjustments involving individual stocks or sectors would pale compared to the negative impact of a likely attempt by the Democrats to match Dole's proposed tax cut analysts warned.</p>
+<p>&quot;If they cut taxes as planned, which is easy enough, and then do not cut spending as planned, which is a good bet, then the deficit will soar and the bond market will go down and there could be a flight to cash from both stocks and bonds,&quot; warned First Albany Corp chief investment officer Hugh Johnson.</p>
+<p>That negative assessment is not universal.  </p>
+<p>Tom Carpenter, chief economist at ABS Capital Management, argued that the tax cut plan proposed by Dole and running mate Jack Kemp &quot;is significant even if they lose. Even then, they will have forced a lot of policy changes by President Clinton in terms of income tax and the capital gains tax.&quot;</p>
+<p>In any case, if Dole were to take the lead, managers would would find themselves doing some reshuffling.</p>
+<p>&quot;Managers will get cute and buy defense stocks and tax service stocks like H&amp;R Block or they'll buy stocks benefitting from stronger farm performance like Archer Daniels Midland and Pioneer Hi-Bred,&quot; Johnson said.  </p>
+<p>Strategists also list the likes of Lockheed Martin Corp, General Dynamics Corp and Philip Morris Cos Inc among the beneficiaries of a Dole victory.</p>
+<p>Conversely, if Clinton maintains his lead the common wisdom on the Street is to move into environmental stocks, educational services companies like Sylvan Learning Systems and banks and financial services like Citicorp, Chase Manhattan and Wells Fargo.</p>
+<p>On the debit side, Chris Callies, chief investment strategist at CS First Boston, said that drug and healthcare issues would take a beating if the incumbent were re-elected.  </p>
+<p>&quot;Drugs and medical products, in particular the second and third tier stocks, have had a rough ride over the past four months,&quot; she said.</p>
+<p>&quot;The likelihood of their pulling out will be greatly reduced if some aspect of universal health care is revived.&quot; She said that high technology issues would be little influenced by the election.</p>
+<p>&quot;The techs have internal challenges that far outweigh any mitigating factors the election might introduce. Pricing problems will be more of a factor than the presidential race,&quot; she said.  </p>
+<p>Analysts also say cuts in welfare might boost crime rates and be a boon for the shares of private correctional facilities such as Corrections Corp of America and Correctional Services Corp.</p>
+<p>A new study by the Liberty Financial Corp shows that small stocks performed better under almost all Democratic administrations while large companies have performed better under Republican governments. The study covered administrations since the Great Depression ended in 1937.</p>
+<p>But it is taxes which bedevil Wall Street pros.</p>
+<p>Michael Metz, chief investment strategist at Oppenheimer &amp; Co, said that a race to win voters by cutting taxes will sabotage attempts to lower the deficit.</p>
+<p>&quot;The Republicans have set the agenda with their promise of a cut. The Democrats realize that in order to be a viable party they will have to do something similar,&quot; Metz said. &quot;What this means is a rerun of the eighties, when the Federal Reserve leaned against the positive effect of stimulus.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

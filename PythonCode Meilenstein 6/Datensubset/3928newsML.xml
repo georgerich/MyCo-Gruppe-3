@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3928" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: Indian castor prices fall on low export demand.</title>
+<headline>Indian castor prices fall on low export demand.</headline>
+<dateline>BOMBAY 1996-08-20</dateline>
+<text>
+<p>Indian castorseed December delivery prices on Tuesday fell to 1,112/1,113 rupees per quintal from 1,118 rupees on fresh offerings, traders said.</p>
+<p>&quot;Export demand was low while higher supplies triggered bull liquidation,&quot; one trader said.</p>
+<p>September delivery was nominally quoted at 1,085/1,090 rupees. &quot;September volumes were negligible as outstanding business had already switched over to December delivery,&quot; he said. Groundnut oil fell to 431/432 rupees per 10 kg from 435 on demand resistance while improved arrivals triggered light profit-taking.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

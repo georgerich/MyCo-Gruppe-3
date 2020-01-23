@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11215" id="root" date="1996-08-23" xml:lang="en">
+<title>ARGENTINA: Argentine cash maize down in good volume.</title>
+<headline>Argentine cash maize down in good volume.</headline>
+<dateline>BUENOS AIRES 1996-08-23</dateline>
+<text>
+<p>Argentine cash maize sagged slightly in good trade, with plenty of both spot and new crop supply on offer, traders said.</p>
+<p>January wheat was steady in tight, cautious trade. With nerves over dry weather, the market is anxious to see whether rain forecast for the weekend hits the needy spots. Both spot and May soybeans were steady in moderate volume, with available beans being bought quickly. Spot sunflower seed was slightly weaker, in moderate volume, with supply pressure taking the bite out of prices. March sunflower seed was steady in moderate trade.</p>
+<p>-- Buenos Aires Newsroom +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

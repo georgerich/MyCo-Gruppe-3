@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2784" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Lloyd's asks for dismissal of recovery plan suit.</title>
+<headline>Lloyd's asks for dismissal of recovery plan suit.</headline>
+<byline>Lorrie Grant</byline>
+<dateline>RICHMOND, Va 1996-08-20</dateline>
+<text>
+<p>Lloyd's of London asked a U.S. judge on Tuesday to dismiss an attempt by investors to block the 300-year-old insurance market's recovery plan and said it was willing to allow those investors to sue in the United Kingdom if fraud was found in its restructuring.</p>
+<p>Tens of thousands of investors in Lloyd's worldwide were anxiously awaiting the outcome of the Virginia case, in which U.S. investors have applied for an injunction to stop the recovery plan.</p>
+<p>Under the rescue proposal, Lloyd's was to reinsure billions of dollars in liabilities, including pollution and asbestosis-related claims in the United States, into a new company called Equitas. The investors must vote on the proposal by Aug. 28.</p>
+<p>Arguing to have the suit dismissed, Lloyd's attorney Harvey Pitt told U.S. District Court Judge Robert Payne that the case did not belong in his court.</p>
+<p>&quot;This case has no business in this court,&quot; Pitt told the court. &quot;I have never seen a case where none of the witnesses, plaintiffs or defendants live in the eastern district of Virginia.&quot;</p>
+<p>Pitt said Lloyd's chief executive officer Ronald Sandler, who was on the witness stand for four hours Tuesday, was prepared to stipulate that if the judge dismissed the case and fraud later was found to be a part of the restructuring, the plaintiffs could sue in the United Kingdom.</p>
+<p>The suit, which names 93 plaintiffs, seeks to block the plan until more detailed financial information is released.  </p>
+<p>Steve Clay, attorney for the plaintiffs, argued that a stipulation from Lloyd's would not address the investors' immediate need for information.</p>
+<p>&quot;We are here to try to make sure we get that information. Information is such power,&quot; Clay said, adding that the investors were not seeking damages but needed information in order to make a decision on the restructuring plan.</p>
+<p>The hearing was expected to last at least two more hours. Judge Payne said he would not rule on the injunction request Tuesday night. A decision was expected Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

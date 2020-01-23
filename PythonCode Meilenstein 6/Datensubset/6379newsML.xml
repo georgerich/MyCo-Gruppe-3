@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6379" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Japan seeks 137,000 T wheat and 40,000 T barley.</title>
+<headline>Japan seeks 137,000 T wheat and 40,000 T barley.</headline>
+<dateline>CHICAGO 1996-08-21</dateline>
+<text>
+<p>The Japanese Food Agency will seek overnight 137,000 tonnes of U.S., Canadian and Australian wheat and 40,000 tonnes of Australian feed barley and U.S. or Canadian barley, U.S. Japanese-based exporters said.</p>
+<p>Shipment for both the wheat and the barley is set for October 11 to November 10, they said.</p>
+<p>The deal includes 60,000 tonnes U.S. wheat, 40,000 tonnes Canadian wheat and 37,000 tonnes Australian wheat.</p>
+<p>The U.S. wheat is divided into three lots of 20,000 tonnes each of western white, dark northern spring and hard red winter wheat.</p>
+<p>The deal also involves 20,000 tonnes of Australian feed barley and 20,000 tonnes of either Canadian or U.S. barley.</p>
+<p>There was no tender last week due to the traditional summer holiday week.</p>
+<p>--Doris Frankel 312-983-7305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

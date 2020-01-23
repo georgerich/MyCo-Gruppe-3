@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9726" id="root" date="1996-08-22" xml:lang="en">
+<title>BELGIUM: Fifth arrest in Belgian child sex scandal.</title>
+<headline>Fifth arrest in Belgian child sex scandal.</headline>
+<dateline>NEUFCHATEAU, Belgium 1996-08-22</dateline>
+<text>
+<p>A fifth suspect has been arrested in connection with the kidnappings of six young Belgian girls, two of whom have died in captivity, judicial authorities said on Thursday.</p>
+<p>Public Prosecutor Michel Bourlet told a news conference Michael Diakostavrianos faces a charge of association with criminals. Two of his houses were being searched, he added, without giving details.</p>
+<p>A local court will decide next Tuesday whether Diakostavrianos will be formally charged.</p>
+<p>Police also questioned an unnamed acquaintance of Brussels businessman Jean-Michel Nihoul, one of four detained earlier this week, Bourlet said. Nihoul was charged with criminal association on Tuesday. The acquaintance was freed subsequently.</p>
+<p>An acquaintance of chief suspect Marc Dutroux, who has admitted to holding the girls captive, was also being interrogated, Bourlet said. He gave his surname only as Thirau.</p>
+<p>Bourlet said, &quot;We are questioning a maximum number of people who knew Dutroux.&quot;</p>
+<p>Dutroux, 39, an unemployed father of three, is believed to have been the mastermind behind a kidnapping, child trafficking and juvenile pornography gang.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEUFCHATEAU, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

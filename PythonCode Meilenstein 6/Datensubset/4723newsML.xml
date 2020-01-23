@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4723" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan coincident index up on stronger output - EPA.</title>
+<headline>Japan coincident index up on stronger output - EPA.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Japan's index of coincident indicators rose above the key 50 mark in June for the first time since February because industrial output-related indicators were slightly stronger than three months ago, an Economic Planning Agency official told reporters on Tuesday.</p>
+<p>The index of coincident indicators, which measures current economic conditions, stood at 55.0 in June against 30.0 in May.</p>
+<p>Coincident and leading indicator indices are compiled by comparing data with a set of figures from three months earlier.</p>
+<p>The official said March industrial output data had been particularly weak, which helped June data climb above 50.  </p>
+<p>Asked if the coincident index would stay above the 50 mark in July, the official said it was difficult to forecast and that much depended on July industrial production figures.</p>
+<p>&quot;If industrial output rises 4.2 percent then conditions will not be so severe,&quot; he said.</p>
+<p>The Ministry of International and Industry has forecast a month-on-month rise of 4.2 percent in output for July.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2922" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Aquagenix Inc Q2.</title>
+<headline>Aquagenix Inc Q2.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-08-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.09     loss	 $0.11</p>
+<p> Net loss		     288     loss	   330</p>
+<p> Revs			 2,479		    1,490</p>
+<p>	   6 MONTHS</p>
+<p> Shr profit		 $0.25     loss	 $0.05</p>
+<p> Net profit		   832     loss	   166</p>
+<p> Revs			 4,732		    2,855</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Net loss in the second quarter 1996 was due to a change in the allowance for the estimated phase-out and losses from discontinued operations relating to an increase in the allowance for the company's remaining remediation subsidiary.</p>
+<p>-- New York Newsdesk</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

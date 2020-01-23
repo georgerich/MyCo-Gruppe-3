@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9413" id="root" date="1996-08-22" xml:lang="en">
+<title>TAIWAN: Taiwan nabs Chinese illegals in boat's freezers.</title>
+<headline>Taiwan nabs Chinese illegals in boat's freezers.</headline>
+<dateline>TAIPEI 1996-08-22</dateline>
+<text>
+<p>Taiwan has caught 41 illegal immigrants from China who tried to sneak onto the island by hiding in the freezers of a Taiwanese fishing boat, a police official said on Thursday.</p>
+<p>The Taiwanese captain, Lin Wen-nan, 58, charged 20,000 yuan ($2,400) per person to take them to the island from China's southeastern Fujian province, the official said.</p>
+<p>They were caught off northern Taiwan late on Wednesday, the official said. Police arrested Lin and two other Taiwanese crew members and said the illegal immigrants would be repatriated.</p>
+<p>An increasing number of illegal immigrants from the mainland have tried to enter Taiwan in recent years, mainly by fishing boats, to seek higher-paying jobs on the island.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

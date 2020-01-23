@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8184" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Killer executed in Arizona for 1977 slaying.</title>
+<headline>Killer executed in Arizona for 1977 slaying.</headline>
+<dateline>FLORENCE, Ariz. 1996-08-22</dateline>
+<text>
+<p>Murderer Luis Mata was put to death by lethal injection early on Thursday for slashing the throat of a young Phoenix woman in 1977, prison officials said.</p>
+<p>Mata, 45, had spent the last 19 years on death row for raping, beating and killing 21-year-old Debra Lee Lopez. Her nearly decapitated body was left in a roadside ditch.</p>
+<p>Officials said an apparently remorseful Mata died at 12:51 a.m. local time (0751 GMT) after receiving the fatal injection at the state prison complex.</p>
+<p>Witnesses said the 45-year-old said &quot;Tell everyone I'm sorry,&quot; before being administered the mixture of sodium pentothal, pancuronium bromide and potassium chloride.</p>
+<p>He died 55 seconds later.</p>
+<p>Mata's case was thrust into the public eye last year, when Arizona Gov. Fife Symington lashed out at the court system for allowing such cases to drag on.</p>
+<p>With the murdered woman's parents at his side, the governor called on prison officials to start a hard labour programme that would punish death-row inmates like Mata.</p>
+<p>Mata escaped death this week, when the U.S. Ninth Circuit Court of Appeals in San Francisco stayed his execution on Tuesday. But the decision was overturned by the U.S Supreme Court Wednesday.</p>
+<p>He was the sixth person to be put to death since 1992, when Arizona resumed capital punishment after a 29-year absence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLORENCE, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

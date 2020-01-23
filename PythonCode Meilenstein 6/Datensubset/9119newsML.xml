@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9119" id="root" date="1996-08-22" xml:lang="en">
+<title>HUNGARY: HUNGARY RADIO NOON HEADLINES - AUG 22.</title>
+<headline>HUNGARY RADIO NOON HEADLINES - AUG 22.</headline>
+<dateline>BUDAPEST 1996-08-22</dateline>
+<text>
+<p>These are the main Hungarian headlines on Hungary's Kossuth Radio midday news. Reuters cannot vouch for their accuracy:</p>
+<p>- Opposition Christian Democrat People's Party will ask an extraordinary session of the Hungarian parliament to be convened in order to discuss the planned Hungarian-Romanian basic treaty. The other opposition parties support the move.</p>
+<p>- The extra one billion forints given from the budget for higher education will prevent axing jobs.</p>
+<p>- Opposition FIDESZ-MPP party said a new constitution is of a higher priority than the ruling Socialists consider it to be.</p>
+<p>- Agricultural Cooperatives' Association said dropping state subsidies could trigger a crisis in the sector and asked for the government to elaborate a long-term, strategic agricultural policy.</p>
+<p>- Junior coalition partner Free Democrats disagree with the Finance Ministry's family subsidy changes planned for 1997.</p>
+<p>-- Budapest newsroom +36 1 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

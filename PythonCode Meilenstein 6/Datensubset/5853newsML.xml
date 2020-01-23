@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5853" id="root" date="1996-08-21" xml:lang="en">
+<title>TOGO: Togo's new premier takes over, targets economy.</title>
+<headline>Togo's new premier takes over, targets economy.</headline>
+<dateline>LOME 1996-08-21</dateline>
+<text>
+<p>Togo's new prime minister Kwassi Klutse took over on Wednesday, pledging to focus on developing the economy.</p>
+<p>&quot;I will try to redouble efforts to achieve better results with a restructuring programme which will enable the country to achieve the targets it has in its programme with the Bretton Woods institutions,&quot; the new technocrat prime minister told Radio France International.</p>
+<p>President Gnassingbe Eyadema named Klutse, one of his supporters, as prime minister on Tuesday to replace former Organisation of African Unity secretary general Edem Kodjo who resigned as prime minister on Monday.</p>
+<p>Klutse was minister of planning and regional development in the outgoing government.</p>
+<p>Togo's Gross Domestic Product grew 8.3 percent in 1995, one of the best growth rates among Francophone states in the region following the 1994 devaluation of their CFA franc common currency.</p>
+<p>Kodjo broke with opposition allies in 1994 to accept Eyadema's offer of the post of prime minister. His relations with Eyadema had been strained in recent months. Kodjo spoke publicly of differences and Eyadema's supporters openly criticised the prime minister.</p>
+<p>Kodjo resigned after Eyadema's party won three by-elections, saying the balance of power within parliament had changed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TOGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOME"/>
+<dc element="dc.creator.location.country.name" value="TOGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

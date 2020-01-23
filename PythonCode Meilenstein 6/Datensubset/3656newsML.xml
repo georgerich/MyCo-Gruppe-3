@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3656" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Calif. faces $7 bln loss under welfare reform.</title>
+<headline>Calif. faces $7 bln loss under welfare reform.</headline>
+<dateline>SACRAMENTO, Calif. 1996-08-20</dateline>
+<text>
+<p>California stands to lose nearly $7 billion in funds over six years under federal welfare reform, according to a state report released Tuesday.</p>
+<p>The sweeping welfare reform legislation, which President Clinton has indicated he would soon sign, repeals and amends several major public assistance programs and replaces certain of these programs with block grants.</p>
+<p>The California state Legislative Analyst's office estimated in a report Tuesday that the legislation would likely result in a net reduction of $6.8 billion in federal funds to the state over the first six years of implementation.  </p>
+<p>The bulk of this loss in federal funds would result from the elimination of federal aid to certain non-citizens legally residing in California, the Legislative Analyst said.</p>
+<p>In fiscal year 1996-1997, the net fiscal effect would be be a loss of $51 million in federal funds, the Legislative Analyst said.</p>
+<p>In early August, the California State Association of Counties estimated that the state could lose at least $10.7 billion over the next seven year in federal aid under the welfare legislation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

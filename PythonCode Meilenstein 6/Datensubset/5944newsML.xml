@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5944" id="root" date="1996-08-21" xml:lang="en">
+<title>ALBANIA: Airport reconstruction freezes Albanian Airlines.</title>
+<headline>Airport reconstruction freezes Albanian Airlines.</headline>
+<dateline>TIRANA 1996-08-21</dateline>
+<text>
+<p>Albania's national carrier Albanian Airlines will freeze its operations before the end of September because its hub airport will be undergoing renovation, a senior company official said on Wednesday.</p>
+<p>&quot;We are freezing the operations because the government will start the reconstruction of Tirana's Rinasi Airport runway,&quot; the official, who declined to be named, told Reuters.</p>
+<p>&quot;Unfortunately there is only one runway at Rinasi and our company suffers most from the construction. We cannot work during the building process,&quot; he said.</p>
+<p>The company's 150 employees would be on leave without pay during the &quot;freeze&quot;, but the official guaranteed they would be able to return to their jobs when the airline resumed operations. He could not say when the work would be completed.</p>
+<p>He repeated the company's denial of a newspaper report on Tuesday which claimed the airline was suspending flights because it was facing bankruptcy.</p>
+<p>He said the airline planned to restart service after the renovation was completed, adding the company's board had convened this week to discuss &quot;how to restart operations after the reconstruction&quot;.</p>
+<p>Albanian Airlines was founded in 1992 as a joint venture between the state tourism agency Albtransport and Austria's Tyrolean Airways. Both companies owned a 50 percent stake in the airline.</p>
+<p>Albanian Airlines was subsequently bought for $2 million in 1995 by the Kuwaiti Al Kharafi Group, which paid off all the company's previous debts. Al Kharifi currently owns 95 percent of the company, while the Albanian government retains a five percent stake.</p>
+<p>Albanian Airlines makes 12 flights a week to Munich, Bologna, Rome and Istanbul.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I5020002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

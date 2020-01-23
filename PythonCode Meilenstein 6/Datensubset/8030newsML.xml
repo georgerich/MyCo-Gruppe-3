@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8030" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: UK's Goldsmiths moves into black at H1.</title>
+<headline>UK's Goldsmiths moves into black at H1.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Half year July 27, 1996</p>
+<p>			   (million stg unless stated)</p>
+<p> Shr (pence)		0.18 gain	    vs 1.49 loss</p>
+<p> Dividend (pence)	 2.40		   vs 1.20</p>
+<p> Pretax		     0.05 profit	  vs 0.49 loss</p>
+<p> Turnover		   28.1		   vs 24.8</p>
+<p> Trading profit	   0.57		   vs 0.08</p>
+<p> Interest payable	 0.51		   vs 0.57</p>
+<p> Tax			  0.01		   vs 0.16</p>
+<p> Net taxed		  0.04 profit	  vs 0.33 loss</p>
+<p> Pay date		   December 16</p>
+<p> Div registration date  November 5</p>
+<p> Ex-div date		October 28</p>
+<p>NOTE - Goldsmiths Group Plc is a jewellery firm. The firm said the retail trading environment is still fragile, but that the firm is trading well.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

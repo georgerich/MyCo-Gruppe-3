@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7334" id="root" date="1996-08-21" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR mostly softer as peso rates rise.</title>
+<headline>Manila's PHIBOR mostly softer as peso rates rise.</headline>
+<dateline>MANILA 1996-08-21</dateline>
+<text>
+<p>Philippine interbank offered rates (PHIBOR) were mostly softer to steady on Wednesday, except for one-week money which rose to 11.875 percent from 11.8125, dealers said.</p>
+<p>Manila's overnight call loan rate edged up to 11.96875 percent from 11.84375 on Wednesday despite a cut in the Central Bank overnight rates due to tightening liquidity.</p>
+<p>&quot;Only the one-week PHIBOR followed the interbank market as most bankers believe the liquidity problem in the local banking system was temporary,&quot; said one dealer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

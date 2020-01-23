@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3093" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: IBM and Kasparov announce chess re-match.</title>
+<headline>IBM and Kasparov announce chess re-match.</headline>
+<byline>Grant McCool</byline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>World chess champion Garry Kasparov will play IBM's supercomputer Deep Blue next year in a $1.1 million re-match of last February's historic contest, IBM said on Tuesday.</p>
+<p>An IBM spokeswoman said the six-game match would be played at the Millennium hotel in New York on May 3-10, with $700,000 going to the winner and $400,000 to the loser.</p>
+<p>In Philadelphia last February, the powerful machine -- capable of looking at 200 million possible moves per second -- created chess history when it became the first computer program to defeat a grandmaster in classical chess format, in which games can last several hours.</p>
+<p>Kasparov recovered from the first game defeat and eventually won the contest and $400,000 with three wins and two draws in the remaining games. The IBM team of scientists and programmers were awarded $100,000.</p>
+<p>The Philadelphia match, part of the 50th anniversary celebrations of the Association of Computing and Machinery, drew hundreds of spectators and an estimated one million &quot;hits&quot; on a website retrieved by fans all over the world.</p>
+<p>&quot;The first match was to test the Deep Blue technology,&quot; said C.J. Tan, manager of the IBM team. &quot;Scientifically, our experiment was extremely successful. We learned a lot from dueling Kasparov. We have now refined our technology and are in the process of strengthening our game.&quot;</p>
+<p>IBM's purpose in the first match was to test parallel computing systems intended for use in such diverse areas as the manufacture of new drugs for the pharmaceutical industry and air traffic control.</p>
+<p>Kasparov, who characterized the match as a battle between human intuition and the brute force of a huge calculating machine, said he welcomed the prospect of a re-match.</p>
+<p>&quot;I look forward to taking on IBM's new and more powerful machine and hope to prove that human knowledge, intuition, creativity and imagination can overcome the incredible capacity of the new machine,&quot; Kasparov said in a statement.</p>
+<p>IBM spokeswoman Marcy Holle said spectators in New York could watch the games on screens in the Hudson Theater adjoining the hotel. Kasparov, 33, has previously played in the theater. In 1990, the first half of his world championship match against fellow Russian grandmaster and arch-rival Anatoly Karpov took place there.</p>
+<p>But Kasparov broke ties with the International Chess Federation, known by its French acronym FIDE, in 1993 to form the Professional Chess Association (PCA). He successfully defended his PCA title in New York in October 1995 against Indian challenger Viswanathan Anand.</p>
+<p>The chess world was split between Kasparov as champion of the PCA and Karpov, who retained his FIDE crown in June when he defeated Russian-born U.S. grandmaster Gata Kamsky in a match held in the former Soviet republic of Kalmykia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

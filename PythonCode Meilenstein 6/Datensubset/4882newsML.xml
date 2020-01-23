@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4882" id="root" date="1996-08-20" xml:lang="en">
+<title>SWEDEN: Sweden Riksbank repo drains 70 bln SKR from market.</title>
+<headline>Sweden Riksbank repo drains 70 bln SKR from market.</headline>
+<dateline>STOCKHOLM 1996-08-20</dateline>
+<text>
+<p>Sweden's Riksbank (central bank) said on Tuesday it drained 70 billion crowns from the market in the morning's seven-day reverse repurchase tender.</p>
+<p>The repo, which was set at an unchanged fixed rate of 5.40 percent, replaced a seven-day operation that drained 71 billion crowns from the market.</p>
+<p>The central bank said 16.55 percent of the bids in the auction were allocated.</p>
+<p>The repo rate was cut last Tuesday by 15 basis points to 5.40 percent from 5.55 percent.</p>
+<p>The other two elements of the central bank's interest rate corridor, the deposit and lending rates, are currently set at 4.75 percent and 6.25 percent respectively after a 50 basis point cut on Thursday.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

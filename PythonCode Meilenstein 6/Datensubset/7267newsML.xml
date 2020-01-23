@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7267" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: PRESS DIGEST - Taiwan newspapers - August 21.</title>
+<headline>PRESS DIGEST - Taiwan newspapers - August 21.</headline>
+<text>
+<p>Newspaper headlines</p>
+<p>CHINA TIMES - Vice President Lien Chan may hold unofficial meeting with Ukraine president today (August 21).</p>
+<p>Ministry of Transportation and Communications says it welcomes communist China's rules governing direct links, but adds it is only for semidirect links.</p>
+<p>UNITED DAILY NEWS - Communist China allows ships involving Taiwanese or Chinese shipping companies to sail across Taiwan strait.</p>
+<p>Lien Chan receives honorary degree at University of Keiv.</p>
+<p>COMMERCIAL TIMES - Communist China opens ports at Xiamen and Fuzhou to be first for direct links with Taiwan.</p>
+<p>Taiwan's diplomatic allies face tough choice on whether to retain their representative offices in Hong Kong.</p>
+<p>ECONOMIC DAILY NEWS - Taiwan's balance of payments shows surplus of US$3.656 billion in second quarter of 1996.</p>
+<p>Taiwan shipping companies expect direct Taiwan-China shipping links to take place as early as end of year.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

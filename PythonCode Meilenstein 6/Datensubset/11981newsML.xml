@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11981" id="root" date="1996-08-23" xml:lang="en">
+<title>PORTUGAL: Bank/Portugal cuts repo rate 25 bp to 7.25 pct.</title>
+<headline>Bank/Portugal cuts repo rate 25 bp to 7.25 pct.</headline>
+<dateline>LISBON 1996-08-23</dateline>
+<text>
+<p>The Bank of Portugal said on Friday it cut its key money market repo rate by 0.25 percentage points to a fixed 7.25 percent effective at the start of the next seven-day commercial bank reserve period on Monday.  </p>
+<p>The central bank offered to inject up to 20 billion escudos of funds to the money market in a securities repurchase tender. Bids must be submitted by 1415 GMT.</p>
+<p>The Bank of Portugal's rate cut, in line with analysts' expectations, followed a larger than expected cut in Germany's main money market rate on Thursday to 3.00 from 3.30 percent.  </p>
+<p>Portuguese money rates eased on Thursday afternoon and Friday morning as the market anticipated the cut.</p>
+<p>Tomorrow/next stood at 7.25/7.30 percent on Friday, slightly below Thursday's close. One month money was 7.20/7.30 percent, compared with 7.28/7.35 percent at Thursday's close.</p>
+<p>The Bank of Portugal had previously cut rates on April 19 when it cut the rate at which it drains funds from the money market (absorption rate) by 40 basis points (bp) to 6.80 percent and its repo rate by 10 bp to 7.50 percent. The central bank also cut the emergency lending rate by 0.5 percentage point to 9.00 percent.</p>
+<p>Seven analysts polled by Reuters on Thursday expected a cut in the repo rate of up to 0.25 percentage point on Friday.</p>
+<p>-- David Brough, Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4617" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH KOREA: S.Korean won closes lower in tight range trading.</title>
+<headline>S.Korean won closes lower in tight range trading.</headline>
+<dateline>SEOUL 1996-08-20</dateline>
+<text>
+<p>The South Korean won closed slightly lower against the dollar in tight trading on Tuesday as banks bought dollars to hedge their positions, brokers said.</p>
+<p>Recent volatility and continued bullish sentiment toward the dollar made banks nervous about keeping short dollar position.</p>
+<p>But fears that the central bank would sell dollars if the won fell below 820 kept that support line strong.</p>
+<p>The won closed at 819.70, after opening at 819.30. It ranged tightly between 818.90 and 819.90.  </p>
+<p>&quot;Despite the central bank's huge supply of dollars into the market last week, customer demand for dollars was still very strong on Monday,&quot; said a European bank dealer. &quot;I think the Bank of Korea will have to come in again in order to turn the dollar's trend around.&quot;</p>
+<p>Some import settlements were also seen on Tuesday.</p>
+<p>As the Korean Thanksgiving holiday approaches, dealers said the central bank was expected to keep a tight control on inflation, pressuring the dollar.</p>
+<p>The won was expected to trade between 818 and 820 on Wednesday.  -- KATHERINE BRUCE (822) 727 5644</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

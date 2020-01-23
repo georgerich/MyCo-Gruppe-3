@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9006" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: HK, Taiwan airlines to up ex-Europe air cargo rates.</title>
+<headline>HK, Taiwan airlines to up ex-Europe air cargo rates.</headline>
+<byline>Helen Hill</byline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Hong Kong and Taiwan-based airlines are planning autumn air cargo rates increases to their home markets from European centres, air cargo sources told Reuters said.</p>
+<p>Air Hong Kong Ltd (AHK) plans &quot;a small&quot; ex-Europe to Hong Kong cargo rate increase from October and may be followed by Cathay Pacific AirWays Ltd,the latter's Dutch cargo manager said.</p>
+<p>Achim van der Graaff, in a Reuters telephone interview from Amsterdam, said the AHK increases are planned for October 1.</p>
+<p>&quot;These are marginal increases and I think the market can accept a slightly higher price.&quot;</p>
+<p>&quot;If the AHK increase are accepted, Cathay may implement similar increases,&quot; said van der Graaff.</p>
+<p>Cathay, which owns 75 percent of AHK is also its general sales agent in the Netherlands, in Zurich and Paris.</p>
+<p>Van der Graaff said the usual April rates review earlier this year did not result in Cathay implementing a rate rise.</p>
+<p>AHK chief operating officer, Stanley Hui, told Reuters on August 21 that rates on routes from Europe to Hong Kong will be raised &quot;a little bit&quot;.</p>
+<p>Taiwanese carrier, EVA Airways Corp said in London at end-July that it is seeking an increase of five to ten percent on all of its ex-Europe to Far East routes from mid-September.</p>
+<p>A China Airlines source said today that winter schedule rises are being considered on the routes but &quot;we will also wait and see what the market says.&quot;</p>
+<p>Competition on routes to Hong Kong and Taipei has been very tough, said one source from a north Asian carrier, adding that it is not really surprising that rates increases are planned, as these are needed to try and rebuild yields. -- Air Cargo Newsroom Tel +44-171-542-7706 Fax+44-171-542-5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

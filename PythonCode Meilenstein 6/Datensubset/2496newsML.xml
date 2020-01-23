@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2496" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Widespread aflatoxin found in south Texas corn.</title>
+<headline>Widespread aflatoxin found in south Texas corn.</headline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>Aflatoxin, a potent carcinogen, has been discovered in much of the corn harvested along the Texas Gulf Coast, and Texas grain sources said more may be found as the harvest moves north.</p>
+<p>&quot;It is a high level (of contamination) and it is serious,&quot; said George Latimer, the Texas state chemist based in College Station, Tx. &quot;The levels of aflatoxin are of considerable concern throughout Texas.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

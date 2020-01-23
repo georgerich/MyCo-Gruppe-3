@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11184" id="root" date="1996-08-23" xml:lang="en">
+<title>MEXICO: Mexico key Cetes rate closes lower on liquidity.</title>
+<headline>Mexico key Cetes rate closes lower on liquidity.</headline>
+<dateline>MEXICO CITY 1996-08-23</dateline>
+<text>
+<p>Mexico's three-day Cetes rate, the Friday equivalent of same-day Cetes rate, closed lower in a trading session marked by high liquidity and volume, dealers said.</p>
+<p>The benchmark rate on the secondary money market  MXAAB fell 50 basis poinits to 23.50 percent.</p>
+<p>&quot;The market has been very stable these days because foreign money keeps coming in, mostly from those who had positions in Brazil and Argentina,&quot; one dealer said. &quot;The volume has concentrated in short-term paper.&quot;</p>
+<p>Rates one-month paper also closed lower, down 10 basis points to 23.90 percent. But rates on 91-day Cetes climbed 100 basis points to 27.50 percent and 10 basis points on six-month paper to 29.10 percent.</p>
+<p>Rates for bank notes and acceptances rose 25 basis points to 24.75 percent.</p>
+<p>--Karina Balderas, Mexico City newsroom, (525) 728-9562</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

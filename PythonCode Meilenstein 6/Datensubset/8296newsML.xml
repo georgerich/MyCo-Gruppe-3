@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8296" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: WCI Steel Q3 July 31 net slips, shr $0.22.</title>
+<headline>WCI Steel Q3 July 31 net slips, shr $0.22.</headline>
+<dateline>WARREN, Ohio 1996-08-22</dateline>
+<text>
+<p>WCI STEEL, INC. AND SUBSIDIARIES</p>
+<p>(Dollars in thousands, except per share and per ton data)</p>
+<p>			     Three months		 Nine months</p>
+<p>			    ended July 31,	     ended July 31,</p>
+<p>			   1996	  1995	  1996	1995</p>
+<p>Net sales	   $174,695    $170,742    $490,147  $523,611</p>
+<p>Total expenses     156,655     150,333     444,366   456,165</p>
+<p>Operating income    18,040	20,409	45,781    67,446</p>
+<p>Net income	    $8,130	$9,371     $19,112   $31,419</p>
+<p>Wtd avg  </p>
+<p>  shrs o/s	36,529,852  36,578,300  36,552,069 36,576,444</p>
+<p>Net per share	   $.22	  $.26	  $.52	 $.86</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARREN, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

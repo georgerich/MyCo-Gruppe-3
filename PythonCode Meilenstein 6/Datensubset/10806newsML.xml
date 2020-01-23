@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10806" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Telscape completes merger with Orion.</title>
+<headline>Telscape completes merger with Orion.</headline>
+<dateline>DALLAS 1996-08-23</dateline>
+<text>
+<p>Telscape International said on Friday that it completed the merger with Orion Communications Inc of Houston.</p>
+<p>Orion, founded in April 1996 as a management spinoff of Matrix Telecom, is a reseller of long-distance telecommunications services. It is expected that Scott Crist, chairman of Orion and former chief executive of Matrix, will head up the combined companies as president and chief executive officer. Mark Vance, former chief financial officer of Matrix, will serve as chief financial officer of Telscape, the company said.</p>
+<p>Telscape was formerly known as Polish Telephones and Microwave Corp, a company spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

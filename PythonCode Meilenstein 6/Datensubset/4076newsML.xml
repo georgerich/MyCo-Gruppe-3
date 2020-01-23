@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4076" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: BALANCE - Seminole County, Fla., at $7.57 million.</title>
+<headline>BALANCE - Seminole County, Fla., at $7.57 million.</headline>
+<text>
+<p>SEMINOLE COUNTY, FLORIDA</p>
+<p>RE: $19,130,000</p>
+<p>LIMITED GENERAL OBLIGATION REFUNDING</p>
+<p>AND ACQUISITION BONDS, SERIES 1996</p>
+<p>    MOODY'S: Aaa		   S&amp;P: AAA</p>
+<p>		 (A1 UNDERLYING)</p>
+<p>Delivery Date: 08/29/1996</p>
+<p>MBIA INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>----------------------------------------------------------------04/01/2004</p>
+<p>     110M    4.55	100.00</p>
+<p>04/01/2005		20M    4.65	100.00</p>
+<p>04/01/2006	     215M    4.75	100.00</p>
+<p>04/01/2007	     950M    4.875     100.00</p>
+<p>04/01/2008	     565M    5.00	100.00</p>
+<p>04/01/2009	   1,365M    5.00	  5.10</p>
+<p>04/01/2010	   1,240M    5.125	 5.20</p>
+<p>04/01/2011	   1,450M    5.125	 5.25</p>
+<p>04/01/2012	   1,655M    5.125	 5.30</p>
+<p>  Total:	     7,570M</p>
+<p>Smith Barney Inc.</p>
+<p>Wachovia Bank of North Carolina</p>
+<p>Rauscher Pierce Refsnes, Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

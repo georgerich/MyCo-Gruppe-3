@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9952" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Adtrans yr net profit falls slightly.</title>
+<headline>RTRS-Adtrans yr net profit falls slightly.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Year to June 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Operating profit		     6.88 vs 7.00</p>
+<p>    Net					4.03 vs 4.33</p>
+<p>    Final dividend (cents)	     5.50 vs 5.50</p>
+<p>    Total dividend (cents)	     10.5 vs 10.5</p>
+<p>    Sales				  360.43 vs 346.54</p>
+<p>    Other income			   0.71 vs 0.92</p>
+<p>    Shr (cents)			    19.0 vs 23.6</p>
+<p>Note: Adtrans is an Adelaide-based car and truck distributor.  </p>
+<p>    Abnormal items			 nil  vs nil</p>
+<p>Dividend is fully franked</p>
+<p>Pay date Oct 22</p>
+<p>Reg date Oct 11</p>
+<p>    Tax					2.58 vs 2.30</p>
+<p>    Interest				 2.27 vs 2.13</p>
+<p>    Depreciation			   0.75 vs 0.72</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I8150203">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

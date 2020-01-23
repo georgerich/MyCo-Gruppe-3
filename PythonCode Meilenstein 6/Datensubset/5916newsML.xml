@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5916" id="root" date="1996-08-21" xml:lang="en">
+<title>KENYA: PRESS DIGEST - Kenya - Aug 21.</title>
+<headline>PRESS DIGEST - Kenya - Aug 21.</headline>
+<dateline>NAIROBI 1996-08-21</dateline>
+<text>
+<p>These are the leading stories in the Kenyan press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>DAILY NATION</p>
+<p>- An opposition alliance opposes a suggestion by a member of parliament that a select committee on constitutional and legal reforms be appointed to deal with an impasse in the reform debate.</p>
+<p>- President Daniel arap Moi says opposition leaders Raila Odinga and Kenneth Matiba plan civil disobedience in Trans Nzoia district and warns of tough measures against anyone trying to create fear and despondency.</p>
+<p>EAST AFRICAN STANDARD</p>
+<p>- 160 ruling Kenya African National Union supporters in northeast province defect to the opposition FORD-Kenya party.</p>
+<p>- Foreign Minister Kalonzo Musyoka is accused of attempting to muzzle the press through intimidation and issuing threats.</p>
+<p>KENYA TIMES</p>
+<p>- Health minister Joshua Angatia says the government is reforming the health sector to improve the quality of services.</p>
+<p>($1=57 Shillings)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

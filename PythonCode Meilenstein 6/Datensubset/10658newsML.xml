@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10658" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Quebec sees Q1 deficit in line with 96/97 forecast.</title>
+<headline>Quebec sees Q1 deficit in line with 96/97 forecast.</headline>
+<dateline>QUEBEC CITY 1996-08-23</dateline>
+<text>
+<p>The government of Quebec said on Friday that budget figures for the first fiscal quarter ended June 30 showed it remained on track to meet its C$3.3 billion deficit target for 1996/97.</p>
+<p>In a statement, the finance department said revenues fell by 2.9 percent in the first quarter of fiscal 1996/97 compared with the year earlier quarter, while spending dropped 2.4 percent, but it gave no figures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUEBEC CITY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

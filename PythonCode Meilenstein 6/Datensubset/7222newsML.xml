@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7222" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Woolworths says retail market subdued.</title>
+<headline>RTRS-Woolworths says retail market subdued.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Supermarket retailer Woolworths Ltd said the retail market generally remained subdued through July and August.  </p>
+<p>&quot;The retail market generally remains subdued through July and August,&quot; Woolworths said in a statement accompanying the 1995/96 results.</p>
+<p>Woolworths earlier reported a slight increase in net profit to A$233.6 million in the 52 weeks to June 23, 1996.</p>
+<p>Australia's largest grocer said it would continue its refurbishment programme and new store developments to gain incremental sales.</p>
+<p>&quot;These combined with initiatives to be announced will demonstrate the optimism the directors have for the future growth of the company,&quot; Woolworths said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

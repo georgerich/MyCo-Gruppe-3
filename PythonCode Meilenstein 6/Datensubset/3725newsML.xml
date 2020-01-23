@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3725" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: St Louis deliverable soybean stocks.</title>
+<headline>St Louis deliverable soybean stocks.</headline>
+<dateline>ST LOUIS 1996-08-20</dateline>
+<text>
+<p>The CFTC reported the following stocks of soybeans in St Louis, deliverable against Chicago futures. (in 000's bushels) -</p>
+<p>						8/16     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Total Deliverable Grades		   66     141     101</p>
+<p>Non-Del Grades/Ungraded		     0	 0	 0</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL ST. LOUIS SOYBEAN STOCKS	   66     141     101</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

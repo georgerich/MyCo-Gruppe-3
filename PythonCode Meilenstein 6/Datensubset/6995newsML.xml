@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6995" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Ginnie Mae upsizes to $200 mln REMIC 1996-19.</title>
+<headline>Ginnie Mae upsizes to $200 mln REMIC 1996-19.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>The Government National Mortgage Association (GNMA or Ginnie Mae) said it increased to $200 million a previous issue of Real Estate Mortgage Investment Conduit (REMIC) securities.</p>
+<p>REMIC 1996-19 is backed about $200 million of 7.5 percent GNMA II certificates, Ginnie Mae said.</p>
+<p>Sponsored by Merrill Lynch &amp; Co Inc and co-sponsored by Utendahl Capital Partners LP, the REMIC priced August 8, was upsized August 19 and has a settlement date of September 27, Ginnie Mae said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

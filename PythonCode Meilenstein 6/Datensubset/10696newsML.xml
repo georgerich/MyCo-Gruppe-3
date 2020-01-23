@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10696" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Ivy Canadian Fund holds 5.2 pct of IPSCO.</title>
+<headline>Ivy Canadian Fund holds 5.2 pct of IPSCO.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>Ivy Canadian Fund said Friday it acquired a 5.2 percent stake, or 1,397,900 common shares, in IPSCO Inc.</p>
+<p>In a filing with the U.S. Securities and Exchange Commission, the fund said it held the stake for investment purposes.</p>
+<p>It said its latest transactions include the purchase of 90,000 shares of IPSCO on August 14 for C$30 a share.</p>
+<p>The fund said it holds the shares through Mackenzie Financial Corp, its investment adviser.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

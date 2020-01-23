@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2884" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Electronic Manufacturing to buy company.</title>
+<headline>Electronic Manufacturing to buy company.</headline>
+<dateline>RALEIGH, N.C. 1996-08-20</dateline>
+<text>
+<p>Electronic Manufacturing Services Group said Tuesday it intends to acquire Hybrid-Tek Inc, a private company based in Clarksburg, N.J.</p>
+<p>As part of the agreement, EMSG will purchase all of Hybrid-Tek's common stock, and will pay Hybrid-Tek's shareholders cash and EMSG stock at the closing.</p>
+<p>Hybrid-Tek's existing management has agreed to remain in place for the next year. It will continue to operate out of its current location and under the same name.</p>
+<p>The final terms and conditions are subject to approval by EMSG's board.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RALEIGH, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

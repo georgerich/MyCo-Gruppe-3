@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4427" id="root" date="1996-08-20" xml:lang="en">
+<title>SPAIN: Spain had 282.1 bln pta July budget surplus.</title>
+<headline>Spain had 282.1 bln pta July budget surplus.</headline>
+<dateline>MADRID 1996-08-20</dateline>
+<text>
+<p>The Economy Ministry gave the following figures in billions of pesetas:</p>
+<p> BUDGET OPERATIONS	   JULY 96	JUNE 96     JULY 95</p>
+<p> Revenues		     1,851.5	 1,203.5     1,789.7</p>
+<p> Expenditure		  1,569.4	 1,584.1     1,559.3</p>
+<p> Deficit/surplus		282.1	  -380.6	 230.4</p>
+<p> Def/surplus to date     -1,184.0	-1,466.1    -1,456.7</p>
+<p> GBR yr to date	     1,866.7	 1,560.8     2,445.1</p>
+<p>NOTE - The figures relate to central government finances only.</p>
+<p>GBR = government borrowing requirement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

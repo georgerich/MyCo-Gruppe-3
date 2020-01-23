@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4654" id="root" date="1996-08-20" xml:lang="en">
+<title>HONG KONG: Lamex Holdings year profit down 5.2 pct.</title>
+<headline>Lamex Holdings year profit down 5.2 pct.</headline>
+<dateline>HONG KONG 1996-08-20</dateline>
+<text>
+<p>Year ended April 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   23.5   vs 24.8</p>
+<p>    Dividend (H.K. cents)    5.2    vs 3.7</p>
+<p>    Exceptional items	  nil    vs 23.17 gain</p>
+<p>    Net			    65.89  vs 69.49</p>
+<p>    Turnover		     901.93 vs 798.90</p>
+<p>    Company name		 Lamex Holdings Ltd</p>
+<p>    Books close		  October 3-8</p>
+<p>    Dividend payable	   November 8</p>
+<p>NOTE - Lamex Holdings markets office furniture.</p>
+<p>Total dividend for year is 8.5 H.K. cents (including interim dividend of 3.3 cents) vs 5.5 cents.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

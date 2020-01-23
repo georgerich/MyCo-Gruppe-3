@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7324" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: Cheung Tai Hong yr net loss HK$75.74 mln.</title>
+<headline>Cheung Tai Hong yr net loss HK$75.74 mln.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	 12.9 loss  vs 2.9 gain (see note)</p>
+<p>    Dividend (H.K. cents)  nil	  vs nil</p>
+<p>    Exceptional items	33.26 loss vs 17.85 gain (see note)</p>
+<p>    Net			  75.74 loss vs 17.33 profit (see note)</p>
+<p>    Turnover		   725.08     vs 1,050.37</p>
+<p>    Company name	     Cheung Tai Hong Holdings Ltd</p>
+<p>    Books close		September 20-26</p>
+<p>    Dividend payable	 N/A</p>
+<p>NOTE - An importer of diversified consumer goods.</p>
+<p>Net is after an exceptional loss on provision for doubtful debts, severance payments for employees and compensation to directors for loss of office to directors.</p>
+<p>Comparative figures have been changed to conform with Hong Kong Statement of Standard Accounting Practice No. 17.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7057" id="root" date="1996-08-21" xml:lang="en">
+<title>SWITZERLAND: Swiss doctor kills himself on plane with army knife.</title>
+<headline>Swiss doctor kills himself on plane with army knife.</headline>
+<dateline>GENEVA 1996-08-21</dateline>
+<text>
+<p>A Swiss doctor used a Swiss army knife to stab himself to death on a plane after it landed at Geneva airport, police sources said on Wednesday.</p>
+<p>They said the man, in his 30s, plunged the knife several times into his heart in front of other passengers shortly after the British Airways plane landed, and died minutes later.</p>
+<p>&quot;The plane had landed and was taxiing toward the stand when crew became aware that there was blood on this gentleman,&quot; said an airline spokesman in London.</p>
+<p>The doctor, who has not been named, was on his way back from a visit to the United States, where he was said to have suffered psychological problems.</p>
+<p>The doctor's wife and a psychologist were waiting for him at the airport, the police sources said.</p>
+<p>They confirmed a report in the daily Tribune de Geneve which said cabin crew, warned of the man's state, had been keeping an eye on him during British Airways flight BA 730 from London on Monday evening.</p>
+<p>He stabbed himself after the seat belt sign was turned off. There was said to be no panic among other passengers, many of whom had disembarked.</p>
+<p>&quot;Police came on board to interview the crew and were said to be satisfied that no one else was involved in the incident,&quot; the airline spokesman said.</p>
+<p>&quot;There was no breach of security whatsoever in terms of a knife being aboard. It was a penknife which was well within permitted length limits.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10086" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Tokyo Soir -6mth parent results.</title>
+<headline>Tokyo Soir -6mth parent results.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 12.12		vs	   13.11</p>
+<p> Operating	  181    million    vs	  340    million</p>
+<p> Current	    162    million    vs	  320    million</p>
+<p> Net		prft 125 million    vs    loss 83    million</p>
+<p> EPS	     prft 5.84 yen	  vs     loss 3.86 yen</p>
+<p> Shares	     22 million	  vs	  22 million</p>
+<p> Interim div	  5.00 yen	  vs	    5.00 yen</p>
+<p>NOTE - Tokyo Soir Co Ltd is a specialised manufacturer of women&quot;s formal wear.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

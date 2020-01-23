@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6795" id="root" date="1996-08-21" xml:lang="en">
+<title>EGYPT: Egypt raises Sept crude prices by 5 to 15 cents.</title>
+<headline>Egypt raises Sept crude prices by 5 to 15 cents.</headline>
+<dateline>CAIRO 1996-08-21</dateline>
+<text>
+<p>Egypt is raising the September prices of its crude oil by between five and 15 cents against Dated Brent, the state Egyptian General Petroleum Corp (EGPC) said on Wednesday.</p>
+<p>Here are the new differentials against Dated Brent (August differentials in brackets):</p>
+<p>Gulf of Suez -$2.25 (-$2.40)</p>
+<p>Belayim -$3.00 (-$3.05)</p>
+<p>Ras Badran -$3.20 (-$3.25)</p>
+<p>Ras Behar -$1.45 (-$1.55)</p>
+<p>Ras Gharib -$4.00 (-$4.05)</p>
+<p>Zeit Bay -$1.50 (-$1.60)</p>
+<p>-- Jonathan Wright +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10706" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US car companies ask government for slower airbags.</title>
+<headline>US car companies ask government for slower airbags.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>A domestic auto company trade group on Friday petitioned the federal government for permission to reduce the explosive and sometimes injury-producing speed that air bags deploy during accidents.</p>
+<p>While lifesavers in serious crashes, air bags come with a price, including injuries to children and smaller adults and a few deaths over the years, officials from the American Automobile Manufacturers Association told reporters.  </p>
+<p>They said that, in order to meet current federal standards, air bags must inflate at speeds of up to 200 miles an hour, sometimes wrecking havoc, particularly when occupants are not properly buckled in with seat belts.</p>
+<p>In a petition to the National Highway Traffic Safety Administration, the trade group that represents Ford, General Motors and Chrysler, said the force of the air bag is being dictated by required tests using unbuckled dummies in a car traveling 30 m.p.h. against a stationary barrier.  </p>
+<p>&quot;Changing the standard is the best way to enhance -- and continue -- the life-saving effectiveness of air bags and, at the same time, reduce the risk of air bag related fatalities or injuries in the near term,&quot; association president Andrew Card, told reporters.</p>
+<p>The new request comes as the industry and safety experts are trying to find ways to reduce the vunerability of small children and others to injuries from air bags, including developing smart bags that &quot;sense&quot; the size and weight of occupants during crashes so deployment can be adjusted.</p>
+<p>The safety administration has proposed revisions to its current air bag warning label requirements and the expansion of controversial airbag cut off switches that allow airbags to be turned off under certain conditions.</p>
+<p>In a statement, the safety administration said it &quot;welcomed the petition and will be looking closely for quantifying evidence of how many child fatalites it would prevent, as well as the consequencies for adult occupants.&quot;</p>
+<p>Some 24 children and 19 adults have died since 1990 due to air bag deployment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

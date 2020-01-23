@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11334" id="root" date="1996-08-23" xml:lang="en">
+<title>SINGAPORE: Australia's Ampol to cut September runs at Lytton.</title>
+<headline>Australia's Ampol to cut September runs at Lytton.</headline>
+<dateline>SINGAPORE 1996-08-23</dateline>
+<text>
+<p>Australia's largest refiner Ampol Petroleum Pty Ltd plans to cut refinery runs at its 100,000 barrel-per-day (bpd) refinery in Lytton, Brisbane, by up to six percent from September, industry sources said on Friday.</p>
+<p>Ampol was also considering a seven-percent cut in throughputs at its 115,000 bpd Kurnell refinery in October, they said.</p>
+<p>&quot;At this stage, the reduction is only for a month but it really depends on margins,&quot; one source said.</p>
+<p>Ampol officials were not available for comment.</p>
+<p>Ampol plans a scheduled 10-day shutdown of a 20,000 bpd reformer at Kurnell, which produces gasoline from straight run naphtha, in the second half of September.</p>
+<p>A second 20,000 bpd reformer may also be shut down for regeneration in October, an industry source said.</p>
+<p>--Singapore Newsroom (+65 870 3081)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

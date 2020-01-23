@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4408" id="root" date="1996-08-20" xml:lang="en">
+<title>VATICAN: Pope in good health after abdominal problem.</title>
+<headline>Pope in good health after abdominal problem.</headline>
+<dateline>VATICAN CITY 1996-08-20</dateline>
+<text>
+<p>Pope John Paul, who suffered an abdominal problem last week, was in good health on Tuesday and took part in a seminar on Eastern Europe at his summer residence, the Vatican said.</p>
+<p>Chief Vatican spokesman Joaquin Navarro-Valls told reporters he found the 76-year-old Pope in &quot;good form and spirits&quot; at the Castelgandolfo residence south of Rome.</p>
+<p>He said the Polish Pontiff was taking active part in a two-day seminar on Slavic cultures attended by 17 academics and scientists from countries in Eastern Europe and elsewhere.</p>
+<p>The spokesman said the Pope would return to the Vatican for several hours as planned on Wednesday for his weekly general audience.</p>
+<p>The Pope entered hospital briefly for a checkup last week after complaining of pains and took antibiotics for the unspecified abdominal problem caused by a mild infection.</p>
+<p>The infection also caused the Pope to suffer a mild fever.</p>
+<p>A CAT (Computed Axial Tomography) scan showed nothing out of order, particularly in relation to a 1992 operation to remove an intestinal tumour that was starting to turn malignant.</p>
+<p>The Pontiff looked rosy-cheeked but tired on Sunday when he last appeared in public at Castelgandolfo.</p>
+<p>The Vatican has said visits to Hungary and France in September would go ahead as planned.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

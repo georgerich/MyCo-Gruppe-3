@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5043" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH AFRICA: S.African shares knocked down at close on selling.</title>
+<headline>S.African shares knocked down at close on selling.</headline>
+<dateline>JOHANNESBURG 1996-08-21</dateline>
+<text>
+<p>Another day of local and foreign selling saw South African shares take a battering, ending lower across-the-board in listless trade characterised by a lack of direction, dealers said.</p>
+<p>At the official close, the industrial index had lost 58 points to 7,592.4 and the gold index slipped 4.8 points to 1,726.4, leaving the overall index 24.8 points lower at 6.421.</p>
+<p>Dealers said the day had looked promising with industrials posting mild early gains but bearishness had put a lid on initial strength. In a similar situation to Tuesday, foreigners had dumped stock on both the futures and stock market.</p>
+<p>They said there was huge pessimism in the market, sparked by negative crime reports, political wranglings and the sickly rand, and little hope in sight of a short-term turnaround.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

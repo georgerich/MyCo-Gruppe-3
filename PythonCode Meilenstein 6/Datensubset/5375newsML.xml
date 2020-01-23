@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5375" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: SOCCER-UEFA CUP RESULTS.</title>
+<headline>SOCCER-UEFA CUP RESULTS.</headline>
+<dateline>LONDON 1996-07-21</dateline>
+<text>
+<p>Results of UEFA Cup qualifying</p>
+<p>round, second leg matches on Tuesday:</p>
+<p>In Bodo: Bodo Glimt (Norway) 2 Beitar Jerusalem (Israel) 1</p>
+<p>(halftime 1-0)</p>
+<p>Bodo win 7-2 on aggregate</p>
+<p>In Molde: FK Molde (Norway) 0 Dynamo Tbilisi (Georgia) 0</p>
+<p>Dynamo win 2-1 on aggregate</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GRGIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4846" id="root" date="1996-08-20" xml:lang="en">
+<title>IRAQ: Iraq slams U.N. for imposing air embargo on Sudan.</title>
+<headline>Iraq slams U.N. for imposing air embargo on Sudan.</headline>
+<dateline>BAGHDAD 1996-08-20</dateline>
+<text>
+<p>Iraq on Tuesday criticised the United Nations Security Council for imposing an air embargo on Sudan for failing to hand over three men accused of trying to assassinate Egyptian President Hosni Mubarak last year.</p>
+<p>&quot;When the Security Council deals with Arab issues it does not take into consideration principles of justice and the United Nations charter. It only becomes energetic when it wants to direct a blow against this Arab country or that,&quot; said a Foreign Ministry spokesman in remarks quoted by Iraqi newspapers.</p>
+<p>&quot;Iraq rejects such unjust policy being followed by the Security Council which contradicts principles and objectives of the United Nations charter,&quot; the spokesman said.</p>
+<p>The Security Council last week imposed an air embargo on Sudan -- but delayed putting it into effect for at least three months -- for failing to extradite three men accused of trying to assassinate Mubarak in Addis Ababa last year.</p>
+<p>Khartoum said it could not hand over the three Egptian suspects because they were not in Sudan.</p>
+<p>The Iraqi spokesman said: &quot;The brotherly Arabs should solve their problems by themselves...and should not internationalise them.&quot;</p>
+<p>Sudan sympathised with Iraq during the 1991 Gulf War in which a U.S-led multinational force ended Iraq's seven-month occupation of Kuwait.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

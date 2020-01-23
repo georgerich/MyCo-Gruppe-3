@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2705" id="root" date="1996-08-20" xml:lang="en">
+<title>FINLAND: AMER EXTENDS GAINS, HITS 21-MONTH HIGH.</title>
+<headline>AMER EXTENDS GAINS, HITS 21-MONTH HIGH.</headline>
+<dateline>HELSINKI 1996-08-20</dateline>
+<text>
+<p>Shares in Finnish sporting goods group Amer-yhtyma Oy on Tuesday extended strong earlier gains and hit its highest value since November 2, 1994 amid sustained lively foreign demand, brokers said.</p>
+<p>At 1615/1315 GMT, Amer traded at 109.0 markka, up 8.80 markka or over eight percent. Volume was a massive 45 million markka. </p>
+<p>&quot;Amer shares are being bought with big money from abroad,&quot; one broker said.</p>
+<p>However, brokers had no explanation for the lively demand.</p>
+<p>-- Helsinki newsroom +358 - 0 - 680 50 245</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

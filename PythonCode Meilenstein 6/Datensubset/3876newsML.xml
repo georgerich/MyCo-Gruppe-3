@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3876" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: WSC-India and Pakistan Cotton Weather, Aug 20.</title>
+<headline>WSC-India and Pakistan Cotton Weather, Aug 20.</headline>
+<text>
+<p>SUMMARY- Scattered showers and thunderstorms in India, mostly dry in Pakistan. Highs 85-95F (29-35C) India, 88-102F (31-39C) Pakistan.</p>
+<p>CROP IMPACT- Generally fair conditions across the major cotton areas of India and Pakistan at this time.</p>
+<p>FORECAST-</p>
+<p>TODAY...Sunny to partly cloudy in the north. Variable clouds in the south with scattered showers and thunderstorms of 0.25-0.75 inch (6-18mm), 30 percent coverage. Highs 83-94F (28-34C) India, 85-100F (29-38C) Pakistan.</p>
+<p>TONIGHT...Partly cloudy India with a few showers lingering. Mostly clear in Pakistan. Lows 68-76F (20-24C).</p>
+<p>TOMORROW...Partly sunny skies with scattered afternoon showers and thunderstorms in India. Highs 84-95F (29-35C) India, 86-100F (30-38C) Pakistan.</p>
+<p>OUTLOOK...Dry and warm Pakistan. Monsoonal showers and thunderstorms continue through areas of India. Temperatures average near normal.</p>
+<p>Source: Weather Services Corporation</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

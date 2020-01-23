@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5561" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: New York timecharter fixtures - August 21.</title>
+<headline>New York timecharter fixtures - August 21.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Sun P. (built 1981) 65,738 dwt del Vlaardingen 25-26/8 redel Rotterdam via Aaheim $8,350 daily Skaugen.</p>
+<p>TBN 49,000 dwt del Santos prompt redel USG $5,500 daily CNR.</p>
+<p>Success Bulker (built 1981) 64,120 dwt del W.Australia Aug-Sept redel China $5,500 daily plus $57,500 bb NobleChart.</p>
+<p>Konkar Star (built 1985) 89,582 dwt del pass Gibraltar prompt redel pass Gibraltar $8,000 daily Navios.</p>
+<p>Waimea (built 1984) 61,751 dwt del Skaw prompt redel sail Egypt Med $6,800 daily NNC.</p>
+<p>Angelic Spirit (built 1983) 65,767 dwr del USG 2-5/9 redel S.Korea $11,000 daily plus 150,000 bb PanOcean.</p>
+<p>Meridian Sky (built 1989) 64,293 dwt del Antwerp 25-30/8 two to four months trading redel Atlantic $82,500y-1st 55, $87,500y-balance Navios.</p>
+<p>Despina (built 1993) 65,644 dwt del pass Gibraltar 25-30/8 two to four months trading redel Atlantic $8,900 daily Guinomar.</p>
+<p>Alfios (built 1981) 63,406 dwt del S.Korea 20/9-10/10 one year trading $8,250 daily option one year additional $8,400 daily Guinomar.</p>
+<p>-- New York Commodity Desk 212 859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

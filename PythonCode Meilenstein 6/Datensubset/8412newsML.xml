@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8412" id="root" date="1996-08-22" xml:lang="en">
+<title>PORTUGAL: Share trade suspended in Portugal's BFE.</title>
+<headline>Share trade suspended in Portugal's BFE.</headline>
+<dateline>LISBON 1996-08-22</dateline>
+<text>
+<p>Portugal's Financial Markets Committee (CMVM) has suspended share trade in Banco de Fomento &amp; Exterior, a spokesman for the Lisbon bourse said.</p>
+<p>The suspension followed an announcement from the Finance Ministry that it would give a news conference at 1300 GMT on the privatisation of the bank.</p>
+<p>The government has received three offers for the 65 percent of BFE it is offering at the privatisation, although no details have been given on pricing.</p>
+<p>The stock was suspended at 2,545 escudos per share.</p>
+<p>($1=152.4 escudos)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

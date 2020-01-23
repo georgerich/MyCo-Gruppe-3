@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6419" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Pacific NW grain vessel weekly clearances.</title>
+<headline>Pacific NW grain vessel weekly clearances.</headline>
+<dateline>PORTLAND 1996-08-21</dateline>
+<text>
+<p>Exports by destinations for week ending August 15 in 000's bushels. -- USDA</p>
+<p>  Destination  White     HRW	  HRS	 Corn   Soybeans</p>
+<p>		   Wheat     Wheat	Wheat</p>
+<p> Japan	   1817	1580	   189	987    -----</p>
+<p> South Korea    208	 519	   454     ----    -----</p>
+<p> Taiwan	  -----     -----	  787     ----    -----</p>
+<p> Philippines    536	-----	  361     ----    -----</p>
+<p> Yemen	   1213	-----	-----     ----    -----</p>
+<p>  Destination  White     HRW	  HRS	 Corn   Soybeans</p>
+<p>		   Wheat     Wheat	Wheat</p>
+<p>Sri Lanka     1929	-----	-----     ----    ----</p>
+<p>Malaysia	----	-----	-----     ----     384</p>
+<p>Thailand	-----     -----	-----     -----   ----</p>
+<p>Pakistan	-----     -----	-----     -----   ----</p>
+<p>TOTALS</p>
+<p>This week     5703	2099	  1791	 987    384</p>
+<p>Week ago	4149	2337	  2075	2151     92</p>
+<p> Year Ago     4798	 527	  4293     14762   2083</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8584" id="root" date="1996-08-22" xml:lang="en">
+<title>NETHERLANDS: SOCCER-COCU DOUBLE EARNS PSV 4-1 WIN.</title>
+<headline>SOCCER-COCU DOUBLE EARNS PSV 4-1 WIN.</headline>
+<dateline>AMSTERDAM 1996-08-22</dateline>
+<text>
+<p>Philip Cocu scored twice in the second half to spur PSV Eindhoven to a 4-1 away win over NEC Nijmegen in the Dutch first division on Thursday.</p>
+<p>He scored from close range in the 54th minute and from a bicycle kick 13 minutes later.</p>
+<p>Arthur Numan and Luc Nilis, Dutch top scorer last season, were PSV's other marksmen.</p>
+<p>Ajax Amsterdam opened their title defence with a 1-0 win over NAC Breda on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

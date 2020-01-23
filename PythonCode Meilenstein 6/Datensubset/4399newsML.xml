@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4399" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: Details of latest EU grain export/import balance.</title>
+<headline>Details of latest EU grain export/import balance.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>Following are details of EU grain export/import commitments between July 1 and August 6 of the new 1996/97 (July/June) campaign supplied by member country officials.</p>
+<p>Since the figures were drawn up, the EU has granted exports of 94,250 tonnes of soft wheat, 3,675 tonnes of barley and 2,500 tonnes of oats.</p>
+<p>Figures ('000 tonnes) are based on officially communicated certificates and are subject to revision.</p>
+<p>			 ---------1996/97-------  ------1995/96-------</p>
+<p>			     1Jul96 to 6Aug96	1Jul95 to 6Aug95</p>
+<p>			 EXPORTS  PCT(1) IMPORTS  EXPORTS    IMPORTS</p>
+<p> Soft wheat(grain)    183	10	14    1,919	  471</p>
+<p>  Flour (2)	     804     108	 0	743	    0</p>
+<p>Food aid</p>
+<p>    - grain	     126     307	 -	 41	    -</p>
+<p>    - flour (2)	   7	41	 -	 17	    -</p>
+<p>Donations</p>
+<p>    - grain		 0		   -	  0	    -</p>
+<p>    - flour (2)	   0		   -	  0	    -</p>
+<p> TOTAL SOFT WHEAT   1,120	41	14    2,720	  471</p>
+<p>  Durum (grain)	   6		  55	  0	  162</p>
+<p>  Semolina (3)	   29		   0	  0	    0</p>
+<p>  Food aid		  0		   -	  0	    -</p>
+<p> TOTAL DURUM WHEAT     35		  55	  0	  162</p>
+<p> ALL WHEAT	    1,155	42	69    2,720	  633</p>
+<p>  Barley (grain)	205	32	 5	632	   43</p>
+<p>  Malt (4)		  3		   0	  0	    0</p>
+<p>  Donations		 0		   -	  0	    -</p>
+<p> TOTAL BARLEY	   208	33	 5	632	   43</p>
+<p>  Maize (grain)	  10		  87	  1	   66</p>
+<p>  Food aid		  0		   -	  0	    -</p>
+<p> TOTAL MAIZE	     10		  87	  1	   66</p>
+<p>  Rye (grain)	    55	 6	 0	853	    4</p>
+<p>  Rye flour (5)	   0		   0	  0	    0</p>
+<p>Donations</p>
+<p>    - grain		 0		   -	  0	    -</p>
+<p>    - flour (5)	   0		   -	  0	    -</p>
+<p> TOTAL RYE		 55	 6	 0	853	    4</p>
+<p> OATS			 4		   0	  0	    0</p>
+<p>  Sorghum (grain)	 0		   1	  0	    0</p>
+<p>  Food aid		  0		   0	  0	    -</p>
+<p> TOTAL SORGHUM	    0		   1	  0	    0</p>
+<p>OTHER GRAINS</p>
+<p>Buckwheat, Millet,</p>
+<p>   Triticale		0		  14	  0	   10</p>
+<p> TOTAL GRAIN	  1,432	34     176    4,206	  756</p>
+<p>Notes - (1) NB: column shows this year's exports expressed as a percentage of last year's exports, not as a percentage change. (2) wheat equivalent. (3) durum equivalent. (4) barley equivalent. (5) rye equivalent. --Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11974" id="root" date="1996-08-23" xml:lang="en">
+<title>ITALY: San Paolo to cut Italy prime rate Monday.</title>
+<headline>San Paolo to cut Italy prime rate Monday.</headline>
+<dateline>MILAN 1996-08-23</dateline>
+<text>
+<p>Italy's largest banking group San Paolo di Torino said in a statement that it was lowering its prime rate by 0.50 percentage points to 10.25 percent from Monday.  </p>
+<p>The bank said its prime rate would fall to 10.25 percent from 10.75 percent previously, while its top rate would stay unchanged at 17.75 percent.</p>
+<p>The Turin-based bank said it had already reduced its rates after the reduction in interest rates announced by the Bank of Italy on July 23.</p>
+<p>Soon after the cut by the central bank, San Paolo reduced its prime rate to 10.75 percent from 11.50 percent and its top rate to 17.75 percent from 18.25 percent.  </p>
+<p>San Paolo is the first of Italy's major banks to cut its prime rate to this level.</p>
+<p>After the Bank of Italy rate cut in July, most of the other major Italian banks cut their prime rates to 10.75 percent including Banca di Roma, Banca Commerciale Italiana, Credito Italiano, Ambroveneto and savings bank Cariplo.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

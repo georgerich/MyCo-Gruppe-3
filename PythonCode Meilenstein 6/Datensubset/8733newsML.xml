@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8733" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Zenith to build $100 million Illinois plant.</title>
+<headline>Zenith to build $100 million Illinois plant.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>Zenith Electronics Corp said on Thursday that it plans to build a $100 million large-screen television picture tube manufacturing plant in Woodridge, Ill., creating about 280 full-time jobs.</p>
+<p>The plant is subject to financing, a company spokesman said.  </p>
+<p>Zenith said it would manufacture 32-inch and 35-inch picture tubes at the new facility, which the company currently buys from its competitors, the spokesman said. Eventually, the plant will also supply wide-screen tubes for digital and high- definition television sets. Construction of the plant is expected to be completed in 1997.</p>
+<p>Zenith said the Department of Commerce and Community Affairs will provide up to $600,000 in an employee-training grant over the next two years and the Illinois Department of Transportation will give $429,000 in funds to finance 50 percent of an access road to the new facility.</p>
+<p>Previously, Zenith had announced it will spend $80 million to automate its existing television picture tube plant in Melrose Park, Ill. The Melrose Park project will add 120 jobs, the company said.</p>
+<p>-- Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

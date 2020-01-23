@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10035" id="root" date="1996-08-22" xml:lang="en">
+<title>THAILAND: Thais hunt for Australian jail breaker.</title>
+<headline>Thais hunt for Australian jail breaker.</headline>
+<dateline>BANGKOK</dateline>
+<text>
+<p>Thailand has launched a manhunt for an Australian who escaped from a high security prison in Bangkok while awaiting trial on drug possession charges, officials said on Thursday.</p>
+<p>Daniel Westlake, 46, from Victoria, made the first sucessful escape from Klongprem prison in the northern outskirts of the capital on Sunday night. He was believed by prison officials to still be in Thailand.</p>
+<p>&quot;We have ordered a massive hunt for him and I am quite confident we will get him soon,&quot; Vivit Chatuparisut, deputy director general of the Correction Department, told Reuters.</p>
+<p>Westlake, arrested in December 1993 and charged with heroin trafficking, sawed the iron grill off his cell window and climbed down the prison's five-metre (15-foot) wall on a rope made from bed sheets, Vivit said.</p>
+<p>The corrections department was probing the escape and had ordered all foreign inmates chained to prevent more breakouts.</p>
+<p>There are 266 Westerners, including six Australians, in the prison, most awaiting trial on drugs charges. There also are about 5,000 Thai inmates in Klongprem, a prison official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6620" id="root" date="1996-08-21" xml:lang="en">
+<title>SRI LANKA: Sri Lanka troops seek Tamil brides, say rebels.</title>
+<headline>Sri Lanka troops seek Tamil brides, say rebels.</headline>
+<dateline>COLOMBO 1996-08-21</dateline>
+<text>
+<p>Marriage offers from soldiers are flying thick and fast for young Tamils in Sri Lanka's war-torn north, and Tamil Tiger rebels on Wednesday described the courting as harassment.</p>
+<p>&quot;In a Machiavellian move to break Tamil peoples' resistance to Sri Lankan army occupation of Jaffna peninsula, soldiers stationed (there) are harassing Tamil girls with offers of marriage,&quot; rebel radio said.</p>
+<p>The clandestine radio station run by the Liberation Tigers of Tamil Eelam (LTTE) also said female soldiers in the mainly Sinhalese army were chasing Tamil boys with marriage offers.</p>
+<p>But a military spokesman denied the charge: &quot;We do not have the time to run behind girls,&quot; he said.</p>
+<p>&quot;Also, if it were true, it exposes the racism of the LTTE,&quot; he added. &quot;It shows they are not interested in intermarriage, which is good for the country and would help solve the ethnic problem.&quot;</p>
+<p>The government, which gained control of the Jaffna peninsula in April, says more than 50,000 people have died in the civil war, now in its 14th year. The LTTE is fighting for an independent homeland for minority Tamils in the Indian Ocean island's north and east.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

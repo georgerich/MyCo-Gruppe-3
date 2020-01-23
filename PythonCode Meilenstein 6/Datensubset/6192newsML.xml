@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6192" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-LAST QUOTES - Australian Eurobond benchmarks.</title>
+<headline>RTRS-LAST QUOTES - Australian Eurobond benchmarks.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Last quotes from the International Securities Market Association for benchmark Australian dollar Eurobonds issued by Australian entities.</p>
+<p>	     Coupon  Maturity     Bid/Ask	   Previous</p>
+<p>SAFA     6.50 pct  30.11.98   98.50/ 99.13  (  98.63/ 99.13)</p>
+<p>NAB     10.50 pct  23.02.98  104.38/104.75  ( 104.38/104.75)</p>
+<p>SAFA     6.25 pct  25.02.99   98.00/ 98.38  (  98.00/ 98.50)</p>
+<p>NAB	7.75 pct  04.01.99  101.00/101.63  ( 101.13/101.75)</p>
+<p>CBA	8.25 pct  23.04.99  102.38/102.63  ( 102.50/102.75)</p>
+<p>NAB	8.50 pct  11.08.00  103.00/103.50  ( 103.00/103.75)</p>
+<p>SBNSW    7.75 pct  21.02.01  100.88/101.50  ( 101.13/101.75)</p>
+<p>CBA	7.75 pct  08.03.01  100.88/101.25  ( 101.00/101.38)</p>
+<p>NAB	8.00 pct  10.04.01  101.25/101.50  ( 101.50/101.75)</p>
+<p>CBA	7.63 pct  05.08.03   99.63/100.25  (  99.63/100.00)</p>
+<p>SAFA     7.75 pct  30.06.03   98.63/ 99.00  (  98.88/ 99.25)</p>
+<p>CBA	9.00 pct  15.08.05  106.25/106.75  ( 106.63/107.13)</p>
+<p>--Sydney newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

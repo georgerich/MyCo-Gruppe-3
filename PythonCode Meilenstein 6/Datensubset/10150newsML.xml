@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10150" id="root" date="1996-08-22" xml:lang="en">
+<title>SINGAPORE: Transmarco shares fall sharply.</title>
+<headline>Transmarco shares fall sharply.</headline>
+<dateline>SINGAPORE 1996-08-22</dateline>
+<text>
+<p>Trading and telecommunication company Transmarco Ltd shares fell sharply on Thursday as investors took profits, brokers said.</p>
+<p>At 0230 GMT, Transmarco had shed S$0.45, or 4.52 percent, to S$9.50. Its volume stood at a high of 1.08 million shares with 330,000 units crossed at S$10.54.  </p>
+<p>&quot;Investors are taking profits after the price had risen sharply over the last two days,&quot; said a dealer with a local brokerage.</p>
+<p>A takeover offer for Transmarco was made by Indonesian tobacco tycoon Putera Sampoerna at the weekend at $6.50. He raised the offer price to $8.55 on Tuesday after the value of the share soared towards $10.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

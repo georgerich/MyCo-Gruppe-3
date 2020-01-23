@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11154" id="root" date="1996-08-23" xml:lang="en">
+<title>NICARAGUA: Nicaragua to defend itself in U.S. court.</title>
+<headline>Nicaragua to defend itself in U.S. court.</headline>
+<dateline>MANAGUA, Nicaragua 1996-08-22</dateline>
+<text>
+<p>The Nicaraguan government will fight a suit filed against it in a U.S. court on Thursday by a prominent investment company that wants to recover $26 million in debt plus interest, Nicaragua's Central Bank president said.</p>
+<p>&quot;There is no basis to their suit. We made it explicitly clear to buyers that Nicaragua couldn't pay back the full amount of the debt, but only eight cents on the dollar,&quot; Central Bank President Evenor Taboada told Reuters.</p>
+<p>In court papers, LNC investments Inc, a unit of Leucadia National Corp, said Nicaragua was in default of $26 million in debt obligations.</p>
+<p>LNC asked for the recovery of the $26 million in principle and additional contractual and/or penalty interest that had accrued since 1986.</p>
+<p>&quot;After all these years, these investors are trying to collect now, but we're confident we can make our case in court,&quot; Taboada said.</p>
+<p>-- David Koop, Managua bureau 505 2663300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NICG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAGUA, Nicaragua"/>
+<dc element="dc.creator.location.country.name" value="NICARAGUA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

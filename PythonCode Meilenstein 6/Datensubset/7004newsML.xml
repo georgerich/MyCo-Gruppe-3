@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7004" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: PG&amp;E Diablo Canyon nukes boost power - NRC.</title>
+<headline>PG&amp;E Diablo Canyon nukes boost power - NRC.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Pacific Gas and Electric Co's Diablo Canyon nuclear power units were operating at 82 percent of capacity and increasing power early Wednesday after cutting output this week due to a wildfire, the Nuclear Regulatory Commission (NRC) said.</p>
+<p>The two units were &quot;increasing reactor power to 100 percent,&quot; the NRC said in its daily plant status report. Each of the units was operating at 82 percent, the report said.</p>
+<p>The plant's two units, with a combined capacity of 2,160 megawatts (MW), were operating at 75 percent of production Tuesday after the company shut two 5,000 kilovolt (KV) transmission lines from Diablo Canyon due to a nearby wildfire.</p>
+<p>All electricity transmission from the plant was being run through one 5,000 MW line which was farther removed from the fire than the two shut lines.</p>
+<p>A company representative said Tuesday the units were expected to reach full output Wednesday.</p>
+<p>A company spokesman was not immediately available for comment early Wednesday morning.</p>
+<p>Diablo Canyon is at Avila Beach on the California Coast.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

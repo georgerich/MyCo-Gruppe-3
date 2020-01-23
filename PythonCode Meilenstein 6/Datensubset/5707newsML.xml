@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5707" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Court refuses to block Recoton-Jensen deal.</title>
+<headline>Court refuses to block Recoton-Jensen deal.</headline>
+<dateline>PARSIPPANY, N.J. 1996-08-21</dateline>
+<text>
+<p>Delaware Chancery Court has denied two motions aimed at blocking the merger of Recoton Corp and International Jensen Inc, Emerson Radio Corp said on Wednesday.</p>
+<p>The motions, one filed by Emerson and the other on behalf of Jensen shareholders, had sought prelimiary injunctions. The motions also sought to block the sale of Jensen's OEM equipment manufacturing business to a company wholly-owned by its chairman and CEO, Robert Shaw, Emerson said.</p>
+<p>Emerson said it would appeal the court's decision, which came late on Tuesday. It also said the court had not yet made a final determination on the merits of Emerson's complaint seeking to enjoin the merger.</p>
+<p>Emerson, which is seeking to acquire Jensen, said it was soliciting proxies to oppose the Recoton deals.</p>
+<p>It also said it was seeking an injunction in federal court in Chicago to enjoin the holding of a special Jensen shareholder meeting on August 28 to vote on the merger with Recoton.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARSIPPANY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

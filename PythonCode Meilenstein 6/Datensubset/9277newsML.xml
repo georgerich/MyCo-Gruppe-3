@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9277" id="root" date="1996-08-22" xml:lang="en">
+<title>VENEZUELA: Banco Venezolano de Credito ADR issue approved.</title>
+<headline>Banco Venezolano de Credito ADR issue approved.</headline>
+<dateline>CARACAS 1996-08-22</dateline>
+<text>
+<p>The U.S. Securities and Exchange Commission has approved Venezuelan bank Banco Venezolano de Credito's plans to issue Level One American Depository Receipts (ADRs), the bank said Thursday.</p>
+<p>A bank official said the ADR issue, in which one ADR will be equivalent to one common share, will be carried out shortly.  </p>
+<p>Banco Venezolano de Credito said in a release that Bank of New York Co Inc would as depository agent for the ADRs.</p>
+<p>Banco Venezolano de Credito shares closed up 100.00 bolivars at 21,700.00 bolivars on the Caracas Stock Exchange Thursday.  </p>
+<p>Oscar Garca Mendoza, the bank's president, told Reuters he was delighted that Venezolano de Credito had become the first Venezuelan bank to have an ADR issue authorized.</p>
+<p>&quot;It is very important for our shareholders since it gives them a much larger market and positions us in the international markets,&quot; he said.</p>
+<p>The bank recently decided to double its authorized capital to 8.64 billion bolivars ($18.2 million) through a one-for-one share dividend.</p>
+<p>-- Ana Isabel Martnez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

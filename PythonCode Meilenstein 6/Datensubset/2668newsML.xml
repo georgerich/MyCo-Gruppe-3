@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2668" id="root" date="1996-08-20" xml:lang="en">
+<title>NETHERLANDS: SOCCER-SCUFFLE AFTER FEYENOORD AND RODA DRAW 1-1.</title>
+<headline>SOCCER-SCUFFLE AFTER FEYENOORD AND RODA DRAW 1-1.</headline>
+<dateline>AMSTERDAM 1996-08-20</dateline>
+<text>
+<p>Feyenoord Rotterdam and Roda JC Kerkrade drew 1-1 in a lacklustre opening to the Dutch soccer league season in Kerkrade on Tuesday.</p>
+<p>The game came to life in the closing stages when Feyenoord's new midfield signing Kees van Wonderen scored in the 82nd minute only for Marco Roelofsen to equalise from a penalty with just two minutes left.</p>
+<p>Players from both sides were involved in a scuffle after the match, but the referee and linesmen were already in the dressing room.</p>
+<p>Champions Ajax Amsterdam start their campaign on Wednesday against NAC Breda.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

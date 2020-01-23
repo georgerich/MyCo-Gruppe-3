@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7625" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: UK shares open mixed ahead of German rate news.</title>
+<headline>UK shares open mixed ahead of German rate news.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>London shares opened mixed on Thursday as uncertainty over the prospects for a German cut in the repo rate capped early trading, dealers said.</p>
+<p>Expectations of a cut were blunted on Wednesday by a stronger than expected Ifo survey of business confidence.</p>
+<p>The German survey sparked a sell-off in bonds yesterday, the weakness in U.S. Treasuries triggering profit-taking in stocks and pushing the Dow over 31 points lower to 5,689.</p>
+<p>The FTSE 100 started 1.5 points lower at 3,870.6 with more bad news from the U.S. on tobacco stocks slamming B.A.T shares early on.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

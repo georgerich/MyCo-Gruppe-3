@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3920" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: India's CESC sets 35 percent dividend.</title>
+<headline>India's CESC sets 35 percent dividend.</headline>
+<dateline>CALCUTTA 1996-08-20</dateline>
+<text>
+<p>Indian power utility Calcutta Electricity Supply Corporation Ltd (CESC) said in a on Tuesday it set a dividend of 35 percent, or 3.50 rupees, per share for the 1995/96 (April/March) financial year.</p>
+<p>The company had announced a similar dividend in the previous year.</p>
+<p>The company had a net profit of 860.97 million rupees during 1995/96 compared with 660.05 million in the previous year.</p>
+<p>The company announced the dividend after a board meeting in Calcutta.</p>
+<p>--Calcutta New newsroom +91-33-474 6544</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

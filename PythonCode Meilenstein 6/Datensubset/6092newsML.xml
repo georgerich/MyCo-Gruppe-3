@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6092" id="root" date="1996-08-21" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar closes flat in quiet trade.</title>
+<headline>Venezuela bolivar closes flat in quiet trade.</headline>
+<dateline>CARACAS 1996-08-21</dateline>
+<text>
+<p>The Venezuelan bolivar closed flat at 474.25/475.25 per dollar in quiet trade as the Central Bank supplied a gentle but constant stream of dollars to the market, traders said.</p>
+<p>&quot;The Bank covered most dollar requests, halting any rises through 475 bolivars per dollar,&quot; said one trader.</p>
+<p>Traders reported little if any effect on the exchange market of today's five point back-up in interest rates.</p>
+<p>&quot;The rise in TEM yields didn't register in the exchange market,&quot; said another trader.</p>
+<p>-- Silene Ramirez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11800" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: PRESS DIGEST - Wall Street Journal - Aug 23.</title>
+<headline>PRESS DIGEST - Wall Street Journal - Aug 23.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Airbus Industrie won a $900 million order from UAL Corp's United Airlines, fending off a competing bid from rival Boeing Co, The Wall Street Journal reported on Friday.</p>
+<p>The newspaper also reported:</p>
+<p>* Ford Motor Co sells USL Capital's Real Estate Financing mortgage to Bankers Trust for about $575 million.</p>
+<p>* Americast, owned by Walt Disney Co and four phone companies, agrees to buy at least three million digital set-top boxes for more than $1.0 billion from Zenith Electronics Corp.  </p>
+<p>* President Bill Clinton is expected to announce curbs on tobacco sales on Friday.</p>
+<p>* Rate of corporate layoffs has dropped since the start of the 1990s but still is above that of a decade ago.</p>
+<p>* United Auto Workers breaks with tradition and may negotiate with each of the Big Three auto makers.</p>
+<p>* President Clinton signs welfare reform bill.</p>
+<p>* Initial claims for state unemployment insurance rise 6,000 to a level of 327,000 in the week ended August 17.</p>
+<p>* Japan, U.S. finalise agreement on loosening air cargo restrictions.</p>
+<p>* U.S. auto sales slipped 0.6 percent in August 11-20 period from year ago.</p>
+<p>* Mexico's Gruma SA de CV and Archer Daniels Midland Co form joint venture.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

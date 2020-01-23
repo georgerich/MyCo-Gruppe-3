@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10673" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US Treasuries end sharply lower on fear of growth.</title>
+<headline>US Treasuries end sharply lower on fear of growth.</headline>
+<text>
+<p>*US Treasuries end down sharply on fear economy is too strong.</p>
+<p>*Strong July durable goods data crystallized growth fears, spurred sell-off. 6.95 pct 30-yr yield highest since July 31.</p>
+<p>*FOMC minutes confirm Fed adopted tightening bias at July mtg.</p>
+<p>*FOMC cited &quot;substantial uncertainty&quot; on inflation outlook.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

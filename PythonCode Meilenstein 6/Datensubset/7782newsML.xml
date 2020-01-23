@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7782" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: WinStar, NYNEX enter phone pact.</title>
+<headline>WinStar, NYNEX enter phone pact.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Winstar Communications Inc and NYNEX Corp said on Thursday they have signed an interconnect agreement that allows WinStar to compete against NYNEX in Massachusetts.</p>
+<p>WinStar is already offering competitive local telecommunications services in New York, as a reseller, and plans to initiate service in Boston next month, the companies said in a joint statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

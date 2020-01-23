@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7722" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Foster Electric to supply car speakers to Ford.</title>
+<headline>Foster Electric to supply car speakers to Ford.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Japanese electronics firm Foster Electric Co Ltd said on Thursday it would supply car speakers to Ford Motor Co beginning in July 1998.</p>
+<p>Foster said in a statement it expects to supply four million units in 1998 and eight million units annually by 2000 to Ford.</p>
+<p>It currently supplies speakers to Japanese car makers as well as other foreign companies such as General Motors Corp and Daimler-Benz AG, the statement said. Foster officials were not immediately available for details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

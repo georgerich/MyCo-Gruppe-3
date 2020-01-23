@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2669" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: SOCCER-SUMMARIES OF GERMAN FIRST DIVISION MATCHES.</title>
+<headline>SOCCER-SUMMARIES OF GERMAN FIRST DIVISION MATCHES.</headline>
+<dateline>BONN 1996-08-20</dateline>
+<text>
+<p>Summaries of German first division soccer matches played on Tuesday:</p>
+<p>Arminia Bielefeld 1 (Studtrucker 86th minute) St Pauli 2 (Scharping 45th, Eigner 55th). Halftime 0-1. Attendance 18,000 Hamburg 5 (Baeron 4th, Friis-Hansen 12th, Spoerl 26th pen, 33rd, Ivanauskas 80th) Freiburg 1 (Decheiver 56th). 4-0. 23,061 Werder Bremen 1 (Hofschneider 70th og) Hansa Rostock 1 (Akpoborie 40th). 0-1. 24,300 Schalke 0 Borussia Moenchengladbach 0. 50,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

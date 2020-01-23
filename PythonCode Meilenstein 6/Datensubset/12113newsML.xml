@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12113" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Dow-inspired Australian stocks close firmer.</title>
+<headline>RTRS-Dow-inspired Australian stocks close firmer.</headline>
+<dateline>SYDNEY 1996-08-23</dateline>
+<text>
+<p>-----------------(Snapshot  4.15 p.m./0615 GMT)----------------</p>
+<p>AORD cl	   2292.90  +18.30   DJIA  cl	5733.47  +43.65</p>
+<p>SPI futures	  2307     +28   US 30yr cl	 6.84    unch</p>
+<p>10yrbond futs    92.145   +0.02   Gold (NY cl)  $387.65   +0.80</p>
+<p>AUD	   0.7916 (Thu 0.7907)   CRB Index cl   249.80   -0.04</p>
+<p>NIKKEI	   21228.80 -134.44   FTSE cl	 3891.10  +19.00</p>
+<p>S&amp;P500(Globex)   671.70   -0.15   NZSE40 cl     2222.59  +23.05</p>
+<p>--------------------------(Aug 23)-----------------------------</p>
+<p>*Shares closed firmer, the market responding to the stronger Dow on Thursday. Total volume 308.24 million shares worth A$740.32 million, 962 stocks traded, 281 steady, 408 rises, 273 falls  </p>
+<p>Australian shares had a firmer session on Friday, the market closing near its highs after gleaning strength from Wall Street's gains on Thursday.</p>
+<p>Turnover was solid, topping A$740 million by the close.</p>
+<p>The main share market barometer, the All Ordinaries index, finished up 18.3 points at 2,292.9, just off its intra-day high of 2,293.7. The September share index futures ended 28 points stronger at 2,307, a 13.3 point premium to the underlying index.</p>
+<p>Dealers said the market was led higher by News Corp ordinary and preferred stock which surged ahead in anticipation of further gains by the media group in the U.S. later today.  </p>
+<p>&quot;The market looked like dropping off at lunch time but held steady and found a lot of buying interest in the last hour,&quot; said Jim Tredenick, a dealer at Brisbane broker, Nevitts.</p>
+<p>Tredenick said investors were looking for another rally from the Dow on Friday and were also encouraged by the possibility of another local interest rate cut in the short term.</p>
+<p>Dealers said the stock of major banks was also well sought after in late trade, especially Commonwealth Bank's installment receipts whose high yield was attractive given the prospect of a further rate cut.  </p>
+<p>&quot;Wall Street traditionally runs higher in the lead up to a U.S. election,&quot; Tredenick said.</p>
+<p>&quot;This factor combined with Thursday's rate cut in Germany appears to have injected some confidence into the U.S. market which should rub off here next week,&quot; he said.</p>
+<p>In other markets, both bonds and currency were subdued after a very busy week. Bonds were slightly firmer due to some end of week position-squaring, while the Australian dollar was slightly weaker following a much firmer week.</p>
+<p>FUTURES/OPTIONS - Total options turnover 50,868 (42,076)</p>
+<p>Turnover in September SPI futures totalled 6,039 (12,661)  </p>
+<p>-----------------------(TECHNICALS)-------------------------</p>
+<p>Short-term range    Support   Restnce   RSI-14  MA-10  MA-20</p>
+<p>AORD   2270/2300     2260	2300	70.04   2251   2224</p>
+<p>SPI    2280/2320     2280	2320	66.39   2260   2234</p>
+<p>---------------------(KEY ACTIVES)--------------------------</p>
+<p>*Niugini A$3.60 (+.23) 3.53/3.85 Vol: 291,550</p>
+<p>Gold miner rises as US parent considers mopping-up minorities.</p>
+<p>*News Corp A$6.70 (+.30) 6.37/6.74 Vol: 7,464,671</p>
+<p>Media major up in anticipation of a further rise in the US.</p>
+<p>*Qantas A$2.08 (-.06) 2.06/2.125 Vol: 5,765,321</p>
+<p>Cloudy outlook sees airline's shares hit turbulence.  </p>
+<p>*Amity Oil A$0.66 (-.19) 0.63/0.84 Vol: 241,275</p>
+<p>Disapointing drilling results saw oil explorer's shares slide.</p>
+<p>*CBA receipts A$7.38 (+.19) 7.188/7.38 Vol: 10,532,901</p>
+<p>Bank's installment receipts found yield-based buying interest.</p>
+<p>*BHP A$17.64 (+.15) 17.48/17.65 Vol: 2,798,567</p>
+<p>Bellwether shares rose with market after Dow climb.</p>
+<p>*CRA A$19.70 (+.30) 19.39/19.70 Vol: 1,085,738</p>
+<p>*WMC A$8.98 (+.17) 8.791/9.00 Vol: 4,368,658</p>
+<p>Mining leaders ended up with local and offshore buyers seen.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

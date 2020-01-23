@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11045" id="root" date="1996-08-23" xml:lang="en">
+<title>HUNGARY: Hungary H1 C/A deficit down at $934 million.</title>
+<headline>Hungary H1 C/A deficit down at $934 million.</headline>
+<dateline>BUDAPEST 1996-08-23</dateline>
+<text>
+<p>Hungary posted a $934 million current account deficit in the first half of 1996, compared with $2.047 billion in the same period of 1995, the National Bank of Hungary said on Friday.  </p>
+<p>The current account deficit widened to $196 million in June, compared with a $10 million surplus in May, the central bank added.</p>
+<p>HUNGARY C/A BALANCE (in million dollars)</p>
+<p>    JUNE 96	MAY 96	 JAN-JUNE 96	JAN-JUNE 95</p>
+<p>     -196	   +10	     -934		 -2,047</p>
+<p>-- Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

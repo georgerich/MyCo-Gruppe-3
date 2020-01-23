@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6610" id="root" date="1996-08-21" xml:lang="en">
+<title>INDIA: Indian castor futures rise on speculative buying.</title>
+<headline>Indian castor futures rise on speculative buying.</headline>
+<dateline>BOMBAY 1996-08-21</dateline>
+<text>
+<p>Castorseed December delivery rose 10 rupees per quintal to 1,122/1,123 rupees on Wednesday on renewed speculative buying, traders said.</p>
+<p>&quot;Reports of fresh export enquiries and fear of a lower new crop prompted fresh speculative support,&quot; said a trader. &quot;Some short-covering also helped.&quot;</p>
+<p>Traders said importers had shown interest in Indian castor oil at the price range of $675/680 per tonne.</p>
+<p>IN edible oils, groundnut oil held steady at 431/432 rupees per 10 kg. In Rajkot, spot oil rose 10 rupees to 660/665 rupees per 15 kg. -Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

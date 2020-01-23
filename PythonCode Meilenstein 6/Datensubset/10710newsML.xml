@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10710" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US FTC staff agree with FCC rule on LMDS licenses.</title>
+<headline>US FTC staff agree with FCC rule on LMDS licenses.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>Staff of the Federal Trade Commission said Friday they supported efforts by the Federal Communications Commission to establish a cross-ownership rule to restrict local phone or cable companies from acquiring licenses for local microwave service.</p>
+<p>Local multipoint distribution service (LMDS) can be used for two-way voice, video and data transmission, potentially in competition with local phone or cable companies.</p>
+<p>In a statement, FTC staff said local phone or cable companies that acquired a LMDS license for their same area could forestall a third party or could raise the price of both services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

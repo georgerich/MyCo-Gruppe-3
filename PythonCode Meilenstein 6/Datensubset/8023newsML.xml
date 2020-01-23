@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8023" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: INTERVIEW-Rentokil plans no major BET sales.</title>
+<headline>INTERVIEW-Rentokil plans no major BET sales.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>British pest control to security group Rentokil Group Plc said on Thursday that it plans no major disposals from its acquired rival BET.</p>
+<p>Earlier this year Rentokil won a fierce battle to buy BET for 2.1 billion stg and said that it would consider the future of BET's Plant Hire, Style and Resorts International unit.</p>
+<p>But chief executive Clive Thompson told Reuters the firm had examined the whole group and now planned no major sales, though there might be some minor disposals.</p>
+<p>&quot;We have looked at those businesses and we believe that we can help them to grow and improve,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

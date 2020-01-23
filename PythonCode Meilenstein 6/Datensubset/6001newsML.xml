@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6001" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: Warsaw airport cargo imports Jan-May up 18.5 pct.</title>
+<headline>Warsaw airport cargo imports Jan-May up 18.5 pct.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>Cargo imports at Okecie International Airport in Warsaw increased in the January-to-May period by 18.5 percent in 1996 from 1995, according to data provided to Reuters.</p>
+<p>Data were supplied by the airport's cargo handling agent, LOT Ground Services Sp z oo, owned 51 percent by Polish state-owned airline Polskie Linie Lotnicze LOT SA and 49 percent by the  Polish Airports State Enterprise (PPL).</p>
+<p> CARGO IMPORTS (in tonnes)		1996     1995  PCT CHANGE</p>
+<p>--------------------------------------------------------------</p>
+<p> YEAR TO DATE			    8,815.5  7,439.4	 +18.5</p>
+<p> --chartered flights			65.7    159.0	 -58.7</p>
+<p> --scheduled flights domestic	   93.5    101.7	  -8.1</p>
+<p> --scheduled flights international 7,042.5  6,218.6	 +13.2</p>
+<p> --trucks				  1,613.8    960.1	 +68.1</p>
+<p> MAY					 1,966.9  1,576.1	 +24.8</p>
+<p> --chartered flights			37.3    110.2	 -66.2</p>
+<p> --scheduled flights domestic	   20.6     18.7	 +10.2</p>
+<p> --scheduled flights international 1,544.1  1,238.3	 +24.7</p>
+<p> --trucks				    364.9    208.9	 +74.7</p>
+<p> APRIL				     1,826.1  1,507.2	 +21.2</p>
+<p> --chartered flights			 9.2	0.0	     -</p>
+<p> --scheduled flights domestic	   17.9     20.1	 -10.9</p>
+<p> --scheduled flights international 1,452.6  1,285.6	 +13.0</p>
+<p> --trucks				    346.4    201.5	 +71.9</p>
+<p> MARCH				     1,864.6  1,673.6	 +11.4</p>
+<p> --chartered flights			 1.2	0.7	 +71.4</p>
+<p> --scheduled flights domestic	   23.2     20.8	 +11.5</p>
+<p> --scheduled flights international 1,513.8  1,426.4	  +6.1</p>
+<p> --trucks				    326.4    225.7	 +44.6</p>
+<p> FEBRUARY				  1,555.1  1,283.3	 +21.2</p>
+<p> --chartered flights			 0.4     24.2	 -98.3</p>
+<p> --scheduled flights domestic	   16.3     19.3	 -15.5</p>
+<p> --scheduled flights international 1,293.0  1,116.6	 +15.8</p>
+<p> --trucks				    245.4    123.2	 +99.2</p>
+<p> JANUARY				   1,602.8  1,399.2	 +14.6</p>
+<p> --chartered flights			17.6     23.9	 -26.4</p>
+<p> --scheduled flights domestic	   15.5     22.8	 -32.0</p>
+<p> --scheduled flights international 1,239.0  1,151.7	  +7.6</p>
+<p> --trucks				    330.7    200.8	 +64.7</p>
+<p>--------------------------------------------------------------</p>
+<p>Chartered flights include supplemental scheduled flights.</p>
+<p>-- Ryan Tutak, Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

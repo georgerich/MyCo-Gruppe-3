@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9150" id="root" date="1996-08-22" xml:lang="en">
+<title>ROMANIA: Romania-US fund strikes infotech investment deals.</title>
+<headline>Romania-US fund strikes infotech investment deals.</headline>
+<dateline>BUCHAREST 1996-08-22</dateline>
+<text>
+<p>The Romanian-American Enterprise Fund (RAEF) said on Thursday it had signed two investment deals in Romania's nascent information technology sector worth around $4.0 million.</p>
+<p>&quot;The companies involved are making significant contributions to the development of modern communications and information technology in Romania,&quot; an RAEF statement quoted Fund president John Klipper as saying.</p>
+<p>The RAEF invested over $1.5 million in Bucharest-based Logic Telecom SA to help finance its electronic mail, Internet connections and remote database access services.</p>
+<p>It also pumped more than $2.0 million into  Transdata SA, which designs and builds telecommunications and electric power networks. Transdata will use the money to buy equipment and build new offices.</p>
+<p>The latest investments of RAEF -- established in 1994 and funded by the U.S. government -- are part of a broader programme to promote local private sector growth in the ex-communist country.</p>
+<p>RAEF previous deals included investments in companies specialising in printing packaging, newspaper printing services, garment making and agriculture services, the statement said.</p>
+<p>A Fund official said previous investment amounted to more than $3.0 million. The Fund aims to support the expansion of the Romanian private sector through profitable investment in small and medium-sized enterprises.</p>
+<p>-- Luli Popescu, Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

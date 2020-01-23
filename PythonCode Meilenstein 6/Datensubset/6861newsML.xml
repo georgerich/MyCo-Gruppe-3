@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6861" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Analog Devices Q3 shr increases.</title>
+<headline>Analog Devices Q3 shr increases.</headline>
+<dateline>NORWOOD, Mass 1996-08-21</dateline>
+<text>
+<p>Analog Devices Supplemental Information</p>
+<p>				Third Quarter, Fiscal 1996</p>
+<p>				Sales/Earnings Summary</p>
+<p>				     Three Months Ended</p>
+<p>				   Aug 3, 1996    Jul 29, 1995</p>
+<p>    Net Sales			305,042	 246,301</p>
+<p>    Net Income		     $43,796	 $31,781</p>
+<p>    Shares used for EPS	  129,694	 119,777</p>
+<p>    Earnings per Share	     $0.35	   $0.27</p>
+<p>					  Nine Months Ended</p>
+<p>				     Aug 3, 1996   Jul 29, 1995</p>
+<p>    Net Sales			889,139	 684,352</p>
+<p>    Net Income		    $127,881	 $84,136</p>
+<p>    Shares used for EPS	  127,771	 118,596</p>
+<p>    Earnings per Share	     $1.03	   $0.71</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWOOD, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

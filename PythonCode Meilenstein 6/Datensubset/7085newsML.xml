@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7085" id="root" date="1996-08-21" xml:lang="en">
+<title>REPUBLIC OF IRELAND: EU concerned about U.S. moves against Iran, Libya.</title>
+<headline>EU concerned about U.S. moves against Iran, Libya.</headline>
+<dateline>DUBLIN 1996-08-21</dateline>
+<text>
+<p>The European Union said on Wednesday it would appeal to the World Trade Organisation if the United States punished European firms doing business with Iran and Libya.</p>
+<p>&quot;The EU does not believe that this legislation is an appropriate or an effective means of combatting international terrorism,&quot;said a statement issued by Ireland on behalf of the 15-nation EU.</p>
+<p>It said the law could damage the system of world trade and urged the U.S. to work with its partners to promote an open international trading environment.</p>
+<p>&quot;The Union reaffirms its determination to act in the appropriate international fora, including the World Trade Organisation, in defence of...the interests of member state companies if these are affected by the legislation,&quot;it said.</p>
+<p>The bill, recently signed into law by President Bill Clinton, allows sanctions on companies making new investments of over $40 million in oil or gas projects in Iran or Libya, which Washington calls the world's leading state sponsors of terrorism.</p>
+<p>The EU has already threatened to retaliate against the Helms-Burton Act, which gives U.S. citizens the right to sue foreign firms operating in Cuba over assets expropriated by Fidel Castro's government.</p>
+<p>Clinton has waived implementation of contentious sections of that law for at least six months.</p>
+<p>Ireland currently holds the EU's six-month rotating presidency.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

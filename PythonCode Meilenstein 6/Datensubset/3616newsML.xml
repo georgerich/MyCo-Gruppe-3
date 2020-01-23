@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3616" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Kansas feedlot cattle at $68, up $2 - USDA.</title>
+<headline>Kansas feedlot cattle at $68, up $2 - USDA.</headline>
+<dateline>DODGE CITY 1996-08-20</dateline>
+<text>
+<p>Trade was active Tuesday morning, quiet afternoon, USDA said. Slaughter steers and heifers were $2.00 higher than last Friday. Inquiry and demand good. Sales confirmed on 28,900 slaughter steers and 21,900 slaughter heifers Tuesday.</p>
+<p>For the week to date, 88,200 head confirmed including 7,300 head or about eight percent previously contracted or formulated cattle.</p>
+<p>Sales FOB feedlot net weights after 4 percent shrink.</p>
+<p>Slaughter steers - Select and Choice 2-3 1150-1350 lbs 68.00, few early 67.00; pen Select with end Choice 1300 lbs 66.00. Slaughter heifers - Select and Choice 2-3 1000-1200 lbs mostly 1050-1150 lbs 68.00, few early 67.00; pen mixed</p>
+<p>Commercial to Choice 1150 lb heifers aand heiferettes 67.00.</p>
+<p>Confirmed -  50,800   last week -   700   last year - none</p>
+<p>wk to date - 88,200   last week - 9,700   last year - 6,700</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

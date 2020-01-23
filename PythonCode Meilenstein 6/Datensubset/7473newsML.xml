@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7473" id="root" date="1996-08-21" xml:lang="en">
+<title>CYPRUS: PRESS DIGEST - Cyprus - Aug 21.</title>
+<headline>PRESS DIGEST - Cyprus - Aug 21.</headline>
+<dateline>NICOSIA 1996-08-21</dateline>
+<text>
+<p>These are the leading stories in Greek Cypriot newspapers on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>CHARAVGHI</p>
+<p>- Marathon talks of the National Council for the evaluation of last week's events and the reply of President Clerides to the U.N. secretary general regarding the joint statement.</p>
+<p>- Demands of Cyprus Airways engineers go beyond the capabilities of the airline and cannot therefore be satisfied, Minister of Finance Christodoulou says.</p>
+<p>PHILELEFTHEROS</p>
+<p>- United States plans drastic intervention in the Cyprus problem. High-level mission of the State Department is being prepared.</p>
+<p>SIMERINI</p>
+<p>- Ministry Council will put forward parliamentary bill for giving 18-year-olds the right to vote in parliamentary and presidential elections.</p>
+<p>- Midnight meeting between President Celrides and N. Democracy Greek party leader Evert.</p>
+<p>ALITHIA</p>
+<p>-Police efforts aimed at cocaine drug dealers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

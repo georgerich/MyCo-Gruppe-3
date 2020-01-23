@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5995" id="root" date="1996-08-21" xml:lang="en">
+<title>CZECH REPUBLIC: Czech cabinet to discuss CZK 9.3 bln in 1996 cuts.</title>
+<headline>Czech cabinet to discuss CZK 9.3 bln in 1996 cuts.</headline>
+<dateline>PRAGUE 1996-08-21</dateline>
+<text>
+<p>Czech Prime Minister Vaclav Klaus said on Wednesday that the full cabinet would discuss a finance ministry plan to cut 1996 spending by 9.3 billion crowns in order to end the year with a balanced budget.  </p>
+<p>Klaus said a meeting of economic ministers on Tuesday gave preliminary approval to the plan.</p>
+<p>&quot;On the basis of this coalition meeting, this proposal of the finance minister will be placed on the government agenda next Wednesday,&quot; Klaus told Reuters after a cabinet meeting.</p>
+<p>&quot;You quoted a sum 9.3 billion (crowns of spending cuts), and I didn't doubt it. From that, you can deduce (it will be) rougly that sum,&quot; he said, responding to a question about the amount.</p>
+<p>Finance ministry sources have said a preliminary plan calls for the spending cuts to be taken evenly across all ministries in order to meet the balanced budget.  </p>
+<p>The major culprit in a more than six billion crown shortfall in projected 1996 revenue is apparently Russia, which has failed to pay roughly five billion crowns in credit owed to the Czech Republic this year.</p>
+<p>Another problem was the higher-than-expected expenditures on heating subsidies to households because of the unusually long and cold winter.</p>
+<p>-- Jan Lopatka, Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5555" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Jan Bell Marketing Inc Q2 net loss shrinks.</title>
+<headline>Jan Bell Marketing Inc Q2 net loss shrinks.</headline>
+<dateline>SUNRISE, Fla. 1996-08-21</dateline>
+<text>
+<p>(Amounts shown in thousands except share and per share data)</p>
+<p>					  Thirteen		Thirteen</p>
+<p>					 Wks Ended	     Wks Ended</p>
+<p>					    Aug 3,		 Jul 29,</p>
+<p>						1996		   1995</p>
+<p> Net sales			     $55,152		 $55,452</p>
+<p> Net loss			     ( 1,177)		( 1,886)</p>
+<p>Net loss per common</p>
+<p>     share			     ( 0.05)		 ( 0.07)</p>
+<p>Weighted average shares</p>
+<p>     outstanding		  25,844,226	    25,739,343</p>
+<p>(Amounts shown in thousands except share and per share data)</p>
+<p>						  26			26</p>
+<p>					 Wks Ended	     Wks Ended</p>
+<p>					    Aug 3,		 Jul 29,</p>
+<p>						1996		   1995</p>
+<p> Net sales			    $102,602		$105,471</p>
+<p> Net loss			     ( 6,248)		( 7,661)</p>
+<p>Net loss per common</p>
+<p>     share			     ( 0.24)		 ( 0.30)</p>
+<p>Weighted average shares</p>
+<p>     outstanding		  25,841,325	    25,741,366</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNRISE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

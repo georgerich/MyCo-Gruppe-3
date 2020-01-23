@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10141" id="root" date="1996-08-22" xml:lang="en">
+<title>SOUTH KOREA: FOCUS - Seoul announces major stock market reforms.</title>
+<headline>FOCUS - Seoul announces major stock market reforms.</headline>
+<byline>Katherine Bruce</byline>
+<dateline>SEOUL 1996-08-22</dateline>
+<text>
+<p>South Korea on Thursday announced sweeping stock market reforms designed to free up the supply of new shares and liberalise trading.</p>
+<p>A package of measures is likely to reduce opportunities for corruption by making regulations more transparent and scrapping a quota system that gives great power to government bureaucrats, analysts said.</p>
+<p>But they were sceptical about whether the measures, trumpeted by Seoul officials as a financial Big Bang, would have any significant impact on a market that has been on a long slide and shows no immediate signs of recovery.</p>
+<p>Some said it avoided more fundamental reforms, such as making hostile takeovers easier.</p>
+<p>The Ministry of Finance and Economy announced it would lift controls on initial public offerings (IPOs) and other share issues by domestic firms and institutions on September 1.</p>
+<p>At the same time, requirements for such capital increases would be tightened.  </p>
+<p>The daily share fluctuation limit would be raised to eight percent, up or down, from six percent starting in November. It would be further increased to 10 percent some time in the first half of next year.</p>
+<p>&quot;It's a step in the right direction,&quot; said Philip Smiley, manager of the Seoul branch of Jardine Fleming Securities.</p>
+<p>&quot;Anything that makes the rules clearer to all players is a good thing. But it is technical and procedural in nature and doesn't really change anything.&quot;</p>
+<p>Initial market reaction on Thursday was cool. At midday the main index had dropped 4.68 points to 784.44.</p>
+<p>According to the new rules, companies seeking a stock market listing must show a return on paid-in capital of more than 50 percent over three years, up from the current 30 percent.</p>
+<p>They must have an asset value of more than 15,000 won ($18) per share, double the present 7,500 won, and earnings per share of more than 10,000 won, now set at 5,000 won.</p>
+<p>Stock market regulators now impose quarterly quotas on IPOs, and because the qualifications are so low, there is a long queue of companies seeking to go public.  </p>
+<p>This month the former head of the Securities Supervisory Board was convicted of accepting bribes for helping companies to list and sentenced to a five year suspended jail term.</p>
+<p>&quot;At least no one's pockets will be lined along the way,&quot; said Andrew Holland, head of research at BZW Securities in Seoul, referring to the new regulations.</p>
+<p>The rules will rein in expansion of South Korea's top 10 business groups by imposing limits on new share issues by their affiliates. Annual capital increases will be held to four percent of total outstanding value of company stock or 100 billion won, whichever is larger.</p>
+<p>The aim is to prevent them dominate the market for new issues and allow smaller companies to flourish.</p>
+<p>&quot;The economy has a definite imbalance between the cash-rich chaebol and smaller companies that go bust, and anything that tries to alleviate that is good,&quot; said Smiley.</p>
+<p>&quot;But the higher requirements for offerings will still make it difficult for smaller companies to access cheap funding, so it's not a magic wand to cure the problem.&quot;</p>
+<p>The package also eases stock purchase margin requirements, allows margin trading in second tier shares and permits trading from home personal computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

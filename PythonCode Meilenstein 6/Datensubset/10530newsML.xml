@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10530" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: FORECAST- Fiskars H1 profit seen lower.</title>
+<headline>FORECAST- Fiskars H1 profit seen lower.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>A Reuters survey of nine analysts covering Finnish equities showed a 110 million markka mean forecast for insurer Fiskars Oy's first-half profit before extraordinaries.</p>
+<p>	 Profit before extraordinary items		  EPS*</p>
+<p>			 (FIM million)			   (FIM)</p>
+<p>  Mean			110				   8.97</p>
+<p>  Lowest		     84				   6.40</p>
+<p>  Highest		   128				  11.09</p>
+<p>  Median		    112				   9.27</p>
+<p>*EPS forecast for H1 from six of the nine analysts polled.</p>
+<p>The results are due on Monday, August 26, at 0830 local time (0530 GMT).</p>
+<p>In the corresponding period in 1995, Fiskars posted a 122 million markka profit after financial items but before extraordinary items.</p>
+<p>In the first quarter in 1996, Fiskars posted a 41 million markka profit before extraordinaries, down from 44 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

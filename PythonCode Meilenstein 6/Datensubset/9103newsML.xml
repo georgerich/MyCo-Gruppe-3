@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9103" id="root" date="1996-08-22" xml:lang="en">
+<title>SOUTH AFRICA: SAfrica wool prices firm at season's first auction.</title>
+<headline>SAfrica wool prices firm at season's first auction.</headline>
+<dateline>PORT ELIZABETH 1996-08-22</dateline>
+<text>
+<p>South African wool prices rose at the season's first weekly auction,  the Wool Board said.</p>
+<p>11,687 bales were offered at this week's sale, of which 98.8 percent was sold.</p>
+<p>There were no price quotes for long Merino fleeces of 20 micron. But 21 micron rose 3.2 percent from the previous sale, 23 micron rose 0.1 percent, 23 micron rose 2.1 percent, 24 micron rose 6.3 percent and 25 micron rose 7.8 percent.</p>
+<p>Prices for Merino bellies rose 3.8 percent, Merino lambs rose 5.5 percent and Merino locks rose 9.8 percent.</p>
+<p>The Wool Board said the 1996/97 season was to a great extent a reflection of the Australian market when prices increased by two and 20 percent.</p>
+<p>However, this increase can in part be attributed to a further weakening of the rand since the previous marketing season.</p>
+<p>Competition between local buyers and exporters were good to all types of wool, the Wool Board said.</p>
+<p>Next sale will be on September 4, offering 10,000.00 bales.</p>
+<p>-- Johannesburg newsroom 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT ELIZABETH"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

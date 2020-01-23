@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5760" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Argosy's Lawrenceburg project extended.</title>
+<headline>Argosy's Lawrenceburg project extended.</headline>
+<dateline>ALTON, Ill. 1996-08-21</dateline>
+<text>
+<p>Argosy Gaming Co said Wednesday that the Indiana Gaming Commisson extended for 180 days its certificate of suitability for Argosy's Lawrenceburg, Ind. joint venture project.</p>
+<p>The certificate was extended effective August 20.</p>
+<p>In July, Argosy said its Indiana license was challenged.  </p>
+<p>Argosy said construction of temporary Lawrenceburg facilities is on schedule for completion this November. The company said it anticipates opening its facilities once the U.S. Army Corp of Engineers issues a permit for a permanent site and the Indiana Gaming Commission issues a final gaming license.</p>
+<p>The Indiana Gaming Commission confirmed that it extended Argosy's certificate for Lawrenceburg.</p>
+<p>The commission also said it rejected an application by Shilling Casino Corp, doing business as Empire Casino &amp; Resort, that had sought to revoke Argosy's certificate.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

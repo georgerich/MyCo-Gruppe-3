@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3375" id="root" date="1996-08-20" xml:lang="en">
+<title>BRAZIL: Brazil exports $206 mln a day in August third week.</title>
+<headline>Brazil exports $206 mln a day in August third week.</headline>
+<dateline>BRASILIA 1996-08-20</dateline>
+<text>
+<p>Brazil exported an average of $206 million of goods per day in the third week of August, said Mauricio Cortes, secretary of foreign trade at the Ministry of Industry and Commerce.</p>
+<p>Cortes, speaking to reporters at the announcement of a $334 million trade deficit for the month of July, did not give a total figure for exports in August's third week, but a ministry spokeswoman confirmed the week had five days, giving exports a total value of $1.03 billion.  </p>
+<p>In the first two weeks of the month exports totalled $1.468 billion, with a daily average of $209.7 million.</p>
+<p>-- Michael Christie, Brasilia Newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

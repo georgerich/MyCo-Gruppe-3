@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12382" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Sony to launch new digital cameras.</title>
+<headline>Sony to launch new digital cameras.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Sony Corp said on Friday it would launch two new digital cameras in Japan in October.</p>
+<p>The Cyber-shot DSC-F1 will be priced at 88,000 yen and the DKC-D5PRO at 198,000 yen, Sony said.</p>
+<p>A spokesman said the DSC-F1, which will also go on sale in the United States in October, is a full-feature, high-speed camera with infrared wireless capability.</p>
+<p>The DKC-D5PRO, launched in the United States and Europe earlier this year under the name DKC-ID1, is equipped with a 12-times magnification zoom lens.</p>
+<p>&quot;Our prices may be a little higher than our competitors, but we are confident of our products' performance and high quality,&quot; the spokesman said.</p>
+<p>The company expects an initial monthly output of 40,000 DSC-F1 cameras and 1,500 DKC-D5PRO cameras in Japan, he said.</p>
+<p>Sony also said it will launch a digital color printer and a digital picture album in addition to the digital cameras.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

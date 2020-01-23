@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6696" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: British police get CS spray for self-defence.</title>
+<headline>British police get CS spray for self-defence.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>The British government overrode misgivings of civil liberties groups on Wednesday and gave the go-ahead for the nation's traditionally unarmed police to carry CS spray to defend themselves against violent attackers.</p>
+<p>Home Secretary Michael Howard, the interior minister, said the spray, which temporarily causes an assailant's eyes and nose to stream and creates breathing difficulties, had proved a success in trials since March involving 4,000 officers.</p>
+<p>Introduction of CS spray, which is dispensed from a hand-held aerosol canister as a liquid stream, is the latest addition to the still modest defensive arsenal of the unarmed British police.</p>
+<p>Side-handled batons have replaced traditional wooden truncheons and rigid handcuffs, which make it easier to restrain violent suspects, are used in place of standard handcuffs. Stab-resistant vests are also available to many forces.</p>
+<p>&quot;CS is effective and safe, and promises to be an excellent addition to the means which police officers have of defending themselves,&quot; Howard said in a statement.</p>
+<p>France, he noted, had used CS spray for 18 years.</p>
+<p>An interim report last week pointed to a 6.8 percent fall in serious assaults on police during CS trials in Britian.</p>
+<p>But John Wadham, director of civil rights organisation Liberty, was unconvinced and said the long-term effects of the use of CS spray had not been established.</p>
+<p>&quot;We know that police officers have abused CS gas spray in breach of the guidelines and the evidence doesn't even suggest that it has reduced assaults on police officers,&quot; he told BBC radio.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

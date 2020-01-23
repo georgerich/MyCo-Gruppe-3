@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4489" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: King of Morocco pardons 592 to mark anniversary.</title>
+<headline>King of Morocco pardons 592 to mark anniversary.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>King Hassan II of Morocco has pardoned 592 prisoners to mark an important national anniversary, Moroccan radio reported on Monday night.</p>
+<p>The mass pardon was commemorate King Mohamed V's temporary removal from the throne by French colonial authorities in 1953, the radio quoted Morocco's justice ministry as saying in a broadcast monitored by the BBC.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

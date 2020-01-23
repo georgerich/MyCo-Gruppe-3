@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6116" id="root" date="1996-08-21" xml:lang="en">
+<title>ARGENTINA: Argentina placed $285 mln in repos.</title>
+<headline>Argentina placed $285 mln in repos.</headline>
+<dateline>BUENOS AIRES 1996-08-21</dateline>
+<text>
+<p>Argentina's Central Bank announced Wednesday it placed $285 million in overnight repurchase agreements at nine percent.</p>
+<p>In the interbank market, call money rose to 9.75 percent from 8.60 percent at the close Tuesday.</p>
+<p>The U.S. dollar fell to 0.99990 pesos from 0.99995 pesos Tuesday.</p>
+<p>-- Buenos Aires Newsroom +541 318-0652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

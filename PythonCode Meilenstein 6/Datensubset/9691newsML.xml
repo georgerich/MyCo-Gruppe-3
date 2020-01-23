@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9691" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Clinton signs controversial welfare reform bill.</title>
+<headline>Clinton signs controversial welfare reform bill.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>President Bill Clinton Thursday signed a bill into law that will fundamentally change public assistance to poor people in the United States, calling it an  &quot;historic opportunity&quot; to improve the welfare system.</p>
+<p>&quot;Today we are ending welfare as we know it. But I hope this day will be remembered not for what it ended for what it began -- a new day that offers hope,&quot; Clinton said before signing the Republican-backed bill, which ends the 61-year-old federal guarantee of aid to the poor.  </p>
+<p>Clinton, who promised in his 1992 bid for the presidency to &quot;end welfare as we know it,&quot; said that while the bill was not perfect, it could help alleviate &quot;the terrible, almost physical isolation&quot; of the poor from the rest of society.</p>
+<p>&quot;We can change what is wrong. We should not pass up this historic opportunity to do what is right,&quot; he said. He said he would work to remedy cuts in nutrition aid for poor people and a ban on welfare for legal immigrants.</p>
+<p>Many of Clinton's fellow Democrats were against the bill, arguing that it would throw hundreds of thousands of children into poverty. Many analysts viewed Clinton's decision to sign it as the latest in a series of moves toward the political center before the Nov. 5 presidential election.</p>
+<p>But Vice President Al Gore rejected criticism of Clinton's action, saying that if the bill was implemented properly &quot;and repaired where misguided,&quot; it would give the poor &quot;hope and support.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

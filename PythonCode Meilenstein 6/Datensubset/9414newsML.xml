@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9414" id="root" date="1996-08-22" xml:lang="en">
+<title>TAIWAN: China Steel to lower prices for Q4 1996.</title>
+<headline>China Steel to lower prices for Q4 1996.</headline>
+<dateline>TAIPEI 1996-08-22</dateline>
+<text>
+<p>China Steel Corp, Taiwan's largest steel maker, said on Thursday it would lower prices of its products for the fourth quarter of 1996 to reflect both local and international market trends.</p>
+<p>The firm plans to lower hot rolled sheets to T$10,350 per tonne from T$10,650 per tonne in the third quarter of 1996, with cold rolled sheets down to T$13,350 per tonne from T$13,650 a tonne, it said. The price of steel plates remained unchanged at T$11,800 a tonne, said a company statement.</p>
+<p>(US$1 = T$27.5)</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

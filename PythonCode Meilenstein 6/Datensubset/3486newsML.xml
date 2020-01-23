@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3486" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS - Costello says budget passage sets up rate cut.</title>
+<headline>RTRS - Costello says budget passage sets up rate cut.</headline>
+<dateline>CANBERRA 1996-08-20</dateline>
+<text>
+<p>Treasurer Peter Costello said that if the government's 1996/97 budget was passed by the Senate, the upper house of parliament, such passage would set up an interest rate cut.</p>
+<p>&quot;If we can get our budget, intact, through the Senate, if we can get that low inflation locked in, then I think we can set up the chances for an easing in monetary policy,&quot; Costello said.</p>
+<p>Asked whether there would be another interest rate cut before the end of calendar 1996, he said: &quot;I'd like that to be an outcome and I am going to do the best to make sure we are going to get it&quot;.</p>
+<p>&quot;A good budget passed through the Senate, fiscal consolidation, we can set the conditions (for another rate cut),&quot; Costello said.  </p>
+<p>The Reserve Bank of Australia cut official cash rates to 7.00 percent from 7.50 percent on July 31.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

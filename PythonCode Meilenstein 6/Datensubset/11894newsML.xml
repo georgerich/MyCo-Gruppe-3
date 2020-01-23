@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11894" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Autotote loss narrows,1995 includes charges.</title>
+<headline>Autotote loss narrows,1995 includes charges.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.25     loss	 $1.01</p>
+<p> Net loss		   7,804     loss	29,246</p>
+<p> Revs			41,828		   38,722</p>
+<p> Avg shrs		  31,459		   28,928</p>
+<p>	   9 MONTHS</p>
+<p> Shr loss		   $0.88     loss	 $1.53</p>
+<p> Net loss		  27,499     loss	44,135</p>
+<p> Revs		     130,875		  106,971</p>
+<p> Avg shrs		  31,246		   28,884</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 1995 both periods include a restructuring charge of $11.6 million, and a write-off of investments amounting to $6.6 million.</p>
+<p>Q3 1996 include two unusual charges of $647,000 - related to an incomplete debt offering - and $569,000 for contractual payments.  These were partially offset by a reversal of $649,000 in 1995 restructuring cost accruals.</p>
+<p>Full company name is Autotote Corp.</p>
+<p>---New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

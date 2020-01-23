@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8235" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Asia Pulp Q2 $0.16/ADS under US GAAP.</title>
+<headline>Asia Pulp Q2 $0.16/ADS under US GAAP.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr (a)	   $0.16		 (a)$0.28</p>
+<p> Net (b)	   42,498		(a)52,400</p>
+<p> Revs (b)	  435,873	     (b)558</p>
+<p>	  6  MONTHS</p>
+<p> Shr (a)	   $0.38		 (a)$0.70</p>
+<p> Net (a)	   76,971		(a)129,064</p>
+<p> Revs (a)	  824,400	     (a)1,004,610</p>
+<p>(All data above 000s)</p>
+<p>NOTE: (a) - represents U.S. GAAP; (b) represents Indonesian GAAP</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

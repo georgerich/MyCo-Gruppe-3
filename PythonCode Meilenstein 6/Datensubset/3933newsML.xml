@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3933" id="root" date="1996-08-20" xml:lang="en">
+<title>PAKISTAN: Pakistan Telecom up 3.22 percent.</title>
+<headline>Pakistan Telecom up 3.22 percent.</headline>
+<dateline>KARACHI, Pakistan 1996-08-20</dateline>
+<text>
+<p>Blue chip Pakistan Telecommunications Company Ltd (PTCL) rose 1.10 rupees, or 3.22 percent to 35.25 rupees on newspapers reports that a Pakistan, Dutch and Indonesian consortium could bid for a 26 percent strategic stake in the company, dealers said on Tuesday.</p>
+<p>The stock emerged as volume leader at the Karachi bourse with a turnover of over 3.0 million shares by midsession.</p>
+<p>&quot;The news has triggered speculative buying of PTCL shares,&quot; dealer Manochar Jamal said. &quot;But the news is still premature and deal in its preliminary stage,&quot; dealer Mohammad Iqbal said. -- Karachi newsroom 9221-5685192.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

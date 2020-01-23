@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10151" id="root" date="1996-08-22" xml:lang="en">
+<title>SINGAPORE: India issues additional Oct kerosene buy tender.</title>
+<headline>India issues additional Oct kerosene buy tender.</headline>
+<dateline>SINGAPORE 1996-08-22</dateline>
+<text>
+<p>State-owned Indian Oil Corp (IOC) has issued a tender to buy an additional cargo of superior kerosene for delivery in October, traders said on Thursday.</p>
+<p>The tender requests delivery of one 45,000-tonne cargo to Madras or Haldia on October 1-5.</p>
+<p>This tender is an addition to an earlier one issued by IOC for the delivery of 30,000-tonne cargoes to Bombay and 45,000-tonne cargoes to Madras or Haldia in October.</p>
+<p>Both tenders close on September 5 and offers should be valid until September 6.  </p>
+<p>Traders said IOC may have issued the additional tender because it specifically needs a cargo for delivery on the dates requested.</p>
+<p>IOC cancelled its two tenders for August and September deliveries.</p>
+<p>--Singapore Newsroom (+65-870-3093)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

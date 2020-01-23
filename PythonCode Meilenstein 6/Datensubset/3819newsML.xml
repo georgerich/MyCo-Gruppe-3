@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3819" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Derma Sciences gets Philippine nod.</title>
+<headline>Derma Sciences gets Philippine nod.</headline>
+<dateline>OLD FORGE, Pa. 1996-08-20</dateline>
+<text>
+<p>Derma Sciences Inc said on Tuesday that the Republic of the Philippines has issued provisional Certificates of Product Registration for its line of wound care products.</p>
+<p>The approval grants a general clearance for six of the company's products to be marketed and sold throughout the Philippines.</p>
+<p>The company said it expects the final approvals to be granted in the near future.</p>
+<p>&quot;This approval now clears the way for our partner, Inter-Health Inc to set up an official launch of our products,&quot; said John Borthwick, president and chief executive officer in a press release.</p>
+<p>Derma said that according to its contract dated April 1995, Inter-Health will begin to fulfill its obligations some time in the fourth quarter of 1996.</p>
+<p>The contract calls for minimum purchases of $358,000 over the next two years, Derma said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OLD FORGE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

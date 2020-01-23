@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3062" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: New computer-delivered anaesthesia goes on market.</title>
+<headline>New computer-delivered anaesthesia goes on market.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>A computer-controlled system for delivering anaesthesia, which developers claim reduces post-operative nausea to almost nil, will go on sale commercially in Britain next month.</p>
+<p>The Target Controlled Infusion system will be marketed at first by Zeneca Group Plc, a spokeswoman for the developers at Glasgow University and HCI International Medical Centre in Clydebank, Scotland, said.</p>
+<p>The system, introduced at the World Congress of Anaesthesia in Sydney in April, uses a computer microchip to calculate tiny, exact doses of drug.</p>
+<p>&quot;It is the only commercially available system designed to deliver this type of intravenous anaesthesia in the world, providing for the first time ever a safe and accurate way of administering non-emetic (not causing nausea) anaesthetic drugs,&quot; the hospital said in a statement.</p>
+<p>The system's developer, anaesthesiologist Gavin Kenny, said it bypassed having to deliver drugs through a respirator.</p>
+<p>&quot;It enables us to use an intravenous agent, Diprivan, not only to make the patient go to sleep but also to maintain anesthesia,&quot; Kenny said.</p>
+<p>&quot;The patient wakes up very clear-headed but with no nausea,&quot; he added. &quot;No nausea, no vomiting, no nasty taste in the mouth.&quot;</p>
+<p>He said that of the 40,000 to 50,000 patients who had been given the drug this way, not one had died of complications arising from anaesthesia.</p>
+<p>The device costs about the same as conventional anaesthetic equipment -- about 1,500 pounds ($2,300) -- and would be commercially available from September 3, Kenny said. ($1=.6471 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

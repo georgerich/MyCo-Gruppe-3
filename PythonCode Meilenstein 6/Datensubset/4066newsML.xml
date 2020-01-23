@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4066" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: PRESALE- Kennedale ISD, Texas.</title>
+<headline>PRESALE- Kennedale ISD, Texas.</headline>
+<text>
+<p>AMT: 3,000,000	DATE: 08/29/96	NYC Time: 1700	CUSIP: 489350</p>
+<p>ISSUER: Kennedale Ind Sch Dist					ST: TX</p>
+<p>ISSUE: School building Series 1996			    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: PSF Aaa/NR/AAA					  BANK QUAL: Y</p>
+<p>DTD: 08/15/96							     SURE BID: N</p>
+<p>DUE: 2/15/98-21					     SR MGR:</p>
+<p>1ST CPN: 02/15/97</p>
+<p>CALL: 2/15/06 @ par					 NIC</p>
+<p>DELIVERY: 10/2/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: Bank One, Texas, Fort Worth</p>
+<p>L.O.: Fulbright &amp; Jaworski, Dallas</p>
+<p>F.A.: First Southwest Co., Dallas</p>
+<p>LAST SALE: $4,515,000 PSF 6/8/94 @ 5.7650% NIC;19yrs 9mos avg;BBI 6.09%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     55,000</p>
+<p>1999		     60,000</p>
+<p>2000		     65,000</p>
+<p>2001		     70,000</p>
+<p>2002		     75,000</p>
+<p>2003		     85,000</p>
+<p>2004		     90,000</p>
+<p>2005		     95,000</p>
+<p>2006		     95,000</p>
+<p>2007		    100,000</p>
+<p>2008		    110,000</p>
+<p>2009		    115,000</p>
+<p>2010		    120,000</p>
+<p>2011		    125,000</p>
+<p>2012		    135,000</p>
+<p>2013		    140,000</p>
+<p>2014		    150,000</p>
+<p>2015		    160,000</p>
+<p>2016		    165,000</p>
+<p>2017		    175,000</p>
+<p>2018		    185,000</p>
+<p>2019		    200,000</p>
+<p>2020		    210,000</p>
+<p>2021		    220,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

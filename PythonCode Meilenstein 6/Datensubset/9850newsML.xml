@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9850" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: Globalstar launches India phone venture.</title>
+<headline>Globalstar launches India phone venture.</headline>
+<byline>Narayanan Madhavan</byline>
+<dateline>NEW DELHI 1996-08-22</dateline>
+<text>
+<p>Satellite communications group Globalstar L.P. has formed a joint venture in India to provide hand-held telephone services with the help of low-flying satellites, senior company officials said on Thursday.</p>
+<p>South Korea's Hyundai Electronic Industries, DACOM Corp and Hyundai Corp, who are members of the Globalstar consortium, will hold 49 percent while India's Crompton Greaves and Pertech Computers Ltd will hold 51 percent in the venture, they said.</p>
+<p>Globalstar India Satellite Service Pvt Ltd will seek a licence from the Indian government to offer the services, they said.</p>
+<p>Globalstar L.P. is a partnership of leading international satellite manufacturers and wireless operators building a $2.2 billion system of 48 low-earth-orbiting (LEO) satellites.</p>
+<p>The first satellite is expected to be launched in October and services are expected to begin by 1998, when 24 satellites will be in place, Globalstar officials said.</p>
+<p>Globalstar, whose leading partner is Loral Space and Communications, will compete with Iridium Inc, a consortium founded by Motorola Inc but it expects to have an advantage because its satellites will operate through ground links with existing basic and mobile phone services.</p>
+<p>&quot;We will never substitute (existing networks). We will only serve where they are not there,&quot; David Benton, spokesman for Globalstar, told Reuters in an interview.</p>
+<p>&quot;Globalstar India has actively solicited the collaboration of India's telecom agencies, including Videsh Sanchar Nigam Ltd (VSNL) and Mahanagar Telephone Nigam Ltd,&quot; the group said in a statement.</p>
+<p>&quot;The new company has applied for, and anticipates obtaining, all necessary government approvals and licences by the end of 1996,&quot; the statement said.</p>
+<p>Ming Louie, vice-president for the Asia-Pacific region, said Globalstar expected to reach remote rural areas and hoped for a big market in India which has hundreds of thousands of villages.</p>
+<p>&quot;They (cellular phone services) will never come 100 percent to India,&quot; he said.</p>
+<p>&quot;Globalstar India plans to intitially establish three gateway earth stations, which in turn will be connected to India's public network, including the international gateway facilities of VSNL,&quot; the statement said.</p>
+<p>The Indian venture expects to have 51,000 subscribers by 2002, including 38,000 mobile phone subscribers and 13,000 remote fixed-site satellite phone subscribers, it said.</p>
+<p>Hyundai/DACOM has acquired Globalstar operating rights and options for India and 17 other countries, the statement said.</p>
+<p>Globalstar officials say their group intends to offer service providers effective average prices expected to range between $0.35 to $0.53 per minute.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

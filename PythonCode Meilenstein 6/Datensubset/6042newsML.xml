@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6042" id="root" date="1996-08-21" xml:lang="en">
+<title>CZECH REPUBLIC: Czech c.bank sets 13-wk T-bill auction for Thurs.</title>
+<headline>Czech c.bank sets 13-wk T-bill auction for Thurs.</headline>
+<dateline>PRAGUE 1996-08-21</dateline>
+<text>
+<p>The Czech National Bank (CNB) has set an auction of 13-week Ministry of Finance treasury bills for Thursday with a maximum yield on bids in the American-style auction of 12.55 percent, the CNB said.</p>
+<p>It said a nominal six billion crowns of the bills would be on offer, and bids are due at 1200 CET (1000 GMT) on Thursday.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

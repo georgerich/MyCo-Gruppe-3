@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7298" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: Taiwan dollar closes stable in active trade.</title>
+<headline>Taiwan dollar closes stable in active trade.</headline>
+<dateline>TAIPEI 1996-08-21</dateline>
+<text>
+<p>The Taiwan dollar finished little changed in active Wednesday trade as supply and demand for the U.S. dollar were balanced, dealers said.</p>
+<p>The local unit ended at T$27.515 against Tuesday's T$27.519 close. Turnover was an active US$229 million.</p>
+<p>The Taiwan dollar fell as low as T$27.540 on importers's U.S. dollar buying, but exporters' U.S. dollar sales balanced the rate, dealers said. &quot;Sentiment in the market is fairly stable at the moment and there is no strong incentive to move the rate in either direction,&quot; said one dealer. A range of T$27.49-53 was seen for Thursday. -- Alice Hung (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

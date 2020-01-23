@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2929" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: NYMEX oil prices trim losses before close.</title>
+<headline>NYMEX oil prices trim losses before close.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>NYMEX crude oil and refined product futures trimmed some of their losses ahead of the close, but overall the market remained in a profit-taking mode, traders said Monday afternoon.</p>
+<p>&quot;This definitely is a give-back day,&quot; said Gerald Samuels, managing director of ARB Oil, referring to profit-taking.</p>
+<p>September crude, expiring at the end of the session, was 44 cents lower at $22.82 a barrel. October crude was benefiting from the last of the rolling out of September positions, shedding just 24 cents and trading at $22.23 a barrel in the final minutes of the session.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

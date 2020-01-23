@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3677" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: FOB Gulf Grain - Soy firms, corn and wheat steady.</title>
+<headline>FOB Gulf Grain - Soy firms, corn and wheat steady.</headline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>FOB Gulf corn and wheat positions were steady while soybean values firmed.</p>
+<p>Soybeans firmed by three cents per bushel in the September and October position and were in line with higher CIF values, one dealer said.</p>
+<p>In export news, Pakistan was seeking 30,000 to 34,000 tonnes U.S. No. 2 or better yellow soybeans under PL 480 for last half October delivery.  </p>
+<p>Dealers quoted the following afternoon FOB U.S. Gulf values, basis Chicago futures, except hard red winter wheat basis Kansas City. (In cents per bushel).</p>
+<p>No. 3 yellow corn -</p>
+<p>Sept 1-20   - no bid, 120 ov Sept offered</p>
+<p>Sept 11-30  - no bid, 110 ov Sept offered</p>
+<p>Oct 1-20    - no bid,  95 ov Dec offered</p>
+<p>Oct 12-31   - no bid,  75 ov Dec offered</p>
+<p>No. 2 yellow soybeans</p>
+<p>September  - no bid, 56 ov Nov offered</p>
+<p>October    - no bid, 43 ov Nov offered</p>
+<p>November   - no bid, 36 ov Nov offered</p>
+<p>HRW wheat</p>
+<p>August     - no bid, 45 ov Sep offered</p>
+<p>September  - no bid, 44 ov Sep offered</p>
+<p>October    - no bid, 45 ov Dec offered</p>
+<p>November   - no bid, 47 ov Dec offered</p>
+<p>SRW wheat</p>
+<p>August     - no bid, 28 ov Sept offered</p>
+<p>September  - no bid, 32 ov Sept offered</p>
+<p>October    - no bid, 32 ov Dec  offered</p>
+<p>November   - no bid, 38 ov Dec  offered</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

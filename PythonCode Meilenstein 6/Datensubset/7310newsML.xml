@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7310" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: COSCO down on Taiwan/China shipping link.</title>
+<headline>COSCO down on Taiwan/China shipping link.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>Shares of COSCO Pacific Ltd were lower on Wednesday, despite a firmer market tone, on concerns about the impact of direct shipping links between Taiwan and China, brokers said.</p>
+<p>&quot;There is slight concern about news that Taiwan and China will allow direct shipping,&quot; said Miles Remington, sales trader at Crosby Securities. &quot;If that does happen it may affect China shipments in Hong Kong and may affect earnings (of local shipping companies).&quot;</p>
+<p>COSCO shares fell HK$0.15 to HK$5.85 in late trade.</p>
+<p>China issued rules on Tuesday governing direct shipping links with Taiwan. Edwin Cheung, a sales manager from Taiwan Securities, said COSCO was hit because of its significant involvement in shipping between Taiwan and China.</p>
+<p>However, some analysts said they expected COSCO's container leasing business to receive a boost over the longer run from increasing demand by its parent China Ocean Shipping Co which has a near monopoly over China's international shipping routes.</p>
+<p>Shares in Orient Overseas (International) Ltd, another shipping group, were unchanged at HK$5.70.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

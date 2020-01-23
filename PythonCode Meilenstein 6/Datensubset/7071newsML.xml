@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7071" id="root" date="1996-08-21" xml:lang="en">
+<title>ITALY: Italian bonds/futures closing report.</title>
+<headline>Italian bonds/futures closing report.</headline>
+<dateline>MILAN 1996-08-21</dateline>
+<text>
+<p>Italian debt markets suffered alongside the Bund in late trade, and traders said the market was looking flabby despite reasonable turnover for August.</p>
+<p>The September future on LIFFE was trading 44 basis points down at 115.27 by 1510 GMT as players awaited preliminary consumer prices data for August after 1530 GMT.</p>
+<p>&quot;We could have a technical bounce to 115.50 or 115.80 but if it keeps closing below 115.40 the situation looks negative for the long run,&quot; a broker at an Italian bank in London said.</p>
+<p>The February 2006 Btp fell 36 basis points to 100.67 but the spread over the 10-year Bund inched in to 325 from 329 Tuesday.  </p>
+<p>The lira failed to help the market, trundling to softer ground against the mark at 1,023.05/3.40 from around 1,019 late on Tuesday.</p>
+<p>The market is waiting for Milan, Turin, Trieste, Venice, Palermo and Genoa to release their preliminary CPI today, with Perugia, Bologna, Florence and Naples publishing theirs on Thursday. Forecasts are for 3.4 percent year on year after July's 3.6 percent, although traders said there was speculation the rate could be higher than expected.</p>
+<p>The final figure is released on September 5.</p>
+<p>--Charlotte Cooper, Milan bureau +392 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

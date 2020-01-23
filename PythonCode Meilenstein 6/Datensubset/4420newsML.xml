@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4420" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: Bundesbank data show fall in net reserves in week.</title>
+<headline>Bundesbank data show fall in net reserves in week.</headline>
+<dateline>FRANKFURT 1996-08-20</dateline>
+<text>
+<p>Bundesbank data released on Tuesday show that net currency reserves fell to about 102.8 billion marks in the week ending August 15, down from about 103.1 billion marks in the week ending August 7.</p>
+<p>The Bundesbank provided the following reserve data: (in billion marks)</p>
+<p> Banking week ended		     Aug 15	     Aug 7</p>
+<p> Gross currency reserves		119.7		119.6</p>
+<p> Foreign liabilities		    16.9		 16.5</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

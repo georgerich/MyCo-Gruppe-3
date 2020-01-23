@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8182" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: KeyCorp files for $1.2 bln shelf debt/equity.</title>
+<headline>KeyCorp files for $1.2 bln shelf debt/equity.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>KeyCorp, a Cleveland, Ohio-based bank holding company, filed a shelf registration on Wednesday with the Securities and Exchange Commission for up to $1.2 billion in debt and equity securities.</p>
+<p>The offering includes $750 million in senior medium-term notes and subordinated medium-term notes.</p>
+<p>The notes will be offered through Salomon Bros, Chase Securities Inc, CS First Boston, Citicorp Securities Inc, Goldman Sachs &amp; Co and J.P. Morgan &amp; Co.</p>
+<p>KeyCorp said that when combined with previous registrations, it will have up to $1.26 billion in securities, including preferred and common stock, available sale.</p>
+<p>It said net proceeds will be used for general corporate purposes, including investments in or advances to basnking and nonbanking subsidiaries, reduction of short-term debt, borrowings, investments and financing of possible future acqusitions.</p>
+<p>It said proceeds may also be used to finance, in whole or in part, repurchase of its common stock.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

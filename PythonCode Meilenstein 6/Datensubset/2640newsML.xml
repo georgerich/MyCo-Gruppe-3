@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2640" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: TENNIS-RESULTS AT TOSHIBA CLASSIC.</title>
+<headline>TENNIS-RESULTS AT TOSHIBA CLASSIC.</headline>
+<dateline>CARLSBAD, California 1996-08-19</dateline>
+<text>
+<p>Results from the</p>
+<p>$450,000 Toshiba Classic tennis tournament on Monday (prefix</p>
+<p>number denotes seeding):</p>
+<p>First round</p>
+<p>7-Ai Sugiyama (Japan) beat Angelica Gavaldon (Mexico) 6-1 6-2</p>
+<p>Naoko Sawamatsu (Japan) beat Sabine Hack (Germany) 7-6 (7-5)</p>
+<p>6-3</p>
+<p>Asa Carlsson (Sweden) beat Lisa Raymond (U.S.) 6-4 6-0</p>
+<p>Shi-Ting Wang (Taiwan) beat Miriam Oremans 6-1 6-4</p>
+<p>Linda Wild (U.S.) beat Zina Garrison-Jackson (U.S.) 6-3 7-6</p>
+<p>(7-3)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARLSBAD, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

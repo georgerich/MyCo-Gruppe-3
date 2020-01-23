@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10791" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Harmony Products, Cypress Chem to merge.</title>
+<headline>Harmony Products, Cypress Chem to merge.</headline>
+<dateline>CHESAPEAKE, Va. 1996-08-23</dateline>
+<text>
+<p>Cypress Chemical Co and Harmony Products Inc said Friday they would merge under a plan that would give Cypress an 85 percent controlling interest in Harmony.</p>
+<p>Cypress will acquire all of the outstanding shares of Harmony in exchange for a combination of Cypress common and preferred shares, the companies said.</p>
+<p>The Cypress shares would be subject to redemption after two years at Cypress's option for about $3.45 million.</p>
+<p>The preferred shares would be convertible into Cypress common shares on a one-for-one basis.</p>
+<p>The deal is expected to be closed by December 31, the companies said.</p>
+<p>Cypress manufactures and sells synthetic fertilizers. Harmony, which discontinued operating its primary production line last year, also is involved in the speciality fertilizer market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHESAPEAKE, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11825" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: RESEARCH ALERT -  Royal Oak initiated.</title>
+<headline>RESEARCH ALERT -  Royal Oak initiated.</headline>
+<text>
+<p>-- EVEREN Securities Inc said Friday it initiated coverage of Royal Oak Mines Inc with an outperform rating.</p>
+<p>-- It set earnings estimates of $0.08 a share for fiscal 1996, $0.13 for 1997, $0.40 for 1998 and $0.43 for 1999.</p>
+<p>-- &quot;Based on our simulated production, income and cash flow models, common shares of Royal Oak are at a significant discount to the industry averages,&quot; EVEREN said.</p>
+<p>-- The short-term price objective is $5 a share and the long-term objective is $9.</p>
+<p>-- Royal Oak shares were down 1/16 at 3-11/16.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

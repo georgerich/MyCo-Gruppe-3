@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8898" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Agency for International Development to issue debt.</title>
+<headline>Agency for International Development to issue debt.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The Agency for International Development (AID) for Israel is expected to price $1.0 billion via a two-part debt offering on Thursday, dealers said.</p>
+<p>The first tranche is expected to be underwritten by Merrill Lynch &amp; Co and is comprised of zero coupon debt.</p>
+<p>The second tranche consist of fixed-rate debt and is expected to be underwritten by Lehman Brothers.</p>
+<p>No further details were available on the deal.</p>
+<p>--Nancy Leinfuss, 212-859-1675</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

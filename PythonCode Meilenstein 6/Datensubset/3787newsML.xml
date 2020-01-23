@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3787" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: LPC-Santander lending Telecom Argentina $200 mln.</title>
+<headline>LPC-Santander lending Telecom Argentina $200 mln.</headline>
+<text>
+<p>NEW YORK, Aug 20 (LPC) - Telecom Argentinga has mandated Banco Santander SA to arrange a loan of about $200 million, banking sources said.</p>
+<p>The deal will be structured in two tranches, one syndicated in Argentina and one that will be syndicated internationally, according to bankers. The domestic tranche probably will offer a longer tenor, and the deal is not expected to have financial covenants, a banker added.</p>
+<p>Telecom had requested a five-year bullet with no financial covenants and turned down any bids that deviated from that structure, bankers said. Several weeks ago, Telecom narrowed the bids to a four- to five-member short list of banks that accepted the conditions, according to sources.</p>
+<p>Bankers also are expecting a mandate for Telefonica de Argentina, sources said.  The company, which originally was looking for a two-year deal, is being offered credits with four- and five-year tenors, sources added.</p>
+<p>Telefonica plans to refinance its $150 million deal from early this year, bankers said. Pricing on that loan began at 250 basis points over the London Interbank Offered Rate (LIBOR) and stepped up to LIBOR plus 350 basis points, well above what is expected on the new deal, a banker said.</p>
+<p>- Meredith Coffey, LPC Editorial, 212 489-5455</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

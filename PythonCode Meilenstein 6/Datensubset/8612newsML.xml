@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8612" id="root" date="1996-08-22" xml:lang="en">
+<title>ROMANIA: ROMANIAN SHIPPING - DRY CARGO, CONSTANTA PORT.</title>
+<headline>ROMANIAN SHIPPING - DRY CARGO, CONSTANTA PORT.</headline>
+<dateline>BUCHAREST 1996-08-22</dateline>
+<text>
+<p>The following ships were</p>
+<p>loading, discharging in the Black Sea port of Constanta on</p>
+<p>Thursday, port authorities said.</p>
+<p>   SHIP		     COMMODITY    OPERATION   TONNES</p>
+<p> - Murvet Ana		urea	    ldg	  8,400</p>
+<p> - IBN Sina		  urea	    ldg	  6,800</p>
+<p> - Mona C		    urea	    ldg	  5,500</p>
+<p> - Lady Iman		 sulphate	ldg	  7,700</p>
+<p> - Ivan Kudrya	     bauxite	 ldg*	 3,000</p>
+<p> - Trubej		    bauxite	 ldg*	 3,000</p>
+<p> - Ros			 bauxite	 ldg*	 4,000</p>
+<p> - Erdogan Senkay	  wheat	   ldg*	 1,070</p>
+<p> - Kyklades K		soya	    dsg	 20,295</p>
+<p>* Cargo in transit</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

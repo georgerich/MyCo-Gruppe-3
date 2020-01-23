@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10933" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: CWB sees likely lower China sales weigh on wheat.</title>
+<headline>CWB sees likely lower China sales weigh on wheat.</headline>
+<dateline>WINNIPEG 1996-08-23</dateline>
+<text>
+<p>Expectations that China should have a bumper wheat harvest weighed on world price projections issued by the Canadian Wheat Board Thursday, a CWB market analyst said Friday.</p>
+<p>&quot;There's more supplies and possibly lower import demand, especially from China,&quot; CWB market analyst Larry Sawatzky said.</p>
+<p>The United States Department of Agriculture on August 12 forecast 1996/97 Chinese wheat imports at 8.0 million tonnes, down a third from the previous year's demand of 12.0 million tonnes.</p>
+<p>Since last month China cancelled more than 1.0 million tonnes of U.S. wheat purchases for 1996/97 citing concerns over TCK smut fungus.</p>
+<p>&quot;Those Chinese cancellations of U.S. wheat sales depressed the market. People were saying: 'Holy cow, they're backing out of all these sales, their crop must be fairly good.' That definitely had a negative impact,&quot; Sawatzky said.</p>
+<p>The CWB lowered its estimate of world prices for its benchmark No.1 Canada Western Red Spring Wheat C$13 a tonne to the C$232-252 a tonne range from C$245-265 range in July.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

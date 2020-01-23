@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4652" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Konica to sell film development labs to Kodak unit.</title>
+<headline>Konica to sell film development labs to Kodak unit.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Japanese photographic film maker Konica Corp said on Tuesday it had agreed to sell two of its main film developing laboratories in the United States to Qualex Inc, a subsidiary of Eastman Kodak Co.</p>
+<p>Qualex, based in North Carolina, is the largest film developing company in the United States.</p>
+<p>A Konica spokesman said the labs were in Connecticut and Virginia. He declined to give a value for the planned sale. The sale was part of Konica's restructuring, the spokesman said, adding that Qualex wanted to expand its network of film developing labs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

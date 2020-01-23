@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4577" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan yen bond trade to be extended on tankan day.</title>
+<headline>Japan yen bond trade to be extended on tankan day.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Cash yen bond trading will be extended by 15 minutes on Wednesday morning, August 28, to give traders more time to react to the Bank of Japan's August &quot;tankan&quot; survey of corporate sentiment which will be released at the same time, Japan Bond Trading Co Ltd said on Tuesday.</p>
+<p>Trade, which is usually suspended at 11.05 a.m. (0205 GMT), will be extended to 11.20 a.m. (0220 GMT).</p>
+<p>The BOJ said it would release its quarterly survey at 11.00 a.m. (0200 GMT). The BOJ had moved up the time so the news could be digested when Tokyo markets were still open.</p>
+<p>An official at Japan Bond Trading said trade will from now on be extended until 11.20 a.m. every time the BOJ releases its quarterly tankan survey.</p>
+<p>The tankan is an important indicator used by the BOJ in deciding monetary policy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

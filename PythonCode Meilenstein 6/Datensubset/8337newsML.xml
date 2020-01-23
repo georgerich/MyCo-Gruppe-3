@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8337" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: Germany key farm importer in 1995-official data.</title>
+<headline>Germany key farm importer in 1995-official data.</headline>
+<dateline>BONN 1996-08-22</dateline>
+<text>
+<p>Germany led world farm imports in 1995 with purchases worth 65.4 billion marks and was the fourth largest farm exporter with sales of 36.9 billion marks, Bonn farm ministry figures showed on Thursday.</p>
+<p>But the figures were down from 66.2 billion marks of imports in 1994 when exports were 37.2 billion marks.</p>
+<p>Some 65 percent of the 1995 imports came from neighbouring European Union (EU) states which also received 68 percent of exports.</p>
+<p>German farm union DBV in a statement said farm trade had not kept up with the general pace of external trade because of the strong mark.</p>
+<p>DBV called for speedy currency union in Europe.</p>
+<p>The ministry highlighted the fact that German farm sales to Italy in 1995 dropped eight percent to 4.66 million marks after Austria joined the EU and increasingly served that market.</p>
+<p>But sales to Austria had in turn improved, it added.</p>
+<p>The figures were preliminary because of difficulties with collating intra-EU trade statistics.</p>
+<p>-- Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

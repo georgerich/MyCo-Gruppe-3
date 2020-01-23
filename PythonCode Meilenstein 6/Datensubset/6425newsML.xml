@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6425" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: KCBT wheat futures end lower on lack of exports.</title>
+<headline>KCBT wheat futures end lower on lack of exports.</headline>
+<dateline>KANSAS CITY, Mo. 1996-08-21</dateline>
+<text>
+<p>KCBT hard red winter wheat futures ended lower on a continued lack of new export business, traders said.</p>
+<p>&quot;It boils down to this -- this market's not going to rally until we see some new export business,&quot; a KCBT trader said. &quot;I think the market's discouraged right now since it looks like Egypt's sourcing wheat from other places.&quot;</p>
+<p>Egypt recently opted not to purchase U.S. soft red wheat because of concrens over vomitoxin.</p>
+<p>KCBT wheat closed one to 2-1/2 cents per bushel lower, with Sept down 2-1/2 cents at $4.79-1/2.</p>
+<p>Traders said that flat price and intra-market spread volumes had been moderate.</p>
+<p>Traders said FIMAT, CIS and Shay Grain each bear-spread one million Dec/Sept bushels. Man International bull=spread 1.5 million Sept/Dec. Refco bought 1.9 million Dec bushels, they said.</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

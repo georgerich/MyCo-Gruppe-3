@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4019" id="root" date="1996-08-20" xml:lang="en">
+<title>ISRAEL: Court documents show Israel snatched four Lebanese.</title>
+<headline>Court documents show Israel snatched four Lebanese.</headline>
+<dateline>JERUSALEM 1996-08-20</dateline>
+<text>
+<p>Israel snatched four Lebanese residents from southern Lebanon earlier this year and held them in Israel, a ruling by Israel's High Court showed on Tuesday.</p>
+<p>Israel's Yedioth Ahronoth newspaper said the four apparently had earlier abducted another Lebanese man who had worked for Israel's Mossad secret service and &quot;handed him to the enemy.&quot;</p>
+<p>The news of the arrest was disclosed after the High Court, in a July ruling, rejected the unnamed individuals' appeal against their detention in Israel.</p>
+<p>&quot;The four appellants are residents of Lebanon. They were arrested on February 22, 1996, by Israeli security forces in Lebanon's territory, the security zone, and were brought on March 17, 1996, to the territory of the State of Israel,&quot; said the ruling obtained by Reuters on Tuesday.</p>
+<p>Israel carved out a 15-km (nine mile) wide occupation zone in south Lebanon in 1985 when it withdrew the bulk of its 1982 Lebanon invasion force. The zone is policed by Israel's surrogate South Lebanon Army militia (SLA).</p>
+<p>The court made only a glancing reference to why the four were detained by Israel, saying: &quot;From information brought before the minister (then prime minister Shimon Peres) and to the court it arose that the four appellants took part, each in his own way, in kidnapping a Lebanese citizen.&quot;</p>
+<p>It gave no further details.</p>
+<p>The court upheld the detention of the four by administrative order for six months. The order, issued by Peres, who at the time was also defence minister, is valid until September 16.</p>
+<p>Yedioth said four days after Israel captured the four, the pro-Syrian Lebanese newspaper as-Safir said that intelligence personnel of the Lebanese army kidnapped a Mossad agent named Ahmed Halek from south Lebanon and took him to Beirut.</p>
+<p>Yedioth quoted as-Safir saying Halek had detonated a car bomb at a pro-Iranian Hizbollah group stronghold in Beirut in December that killed four people. It said he was sentenced to death by a Lebanese court martial.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

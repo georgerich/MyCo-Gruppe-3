@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8544" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: GOLF-WOODS WINS FIRST MATCH-PLAY ROUND AT U.S. AMATEUR.</title>
+<headline>GOLF-WOODS WINS FIRST MATCH-PLAY ROUND AT U.S. AMATEUR.</headline>
+<dateline>CORNELIUS, Oregon 1996-08-21</dateline>
+<text>
+<p>Two-time defending champion Tiger Woods won three consecutive holes on the front nine and defeated J.D. Manning, 3 and 2, in the first round of match play at the U.S. Amateur Golf Championship Wednesday.</p>
+<p>Woods fell behind when Manning birdied the sixth hole but he won the next three holes, two with birdies. He eagled the 14th hole and clinched the match with a par at 16 as Manning bogeyed.</p>
+<p>The 20-year-old Woods is trying to become the first player ever to win three consecutive U.S. Amateur Championships. Before his titles in 1994 and 1995, he captured three straight U.S. Junior Amateur crowns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CORNELIUS, Oregon"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

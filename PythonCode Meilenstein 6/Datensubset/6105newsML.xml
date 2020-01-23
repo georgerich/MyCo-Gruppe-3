@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6105" id="root" date="1996-08-21" xml:lang="en">
+<title>BRAZIL: Mali prime minister visits Brazil to boost trade.</title>
+<headline>Mali prime minister visits Brazil to boost trade.</headline>
+<dateline>BRASILIA 1996-08-21</dateline>
+<text>
+<p>Prime Minister Ibrahim Keita of Mali met Brazilian President Fernando Henrique Cardoso on Wednesday during a visit intended to boost ties between the African republic and Latin America's largest country.</p>
+<p>Keita told reporters in Brasilia that he hoped his visit, running until Saturday, would encourage Brazilian firms to invest in his country, which acquired independence in 1960.</p>
+<p>&quot;Our country has much in common with Brazil, being multiracial and multicultural, and we would like to take advantage of that to strengthen bilateral ties,&quot; he said.</p>
+<p>A delegation of Malian businessmen accompanying Keita has been holding talks with Brazilian business leaders in Sao Paulo. Total trade between the countries in 1995 amounted to only $25 million, according to the Brazilian Foreign Ministry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MALI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

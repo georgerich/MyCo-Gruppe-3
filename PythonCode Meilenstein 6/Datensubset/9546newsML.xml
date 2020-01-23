@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9546" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: New York grain freight fixtures - August 22.</title>
+<headline>New York grain freight fixtures - August 22.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Korean Peace 20,000 long tons wheat USG/Buenaventura end-Aug $14.00 four days/3,000 Nidera.</p>
+<p>TBN 20,000-26,000 long tons 50 ft grain products Mississippi/Valencia and Corunna prompt lump sum equiv $14.00 one to two days six days/shex Dreyfus.</p>
+<p>Gina Iuliano 54,000 long tons hss USG/Japan 1-10/10 $21.25 no combo, $21.75 w/combo 11 days shex CNR.</p>
+<p>-- New York Commodities Desk +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

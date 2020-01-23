@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4371" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRIA: MMK moves into Czech Rep with acquisition.</title>
+<headline>MMK moves into Czech Rep with acquisition.</headline>
+<dateline>VIENNA 1996-08-20</dateline>
+<text>
+<p>Leading European cartonboard manufacturer Mayr-Melnhof Karton AG (MMK) said on Tuesday it had bought a 70 percent stake in folding carton producer Solnice Papirny S.P. of the Czech Republic.</p>
+<p>Deputy chief executive Alfred Fogarassy said MMK is poised to announce further acquisitions of production sites in two Eastern European countries.</p>
+<p>&quot;We're very close to making an announcement,&quot; Fogarassy told journalists at MMK's half-year earnings conference.</p>
+<p>Fogarassy declined to reveal the price for its Solnice stake, which has been taken over by MMK subsidiary E. Schausberger &amp; Co GmbH.</p>
+<p>The Czech plant near Hradec Kralove could also export to Poland and the Ukraine, he said, adding MMK plans &quot;a wide-reaching investment programme.&quot; He gave no details.</p>
+<p>-- Vienna newsroom, +431 531 12 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6258" id="root" date="1996-08-21" xml:lang="en">
+<title>MALAYSIA: Malaysia rubber closes mixed on Japanese trends.</title>
+<headline>Malaysia rubber closes mixed on Japanese trends.</headline>
+<dateline>KUALA LUMPUR 1996-08-21</dateline>
+<text>
+<p>Malaysian rubber prices ended mixed after duly tracking Japanese futures in the continued absence of buying interest, traders said.</p>
+<p>&quot;Forward months in Japanese futures closed down today, that's was the only lead for the local market,&quot; said a trader.</p>
+<p>Summer holidays in the West and buyers' reserve have suppressed regional rubber prices of late. &quot;The mixed price is just a technical adjustment,&quot; said a dealer.</p>
+<p>In the longer-term, regional markets may also affected by the planned sale of 60,000 tonnes of rubber by the U.S. Defence National Stockpile Centre by early 1997, traders said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

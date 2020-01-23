@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5756" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: U.S. to clarify Iran-Libya sanctions in September.</title>
+<headline>U.S. to clarify Iran-Libya sanctions in September.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>U.S. officials expect to define within the next month the scope of Washington's new sanctions law targeting new foreign oil and gas investments in Iran and Libya, a Treasury Department source said Wednesday.</p>
+<p>&quot;In a fairly short time after Labor Day (September 2) we can expect to see some regulations,&quot; the source said.</p>
+<p>The Treasury Department's Office of Foreign Assets Control and the State Department are responsible for carrying out the law to punish non-U.S. companies that invest $40 million or more in any one year in petroleum resources in Iran or Libya.  </p>
+<p>Progress on interpreting the law has been slow in the two weeks since President Bill Clinton signed it, with a Congressional recess and election-year conventions emptying out official Washington, administration officials have said.</p>
+<p>In the meantime, Iran has sealed agreements involving natural gas and oil sales to neighbors Turkey and Pakistan.</p>
+<p>French oil major Total SA announced that Malaysia's state-owned Petronas has taken a 30 percent stake in a project to develop two fields offshore Iran with Total.</p>
+<p>The administration now has to decide whether those agreements fall within the terms of the sanctions law.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

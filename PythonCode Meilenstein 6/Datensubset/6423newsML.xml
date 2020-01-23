@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6423" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Key provisions of new health reform law.</title>
+<headline>Key provisions of new health reform law.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The health reform bill signed into law by President Bill Clinton on Wednesday will make health insurance more accessible for at least a portion of the roughly 40 million Americans without coverage.</p>
+<p>Here are some of its key provisions, most of which become effective after June 30, 1997.</p>
+<p>-- Portability. The law makes it easier for people to keep insurance if they switch jobs, assuming the new employer offers coverage. Workers who had coverage at their old job cannot be excluded from an insurance plan at the new one because of pre-existing health problems.</p>
+<p>Generally, those whose prior coverage lapsed briefly -- for less than 63 days -- could not be barred from the new policy for more than one year for those health problems treated or diagnosed in the prior six months.</p>
+<p>-- Guaranteed Issue. People who get sick cannot get dropped from an insurance plan and small businesses have to be able to buy policies, even if one employee has a health problem.</p>
+<p>People who lose their job, or who do not get insurance on the job, would be able to buy their own policies even if they had past, present or anticipated future health problems. This &quot;guaranteed issue&quot; of individual policies would apply only to people who had been insured for the previous year-and-a-half. The bill does not set price limits on these individual policies or guarantee that the premiums are affordable.</p>
+<p>-- Medical Savings Accounts. People who work at small businesses or who are self-employed will be able to buy a high-deductible catastrophic health insurance policy and put other pre-tax dollars in a bank account for health care expenses or long-term care. Money withdrawn for other purposes would be taxable. This was a politically controversial aspect of the legislation, and in a compromise, this law launches a pilot project that allows 750,000 such accounts to be set up nationwide.</p>
+<p>-- Self-employed. Under current law, people who are self-employed can deduct from their taxes 30 percent of the cost of the health insurance premiums they purchase. That would be raised over several years to 80 percent.</p>
+<p>-- Long-term care. The cost of long-term care, such as nursing homes, and long-term care health policies would be treated for tax purposes just like other medical expenses. Spending above 7.5 percent of annual gross adjusted income could be deducted from income taxes. The law also sets up some consumer protection for long-term care. These provisions go into effect next Jan. 1.</p>
+<p>-- Accelerated death benefits. People who have chronic or terminal illnesses would be able to sell or surrender their life insurance without having to pay taxes and use the proceeds to pay for their care. This practice, known as viatical settlement, has grown with the AIDS epidemic, but will now be more common for people with other ailments.</p>
+<p>-- Fraud. The law tightens penalties for fraud and related crimes and infractions in both government medical programmes like Medicare as well as in the private sector.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6268" id="root" date="1996-08-21" xml:lang="en">
+<title>SINGAPORE: Singapore fund industry grows 37 pct to S$90.4 bln.</title>
+<headline>Singapore fund industry grows 37 pct to S$90.4 bln.</headline>
+<dateline>SINGAPORE 1996-08-21</dateline>
+<text>
+<p>The amount of funds managed in Singapore rose 37 percent to Singapore $90.4 billion in 1995 against S$65.9 billion in the previous year, the Monetary Authority of Singapore (MAS) said on Wednesday.</p>
+<p>The MAS, the de facto central bank, said the strong increase came from fund management companies transferring funds invested in Asian markets To Singapore.</p>
+<p>The MAS said in its annual report for 1995/96 that funds from Europe and the United States accounted for 63 percent of the increase.</p>
+<p>It said funds from investors in Europe totalled S$22.6 billion, funds from Singapore, S$16.6 billion, and funds from the United States S$15.5 billion.</p>
+<p>The MAS said investment in equities continued to account for the bulk of the funds managed, totalling 64.3 percent or S$58.1 billion.</p>
+<p>-- Singapore newsroom (65 8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

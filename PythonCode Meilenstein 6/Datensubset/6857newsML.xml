@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6857" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: MTS Systems to acquire Bregenhorn-Butow.</title>
+<headline>MTS Systems to acquire Bregenhorn-Butow.</headline>
+<dateline>EDEN PRAIRIE, Minn. 1996-08-21</dateline>
+<text>
+<p>MTS Systems Corp said Wednesday it reached an agreement in principle to acquire Bregenhorn-Butow &amp; Co of Freiburg, Germany.</p>
+<p>Financial terms of the agreement were not disclosed. The acquisition is expected to be completed during the fourth quarter of 1996, MTS said.</p>
+<p>Bregenhorn-Butow supplies low-powered motors and drives to the European manufacturing market.</p>
+<p>MTS manufactures computer-based testing and simulation systems.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34350">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDEN PRAIRIE, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

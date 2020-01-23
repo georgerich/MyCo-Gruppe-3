@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6468" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Novell, Xerox, WhetStone in pact.</title>
+<headline>Novell, Xerox, WhetStone in pact.</headline>
+<dateline>OREM, Utah 1996-08-21</dateline>
+<text>
+<p>Novell Inc, a unit of Xerox Corp and WhetStone Technologies have agreed to develop and market a product that would enable users of Novell's GroupWise e-mail system to view, edit and store images at their desktops, the companies said Wednesday.</p>
+<p>The agreement will allow Novell's 6.5 million GroupWise users to leverage its e-mail, document management and workflow features for scanned and stored images, according to a news release.</p>
+<p>The product, GroupWise Imaging, will integrate Novell's GroupWise 5 Universal Mail Box, Xerox Desktop Document Systems' scanning and imaging technology and WhetStone's production-imaging system.</p>
+<p>WhetStone is an affiliate of UICI.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

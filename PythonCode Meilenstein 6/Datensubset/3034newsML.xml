@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3034" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Nobility Homes Q3 sales rise 27 pct.</title>
+<headline>Nobility Homes Q3 sales rise 27 pct.</headline>
+<dateline>OCALA, Fla. 1996-08-20</dateline>
+<text>
+<p>Nobility Homes Inc said on Tuesday that preliminary sales for its third quarter ended August 3 were $9.8 million, 27 percent higher than the $7.7 million recorded in the third quarter last year.</p>
+<p>&quot;Our strong sales results continue to reflect our improving market share in Florida for our manufactured housing product,&quot; said Terry Trexler, president of the company, in a press release.</p>
+<p>Nobility also said that with continued favorable mortgage rates and the additional retail sales centers acquired during the first quarter of the year, it expects to report an increase in sales for the fourth quarter of fiscal 1996 as well.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I8500011">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OCALA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

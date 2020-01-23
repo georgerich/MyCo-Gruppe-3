@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3217" id="root" date="1996-08-20" xml:lang="en">
+<title>POLAND: Polish ombudsman challenges cell phone tenders.</title>
+<headline>Polish ombudsman challenges cell phone tenders.</headline>
+<dateline>WARSAW 1996-08-20</dateline>
+<text>
+<p>Poland's ombudsman on Tuesday challenged in court the government's handling of this year's tenders in which two international consortia gained licences to develop modern GSM cellular telephone networks.</p>
+<p>Ombudsman Tadeusz Zielinski asked the Supreme Administrative Court to annul those terms of the licences which force the new cellular operators to use transmission facilities of state-owned telecommunications firm TPSA, he said in a statement.</p>
+<p>The obligation violates the telecommunications and anti-trust laws, the ombudsman's spokesman Stanislaw Wilenski told Reuters.</p>
+<p>&quot;The licence prohibits using transmission lines other than those belonging to TPSA..., while there are at least three other enterprises which have transmission infrastructure,&quot; he said. &quot;Thus TPSA's monopolist position was supported.&quot;</p>
+<p>Apart from TPSA, transmission services can also be provided by the state-owned Polish Power Grid and the State Railways.</p>
+<p>GSM licences were awarded in February to Polish and foreign consortia named  Polska Telefonia Komorkowa (PTC) and Polkomtel SA.</p>
+<p>PTC groups, among other firms, Polish trading company Elektrim, US West of the United States and DeTeMobil, part of Deutsche Telekom.</p>
+<p>Polkomtel comprises Polish firms including the copper combine KGHM and Petrochemia Plocka refinery as well as two major Western partners -- Tele Denmark and Air Touch.</p>
+<p>Both companies plan to launch operations this year in some larger cities. They will compete with the current sole cellular operator Centertel SA, which uses an older analogue system.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

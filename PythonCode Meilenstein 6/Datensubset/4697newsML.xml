@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4697" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Tokyo stocks end slightly up after listless trade.</title>
+<headline>Tokyo stocks end slightly up after listless trade.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Tokyo stocks closed slightly higher on Tuesday, after drifting in tight ranges in mostly directionless trade for most of the day, brokers said.</p>
+<p>Investors remained on the sidelines, and brokers expected the sluggish trend to continue for a while.</p>
+<p>The key 225-share Nikkei average ended up 20.60 points or 0.10 percent at 21,127.01. Its September futures gained 10 points to 21,180 by the end of the session.</p>
+<p>&quot;The biggest reason why investors could not move was there were no factors to prompt fresh buying,&quot; said Kenzo Doi, senior analyst at Kokusai Securities Co Ltd.  </p>
+<p>As for individual shares, Sony Music Entertainment (Japan) Inc was hit by the company's announcement on Monday of a sharp downward revision of its earnings forecast, traders said.</p>
+<p>The share price shed 500 yen to end at 4,050, after having been quoted at ask-only for most of the session.</p>
+<p>-- Hiroko Nakata, Tokyo Equities Desk (81-3-3432-8027)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10840" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: On-line newspaper shakeout looming -- Yankee Group.</title>
+<headline>On-line newspaper shakeout looming -- Yankee Group.</headline>
+<dateline>BOSTON 1996-08-23</dateline>
+<text>
+<p>On-line newspapers have the next five years to fully establish themselves or risk extinction, according to a report by the Yankee Group research organization.</p>
+<p>&quot;With average start-up costs of $500,000, plus the additional labor expenses for the seven to 12 employees, there's going to be a lot money lost for the next four years,&quot; said Gregory Wester, the Boston-based Yankee Group's director of interactive commerce.  </p>
+<p>The research concludes that, while many business models have been attempted by the more than 25 newspapers surveyed, advertising will be the only viable approach, accounting for over 85 percent of yearly revenues, the report said.</p>
+<p>Subsciptions will account for only 10 percent, with &quot;pay-per-view&quot; and other sources accounting for the remainder. &quot;(But) even advertising revenues will be slow to mature,&quot; Webster said.</p>
+<p>Webster said the media organizations should pursue a flexible and open approach to dealing with multiple technologies, multiple partnership alliances and upper-level management that may expect profit center responsibility within the next two years.</p>
+<p>&quot;This is about survival, not doing things the one right way,&quot; Webster said. &quot;Over the next five years, we expect over half of these efforts to fail or be repositioned as non-revenue enhancing efforts.&quot;</p>
+<p>The Yankee Group report comes on the heels of a Forrester Research Inc study released late last month that forecast Web site publishers would not break even until the year 2000.</p>
+<p>-- Leslie Gevirtz, 617-367-4142</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

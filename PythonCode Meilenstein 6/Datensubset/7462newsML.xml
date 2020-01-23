@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7462" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Prosecutors raid Green Cross -- media.</title>
+<headline>Prosecutors raid Green Cross -- media.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Prosecutors raided offices of Green Cross Corp, one of the drug makers accused of spreading HIV infection through unheated blood products, on Wednesday morning in connection with the death of a patient from AIDS, Japanese media said.</p>
+<p>Jiji news service said that prosecutors had launched raids on the company's Osaka headquarters.</p>
+<p>A company spokesman said he believed the raids were underway and television footage showed prosecutors entering the building, but there was no immediate comment from prosecutors.  </p>
+<p>The Japanese business daily Nihon Keizai Shimbun said on Wednesday that the family of a patient who died of AIDS after being treated with HIV-tainted blood products has brought a suit against Green Cross's former president Renzo Matsushita, accusing him of murder.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

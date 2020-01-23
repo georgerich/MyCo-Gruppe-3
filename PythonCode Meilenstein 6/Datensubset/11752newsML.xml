@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11752" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: PSA calls suitability rule step in right direction.</title>
+<headline>PSA calls suitability rule step in right direction.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The Public Securities Association said SEC's approval on Thursday of final &quot;suitability&quot; standards for sales of government securities to institutional buyers are a step in the right direction.</p>
+<p>But the group said the rules are still overly burdensome for dealers and that it will continue to push for legislative relief from the U.S. Congress.</p>
+<p>The final rules, which were approved on August 20 by the Securities and Exchange Commission and released today, require government securities dealers to be more careful in sales to big buyers, including state and local governments.  </p>
+<p>PSA unsuccessfully called for a &quot;safe harbor&quot; for dealers whose institutional clients have written agreements with investment advisers on what are appropriate investments for them.</p>
+<p>Paul Saltzman, PSA general counsel, said the group will continue to push for legislation next year to guarantee these and other safe harbors.</p>
+<p>But in the meantime, Saltzman said, the final regulations are &quot;certainly a step in the right direction.&quot;</p>
+<p>&quot;Certainly, we would have preferred an interpretation that had more guidance in terms of safe harbors and rebutable presumptions,&quot; he said.</p>
+<p>&quot;But at the end of the day we are pleased that SEC has finally approved the interpretation and we can now move on to other things,&quot; Saltzman said.</p>
+<p>--Vicky Stamas, 202-898-8314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

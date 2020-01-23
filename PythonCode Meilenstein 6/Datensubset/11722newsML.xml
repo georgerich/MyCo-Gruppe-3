@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11722" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Moody's weekly municipal bond yield averages.</title>
+<headline>Moody's weekly municipal bond yield averages.</headline>
+<text>
+<p>Moody's Weekly Municipal Bond Yield Averages</p>
+<p>			     Latest	 Previous  Last Date</p>
+<p> 10-year Aaa		5.05%	    5.05%  8/23/96</p>
+<p> 10-year Aa		 5.10%	    5.00%  8/23/96</p>
+<p> 20-year Aaa		5.62%	    5.61%  8/23/96</p>
+<p> 20-year Aa		 5.66%	    5.65%  8/23/96</p>
+<p> 20-year A		  5.71%	    5.83%  8/23/96</p>
+<p> 20-year Baa		5.82%	    5.79%  8/23/96</p>
+<p> VMIG			 3.45%	    3.66%  8/23/96</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11960" id="root" date="1996-08-23" xml:lang="en">
+<title>BELGIUM: Sixth arrest reported in Belgian paedophile case.</title>
+<headline>Sixth arrest reported in Belgian paedophile case.</headline>
+<dateline>BRUSSELS 1996-08-23</dateline>
+<text>
+<p>Police have arrested a sixth person in the paedophile scandal that has rocked Belgium, the Belga news agency reported on Friday.</p>
+<p>It said Claude Thiraut was being held and would be formally charged with criminal association next week. There was no immediate official confirmation.  </p>
+<p>Marc Dutroux and associate Michel Lelievre have been charged with abduction and illegal imprisonment of children. Dutroux's wife Michelle Martin has been charged as an accomplice and Jean-Michel Nihoul has been charged with criminal accociation.</p>
+<p>Police arrested a fifth person, Michael Diakostavrianos, on Thursday. He is due to appear before magistrates on Tuesday.</p>
+<p>The arrests follow the rescue a week ago of two kidnapped young girls from a makeshift dungeon in a house owned by Dutroux in the southern city of Charleroi, followed by the discovery of the bodies of two other abducted girls who had starved to death, and the stepped-up hunt for two more girls who Dutroux admitted kidnapping a year ago.</p>
+<p>The two dead girls, Julie Lejeune and Melissa Russo, were buried in what was virtually a state funeral in the eastern city of Liege on Thursday amid national mourning and calls for the return of the death penalty.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

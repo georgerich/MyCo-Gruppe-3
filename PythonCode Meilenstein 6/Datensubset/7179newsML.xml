@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7179" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: Merck says H1 net profit up 22 pct.</title>
+<headline>Merck says H1 net profit up 22 pct.</headline>
+<dateline>DARMSTADT, Germany 1996-08-21</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>(in millions of marks unless stated)</p>
+<p>    Group net profit			   242     vs 198</p>
+<p>NOTE - Full name of the German pharmaceuticals group is Merck KGaA. The profit figure is after tax and minority interests.  </p>
+<p>    Group sales (already reported)	 3,444   vs 3,186</p>
+<p>    Group capital investment		 235     vs 230</p>
+<p>    Group research and development	 316     vs 277</p>
+<p>    Group workforce			    28,564  up 1,050</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DARMSTADT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

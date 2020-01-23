@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9410" id="root" date="1996-08-22" xml:lang="en">
+<title>TAIWAN: Taiwan money rates end higher, more gains seen.</title>
+<headline>Taiwan money rates end higher, more gains seen.</headline>
+<dateline>TAIPEI 1996-08-22</dateline>
+<text>
+<p>Taiwan's money rates closed higher on Thursday on growing pressure of tightening liquidity over payments for T$30 billion in government bonds that were auctioned on Tuesday, dealers said.</p>
+<p>The overnight interbank rate, rising to 5.625 at one stage, finished at 5.432 percent against Wednesday's 5.426 close, with 30-day commercial paper at 5.45-5.50 against 5.40-5.45.</p>
+<p>The central bank said it injected T$5.58 billion in funds on Thursday to maintain stable liquidity in the banking system.  </p>
+<p>The bond market reported no trade in the afternoon. The seven-year 83/2 government bond yield was at 5.545 earlier.</p>
+<p>-Julie Hu (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

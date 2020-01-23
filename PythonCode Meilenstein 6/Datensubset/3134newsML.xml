@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3134" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa's WGS sees rates steady in short-term.</title>
+<headline>S.Africa's WGS sees rates steady in short-term.</headline>
+<dateline>JOHANNESBURG 1996-08-20</dateline>
+<text>
+<p>South African interest rates were expected to move sideways with upward potential in the short- to medium-term, WorldGroup Software said in its latest monthly interest rate forecast.</p>
+<p>It said that current volatility on local financial markets meant a longer-term view was more appropriate.</p>
+<p>The group forecast that in the longer-term, there was stronger downward potential for a fall in rates.</p>
+<p>&quot;The possibility of rates decreasing becomes stronger as the time horizon extends into the future,&quot; it said.</p>
+<p>(pct)		  Basis rate   3-mths   6-mths   12-mths</p>
+<p>Prime overdraft    19.50	  19.25    19.00    18.00</p>
+<p>3-month BA	   15.50	  15.35    15.10    14.10</p>
+<p>12-month NCD	 16.25	  15.60    15.20    14.80</p>
+<p>Eskom 168	    15.60	  15.35    14.75    14.45</p>
+<p>The six economists who participated in the August forecast were Edwin Basson of Iscor, Dennis Dykes at Nedcor, Louis Fourie from JMM Beleggingsdienste, Adam Jacobs of Absa, Ulrich Joubert at Transnet and Helmo Preuss of Forecaster Ecosa.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

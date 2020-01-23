@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4431" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: FIRS maintains 1996/97 French beet yield estimate.</title>
+<headline>FIRS maintains 1996/97 French beet yield estimate.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>French sugar intervention board FIRS said on Tuesday it held its 1996/97 beet sugar yield estimate of 9.40 tonnes per hectare, from 9.87 in 1995/96 following results of the second beet test by manufacturers.</p>
+<p>&quot;The test shows a slight improvement but it confirms the 1996/97 campaign will not be exceptional. It would be premature at this stage to change our estimate and we will wait for the results of the third test before eventually adjusting the figures,&quot; a FIRS analyst told Reuters.</p>
+<p>Sugar manufacturers' association SNFS said on Monday the test carried out on August 12 showed sugar weight per hectare fell by 10.2 percent to 6.210 tonnes from 6.916 in last year's second test.</p>
+<p>This represented a decline of 15 percent from the five-year average of 7.340 tonnes.</p>
+<p>The number of beets per hectare fell to 101,500 from 109,600 but sugar content rose to 17.48 percent from 16.33 percent.</p>
+<p>&quot;The second test shows that drought stress is persisting and that a higher sugar content is not making up for a lower number of beets per hectare and a lower root weight,&quot; the analyst said.</p>
+<p>She said the test figures were the lowest when compared to yearly averages since 1991 and five-year averages for 1981-85, 1986-90 and 1991-95.</p>
+<p>In June FIRS predicted the sugar crop would drop to 3.9 million tonnes from 4.2 million in 1995/96, assuming a decline in area of 9,000 hectares to 420,000 ha.</p>
+<p>Analyst have said the second test showed no significant crop improvement because the survey was conducted just as badly- needed rainfall hit the growing areas. The third test to be carried out on August 26 should reflect the rain's positive effect, they said. --Dominique Vidalon, Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

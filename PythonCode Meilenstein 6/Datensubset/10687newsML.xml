@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10687" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: RESEARCH ALERT- Business Objects started.</title>
+<headline>RESEARCH ALERT- Business Objects started.</headline>
+<text>
+<p>-- UBS Securities analyst Joseph Farley started database software maker Business Objects SA with a hold.</p>
+<p>-- The market for data warehousing shows great promise and Business Objects's problems appear to be company-specific, he said.</p>
+<p>-- The analyst cited uncertainties regarding the company's financial controls, revenue recognition irregularities, DSOs, and a &quot;material product transition&quot; as reasons behind his caution on the stock.</p>
+<p>-- He noted that Business Objects had missed expectations in the last two quarters and &quot;faces significant challenges over the remainder of 1996.&quot;</p>
+<p>-- Farley said he would look to revise his rating once he was more confident the company had put internal controls in place and he had clearer indications of momentum for its latest product.</p>
+<p>-- E. Auchard, Wall Street Bureau 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6911" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Smithfield Foods Q1 profit vs loss.</title>
+<headline>Smithfield Foods Q1 profit vs loss.</headline>
+<dateline>NORFOLK, Va 1996-08-21</dateline>
+<text>
+<p>CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			   SMITHFIELD FOODS, INC. AND SUBSIDIARIES</p>
+<p>						    Thirteen Weeks Ended</p>
+<p>							  Jul 28,   Jul 30,</p>
+<p> (In thousands except per share data)	   1996	 1995</p>
+<p>							  (unaudited)</p>
+<p> Sales						 $892,870  $367,328</p>
+<p> Net income (loss)					746   (4,394)</p>
+<p> Net income (loss)					.02     (.27)</p>
+<p> Weighted average common shares outstanding  18,604    16,886</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORFOLK, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

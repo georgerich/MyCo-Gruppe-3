@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10607" id="root" date="1996-08-23" xml:lang="en">
+<title>GREECE: SOCCER - EUROPEAN CUP DRAWS FOR AEK, OLYMPIAKOS, PAO.</title>
+<headline>SOCCER - EUROPEAN CUP DRAWS FOR AEK, OLYMPIAKOS, PAO.</headline>
+<dateline>ATHENS 1996-08-23</dateline>
+<text>
+<p>Following are the European soccer</p>
+<p>draws for the UEFA cup and the cup's winners cup involving Greek</p>
+<p>teams that took place today in Geneva:</p>
+<p>x-AEK Athens (Greece) v Chemlon Humenne (Slovakia)</p>
+<p>x-Olympiakos v Ferencvaros (Hungary)</p>
+<p>     x-PAO	  v Legia Warsaw (Poland)</p>
+<p>x indicates seeded teams.</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

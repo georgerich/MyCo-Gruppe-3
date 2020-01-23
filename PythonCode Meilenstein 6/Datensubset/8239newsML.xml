@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8239" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CSR Rinker to expand Miami cement plant.</title>
+<headline>CSR Rinker to expand Miami cement plant.</headline>
+<dateline>WEST PALM BEACH, Fla. 1996-08-22</dateline>
+<text>
+<p>Rinker Materials Corp said on Thursday it plans to modernize and expand its Miami cement plant, replacing its current wet process production equipment with a new dry system.</p>
+<p>The dry process uses modern equipment and controls to provide a more environmentally sound and cost efficient production method, the company said.</p>
+<p>The project will increase the plant's annual cement production capacity from 640,000 tons to one million tons at a cost exceeding $100 million and should begin operation by the end of 1998, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST PALM BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

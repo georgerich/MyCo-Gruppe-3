@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11943" id="root" date="1996-08-23" xml:lang="en">
+<title>SPAIN: Spain's Endesa buys 90 pct of Argentine station.</title>
+<headline>Spain's Endesa buys 90 pct of Argentine station.</headline>
+<dateline>MADRID 1996-08-23</dateline>
+<text>
+<p>Spanish electricity firm Endesa said it would buy 90 percent of the Dock Sud thermal power station in Argentina and expand it with a total investment of 330 million dollars over four years.</p>
+<p>To finance the project, Endesa said it had created a new firm called Inversora Dock Sud together with Argentine oil group Astra, 32-percent owned by Spain's Repsol. Endesa has a 76.2 percent stake in the new firm and Astra 23.8 percent.</p>
+<p>Argentina's Bridas has agreed to supply gas for the project for 15 years, Endesa said in a statement.</p>
+<p>--Madrid Newsroom +34 1 585 2161</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

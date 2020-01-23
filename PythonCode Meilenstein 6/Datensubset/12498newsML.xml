@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12498" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: Promodes to decide on German assets soon.</title>
+<headline>Promodes to decide on German assets soon.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>French retailer Promodes said on Friday that talks about its Promohypermarket unit of Germany, with 36 superstores, should be concluded in September or early October.</p>
+<p>&quot;The finalisation of the German dossier is close. It will be settled in September or early October,&quot; a spokesman for the company said.</p>
+<p>Friday's Les Echos newspaper had said a deal might be decided next Tuesday during a board meeting and added that the likely buyer was Spar AG.</p>
+<p>&quot;We confirm nothing. We have always said that there would be a sale or an alliance in this affair. There is no board meeting on Tuesday,&quot; he added.</p>
+<p>&quot;We know Spar well, because we sold them four stores last year. But we have worked with other groups, Spar is among others,&quot; he said.</p>
+<p>He did not want to say anything about the operating losses in Germany, noting these would be announced on September 10 with the first half results.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

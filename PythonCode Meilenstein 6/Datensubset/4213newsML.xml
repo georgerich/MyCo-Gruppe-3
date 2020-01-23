@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4213" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Con Edison says Indian Pt 2 back Tuesday.</title>
+<headline>Con Edison says Indian Pt 2 back Tuesday.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Consolidated Edison Co of New York Inc (Con-Ed) said Tuesday its 975 megawatt (MW) Indian Point 2 nuclear power plant will likely be back on line later today.</p>
+<p>The unit tripped off line late Monday.  </p>
+<p>&quot;It should be back sometime this afternoon or this evening,&quot; said company spokeswoman Joan Burger.</p>
+<p>She said the cause of the outage was still unclear but that necessary repairs to the unit were minimal.</p>
+<p>&quot;We're still investigating, but we've identified a small piece of electrical equipment which may have caused the unit to trip off line,&quot; she said.</p>
+<p>The Indian Point facility is about 50 miles north of New York City along the Hudson River.</p>
+<p>-- New York Power Desk + 1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

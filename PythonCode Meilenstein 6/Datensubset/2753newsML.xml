@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2753" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: Canada daily lumber export figures to U.S..</title>
+<headline>Canada daily lumber export figures to U.S..</headline>
+<dateline>OTTAWA 1996-08-20</dateline>
+<text>
+<p>Canada softwood lumber exports to the United States as of 0745 EDT on August 20, in billions of board feet, according to government data:</p>
+<p>			 July 1 - Sept	    April 1 - present</p>
+<p>Province	   Quantity  Share (pct)  Quantity  Share (pct)</p>
+<p>British Columbia  1.157     57.8	   3.382     55.4</p>
+<p>Alberta	     0.166	8.3	   0.464	7.6</p>
+<p>Ontario	     0.211     10.5	   0.736     12.1</p>
+<p>Quebec		0.467     23.3	   1.522     24.9</p>
+<p>Total		 2.001    100.0	   6.104    100.0</p>
+<p>Quarterly quota   4.226	---	     ---	---</p>
+<p>Annual quota     14.700	---	     ---	---</p>
+<p>Source: Canadian Department of Foreign Affairs and International Trade, Export and Import Controls Bureau.</p>
+<p>From April 1, Canadian lumber exports which exceed quarterly or annual quotas are subject to export fees.</p>
+<p>This export data is based on Canadian export permits. There is a one-week lag between the entry of softwood lumber into the United States and the application for a Canadian permit.</p>
+<p>-- Reuters Ottawa Bureau (613) 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8452" id="root" date="1996-08-22" xml:lang="en">
+<title>NORWAY: Statoil increases seismic activity.</title>
+<headline>Statoil increases seismic activity.</headline>
+<dateline>OSLO 1996-08-22</dateline>
+<text>
+<p>Den Norske Stats Oljeselskap AS (Statoil) said on Thursday it plans to shoot more than 200,000 kms of three-dimension seismic lines in 1996 on acreage operated by the group, setting a new record for the company.</p>
+<p>Costed at about 200 million crowns for the year, the work includes operations on the North Sea Gullfaks field, which is undergoing a resurvey of the main field and all satellites, the company's Status Weekly newsletter said.</p>
+<p>Surveying has also begun on the Connemara prospect off west Ireland and work will begin this month on block 6710/10 in the Nordland VI area off mid-Norway.</p>
+<p>&quot;Surveys completed so far in 1996 include the area on and around the Siri field, both in Danish waters and on Norway's side of the median line,&quot; said Karin Ask, manager of geophysical operations in Statoil's exploration technology unit.</p>
+<p>&quot;We've also finished surveying the Vena area in the Norwegian Sea, on blocks 6706/11 and 6706/12 awarded in the 15th round.&quot;</p>
+<p>Seismic data have become increasingly important in the search for hydrcarbons and new technology had made it possible to extract several types of information from survey results, Ask said.</p>
+<p>-- Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

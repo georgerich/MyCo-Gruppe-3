@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11447" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Two Belarussians granted U.S. asylum.</title>
+<headline>Two Belarussians granted U.S. asylum.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>The United States granted political asylum on Friday to Belarussian opposition leaders Zenon Poznyak and Sergei Naumchik.</p>
+<p>&quot;It has been determined that you have established a well-founded fear of persecution were you to return to your country,&quot; the U.S. Immigration and Naturalisation Service said in letters to the two men, which they made public at a news conference.</p>
+<p>They said they hoped to bring their families to the United States.</p>
+<p>The INS said the grant of asylum was valid indefinitely and included their spouses and children. After they have lived in the United States for a year, they can apply for permanent resident status, it added.</p>
+<p>Poznyak is president of the Belarussian National Front and Naumchik is one of its spokesmen. They applied for asylum shortly after they came to the United States on July 6.</p>
+<p>At the news conference, Poznyak and Naumchik issued a statement denouncing Belarussian President Alexander Lukashenko and urging the United States and other western nations to support democracy in Belarus, which was part of the former Soviet Union.</p>
+<p>&quot;Lukashenko is bringing about plans of the most reactionary, pro-Communist and chauvinistic circles of Russia aimed at the destruction of Belarus' nationhood,&quot; they said.</p>
+<p>&quot;The presidential administration openly breeds hatred toward everyting Belarussian,&quot; they added.</p>
+<p>The two men said they would attend a conference of Belarussians in North America starting in Cleveland on August 31.</p>
+<p>Their bid for asylum was supported by U.S. Representative Martin Hoke, a Republican from Cleveland.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11195" id="root" date="1996-08-23" xml:lang="en">
+<title>VENEZUELA: Caracas stocks succumb to 2nd day of profit-taking.</title>
+<headline>Caracas stocks succumb to 2nd day of profit-taking.</headline>
+<dateline>CARACAS 1996-08-23</dateline>
+<text>
+<p>Caracas stocks closed mixed, succumbing to a second consecutive day of profit-taking after the ten percent run-up over the past two weeks, but traders saw stocks returning to an upward swing next week.</p>
+<p>&quot;Today's pattern was much like yesterday's, except the stocks rotated: some fell to profit-taking, others saw investors taking positions,&quot; said Amerival broker Gabriel Osio who saw the adjustment as a healthy correction after two weeks' gains.</p>
+<p>The market's 19-share index closed largely flat, slipping 0.04 percent to end at 4,573.31.  </p>
+<p>Eleven million shares traded, to a total value of 1.2 billion bolivars ($2.55 million). Among traded issues, 15 rose, 12 fell and 10 ended unchanged.</p>
+<p>The adjustment over, analysts see stocks rebounding next week, triggered by the slated privatizations of airline Aeropostal and key bank Banco de Venezuela. A rebound is seen despite the likelihood of another modest uptick in TEM rates.</p>
+<p>&quot;Barring a surprise on the privatization front, we look for the IBC rally to resume next week,&quot; said New York-based IDEA in a market commentary.</p>
+<p>-- John Paul Rathbone, Caracas Newsroom 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

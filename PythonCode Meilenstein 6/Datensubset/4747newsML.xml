@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4747" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan June index of leading indicators at 70.0.</title>
+<headline>Japan June index of leading indicators at 70.0.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Japan's diffusion index of leading economic indicators stood at 70.0 on a scale of 100 in June, the government's Economic Planning Agency said on Tuesday.</p>
+<p>The index, which predicts the economy's performance in the coming six months, was unchanged from a revised 70.0 in May.  </p>
+<p>The index of coincident indicators, which measures current economic conditions, stood at 55.0 in June against 30.0 in May.</p>
+<p>The index of lagging indicators, which traces economic trends in the past few months, was at 42.9 in June against 14.3 in May.</p>
+<p>The index of leading indicators is closely watched as a barometer of trends in economic activity for the subsequent six months. A figure below the so-called &quot;boom or bust&quot; 50 mark is generally taken as suggesting the economy will contract in the coming months, while a figure above 50 suggests the economy will expand.</p>
+<p>The index of leading indicators was above the 50 mark for the third month in a row in June.</p>
+<p>The index of coincident indicators was above 50 in June for the first time in four months, while that of of lagging indicators was below 50 for the third month in a row.</p>
+<p>The EPA said in a statement that the June indicators showed the economy was recovering.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

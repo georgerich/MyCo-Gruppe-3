@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10829" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Burlington Northern named in city lawsuit.</title>
+<headline>Burlington Northern named in city lawsuit.</headline>
+<dateline>FORT WORTH, Texas 1996-08-23</dateline>
+<text>
+<p>Burlington Northern Santa Fe Corp said on Friday the city of Auburn, Wash., filed a lawsuit against the railroad to prevent it from reopening the Stampede Pass line.</p>
+<p>The company said the lawsuit, filed in King County Superior Court, was an attempt to force it to pay more than public policy required for points where city streets crossed the railroad's property.</p>
+<p>The railroad said reopening the line was crucial for commerce in the state because of its links to ports.  </p>
+<p>Burlington Northern said its officials have been meeting with Auburn officials for several months in an effort to deal with grade-crossing issues. The railroad said it would continue to work with local and federal officials to reach a solution.</p>
+<p>City officials were not immediately available for comment.</p>
+<p>Burlington Northern said it was continuing its repairs and upgrade of the Stampede Pass line and expected to operate one or two trains over the route by the end of the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

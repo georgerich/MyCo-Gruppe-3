@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9475" id="root" date="1996-08-22" xml:lang="en">
+<title>CYPRUS: Cyprus foreign trade exports increase.</title>
+<headline>Cyprus foreign trade exports increase.</headline>
+<dateline>CYPRUS 1996-08-22</dateline>
+<text>
+<p>Total Cyprus exports and imports were up in the first four months of 1996, according to statistics released on Thursday by the government.</p>
+<p>Total imports -- covering home consumption and imports placed in bonded warehouses -- rose 20.4 percent to 623.3 million Cyprus pounds compared with 517.5 million Cyprus pounds for January-April 1995.</p>
+<p>The European Union countries had the largest share of the import market of supplying goods valued at 297.4 million pounds or 47.7 percent of total imports, although the EU share dropped by 4.8 percent compared with the year-ago period.</p>
+<p>Intermediate inputs imported for home consumption were 201.4 million pounds (41.3 percent), followed by consumer goods with 103 million pounds (21.1 percent).</p>
+<p>Total exports rose to 205.7 million pounds compared with 155.6 million pounds in the first four months of 1995.</p>
+<p>Domestic exports including shipstores accounted for 75.8 million pounds against 75.1 million pounds for the same period in 1995 while re-exports including shipstores increased to 129.9 million pounds from 80.5 million pounds in January-April 1995.</p>
+<p>EU countries absorbed 58.7 percent, or 43.6 million pounds, of Cyprus' domestic exports excluding shipstores followed by Arab countries with a share of 18.8 percent, or 14 million pounds.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CYPRUS"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

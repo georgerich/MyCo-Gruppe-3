@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7487" id="root" date="1996-08-21" xml:lang="en">
+<title>DUBAI: PRESS DIGEST - United Arab Emirates - Aug 21.</title>
+<headline>PRESS DIGEST - United Arab Emirates - Aug 21.</headline>
+<dateline>DUBAI 1996-08-21</dateline>
+<text>
+<p>These are some of the leading stories in the United Arab Emirates press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-ITTIHAD</p>
+<p>- UAE President Skeikh Zaid, Palestinian President Yasser Arafat discuss Middle East peace efforts in a Geneva meeting; Zaid reaffirms UAE support for the Palestinian people.</p>
+<p>- Huge turn out for subscription in Abu Dhabi's newly established Al-Khazna Insurance Company, five-fold over-subscription expected.</p>
+<p>AL-KHALEEJ</p>
+<p>- Dubai hotels post revenues of 452.8 million dirhams in first quarter of 1996.</p>
+<p>- UAE Central Bank's foreign reserves steady at 27.5 billion dirhams in July.</p>
+<p>GULF NEWS</p>
+<p>- UAE gets tough with piracy; Computer salesman caught selling pirated floppy disk may face court action.</p>
+<p>KHALEEJ TIMES</p>
+<p>- Dubai Chamber of Commerce planning to hold exhibition for Palestinian products in March.</p>
+<p>- Customs officials to tour GCC countries in November to study freeing movement of goods.</p>
+<p>- Abu Dhabi's ADMA-OPCO undertakes major maintenance in its gas gathering platform.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

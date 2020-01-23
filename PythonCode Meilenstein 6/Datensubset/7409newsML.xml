@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7409" id="root" date="1996-08-21" xml:lang="en">
+<title>SINGAPORE: Taiwan seeks 153,000t LPG between Oct'96-Jun'97.</title>
+<headline>Taiwan seeks 153,000t LPG between Oct'96-Jun'97.</headline>
+<dateline>SINGAPORE 1996-08-21</dateline>
+<text>
+<p>Taiwan's state-owned Chinese Petroleum Corp (CPC) has issued a term tender to buy 153,000 tonnes of liquefied petroleum gas (LPG) for delivery between October 1996 and June 1997, industry sources said on Wednesday.</p>
+<p>The tender seeks nine 17,000-tonne cargoes of LPG for delivery to Shen Ao. Each cargo is to have a propane and butane ratio of 65:35.</p>
+<p>The tender closes on September 3 and is valid until September 5.</p>
+<p>--Singapore newsroom (+65-8703082)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

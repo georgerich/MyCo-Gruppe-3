@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7509" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: German IFO business climate index 94.1 in July.</title>
+<headline>German IFO business climate index 94.1 in July.</headline>
+<dateline>MUNICH, Germany 1996-08-21</dateline>
+<text>
+<p>The German IFO economics institute gave the following data from its July business climate survey:</p>
+<p>    West Germany		     July 1996	  June 1996</p>
+<p>     Business climate		  94.1		 90.4</p>
+<p>     Business conditions	     89.7		 85.4</p>
+<p>     Business expectations	   98.4		 95.4</p>
+<p>    East Germany		     July 1996	  June 1996</p>
+<p>     Business climate		  102.9		101.4</p>
+<p>     Business conditions	     119.7		116.8</p>
+<p>     Business expectations	   87.4		 87.9</p>
+<p>Note - The headline figure of 94.1 was much stronger than expected. Most economists had expected only a small rise in the figure at best compared with from June's 90.4.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

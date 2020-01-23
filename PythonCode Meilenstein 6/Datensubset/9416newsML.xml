@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9416" id="root" date="1996-08-22" xml:lang="en">
+<title>VIETNAM: Hanoi jails dissident, suspends sentence on others.</title>
+<headline>Hanoi jails dissident, suspends sentence on others.</headline>
+<dateline>HANOI 1996-08-22</dateline>
+<text>
+<p>Vietnam sentenced a prominent dissident to two years' jail on Thursday and imposed suspended sentences on two others, court sources said.</p>
+<p>Le Hong Ha, a former high-ranking party member, was sentenced to two years in prison. Ha Si Phu, a leading academic and outspoken communist Nguyen Kien Giang, were given suspended sentences of a year and 15 months respectively.  </p>
+<p>The sources said all three men had been accused of divulging state secrets. Foreign correspondents were not allowed to attend the trial and further details were not immediately available.</p>
+<p>Le Hong Ha and Ha Si Phu were arrested late last year during a broader crackdown on dissent in the run-up to Vietnam's Eighth Communist Party Congress.</p>
+<p>Nguyen Kien Giang was investigated for possessing state secrets a few weeks later, but had not been taken into custody.</p>
+<p>It had not been clear in advance of Thursday's trial whether he would be sentenced alongside Ha and Phu.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
