@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7243" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Pioneer yr pre-tax profit down 9 pct.</title>
+<headline>RTRS-Pioneer yr pre-tax profit down 9 pct.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Year to June 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Operating profit		    332.5 vs 365.3</p>
+<p>    Net				     258.3 vs 413.5</p>
+<p>    Final dividend (cents)		9.0 vs 9.0</p>
+<p>NOTE: Pioneer International Ltd is a building products and petroleum group.  </p>
+<p>    Total dividend			 18.0 vs 17.0</p>
+<p>    Sales (billion)			3.22 vs 4.74</p>
+<p>    Other income			  188.3 vs 160.8</p>
+<p>    Shr (cents)			    28.4 vs 45.1</p>
+<p>    Abnormal items			  nil vs gain 140.0</p>
+<p>Dividend is 50 percent franked</p>
+<p>Pay date Sept 27</p>
+<p>Reg date Sept 10</p>
+<p>    Tax					71.0 vs 86.3</p>
+<p>    Interest				 82.9 vs 104.8</p>
+<p>    Depreciation			  132.2 vs 153.7</p>
+<p>    Minorities				3.2 vs 5.5</p>
+<p>NOTE: The company said sales revenue and operating results were not directly comparable to the previous year. This was due to the deconsolidation of Pioneer's previous 100 percent interest in associate Australia Petroleum, formed by the merger of Ampol Ltd and the petroleum interests of Caltex Australia . Operating profit before tax, net interest and abnormal items by country and industry segment:</p>
+<p>Building materials -</p>
+<p>    Australia				98.8 vs 158.7</p>
+<p>    Europe				  111.4 vs 134.2</p>
+<p>    United States			  45.4 vs 48.2</p>
+<p>    Asia				     58.8 vs 43.8</p>
+<p>Petroleum -</p>
+<p>    Australia				69.5 vs 84.2</p>
+<p>Unallocated -</p>
+<p>    Australia			 loss 27.6 vs loss 37.2</p>
+<p>    Europe			     loss 2.7 vs loss 4.2</p>
+<p>    Goodwill			   loss 3.0 vs loss 3.5</p>
+<p>-- Sydney Newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

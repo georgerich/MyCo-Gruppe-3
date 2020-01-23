@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9753" id="root" date="1996-08-22" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Ivernia gets go-ahead for lead/zinc mine.</title>
+<headline>Ivernia gets go-ahead for lead/zinc mine.</headline>
+<dateline>DUBLIN 1996-08-22</dateline>
+<text>
+<p>Ivernia West Plc and Minorco Lisheen Ltd said on Thursday that they had received planning permission for the development of a lead/zinc mine from Tipperary County Council.</p>
+<p>Ivernia and joint venture partner South African owned mining-based conglomerate Minorco SA said they plan to advance the project to the development stage at an early date.</p>
+<p>Both firms have a 50 percent interest in the Lisheen project.</p>
+<p>In a joint statement the companies said they were pleased with the positive response to the planning application which was submitted in January 1996.  </p>
+<p>The statement said the development will generate more than 700 construction related jobs in the North Tipperary region.</p>
+<p>Ivernia set a 41.25 million punt rights issue in July to finance its share of the construction and development cost of the Lisheen project.</p>
+<p>-- Dublin Newsroom +353 1 676 9779</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

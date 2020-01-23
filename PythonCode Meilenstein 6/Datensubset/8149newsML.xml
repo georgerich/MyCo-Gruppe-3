@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8149" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CME hogs seen off, pork bellies steady-limit down.</title>
+<headline>CME hogs seen off, pork bellies steady-limit down.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>CME hog futures were expected to open 0.100 to 0.300 cent lower while pork belly futures were called as much as the limit down of 2.000 cents in August to steady in next year contracts, livestock analysts said.</p>
+<p>Mostly $0.50 to $1.00 per cwt lower indications on cash hogs and further losses in pork cutout values were again expected to weigh on hog futures. Packers have adequate live supplies and increased hog runs and slaughter continue to weigh on pork markets, they said.</p>
+<p>But hog futures are near a major technical support level which could influence trade during the session, they added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8081" id="root" date="1996-08-22" xml:lang="en">
+<title>EGYPT: Egytpian pesticide firm rises on takeover talk.</title>
+<headline>Egytpian pesticide firm rises on takeover talk.</headline>
+<dateline>CAIRO 1996-08-22</dateline>
+<text>
+<p>Shares in newly privatised Kafr el-Zayat Pesticides and Chemicals rose again in heavy trade on Thursday morning amid persistent rumours of one or more attempts to buy control of the company.</p>
+<p>Trading opened at 50 pounds a share, three pounds up on Wednesday's close and more than 70 percent above the 29.00 pounds at which the state sold 390,000 shares this month.</p>
+<p>They later fell back a little, trading between 47.50 and 50.00 pounds with sudden jumps within that range.</p>
+<p>Brokers said they thought several people were trying to win control of the company but they declined to name them.</p>
+<p>Broker Ahmed el-Hilw of Hermes Financial said that even without the rumours the unsatisfied demand at privatisation and the company's fundamentals justified a price of 50.00 pounds.</p>
+<p>The initial public offering was 55 times oversubscribed.</p>
+<p>-- Jonathan Wright +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25680">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

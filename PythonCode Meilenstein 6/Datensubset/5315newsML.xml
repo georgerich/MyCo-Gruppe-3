@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5315" id="root" date="1996-08-21" xml:lang="en">
+<title>FINLAND: Raisio jumps on dairy cattle feed finding.</title>
+<headline>Raisio jumps on dairy cattle feed finding.</headline>
+<dateline>HELSINKI 1996-08-21</dateline>
+<text>
+<p>Shares of Finnish food, animal feed and chemicals group Raision Tehtaat Oy rose sharply in lively trade on Wednesday on the company's finding which it said could cut the cost of feeding dairy cattle, brokers said.</p>
+<p>At 1200/0900 GMT, Raisio traded at 317.00 markka, up 19.00 or more than six percent. Trade was a lively 25 million markka.</p>
+<p>Demand for Raisio was mainly domestic, brokers said.</p>
+<p>Raisio said earlier it and the Finnish agricultural research centre had found that six grammes of histidine had the same effect on milk production as one kilogramme of protein feed.</p>
+<p>It said the discovery could be commercially viable in the next few years.</p>
+<p>-- Helsinki Newsroom +358-0-680 50 248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

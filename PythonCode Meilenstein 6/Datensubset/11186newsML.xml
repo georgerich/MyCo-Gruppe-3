@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11186" id="root" date="1996-08-23" xml:lang="en">
+<title>BRAZIL: Brazil shares end off on thin trade, Dow's decline.</title>
+<headline>Brazil shares end off on thin trade, Dow's decline.</headline>
+<dateline>SAO PAULO 1996-08-23</dateline>
+<text>
+<p>Brazilian stocks closed down 0.74 percent as prices, led downward by Petrobras and feeling the weight of the Dow's drop, suffered from a lack of trade, brokers said.</p>
+<p>&quot;There was no money,&quot; one broker said. &quot;It was a little better than yesterday, but still weak.&quot;</p>
+<p>The Sao Paulo bourse's Bovespa index of 52 most traded shares shed 462 points to close at 62,027 points on thin volume of 298 million reais.  </p>
+<p>Brokers said Telebras shares and options made up 70 percent of total trade and Petrobras accounted for 10 percent, leaving the rest of the bolsa with skimpy activity.</p>
+<p>Bolsa benchmark Telebras preferred slid early to nearly 75 reais, but recovered some to end down 0.40 percent to close at 75.30 reais. Telebras' common ended off 0.18 percent at 60.49 reais.</p>
+<p>Most blue chips lost ground led by state oil monopoly Petrobras' preferred, which tumbled on disappointment over its first-half results.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

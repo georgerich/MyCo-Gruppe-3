@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4610" id="root" date="1996-08-20" xml:lang="en">
+<title>HONG KONG: New HK airport admits minor construction snags.</title>
+<headline>New HK airport admits minor construction snags.</headline>
+<dateline>HONG KONG 1996-08-20</dateline>
+<text>
+<p>Hong Kong's Airport Authority said on Tuesday that some construction work was behind schedule but Hong Kong's new airport at Chek Lap Lok was on course to open as planned in April 1998.</p>
+<p>&quot;Although some construction activities have been delayed, it is not anticipated these will have a serious impact on the project programme,&quot; the Airport Authority said in a statement.</p>
+<p>&quot;Thus our aim remains to open the airport in April 1998 and we are confident of achieving that,&quot; said the statement, issued in response to a Hong Kong newspaper report which said the airport faced delays of up to nine months and cost over-runs.</p>
+<p>The Airport Authority said costs remained within budget.</p>
+<p>&quot;We are still well within our original figure for the Airport Authority of HK$49.8 billion,&quot; it said.</p>
+<p>The English-language Standard quoted unidentified sources as saying delays had been caused by hold-ups in construction and mismatched changes to the airport terminal design, which would cause costs to balloon by 30 percent.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

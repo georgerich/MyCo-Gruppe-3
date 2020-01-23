@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6164" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Banco de Mexico reserves, assets fall.</title>
+<headline>Banco de Mexico reserves, assets fall.</headline>
+<dateline>MEXICO CITY 1996-08-20</dateline>
+<text>
+<p>Banco de Mexico said Tuesday its net international assets as of August 16, 1996, were $3.604 billion, compared with $3.861 billion on August 9.</p>
+<p>The central bank said that its net international reserves as of August 16 were $15.425 billion, compared with $15.887 billion as of August 9.  </p>
+<p>It said the fall of $257 million in international assets was due to:</p>
+<p>- Net revenue from operations with state oil firm Petroleos Mexicanos (Pemex) of $137 million</p>
+<p>- Purchases worth $130 million from credit institutions as the result of the exercise of all the dollar put options auctioned by the central bank August 7</p>
+<p>- Net sales of currency to the federal government worth $507 million to cover external debt service</p>
+<p>- Other net foreign exchange outgoings worth $17 million.  </p>
+<p>Banco de Mexico said the monetary base rose 1.929 billion pesos due to seasonal demand for notes and coins stemming from salary payments for the first two weeks of August.</p>
+<p>In the same period, the balance of the government's current account at the central bank fell by 9.659 billion pesos, due mainly to transfers of federal funds to state institutions and the aforementioned purchase of foreign currency from the central bank.</p>
+<p>Central bank credit to financial institutions fell 4.5 billion pesos to neutralise the monetary effect of the withdrawal of resources by the federal treasury from its account at the central bank, also taking into account the higher demand for notes and coins.</p>
+<p>The following tables detail Banco de Mexico's assets and net domestic credit. All figures are in billions of pesos, unless otherwise indicated.</p>
+<p>				Aug 16	 Aug 9</p>
+<p>Monetary Base	     62.627	 60.698</p>
+<p>International Assets</p>
+<p>   Pesos		    26.952	 29.026</p>
+<p>   U.S. Dlrs (blns)	3.604	  3.861</p>
+<p>Net Domestic Credit     35.675	 31.672</p>
+<p>*Net International Assets are defined as gross international assets minus central bank liabilities with the IMF and assets of less than a six month duration from other central banks.</p>
+<p>--Martin Langfield, Mexico City newsroom 525 7289558</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

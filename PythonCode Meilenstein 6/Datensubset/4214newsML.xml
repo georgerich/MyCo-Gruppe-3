@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4214" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: SVI Holdings Inc Q3 full results.</title>
+<headline>SVI Holdings Inc Q3 full results.</headline>
+<dateline>SAN DIEGO 1996-08-20</dateline>
+<text>
+<p>Three Months Ended     Nine Months Ended</p>
+<p>				June 30,		  June 30,</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p> Net Sales	  $6,575,697   $149,563 $10,259,850  $418,238</p>
+<p> Net Income/(Loss)    37,674  (151,367)    136,271  (388,226)</p>
+<p>Net Income/(Loss)</p>
+<p>   per share		  --	(.01)	  .01	(.04)</p>
+<p>Weighted Average Number</p>
+<p>of Common Shares</p>
+<p>   Outstanding    12,077,800 10,319,800 11,812,244 10,319,800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

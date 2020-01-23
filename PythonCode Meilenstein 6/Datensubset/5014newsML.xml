@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5014" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Britain screens blood donors for human &quot;mad cow&quot;.</title>
+<headline>Britain screens blood donors for human &quot;mad cow&quot;.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>British blood authorities said on Wednesday they had started screening donors for the human form of &quot;mad cow&quot; disease, just in case the deadly brain disease can be passed on through the blood.</p>
+<p>Concerns have been rising about a possible epidemic of Creutzfeldt-Jakob Disease (CJD), the human form of the illness, since government scientists said a new variant of the disease was probably caused by people eating infected beef.</p>
+<p>Then, in August, a government scientific committee monitoring such diseases said experiments had shown cows could pass bovine spongiform encephalopathy (BSE or mad cow disease) to their calves.</p>
+<p>The National Blood Authority, which oversees blood donations, said it had instructed clinics to start asking potential donors about CJD as of August 1.</p>
+<p>Anyone with a family history of the illness, which turns the brain to a sponge, will not be allowed to give blood.</p>
+<p>&quot;This is not, however, a change of policy,&quot; the Authority said in a statement, but &quot;an operational safeguard to make absolutely sure that any family connection is identified during the medical screening interview.&quot;</p>
+<p>But Dr Stephen Dealler, one of a few &quot;independent&quot; scientists who have warned of the dangers of BSE for years, said blood transfusions were a potential source of infection.</p>
+<p>&quot;While we don't know how many people are infected with BSE, we must assume the blood they are donating is infected,&quot; Dealler, a microbiologist at Burnley General Hospital in northern England, said in an interview.</p>
+<p>He recommended that hospitals only use blood transfusions in life-or-death situations.</p>
+<p>In a report in this week's issue of the journal Transfusion Medicine, Dealler estimated as many as 60,000 people in Britain could have been given CJD-infected blood each year.</p>
+<p>Dealler admits his calculations are highly speculative -- and assume that blood was highly infective. There is at present no test for CJD or BSE in a living person or animal -- it can only be diagnosed after death.</p>
+<p>But studies have found CJD can be passed via the blood of infected mice, guinea-pigs and humans. Most tests involve injecting blood or tissue into a mouse's brain.</p>
+<p>Because it can have a long incubation period -- up to 30 years for naturally occurring CJD in people -- it is impossible to know how many people might be infected. CJD normally strikes about one in a million people per year, and a dozen cases of the new variant have been identified.</p>
+<p>Because no experiment could ethically use living people, it is not known whether people can be infected by mouth, although 16 other species have been, including mice, cats and deer.</p>
+<p>After the new variant of CJD was identified, the government strengthened controls aimed at preventing infected beef from getting into the human food supply. Parts of the cow shown in tests to be infectious have been banned from use since 1990.</p>
+<p>But some scientists say enough infected beef would have made its way into the food supply before then to potentially infect hundreds of thousands of meat-eaters. They say the 12 cases of the new variant could be the tip of a giant iceberg.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

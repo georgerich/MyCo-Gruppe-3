@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10049" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Chintex Oil year net loss HK$104.26 mln.</title>
+<headline>Chintex Oil year net loss HK$104.26 mln.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   100.54 loss vs 0.96 loss</p>
+<p>    Dividend (H.K. cents)    nil	   vs nil</p>
+<p>    Exceptional items	  102.97 loss vs 0.15 loss</p>
+<p>    Net			    104.26 loss vs 0.99 loss</p>
+<p>    Turnover		     nil	   vs nil</p>
+<p>    Company name		 Chintex Oil and Gas Co Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Chintex Oil is an investment holding company and is involved in oil refining in China.</p>
+<p>Net is after an exceptional loss mainly on provision in respect of interest in a joint venture and cost of acquisition.</p>
+<p>No provision for Hong Kong profit tax has been made as the company and its subsidiaries do not have any assessable income vs nil. Deferred taxation has not been provided in the financial statements on timing differences as it is not certain that the timing differences will be realised in the foreseeable future.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6006" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: INDICATORS - Hungary - updated Aug 21.</title>
+<headline>INDICATORS - Hungary - updated Aug 21.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>The latest indicators:</p>
+<p> CPI (pct)		July +0.4m/m; 23.0yr/yr (June +0.9;+23.6)</p>
+<p> PPI (pct)		June +0.7 m/m;+21.5yr/yr (May +1.7;+22.0)</p>
+<p> Industry output(pct)June -7.8 m/m;-0.2yr/yr    (May +7.3;-3.6)</p>
+<p> Current account	Jan-May -$738 million   (Jan-April -$748 million)</p>
+<p> NBH trade balance    Jan-May -$934 million   (Jan-April -$774 million)</p>
+<p> MIT trade balance    Jan-June -$1.45 bln  (Jan-May -$1.24 bln)</p>
+<p> Gross foreign debt   May $27,246.5 million   (April $28,716.8 million)</p>
+<p> Net foreign debt     May $14,390.7 million   (April $15,704.3 million)</p>
+<p> Unemployment (pct)   July 10.8 pct		 (June 10.6 pct)</p>
+<p> Budget deficit (HUF) Jan-July 102 bln	 (Jan-June 122 bln)</p>
+<p>T-bill yields% (1mo) 23.19 (3mo) 23.02 (6mo) 24.03 (1yr) 24.40 Government bond yields:(2-yr 1998/J) 25.49,(3-yr 1999/c) 24.44</p>
+<p>The NBH is BBB-minus by Duff &amp; Phelps, IBCA and Thomson BankWatch, BB-plus by S&amp;P, BA1 by Moody's Investors Service, BBB+ by the Japan Credit Rating Agency. The NBH trade data is based on cash flow, MIT data on customs statistics.</p>
+<p>-- Budapest newsroom (36 1)266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

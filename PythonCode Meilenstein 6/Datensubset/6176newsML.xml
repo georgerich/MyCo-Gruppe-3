@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6176" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Pasminco to reopen Hercules zinc mine.</title>
+<headline>RTRS-Pasminco to reopen Hercules zinc mine.</headline>
+<dateline>MELBOURNE 1996-08-22</dateline>
+<text>
+<p>Pasminco Ltd said its Hercules zinc mine in Tasmania would be reopened as the result of a sub-lease agreement it had reached with Mancala Pty Ltd.</p>
+<p>The company said Hercules, which was closed in 1986, was expected to resume ore production in October this year at an initial rate of 50,000 tonnes in the first year rising to 80,000 tonnes in the second year.</p>
+<p>Pasminco said it would purchase the total ore production, which would be predominantly zinc, and Mancala which would be responsible for mining operations. The company did not identify the ownership of Mancala in its statement to the stock exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4534" id="root" date="1996-08-20" xml:lang="en">
+<title>NEW ZEALAND: Shark cartilage may curb cancer growth - NZ research.</title>
+<headline>Shark cartilage may curb cancer growth - NZ research.</headline>
+<dateline>WELLINGTON 1996-08-20</dateline>
+<text>
+<p>Shark cartilage may play a role in curbing blood vessel growth and restricting the spread of cancers, according to new research by New Zealand's Wellington Medical School.</p>
+<p>&quot;We have now established that there is some validity to the claim that shark cartilage can inhibit blood vessel growth,&quot; Paul Davis, leader of a research team at the medical school, told Reuters on Tuesday.</p>
+<p>Blood vessel growth is required for tumours to spread.</p>
+<p>Sharks have a low incidence of cancer, and ground shark cartilage has for years been used as a folk remedy for tumours, arthritis and other ailments. But there has been little scientific evidence of its effectiveness.</p>
+<p>Davis said that after a year's work his team had found that in rats fed cartilage from sharks, the development of blood vessels in abnormal tissue was reduced by up to 70 percent.</p>
+<p>&quot;It's an early step but it's a significant one,&quot; Davis said. He stressed the research was a long way from showing that shark cartilage was a &quot;cure&quot; for cancer. &quot;But what we would like to think is that it will at least slow the spread.&quot;</p>
+<p>Davis added: &quot;What it's going to do is, rather than putting people on chemotherapies and radiotherapies to try and stop the progression, you may be able to use a compound like this.&quot;</p>
+<p>&quot;If you can at least hold it while you're trying to kill the cancer cells, then the job in theory should be easier,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

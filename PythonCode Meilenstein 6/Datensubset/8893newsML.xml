@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8893" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Pacer Technology Inc Q2 shr profit vs loss.</title>
+<headline>Pacer Technology Inc Q2 shr profit vs loss.</headline>
+<dateline>RANCHO CUCAMONGA, Calif. 1996-08-22</dateline>
+<text>
+<p>Pacer Technology Inc</p>
+<p>				Financial Highlights</p>
+<p>  Three Months Ended 30 June		1996	    1995</p>
+<p>Net Sales				    $5,806,364     4,248,718</p>
+<p>Net Income (Loss)			     289,480	(494,124)</p>
+<p>Per Share					    0.02	   (0.03)</p>
+<p>Weighted Average Common Shares</p>
+<p>and Common Share Equivalents</p>
+<p>  Primary				    18,347,280    14,927,373</p>
+<p>  Year Ended 30 June			  1996	    1995</p>
+<p>Net Sales				    22,278,497    20,584,108</p>
+<p>Net Income (Loss)			     925,067	(199,718)</p>
+<p>Per Share					    0.06	   (0.01)</p>
+<p>Weighted Average Common Shares</p>
+<p>and Common Share Equivalents</p>
+<p>  Primary				    18,347,280    14,927,373</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25620">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANCHO CUCAMONGA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

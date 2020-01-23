@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10705" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US late prods fall as NYMEX changes direction.</title>
+<headline>US late prods fall as NYMEX changes direction.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>U.S. spot products fell moderately by late Friday as NYMEX futures pulled back from Thursday gains and New York gasoline differentials continued to ease amid stronger imports, players said.</p>
+<p>New York Harbor conventional unleaded M2-grade gasoline fell about 0.85 cent a gallon, with bids about 3.00 cents below September futures --about 0.30 cent weaker than Thursday diffs, players said.</p>
+<p>And diffs slipped about 0.20 cent on NYH reformulated A2-grade material, traders said, with bids at about 0.40 cent above the print.</p>
+<p>Players said at least 13 cargoes from Europe and South America were expected to begin reaching East Coast markets starting Friday, exerting downward pressure on diffs.</p>
+<p>&quot;Most of the cargoes are already placed with majors, which means they won't be buying as much,&quot; one East Coast trader said, speculating prices could continue softening in the next week.</p>
+<p>Heating oil fell about a half cent tracking futures in both centers, players said, with differentials holding steady.</p>
+<p>On Thursday, higher NYMEX values had lifted distillates 1.50 cents a gallon and pushed New York Harbor conventional unleaded gasoline 0.60 cent higher despite weaker diffs.</p>
+<p>&quot;Nobody can figure out how the Merc (NYMEX) is making up its mind,&quot; one frustrated East Coast trader said, noting that NYMEX prices this week have alternated day-to-day between strongly higher and sharply lower values.</p>
+<p>-- Ransdell Pierson, New York Energy Desk 212 859-1632</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10775" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: ADT has no comment on Republic merger.</title>
+<headline>ADT has no comment on Republic merger.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>ADT Ltd declined to comment on a published report that said it plans to call off a planned merger with Republic Industries Inc.</p>
+<p>&quot;We don't make any comments on market rumors and we're not commenting to the press on any aspects of this transaction,&quot; an ADT spokeswoman said.</p>
+<p>But a Republic spokesman earlier told Reuters that the planned merger was moving forward. Also, Wall Street analysts said officials of both companies dismissed the report in Friday's edition of the New York Post.</p>
+<p>Shares of Republic soared earlier on concerns the deal may be in trouble, but eased in late trading to stand up 3/4 at 25-1/4. Shares of ADT traded on the New York Stock Exchange rose 3/8 to 19-1/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

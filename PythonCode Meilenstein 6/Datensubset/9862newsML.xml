@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9862" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: India's RBI sees rupee stable in coming months.</title>
+<headline>India's RBI sees rupee stable in coming months.</headline>
+<dateline>BOMBAY 1996-08-22</dateline>
+<text>
+<p>Reserve Bank of India (RBI) Governor Chakravarty Rangarajan on Thursday said the rupee would remain stable in the coming months of 1996/97 (April-March).</p>
+<p>&quot;In the current financial year the rupee has remained reasonably stable and supply and demand positions in the exchange market are well equilibrated and will remain so in the coming months,&quot; Rangarajan said in a speech delivered in New Delhi.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

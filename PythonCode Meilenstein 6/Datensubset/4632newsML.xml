@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4632" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Daiichi Cement to issue 4 bln yen CB.</title>
+<headline>Daiichi Cement to issue 4 bln yen CB.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>BORROWER - Daiichi Cement Co Ltd</p>
+<p>LEAD MGR - Nikko Securities Co Ltd</p>
+<p>TRUSTEE - Fuji Bank Ltd</p>
+<p> TYPE convertible     ISSUE NO   3	  AMT   4 bln yen</p>
+<p> COUPON		   ISS PRICE  PAR	MATURITY 30.Sep.03</p>
+<p>CONV PRICE</p>
+<p> CONV FROM 1.Nov.96   CONV TO 29.Sep.03</p>
+<p> LAST MOODY	     PAY DATE 13.Sep.96  INT PAY end Mar/Sep</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 6.Sep-12.Sep</p>
+<p> LAST JCR   BBB-	LAST JBRI	     LAST NIS</p>
+<p>The coupon and conversion price will be decided on September 5.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

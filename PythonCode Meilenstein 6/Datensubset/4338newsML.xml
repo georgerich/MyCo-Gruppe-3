@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4338" id="root" date="1996-08-20" xml:lang="en">
+<title>NORWAY: SAS first half profits slightly up.</title>
+<headline>SAS first half profits slightly up.</headline>
+<dateline>OSLO 1996-08-20</dateline>
+<text>
+<p>Scandinavian Airlines System (SAS) on Tuesday reported first half 1996 pre-tax profits up on the same period last year, but said the full-year result could be slightly weaker than 1995.</p>
+<p>SAS said that first half pre-tax profits rose to 1.047 billion Swedish crowns from 1.036 during the same period last year. Full-year 1995 pre-tax profits were 2.632 billion Swedish crowns.  </p>
+<p>SAS first half profits slightly up =2</p>
+<p>An average of analysts' forecasts had predicted a 1996 first half result of 1.085 billion Swedish crowns.</p>
+<p>An SAS statement said that increased competion between the Scandinavian capitals of Copenhagen, Oslo and Stockholm made forecasting conditions for the second half difficult.</p>
+<p>&quot;The market outlook for the second half of the year is hard to judge because of expected competition from new actors between the three capitals and on some other European routes,&quot; it said.</p>
+<p>It said results were boosted by exchange rate gains of 69 million Swedish crowns. --Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SCAND">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

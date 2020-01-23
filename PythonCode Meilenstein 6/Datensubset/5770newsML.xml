@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5770" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Plastic laser opens new avenues for research.</title>
+<headline>Plastic laser opens new avenues for research.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>British physicists said on Wednesday they had made a laser out of plastic -- which they said would open up new avenues for using lasers.</p>
+<p>They used polyphenylenevinylene (PPV), a plastic known to have luminescent properties, to make the polymer laser.</p>
+<p>A plastic laser would have many uses and would be cheaper and easier to make compared to one using crystals or a gas, the team at the Cavendish Laboratory in Cambridge wrote in their report in the science journal Nature.</p>
+<p>&quot;It's plastic, it's very easy to handle, it's robust, you can cover large areas,&quot; said Nils Tessler, a physicist and engineer who worked on the project.</p>
+<p>&quot;You don't need to use very sophisticated machines to make it. You don't need ultra-clean environments.&quot;</p>
+<p>Lasers work by using photons, the wavelike particles that carry light. If a photon strikes an &quot;excited&quot; particle in a solid, liquid or a gas -- one vibrating at the correct intensity -- that particle will emit another photon travelling in the same direction as the first.</p>
+<p>This is called &quot;pumping&quot;. A laser will concentrate the energy so it creates a cascade effect -- and a beam of very intense light.</p>
+<p>Tessler said the polymer laser -- which he said looked like a clear green or yellow plastic ruler -- had been &quot;pumped&quot; using another laser and had emitted a laser beam.</p>
+<p>&quot;You shine in a laser, and then you make a structure with this polymer inside it, and this structure behaves like a laser,&quot; he said in a telephone interview. &quot;This is really the beginning.&quot;</p>
+<p>The next step, he said, would be to use an electrical pump &quot;like plugging it into the wall without needing any other laser light to excite it&quot;.</p>
+<p>Lasers are used in surgery, to play compact discs, in telecommunications and other areas. Tessler said the new laser could be used for displays, back-lit illuminations and other commercial effects.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

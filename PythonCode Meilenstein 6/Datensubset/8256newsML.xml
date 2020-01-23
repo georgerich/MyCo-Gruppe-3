@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8256" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Eagle Hardware Q2 net rises.</title>
+<headline>Eagle Hardware Q2 net rises.</headline>
+<dateline>RENTON, Wash. 1996-08-22</dateline>
+<text>
+<p>Eagle Hardware &amp; Garden Inc</p>
+<p>	 (In thousands, except store-week and per-share data)</p>
+<p>				13 weeks ended	    26 weeks ended</p>
+<p>			July 26,    July 28,    July 26,    July 28,</p>
+<p>			    1996	  1995	  1996	  1995</p>
+<p>Net sales	   $209,078    $167,835    $370,184    $297,981</p>
+<p>Gross margin	  58,339	44,339     103,595	80,067</p>
+<p>Operating income    14,868	 7,163	21,830	11,521</p>
+<p>Net income	  $  8,065    $  4,553    $ 11,029    $  7,233</p>
+<p>Shr			$0.35	 $0.20	 $0.47	 $0.31</p>
+<p>Diluted shr	    $0.32	 $0.20	 $0.46	 $0.31</p>
+<p>NOTE: Q2 1995 net inlcudes $1.4 million of non-recurring income.</p>
+<p>Six month 1995 non-recurring income not immediately available. Net for six months 1995 includes $2.0 million of &quot;other income&quot;.</p>
+<p>Q2 and six months 1995 net includes preopening expenses of $1.7 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RENTON, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

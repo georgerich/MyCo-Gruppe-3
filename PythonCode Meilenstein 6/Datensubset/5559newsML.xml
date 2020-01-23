@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5559" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Abrams Industries Q1 net rises.</title>
+<headline>Abrams Industries Q1 net rises.</headline>
+<dateline>ATLANTA 1996-08-21</dateline>
+<text>
+<p>First quarter ended		  7/31/96	    7/31/95</p>
+<p> Revenues				 $28,119,570     $34,791,724</p>
+<p> Costs and expenses		    27,948,143	34,771,570</p>
+<p> Earnings before income taxes	   171,427	    20,154</p>
+<p> Income tax expense			  65,000	     8,000</p>
+<p> Net earnings				 106,427	    12,154</p>
+<p> Net earnings per share			 .04		 .00</p>
+<p>Weighted average shares outstanding</p>
+<p>						2,970,856	 2,992,909</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

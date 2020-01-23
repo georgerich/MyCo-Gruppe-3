@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8944" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: Measles exposure can lead to bowel disease - study.</title>
+<headline>Measles exposure can lead to bowel disease - study.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Women who get measles while pregnant may have babies at higher risk of Crohn's disease, a debilitating bowel disorder, researchers said on Friday.</p>
+<p>Three out of four Swedish babies born to mothers who caught measles developed serious cases of Crohn's disease, the researchers said.</p>
+<p>Dr Andrew Wakefield of the Royal Free Hospital School of Medicine and colleagues screened 25,000 babies delivered at University Hospital, Uppsala, between 1940 and 1949.</p>
+<p>Four of the mothers had measles while pregnant.</p>
+<p>&quot;Three of the four children had Crohn's disease,&quot; Wakefield's group wrote in the Lancet medical journal.</p>
+<p>Crohn's is an inflammation of the bowel that can sometimes require surgery. It causes diarrhoea, abdominal pain and weight loss. The researchers said the three children involved had especially severe cases.</p>
+<p>Exposure to viruses can often cause birth defects. Most notably, women who get rubella (German measles) have a high risk of a stillborn baby.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

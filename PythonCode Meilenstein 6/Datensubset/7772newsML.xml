@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7772" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Zenith $1 bln contract may signal turnaround.</title>
+<headline>Zenith $1 bln contract may signal turnaround.</headline>
+<byline>Susan Nadeau</byline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>Zenith Electronics Corp's $1 billion contract to make digital televion set-top boxes gives new hope to a company struggling with years of losses, company officials said.</p>
+<p>&quot;This really indicates we're back in the business,&quot; William Luehrs, president of the company's networks division, said in a telephone interview.</p>
+<p>&quot;Anytime somebody gets the opportunity to enter the next era with such a big bang has got to be seen as a strong message to the industry,&quot; Luehrs said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

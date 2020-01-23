@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5993" id="root" date="1996-08-21" xml:lang="en">
+<title>RUSSIA: Russia Ingosstrakh 95 pre-tax 384 bn vs 41 bn rbls.</title>
+<headline>Russia Ingosstrakh 95 pre-tax 384 bn vs 41 bn rbls.</headline>
+<dateline>MOSCOW 1996-08-21</dateline>
+<text>
+<p>Year ended December 31</p>
+<p>(in billions of roubles).</p>
+<p>				     1995		   1994</p>
+<p>    Pre-tax profit	   384.30		   41.00</p>
+<p>    Insurance reserves   1,255		     800.00</p>
+<p>    Shareholders' capital  399.00 bln*	   40.50 bln*</p>
+<p>NOTE - Full name of the state insurance company is Strakhovoye Aktsionernoye Obshchestvo Ingosstrakh. Figures audited by Arthur Andersen to Russian standards.</p>
+<p>Shareholders' capital as at January 1, 1996, vs January  1, 1995. On July 1, 1996 it was 536.50 billion roubles.</p>
+<p>--Julie Tolkacheva, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

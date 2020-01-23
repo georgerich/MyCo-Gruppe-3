@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11191" id="root" date="1996-08-23" xml:lang="en">
+<title>COLOMBIA: Colombian peso ends lower at 1,041.</title>
+<headline>Colombian peso ends lower at 1,041.</headline>
+<dateline>BOGOTA 1996-08-23</dateline>
+<text>
+<p>Colombia's peso closed lower at 1,041 after one of the country's banks tapped the interbank market late in the day to cover short dollar positions, dealers said.</p>
+<p>They said the peso held steady to slightly higher most of the session, but position-squaring by a bank buying U.S. currency shortly before the close forced it to end lower.</p>
+<p>The peso traded at an intraday high of 1,035 and closed at the day's low. Dealers reported 408 trades for a total of $157 million and.</p>
+<p>-- Juan Guillermo Londono, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

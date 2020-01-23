@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5966" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: Hungary Citibank brokerage names new head.</title>
+<headline>Hungary Citibank brokerage names new head.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>Hungarian brokerage Citibank Befektetesi es Ertekpapir Kft named Istvan Farkas as managing director from September 1, Citibank said in a statement.</p>
+<p>Farkas was deputy finance minister between 1989 and 1990 and a government administrator between 1994 and 1995.</p>
+<p>Citibank brokerage, the wholly-owned Hungarian unit of Citibank, has been a member of the Budapest Stock Exchange since December 1995.</p>
+<p>-- Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8313" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Cooper sets 1-for-500 stock split.</title>
+<headline>Cooper sets 1-for-500 stock split.</headline>
+<dateline>MORGAN HILL, Calif. 1996-08-22</dateline>
+<text>
+<p>Cooper Development Co said it had filed documents with the Securities Exchange Commission in connnection with a proposed one-for-500 reverse stock split.</p>
+<p>In a statement late on Wednesday, the company said the stockholders would receive cash in lieu of fractional shares of new common stock of $1.50 for each share of old common stock they hold.</p>
+<p>&quot;The proposed reverse stock split is intended to reduce the number of its stockholders and terminate Cooper's status as a public reporting company,&quot; the statement said.</p>
+<p>The company is undertaking the reverse split to allow the company to cease to incur the expenses of a public reporting company as quickly as possible.</p>
+<p>The split will also allow stockholders who receive cash in lieu of fractional shares of new common stock to receive, and be able to reinvest or make use of, such cash payments, the statement said.</p>
+<p>	  -- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MORGAN HILL, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

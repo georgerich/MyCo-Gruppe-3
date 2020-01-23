@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5216" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: High-tech companies in $100 mln Java fund - WSJ.</title>
+<headline>High-tech companies in $100 mln Java fund - WSJ.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Ten powerful high-technology companies are investing in a $100 million venture fund to support startups developing Internet software using Java as a progamming language, The Wall Street Journal reported on Wednesday.</p>
+<p>International Business Machines Corp, Tele-Communications Inc, Sun Microsystems Inc, Compaq Computer Corp, U S West Communications Group, Netscape Communications Corp and Oracle Corp are among the investors in the Java Fund. It will be administered by venture-capital firm Kleiner Perkins Caulfield &amp; Byers.</p>
+<p>The widespread endorsement for the Java Fund, which also includes investments from Cisco Systems Inc, Comcast Corp and Japan's Itochu Corp, marks an unprecedented rate of adoption for a single technology across a wide range of high-tech industries, the newspaper said.</p>
+<p>&quot;Nothing like this level of adoption and endorsement has ever happened in computing,&quot; said John Doerr, a partner at Kleiner Perkins.</p>
+<p>Beyond financial investment, companies are also planning on putting their weight behind new technologies in return for getting early access to any breakthroughs.</p>
+<p>Java has been hailed as a revolutionary technology because of its ability to create multimedia computer programs that work on all operating systems. Many industry experts believe that may help put an end to Microsoft Corp's dominance of the software industry, which has long relied on the Windows platform that Microsoft controls.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

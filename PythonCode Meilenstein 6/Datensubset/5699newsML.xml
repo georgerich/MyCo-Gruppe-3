@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5699" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Frontier Adjusters of America Q4 net falls.</title>
+<headline>Frontier Adjusters of America Q4 net falls.</headline>
+<dateline>PHOENIX 1996-08-21</dateline>
+<text>
+<p>Frontier Adjusters of America Inc. and Subsidiaries</p>
+<p>		   Condensed Consolidated Statements of Income</p>
+<p>			 Three Months Ended	   Year Ended</p>
+<p>			6/30/96     6/30/95     6/30/96     6/30/95</p>
+<p>Gross billings of</p>
+<p>  licensees   $12,340,000 $10,682,000 $46,830,000 $42,690,000</p>
+<p> Revenues	 1,484,354   1,479,749   5,641,984   5,240,825</p>
+<p>Income from operations</p>
+<p>			447,932     487,876   1,701,649   1,502,669</p>
+<p>Income before taxes</p>
+<p>			476,265     513,478   1,855,824   1,679,088</p>
+<p> Net income	 297,942     319,663   1,134,519   1,026,848</p>
+<p>Net income per</p>
+<p>  common share	  .07	   .07	   .25	   .22</p>
+<p>Weighted average shares</p>
+<p>  outstanding   4,623,065   4,640,898   4,620,101   4,662,679</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

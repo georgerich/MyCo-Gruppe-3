@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8318" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Tosco concerns lift U.S energy prices on ACCESS.</title>
+<headline>Tosco concerns lift U.S energy prices on ACCESS.</headline>
+<dateline>LOS ANGELES 1996-08-21</dateline>
+<text>
+<p>U.S. energy futures prices on the NYMEX ACCESS overnight trading system were boosted slightly in early dealings on market concerns over a small fire at Tosco's Bayway, New Jersey, refinery.</p>
+<p>A Tosco official late Wednesday denied any supply disruptions and said the fire in the crude unit was small and quickly extinguished Wednesday morning. NYMEX October crude oil traded 10 cents higher on ACCESS at $21.82 a barrel.</p>
+<p>September heating oil traded up 0.47 cent to 61.45 cents a gallon on 45 lots traded. Front-month gasoline rose 0.53 cent a gallon to 63.65 cents on 200 lots changing hands.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

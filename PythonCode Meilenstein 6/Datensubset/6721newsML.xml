@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6721" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Morgan Stanley sets warrants on JSE share index.</title>
+<headline>Morgan Stanley sets warrants on JSE share index.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>Morgan Stanley (Jersey) Ltd has issued 50,000 American-style call warrants, on the JSE Top 40 All Share Index, joint lead managers Morgan Stanley Bank AG and Morgan Stanley &amp; Co International Limited said.</p>
+<p> STRIKE PRICE    105 PCT		   PREMIUM	20.0 PCT</p>
+<p> ISSUE PRICE     150.00 DEM		GEARING	6.67 X</p>
+<p> MATURITY DATE   20.AUG.98		 PAYDATE	20.AUG.96</p>
+<p> LISTING	   LUX			 MIN EXER LOT 100</p>
+<p>-- Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

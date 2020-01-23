@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7738" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Asahi Chemical to form plastics unit in Singapore.</title>
+<headline>Asahi Chemical to form plastics unit in Singapore.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Asahi Chemical Industry Co Ltd said on Thursday it would form a new subsidiary in Singapore to produce and market polyacetal copolymer.</p>
+<p>Polyacetal is a type of plastic used for car parts and electric appliances, a company spokesman said.</p>
+<p>The new unit, to be capitalised at $35 million, will build a plant on Pulau Sakra island, he said.</p>
+<p>The plant will be capable of producing 20,000 tonnes a year and is expected to start operating in early 1999, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

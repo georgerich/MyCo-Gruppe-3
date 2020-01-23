@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8083" id="root" date="1996-08-22" xml:lang="en">
+<title>BAHRAIN: Saudi riyal rates steady in quiet summer trade.</title>
+<headline>Saudi riyal rates steady in quiet summer trade.</headline>
+<dateline>MANAMA 1996-08-22</dateline>
+<text>
+<p>The spot Saudi riyal against the dollar and riyal interbank deposit rates were mainly steady this week in quiet summer trade, dealers in the kingdom said.</p>
+<p>&quot;There were no changes in Saudi riyal rates. The market was very quiet because of summer holidays,&quot; one dealer said.</p>
+<p>The spot riyal was put at 3.7504/06 to the dollar.</p>
+<p>One-month interbank deposits were at 5-1/2, 3/8 percent, three months were 5-5/8, 1/2 percent and six months were 5-3/4, 5/8 percent. One-year funds were at six, 5-7/8 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

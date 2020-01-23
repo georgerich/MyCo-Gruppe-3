@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8988" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: IPE gas oil ends firm, Brent dips on Iraq jitters.</title>
+<headline>IPE gas oil ends firm, Brent dips on Iraq jitters.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>IPE gas oil futures closed firm on Thursday, supported by good buying and rallies on Brent and NYMEX futures, brokers said.</p>
+<p>September gas oil closed up $3.00 at $191.00 a tonne, just off a session high of $191.50. The Sep/Oct backwardation narrowed 25 cents with the October contract closing at $189.00.</p>
+<p>Brent futures dipped shortly after the gas oil close on perceptions that Iraqi oil was moving closer to international markets. But a U.N. official said on Thursday that the Iraqi export deal would not be in force for at least ten days. Oct Brent stood 41 cents up at $20.61 a barrel at 1718 GMT.  </p>
+<p>The contract tested a high of $20.80 a barrel earlier in the session in a technically-led rally on both sides of the Atlantic.</p>
+<p>&quot;It's purely on technicals,&quot; said one broker. &quot;We were strong this morning and NYMEX's performance has just confirmed the move.&quot;</p>
+<p>The market eased back briefly and then began to retrace gains amid confusion over the timing of Iraqi oil sales.</p>
+<p>--London, +44 171 542 5387</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

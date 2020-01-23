@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9873" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: Indian sugar prices fall on sluggish demand.</title>
+<headline>Indian sugar prices fall on sluggish demand.</headline>
+<dateline>BOMBAY 1996-08-22</dateline>
+<text>
+<p>Indian sugar prices fell on Thursday on sluggish consumer demand and little retail inquiry, dealers said.</p>
+<p>&quot;Supplies were also thin and sentiment was quiet amid limited activity,&quot; one dealer said.</p>
+<p>In ready delivery sugar, S-30 slid by upto five rupees to 1,370/1,396 rupees per quintal while M-30 fell by five at 1,390/1,446 rupees. Sugar mill delivery also fell by five at 1,310/1,320 rupees as outstation demand eased at mill level.</p>
+<p>Overall sentiment remained subdued at the close on low physical offtake. -- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8780" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Weight-loss, AIDS product can cause infection.</title>
+<headline>Weight-loss, AIDS product can cause infection.</headline>
+<byline>Mike Cooper</byline>
+<dateline>ATLANTA 1996-08-22</dateline>
+<text>
+<p>Federal health officials on Thursday said adrenal cortex injection, an alternative therapy used for AIDS patients and weight-watchers, had caused abscesses due to contamination with a rare bacteria.</p>
+<p>They also warned that the injection could be potentially life-threatening for people with weakened immune systems.</p>
+<p>In the past year, 54 people in Colorado and Wyoming developed abscesses where adrenal cortex injection had been administered, the Centers for Disease Control and Prevention (CDC) said. It said the product, which has not been approved by the Food &amp; Drug Administration (FDA), was contaminated with bacteria that caused the abscesses.</p>
+<p>People who developed them were generally treated with antibiotics, but in some cases the abscesses had to be drained or surgically removed. Most of those who became ill had received injections as part of a weight-loss program. The product has also been sold to &quot;enhance well-being&quot; in people infected with the virus that causes AIDS, the CDC said.</p>
+<p>CDC epidemiologist Michael McNeil said people with weakened immune systems were at particular risk from the unusual bacterium, which appears to have contaminated the product during its manufacture.</p>
+<p>&quot;In someone who is otherwise healthy, it tends to cause localized infection,&quot; McNeil said. &quot;In someone who is immuno-compromised, someone with AIDS for instance, it can spread via the bloodstream to infect many organs and may be a life-threatening infection.&quot;</p>
+<p>The FDA said drugs containing adrenal cortex extract or adrenal cortex injection have been marketed for many years but there is a ban on importing them. As far back as 1973, the American Medical Association said &quot;there is no known medical use for this drug.&quot;</p>
+<p>It is important for doctors to be aware if a patient has used the product so that they can identify the bacteria and prescribe the most effective antibiotics, McNeil said.</p>
+<p>&quot;This is a completely unapproved drug as far as the FDA is concerned. Were it an approved drug, it would be easy to know what's in it. The important message is that preparations labeled like this may be contaminated with this organism.&quot;</p>
+<p>Of 69 patients given the injections by a Colorado physician this year, 47 developed abscesses at the site of the injection, the CDC said.</p>
+<p>The CDC, FDA and several state health departments are investigating the product. People who develop abscesses after injection should stop using it and contact local or state health authorities, McNeil said.</p>
+<p>Vials containing the product were labeled &quot;distributed by Hallmark Labs, Inc.,&quot; and did not have lot numbers or expiration dates, the CDC said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

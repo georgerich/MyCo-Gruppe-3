@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6957" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: GRC Q4 net plunges into red.</title>
+<headline>GRC Q4 net plunges into red.</headline>
+<dateline>VIENNA, Virginia 1996-08-21</dateline>
+<text>
+<p>(in thousands, except for per share data)</p>
+<p>		  Three months ended	     Twelve months ended</p>
+<p>			  June 30,			     June 30,</p>
+<p>		    1996	  1995		 1996	   1995</p>
+<p>Revenues     $34,588     $40,813	   $124,523     $137,808</p>
+<p>Gross margin   5,396	 7,721	     21,167	 26,486</p>
+<p>General, administrative, marketing, research</p>
+<p>and development</p>
+<p>		   6,857	 6,458	     22,346	 21,075</p>
+<p>Write-down of deferred software and related costs</p>
+<p>		  15,435	   500	     15,435	    500</p>
+<p>Provision for losses</p>
+<p>		    (549)	  174		  505	  1,054</p>
+<p>Gain on asset sales</p>
+<p>		     ---	  (903)		 ---	   (903)</p>
+<p>Total operating expenses</p>
+<p>		  21,743	 6,229	     38,286	 21,726</p>
+<p>Operating income (loss)</p>
+<p>		 (16,347)	1,492	    (17,119)	 4,760</p>
+<p>Net income (loss)</p>
+<p>		 (16,650)	1,486	    (17,637)	 5,030</p>
+<p>Income (loss) per common and common equivalent share</p>
+<p>		 ($1.80)	 $0.16	    ($1.92)	  $0.54</p>
+<p>Weighted average number of common and common</p>
+<p>equivalent shares</p>
+<p>		   9,250	 9,375		9,172	  9,393</p>
+<p>Note: Company's full name is GRC International Inc.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Virginia"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

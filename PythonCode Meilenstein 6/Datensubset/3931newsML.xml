@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3931" id="root" date="1996-08-20" xml:lang="en">
+<title>BANGLADESH: Bangladesh says needs $7 bln investment in power.</title>
+<headline>Bangladesh says needs $7 bln investment in power.</headline>
+<dateline>DHAKA 1996-08-20</dateline>
+<text>
+<p>Bangladesh needs at least $7.0 billion of investment in the power sector over the next decade to meet rising demand for electricity, Energy Minister Nooruddin Khan said.</p>
+<p>&quot;The government is left no option other than inviting private capital from home and abroad to finance development in the country power sector,&quot; he told a seminar.</p>
+<p>The minister said a policy allowing private investment in power generation was being formulated and this would address all critical questions including a rational tariff structure. He did not elaborate.</p>
+<p>Energy Secretary S.A. Samad said the policy, due to be introduced in a month, would ensure a level playing field for both private and public companies in the power sector.</p>
+<p>Bangladesh needs an additional 3,000 megawatts of electricity by the year 2005 even with only a modest growth in demand of eight to nine percent over the period, said one official.</p>
+<p>Energy ministry officials said nearly a dozen foreign companies had signed memoranda of understanding for investment in power generation.</p>
+<p>Bangladesh has a power generation shortfall of about 500 megawatts after producing only 2,000 megawatts, they said. The Energy Secretary said power generation had stagnated in recent years due to &quot;donors' fatigue&quot; in funding the sector.</p>
+<p>Energy ministry officials said &quot;system loss&quot; resulting from the theft of power and wastage during generation was running at around 40 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

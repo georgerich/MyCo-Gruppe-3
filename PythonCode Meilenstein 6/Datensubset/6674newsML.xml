@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6674" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Hong Kong stocks in London firm, await Wall Street.</title>
+<headline>Hong Kong stocks in London firm, await Wall Street.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>Hong Kong stocks in London were slightly higher in listless, early afternoon trade ahead of Wall Street's start, traders said.</p>
+<p>&quot;The market is relatively firm. The only feature is Hong Kong Bank (HSBC) which is up a bit from its overnight close. Everything else is steady waiting for Wall Street,&quot; said one.</p>
+<p>Stocks ended sharply higher in Hong Kong overnight after the U.S. Federal Reserve decided to leave interest rates unchanged.</p>
+<p>The widely anticipated decision helped push the Hang Seng index 123.99 points higher to 11,436.5 by the close.</p>
+<p>By 1300 GMT the Hang Seng London Reference index was 4.17 points higher at 11,440.67.</p>
+<p>-- London newsroom +44 171 542 8712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

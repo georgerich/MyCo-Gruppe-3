@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4870" id="root" date="1996-08-20" xml:lang="en">
+<title>SWITZERLAND: Indian envoy vows to block nuclear test pact.</title>
+<headline>Indian envoy vows to block nuclear test pact.</headline>
+<dateline>GENEVA 1996-08-20</dateline>
+<text>
+<p>India vowed on Tuesday to block a nuclear test ban treaty from being formally adopted by the Conference on Disarmament and sent to the U.N. General Assembly.</p>
+<p>Indian ambassador Arundhati Ghose, asked by reporters before addressing the Geneva forum whether she would announce her country would block a consensus on the treaty, replied: &quot;Yes.&quot;  </p>
+<p>But Western diplomats said they were marshalling support for the global pact and if prevented from reaching consensus in the conference would send it to the General Assembly by using a special resolution.</p>
+<p>India last week blocked the committee which has been negotiating on the treaty text since January 1994 from formally adopting the pact and sending it to the main conference.</p>
+<p>Ghose, speaking before a conference session, said that making the treaty text an official document of the full conference would be &quot;an assault on the institution&quot;.</p>
+<p>Asked whether she expected treaty sponsors to try to send it to the General Assembly, she replied: &quot;That is the right of all states to go to the General Assembly. They can take what they want to the General Assembly.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

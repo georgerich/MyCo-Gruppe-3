@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9312" id="root" date="1996-08-22" xml:lang="en">
+<title>BRAZIL: Brazil September basic rate 1.88 pct--Central Bank.</title>
+<headline>Brazil September basic rate 1.88 pct--Central Bank.</headline>
+<dateline>BRASILIA 1996-08-22</dateline>
+<text>
+<p>Brazil's Monetary Policy Committee (Copom) has cut the Basic Interest Rate of the Central Bank (TBC) to 1.88 percent for September, down from 1.9 percent in August and July, a Central Bank spokesman said.</p>
+<p>The TBC, which is set on a monthly basis and was introduced in July, is used as a reference rate for Central Bank rediscount lines and Proer credit lines.</p>
+<p>The Gazeta Mercantil newspaper reported that Copom had signaled only a small reduction in order to spare financial markets unpleasant surprises should the rate have to be raised again.</p>
+<p>-- Michael Christie, Brasilia Newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

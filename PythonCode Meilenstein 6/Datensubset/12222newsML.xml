@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12222" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Kobe rubber futures mixed in after-hours trade.</title>
+<headline>Kobe rubber futures mixed in after-hours trade.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Kobe rubber futures were mixed in the after-hours session on Friday in trade dominated by sporadic position-adjustment ahead of the spot expiry next Monday, traders said.</p>
+<p>Prices ranged from 0.3 yen per kg lower to 0.3 yen firmer than the day's close. Benchmark January was 0.3 yen down at 137.7 yen. Volume was thin, with 4,582 lots traded.</p>
+<p>During the day, spot August rose on short-covering, which spilled over into other contracts, they said.</p>
+<p>&quot;Investors stood on the sidelines amid uncertainty over near-term direction after the spot expiry,&quot; one trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

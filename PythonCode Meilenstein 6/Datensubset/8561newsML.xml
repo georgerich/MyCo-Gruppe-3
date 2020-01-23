@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8561" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: CRICKET-ENGLAND WIN TOSS AND ELECT TO BAT IN THIRD TEST.</title>
+<headline>CRICKET-ENGLAND WIN TOSS AND ELECT TO BAT IN THIRD TEST.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>England captain Michael Atherton won the toss on Thursday and opted to bat in the third and final test against Pakistan at The Oval.</p>
+<p>England, trailing 1-0, surprisingly omitted seamer Andy Caddick and gave a test debut to 26-year-old Glamorgan off-spinner Robert Croft.</p>
+<p>There was no suggestion of Caddick suffering from an injury and his absence ensured a reprieve for Chris Lewis, a disappointment in the drawn second test at Headingley.</p>
+<p>Pakistan made two changes, bringing back injured opener Aamir Sohail in place of Shadab Kabir and preferring seamer Mohammad Akram to Ata-ur-Rehman. Moin Khan retained the wicket keepers' gloves ahead of Rashid Latif.</p>
+<p>Teams:</p>
+<p>England - Michael Atherton (captain), Alec Stewart, Nasser Hussain, Graham Thorpe, John Crawley, Nick Knight, Chris Lewis, Robert Croft, Dominic Cork, Ian Salisbury, Alan Mullally. </p>
+<p>Pakistan - Aamir Sohail, Saeed Anwar, Ijaz Ahmed, Inzamam- ul-Haq, Salim Malik, Asif Mujtaba, Wasim Akram (captain), Moin Khan, Mushtaq Ahmed, Waqar Younis, Mohammad Akram.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

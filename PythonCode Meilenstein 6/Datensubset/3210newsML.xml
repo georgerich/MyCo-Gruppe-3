@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3210" id="root" date="1996-08-20" xml:lang="en">
+<title>ESTONIA: Estonia sets deadline for energy selloff plan.</title>
+<headline>Estonia sets deadline for energy selloff plan.</headline>
+<dateline>TALLINN 1996-08-20</dateline>
+<text>
+<p>The Estonian government on Tuesday ruled that plans for the privatisation of the energy firm Eesti Energia and state-owned oil shale mines must be ready by the end of October this year.</p>
+<p>The economics ministry has been working on the best way to privatise the companies, which have attracted Western interest, but no deadline has been set.</p>
+<p>&quot;So far there has been restructuring in Eesti Energia and the Estonian oil shale mines company,&quot; Justice Minister Paul Varul told a news conference after a cabinet meeting.</p>
+<p>Varul, standing in for absent Prime Minister Tiit Vaehi, said ministers differed on how to carry out the privatisation of the companies.</p>
+<p>&quot;The main debate was on what parts of Eesti Energia to privatise and what part to leave to the state,&quot; Varul added.</p>
+<p>The government has already signed a letter of intent with U.S. firm NRG Energy, part of Northern States Power, which is drawing up plans for the energy firm's privatisation.</p>
+<p>But other Western firms are reported to be interested in the privatisation, including Swedish  Vatenfall, Finnish  Imatran Voima Oy and German  Preussen.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

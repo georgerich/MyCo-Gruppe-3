@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5754" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Spine-Tech approves holder rights plan.</title>
+<headline>Spine-Tech approves holder rights plan.</headline>
+<dateline>MINNEAPOLIS 1996-08-21</dateline>
+<text>
+<p>The board of directors of Spine-Tech Inc said Wednesday it approved a shareholder rights plan to protect the company from unsolicited attempts to acquire the company.</p>
+<p>The company said the plan is not in response to a specific takeover threat.  </p>
+<p>&quot;(T)he company has no knowledge that anyone is considering a takeover of the company,&quot; Spine-Tech said in a release.</p>
+<p>Under the plan, the company will on September 10 distribute as a dividend one right for each share of the company's common stock. Each right entitles the holder to buy one-hundredth of a share of a new series of preferred stock.</p>
+<p>The right can be exercised only if a person or group acquires 20 percent or more of the company's common stock or announces a tender or exchange offer. It expires on September 10, 2006.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

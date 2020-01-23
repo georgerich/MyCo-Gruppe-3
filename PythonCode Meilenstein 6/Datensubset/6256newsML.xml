@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6256" id="root" date="1996-08-21" xml:lang="en">
+<title>SINGAPORE: Tiger sees 1996 to be satisfactory.</title>
+<headline>Tiger sees 1996 to be satisfactory.</headline>
+<dateline>SINGAPORE 1996-08-21</dateline>
+<text>
+<p>Tiger Medicals Ltd, a pharmaceutical company which makes Tiger brand ointments for relieving muscle pains, said on Wednesday it expects a better second half in 1996 and the full year to be satisfactory.</p>
+<p>It said its net profit in the first half of the year fell two percent to Singapore $43.93 million.</p>
+<p>Group turnover increased by nine percent on account of higher sales of Tigher brand products in Asia and trading margins were maintained, it said.</p>
+<p>But it said the group did not derive any significant exchange gain in the period and so earnings declined marginally by two percent.</p>
+<p>Singapore Newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

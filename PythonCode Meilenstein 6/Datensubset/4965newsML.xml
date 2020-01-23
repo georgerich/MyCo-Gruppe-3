@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4965" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Japan eyes big U.S. deal with H2 rocket.</title>
+<headline>Japan eyes big U.S. deal with H2 rocket.</headline>
+<byline>Eugene Moosa</byline>
+<dateline>TOKYO</dateline>
+<text>
+<p>Japan, once a laggard in satellite launching, has shot into the front ranks of space nations, with its H2 rocket's latest success challenging Chinese and European dominance in the field.</p>
+<p>The H2's success last Saturday in lifting two satellites into orbit, followed three days later by a Chinese rocket's failure in a similar mission, leaves Japan poised to land a $1 billion contract from Hughes Electronics Corp. to launch a dozen satellites.</p>
+<p>Two months ago, the European Space Agency's new Ariane 5 rocket blew up on its maiden flight, effectively ruling it out as a contender for the Hughes contract.</p>
+<p>Rocket System Corp., a consortium of 74 Japanese high-tech firms, announced last month it had reached a &quot;basic agreement&quot; with Hughes to launch the 12 satellites using an advanced model of the H2 rocket.</p>
+<p>After Saturday's success, Japanese officials are now confident the &quot;basic agreement&quot; is about to become reality.</p>
+<p>&quot;We will announce details of the deal with Hughes once the main contract has been signed, probably in a month or so,&quot; a spokesman for Rocket System said in an interview.</p>
+<p>Japanese media said the Hughes deal, at about 8.5 billion yen ($79 million) per launch, would firmly place Japan in the global satellite launching business, until now dominated by Europe's Ariane rockets and China's Long March rockets.</p>
+<p>If the contract is signed, Japan could be launching the first of Hughes' satellites in 2001.</p>
+<p>Hughes is a wholly owned subsidiary of General Motors Corp. and Rocket System is led by Mitsubishi Heavy Industries Ltd. and Nissan Motor Co.</p>
+<p>Last Saturday, the H2 rocket lifted two satellites into orbit, with one weighing 7,900 pounds, the largest satellite released into orbit by Japan.</p>
+<p>It was the fourth successful H2 lift-off -- there has not been a failure since the first launch in 1994 -- and the first billed as a &quot;commercial&quot; and not experimental launch.</p>
+<p>Japan's government-funded National Space Development Agency owns the rocket but Rocket System Corp. is in charge of selling the rocket to commercial clients.</p>
+<p>The Advanced Earth Observation Satellite successfully placed in orbit Saturday is for use by environmental scientists in the United States, Europe and Japan.</p>
+<p>The European Space Agency suffered a major setback last June when its latest model, the Ariane 5, blew up less than one minute after lift-off on its maiden flight.</p>
+<p>ESA admitted that the explosion was caused by faulty software and inadequate simulation experiments.</p>
+<p>One month later, in a sign of how the satellite launching world has changed, ESA asked Japan's NASDA to launch an experimental communications satellite for it using the first advanced model of the H2, called the H2A.</p>
+<p>ESA's Artemis satellite will be launched in 2000 free of cost, although NASDA would be given rights to 200 hours worth of experimental communications using the Artemis.</p>
+<p>&quot;The failure of Ariane-5 and the Artemis plea to Japan were not directly linked,&quot; said Akira Kubozono, a former top NASDA official.</p>
+<p>&quot;It's just that the H2 rocket came as a heaven-sent gift for ESA's satellite division looking for a free lift-off,&quot; he said.</p>
+<p>In China's case, there have been two failed launches by its Long March-3 rockets this year, one in February, which killed six people on the ground, and another Tuesday, when it failed to place a domestic communications satellite into orbit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I75100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

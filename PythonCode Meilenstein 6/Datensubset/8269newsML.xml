@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8269" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: BEFORE THE BELL - Philip Morris fall continues.</title>
+<headline>BEFORE THE BELL - Philip Morris fall continues.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Shares in Philip Morris Cos Inc continued to fall preceding Thursday's U.S. market open, deepening a rout that began yesterday on expected tougher federal regulations and new cigarette-related lawsuits.</p>
+<p>Philip Morris shares traded at 87 before the regular-session start, off 5/8, traders said.</p>
+<p>They reported no moves in other tobacco issues in early pre-open activity, including RJR Nabisco Holdings Corp, Brooke Group Ltd and UST Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

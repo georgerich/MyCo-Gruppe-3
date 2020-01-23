@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11083" id="root" date="1996-08-23" xml:lang="en">
+<title>SLOVAKIA: Slovak police probe Belgian kidnap suspect visits.</title>
+<headline>Slovak police probe Belgian kidnap suspect visits.</headline>
+<dateline>BRATISLAVA 1996-08-23</dateline>
+<text>
+<p>Slovak police said on Friday they were closely investigating contacts made in Slovakia by Marc Dutroux, chief suspect in the killing of two Belgian girls and the kidnapping of two others last year.</p>
+<p>&quot;The Belgian representatives let us know that Marc Dutroux had visited Slovakia several times in the past,&quot; Rudolf Gajdos, head of the Slovak office of Interpol told Reuters. &quot;(Interpol) and Slovak police are now looking into the contacts he made in the country when he was here,&quot; he said.</p>
+<p>An Marchal and Eefje Lambrecks went missing last August.</p>
+<p>Dutroux, 39, was charged last week with the abduction and illegal imprisonment of two other girls aged 14 and 12, and is one of several suspects in the Marchal and Lambrecks case.</p>
+<p>Last Saturday he led police to the bodies of two other girls, aged eight, who died of starvation earlier this year after their abduction in June, 1995.</p>
+<p>Speculation in Belgian media orignally focused on the possibility that they were sold into prostitution in the Czech Republic after being abducted by Dutroux.</p>
+<p>Belgian police said an officer had visited Bratislava to talk with Slovakian detectives about An and Eefje and other disappearances, and he planned to go also to Prague.</p>
+<p>The Czech office of Interpol said on Friday it would neither confirm nor deny that Dutroux had been in the Czech Republic, Slovakia's western neighbour and former federation partner.</p>
+<p>&quot;We held talks with a representative of Belgian police, located in Vienna, this week, on the case of two missing Belgian girls,&quot; Dusan Ivan, a Slovak national police spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12198" id="root" date="1996-08-23" xml:lang="en">
+<title>PHILIPPINES: Manila call loan rate slips on square positions.</title>
+<headline>Manila call loan rate slips on square positions.</headline>
+<dateline>MANILA 1996-08-23</dateline>
+<text>
+<p>------------------------ Aug 23 ---------------------------</p>
+<p>* Banks take profits on short-term bills</p>
+<p>-----------------------------------------------------------</p>
+<p>Philippine call loan rates fell to an average of 11.0625 percent on Friday from 11.71875 after banks squared off their positions, dealers said.</p>
+<p>Done rates were in the range of 12.125 percent and 10.5625, with volume down to 12.135 billion pesos from 26.125 billion.  </p>
+<p>Out of the 61 participating financial institutions, 35 were lenders.</p>
+<p>&quot;The market is gradually liquefying&quot; after the tightness experienced early in the week because most banks tied their funds in fixed income securities, a dealer said.</p>
+<p>She said banks were forced to take profits on their short-term bills to generate more liquidity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

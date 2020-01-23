@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7302" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: Taiwan eyes HK's China profits under new ship laws.</title>
+<headline>Taiwan eyes HK's China profits under new ship laws.</headline>
+<byline>George Hsu</byline>
+<dateline>TAIPEI 1996-08-21</dateline>
+<text>
+<p>A major Taiwan shipper, saying Beijing's new rules on direct Taiwan-China shipping would enable it to grab China shipping business away from Hong Kong, forged an alliance on Wednesday to do just that.</p>
+<p>Yang Ming Marine Corp said it signed a slot-exchange pact with Japan's Kawasaki Kisen and the mainland's China Ocean Shipping (Group) Co covering global container shipments, including those originating in China and Taiwan.</p>
+<p>Yang Ming said the alliance aimed to benefit from Chinese regulations, unveiled on Tuesday in Beijing, governing direct Taiwan-China shipping links -- even though such links are still technically banned by Taipei.</p>
+<p>China's rules allow ships from wholly Chinese-owned or Taiwan-owned shipping firms or joint ventures involving Chinese or Taiwan shipowners to sail between the two sides.</p>
+<p>&quot;All of Taiwan's major container shippers are gearing up to take a share in China's trade shipments,&quot; Yang Ming spokesman Richard Yu told Reuters by telephone.</p>
+<p>Yu said Beijing's new rules, coupled with Taiwan's excellent ports and container facilities, would enable the island to wrest China trade shipments away from Hong Kong.</p>
+<p>Yu sketched out a scenario in which Chinese shipments would cross the Taiwan strait to Taiwan for loading onto larger ships that China's ports cannot yet accommodate.</p>
+<p>&quot;Taiwan has deeper ports and better facilities that can handle larger container ships than China's,&quot; Yu said. &quot;Taiwan could become a transshipment centre for mainland trade.&quot;</p>
+<p>Hong Kong's container port, the world's busiest, has been the main conduit for cross-strait trade since a political thaw in the late 1980s made semi-direct business between China and Taiwan possible. China views Taiwan as a renegade province.</p>
+<p>Taipei, too, has been exploring ways to ease a 47-year-old ban on direct links without compromising the sovereignty of Taiwan's exiled Republic of China by recognising China's communist government -- an essential concern.</p>
+<p>Under a plan to set up &quot;offshore transshipment centres&quot; at major Taiwan ports, cargoes could be transshipped between China and third countries without passing through Taiwan customs. Taiwan cargoes could not be shipped from the centres to China.</p>
+<p>Taiwan says its ports can offer significant savings over Hong Kong for shipments between China and overseas markets due to high efficiency, closer proximity and quicker turnaround.</p>
+<p>&quot;Transshipments shipped directly through Taiwan would save 40 percent in costs than those shipped through Hong Kong,&quot; transport vice minister Mao Chi-kuo told reporters.</p>
+<p>What remains to be seen is whether Beijing and Taipei will both allow the evolving semi-direct shipping scheme to fly.</p>
+<p>Because China's rules lump Taiwan under &quot;domestic&quot; shipping, Taipei cannot allow Taiwan-flagged ships to participate. But Chinese- and Taiwan-owned vessels flying third-country flags should have a chance, Yang Ming's spokesman said.</p>
+<p>&quot;Taiwan's rules ban all direct shipping links across the strait except by ships with third-country flags,&quot; Yu said.</p>
+<p>Under another variation, parts shipped from China could be processed inside Taiwan's offshore transshipment zones for re-export to other countries without ever &quot;entering&quot; Taiwan.</p>
+<p>Taiwan has banned direct air and sea links with China since Chiang Kai-shek's Nationalists lost the civil war to the Chinese communists and took refuge on the island in 1949.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

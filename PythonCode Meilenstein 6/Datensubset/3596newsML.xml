@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3596" id="root" date="1996-08-20" xml:lang="en">
+<title>IRAN: Iran says $1.2bln Pakistan oil refinery deal signed.</title>
+<headline>Iran says $1.2bln Pakistan oil refinery deal signed.</headline>
+<dateline>TEHRAN 1996-08-20</dateline>
+<text>
+<p>Iranian state radio said on Tuesday Tehran had signed a $1.2 bln deal to build a joint 120,000 bpd oil refinery in Pakistan.  </p>
+<p>The radio said the two neighbours would invest jointly in the construction of the refinery in Pakistan's Balochistan Province.</p>
+<p>&quot;It has been estimated that the construction of this refinery will cost $1.2 billion, 75 percent of which will be met by international sources and the rest will be paid jointly by the two countries,&quot; the radio added without giving financing details.</p>
+<p>Iran's equity share in the project will be met by providing technical services and equipment for the refinery which will run on Iranian crude.  </p>
+<p>The radio said the deal was signed in Islamabad on Tuesday night by ministers from both states.</p>
+<p>The two Moslem nations also signed an agreement to conduct a feasability study for a proposed project to supply Pakistan and India with Iranian natural gas by pipeline. The project is estimated to cost around $3.5 billion, the radio added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

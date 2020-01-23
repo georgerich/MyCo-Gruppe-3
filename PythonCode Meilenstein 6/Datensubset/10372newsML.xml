@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10372" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Hong Kong shuts down Internet software pirate.</title>
+<headline>Hong Kong shuts down Internet software pirate.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>An international software lobby said on Friday it had forced the closure of a Hong Kong Internet site peddling illegally copied software, its first action in Asia against software piracy on the global computer network.</p>
+<p>The WorldWide Web site, called Sammy Game Center, offered illegal CD-ROM products for sale and export to the United States, the Netherlands, Sweden and Canada, the Business Software Alliance (BSA) said in a statement.</p>
+<p>&quot;Sammy Game Center was openly offering a wide range of illegal software products by mail order,&quot; BSA vice-president Valerie Colbourn said.</p>
+<p>The pirated goods included game, business, entertainment and multimedia software, the U.S.-based alliance said.</p>
+<p>The business and entertainment titles were found on CD-ROMs containing between 70-80 titles each, and the BSA valued the software at more than US$20,000 per disk.</p>
+<p>The operation was conducted in close cooperation with the Alliance Against CD-ROM Theft (AACT), which combats production, distribution and sale of pirated CD-ROMs in Asia.</p>
+<p>The owner of the Web site, Sammy Sam Ka-chi, acknowledged he was dealing in unauthorised software and signed an apology at the request of the two organisations.</p>
+<p>The Internet access providers involved, which BSA and AACT declined to identify, have removed the offending Web pages.</p>
+<p>The two watchdog groups also had asked the providers to terminate Sam's membership to prevent further infringement, but no agreement had yet been made, said Huey Tan at the Hong Kong office of Baker &amp; McKenzie, solicitors for BSA and AACT.</p>
+<p>There are worries in the United States that Hong Kong, an entrepot for China, is the spigot through which pirated CDs and CD-ROMs produced prolifically in China pour out into the world.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

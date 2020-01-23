@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6182" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Top 20 Australian Dividend Yields - Aug 22.</title>
+<headline>RTRS-Top 20 Australian Dividend Yields - Aug 22.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Twenty highest dividend yields for Australian companies included in the 320-share All Ordinaries Index based on closing prices on Wednesday.</p>
+<p>Dividends based on rolling 12 months.</p>
+<p>Yields are not grossed up for franking credits.</p>
+<p>				  Dividend</p>
+<p>Rank Name		     Yield    Close</p>
+<p> 1   Kalamazoo Hlds	 19.11    2.25</p>
+<p> 2   Central Norseman     14.06    0.96</p>
+<p> 3   Telecasters Nqld     13.59    5.15</p>
+<p> 4   Pac Mutal Aust	 12.61    2.38</p>
+<p> 5   Nth Building Soc     11.93    2.62</p>
+<p> 6   Multistack	     11.11    0.27</p>
+<p> 7   Kurts (P) Prop	 10.87    1.38</p>
+<p> 8   Prime Credit Tr	10.65    0.92</p>
+<p> 9   Prop Income Inv	10.53    0.97</p>
+<p>10   Indu Property	  10.34    0.88</p>
+<p>11   BT Prop Trust	  10.14    1.61</p>
+<p>12   Colonial Mutual	 9.98    1.06</p>
+<p>13   Gem Property Tr	 9.73    1.44</p>
+<p>14   OLS Asia Hldgs	  9.73    0.75</p>
+<p>15   Villa World	     9.52    1.05</p>
+<p>16   Blackmores Lab	  9.41    3.40</p>
+<p>17   Central Equity	  9.38    0.96</p>
+<p>18   Parbury Ltd	     9.38    0.48</p>
+<p>19   Gandel Retail Tr	9.18    0.85</p>
+<p>20   Armstrong Retail	8.90    0.73</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I32840">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

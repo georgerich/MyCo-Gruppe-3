@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8587" id="root" date="1996-08-22" xml:lang="en">
+<title>SWITZERLAND: SOCCER-SHARPSHOOTER KNUP BACK IN SWISS SQUAD.</title>
+<headline>SOCCER-SHARPSHOOTER KNUP BACK IN SWISS SQUAD.</headline>
+<dateline>GENEVA 1996-08-22</dateline>
+<text>
+<p>Galatasaray striker Adrian Knup, scorer of 26 goals in 45 internationals, has been recalled by Switzerland for the World Cup qualifier against Azerbaijan in Baku on August 31.</p>
+<p>Knup was overlooked by Artur Jorge for the European championship finals earlier this year.</p>
+<p>But new coach Rolf Fringer is clearly a Knup fan and included him in his 19-man squad on Thursday.</p>
+<p>Switzerland failed to progress beyond the opening group phase in Euro 96.</p>
+<p>Squad:</p>
+<p>Goalkeepers - Marco Pascolo (Cagliari), Pascal Zuberbuehler (Grasshoppers).</p>
+<p>Defenders - Stephane Henchoz (Hamburg), Marc Hottiger (Everton), Yvan Quentin (Sion), Ramon Vega (Cagliari) Raphael Wicky (Sion).</p>
+<p>Midfielders - Alexandre Comisetti (Grasshoppers), Antonio Esposito (Grasshoppers), Sebastien Fournier (Stuttgart), Christophe Ohrel (Lausanne), Patrick Sylvestre (Sion), David Sesa (Servette), Ciriaco Sforza (Inter Milan) Murat Yakin (Grasshoppers).</p>
+<p>Strikers - Kubilay Turkyilmaz (Grasshoppers), Adrian Knup (Galatasaray), Christophe Bonvin (Sion), Stephane Chapuisat (Borussia Dortmund).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AZERB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

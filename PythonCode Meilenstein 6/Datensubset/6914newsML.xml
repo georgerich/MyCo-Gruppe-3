@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6914" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Cannon Express sees 97 revs over $100 mln.</title>
+<headline>Cannon Express sees 97 revs over $100 mln.</headline>
+<dateline>SPRINGDALE, Ark. 1996-08-21</dateline>
+<text>
+<p>Cannon Express Inc said on Wednesday that it expects revenues for its fiscal year ending June 30, 1997 to be over $100 million.</p>
+<p>Cannon Express reported earning of $0.67 a share on revenues of $89.99 million in fiscal 1996, compared to $1.84 per share on revenues of $79.0 illion the year before.</p>
+<p>The company aid that it is encouraged by recent increased demand for the company's truckload transportation services.</p>
+<p>Cannon said that it believes that continued increased demand could have a positive impact on fiscal 1997 revenue, profitability and earnings.</p>
+<p>The company said that the cost of fuel is currently above historic levels, although down slightly from earlier in the 1996 calendar year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGDALE, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

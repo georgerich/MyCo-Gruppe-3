@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9382" id="root" date="1996-08-22" xml:lang="en">
+<title>CHINA: More books, less readers in China's bookstores.</title>
+<headline>More books, less readers in China's bookstores.</headline>
+<dateline>BEIJING 1996-08-22</dateline>
+<text>
+<p>The shelves of China's bookstores are piling up with stocks as publishers churn out more books for a shrinking readership, the Market Daily said on Thursday.</p>
+<p>The value of nationwide book inventories hit 8.139 billion yuan ($980.6 million) in the first five months of 1996, up 46.9 percent or 2.60 billion yuan from the same period last year, the newspaper said.</p>
+<p>It quoted one bookshop manager as blaming the stock pile-ups on indiscriminate publishing and falling demand caused by price hikes.</p>
+<p>Book prices, which official figures show have risen faster than those of any other single commodity in China in recent years, were now beyond the reach of many readers, the manager said.</p>
+<p>The newspaper said sales were relatively sluggish in March and April, usually the peak months for books sales, but it gave no figures. Year-on-year growth in turnover in May dropped to 15.5 percent from 30 percent in the same month last year.</p>
+<p>China sold 6.679 billion books last year, or an average of 5.5 volumes for each of its 1.2 billion people. Ten years ago the average was 5.93 books, state media said this month.</p>
+<p>China's illiteracy rate at the end of 1995 was 12.01 percent, meaning about 145 million Chinese cannot read or write.</p>
+<p>($1=8.33 yuan)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

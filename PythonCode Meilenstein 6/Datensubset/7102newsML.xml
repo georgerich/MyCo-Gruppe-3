@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7102" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: German trial of Algerians postponed.</title>
+<headline>German trial of Algerians postponed.</headline>
+<dateline>DUESSELDORF, Germany 1996-08-21</dateline>
+<text>
+<p>The gun-running trial of two sons of Algerian fundamentalist opposition leader Abassi Madani was put off on Wednesday because two interpreters did not turn up on time, court officials said.</p>
+<p>The trial was rescheduled to open on Thursday.</p>
+<p>Salim and Ikbal Abassi, aged 29 and 25, and two other Algerians, Nasr-Eddine Layachi Hemaz, 30, and Mahmoud Logbi, 25, are to go on trial on accusations of smuggling arms and explosives from Germany to anti-government forces in Algeria.</p>
+<p>The four Algerians, who all deny involvement, could face up to five years in prison if convicted on formal charges of belonging to an illegal organisation.</p>
+<p>They have been in custody for over a year since the authorities cracked down on Algerian fundamentalists using southern and western Germany as a base to support an armed conflict against Algeria's military rulers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUESSELDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

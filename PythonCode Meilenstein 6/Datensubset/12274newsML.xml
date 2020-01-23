@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12274" id="root" date="1996-08-23" xml:lang="en">
+<title>MALAYSIA: Malaysia Ekran awards contract to IMPSA.</title>
+<headline>Malaysia Ekran awards contract to IMPSA.</headline>
+<dateline>KUALA LUMPUR 1996-08-23</dateline>
+<text>
+<p>Argentine metal equipment and turbine maker IMPSA signed two agreements on Friday to supply equipment for Malaysia's giant Bakun dam project.</p>
+<p>Bakun dam builder Ekran Bhd awarded a contract to IMPSA Malaysia Sdn Bhd, a subsidiary of the state firm, to supply turbines, hydraulic equipment and other machinery for the 13.6 billion ringgit ($5.5 billion) dam in Malaysia's Borneo state of Sarawak.</p>
+<p>Ekran executive chairman Ting Pek Khiing declined to give an exact figure for the contract at the signing ceremony except to say it was a &quot;multi-million ringgit&quot; one.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

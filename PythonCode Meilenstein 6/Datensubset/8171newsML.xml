@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8171" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Aug 22.</title>
+<headline>PRESS DIGEST - Washington Post business - Aug 22.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The Washington Post carried the following business stories on August 22:</p>
+<p>---</p>
+<p>NEW YORK - The threat of new federal regulation and more lawsuits sent tobacco stocks down sharply.</p>
+<p>---</p>
+<p>WASHINGTON - Mayor Marion Barry's administration is trying to work out a tax deferment agreement with the Bureau of National Affairs Inc. to keep the newsletter publisher from moving to the suburbs.</p>
+<p>---</p>
+<p>WASHINGTON - Hechinger Co, the home improvement retailer based in Landover, reported a second-quarter profit of $12.2 million.</p>
+<p>---</p>
+<p>BUDAPEST - Hungary's largest fun park, beset by the country's socialist legacy and a new era, is for sale.</p>
+<p>---</p>
+<p>WASHINGTON - The International Trade Commission ruled that Japanese and German manufacturers violated trade laws by selling large printing presses to U.S. publishers at below-market prices.</p>
+<p>---</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

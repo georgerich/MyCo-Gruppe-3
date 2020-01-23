@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5194" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: FCC okays free TV time for presidential candidates.</title>
+<headline>FCC okays free TV time for presidential candidates.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The U.S. Federal Communications Commission gave television networks the green light on Wednesday to offer the major presidential candidates free air time during the fall general election.</p>
+<p>The agency ruled that proposals for free time made by Rupert Murdoch's Fox Network, ABC, and the Public Broadcasting Service did not violate the &quot;equal time&quot; provisions of federal communications law.  </p>
+<p>The FCC instead determined that the proposals represented &quot;on-the-spot coverage of 'bona fide' news events,&quot; and so are exempt from the requirement that TV stations give equal opportunity to all legally qualified candidates.</p>
+<p>Fox had been the first network to ask the agency for permission to provide free time to &quot;major&quot; candidates, without giving minor or fringe candidates the same opportunity.</p>
+<p>NBC, CBS and CNN also have offered to give the candidates free time. But all the plans differ in format.</p>
+<p>Both Republican nominee Bob Dole and President Bill Clinton have accepted a proposal from an independent coalition to give presidential canadidates free time. But the major networks so far have declined jointly to provide the uniform blocks of time that the plan envisions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

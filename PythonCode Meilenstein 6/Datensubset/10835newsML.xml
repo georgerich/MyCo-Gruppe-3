@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10835" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Dakota Mining in N.E. Nevada gold venture.</title>
+<headline>Dakota Mining in N.E. Nevada gold venture.</headline>
+<dateline>DENVER 1996-08-23</dateline>
+<text>
+<p>Dakota Mining Corp said on Friday that it and Neil &amp; Associates Inc had entered into an agreement to jointly explore for gold in northeastern Nevada.</p>
+<p>Dakota said it can maintain a 50 percent participating interest in the joint venture by paying $50,000 to Neil and funding 50 percent of all exploration expenditures.  </p>
+<p>Initially, Neil will manage all exploration activities, but Dakota may elect to assume managerial responsibility for subsequent development after having contributed $125,000 to the joint venture exploration account, Dakota said.</p>
+<p>The joint venture will investigate three prior-producing gold properties in northern Elko County that contain geochemical anomalies similar to the gold-antimony-tungsten deposits found in the Yellow Pine mining district of central Idaho.</p>
+<p>Work on the three prospects will consist of geochemical sampling, geological mapping and drill testing, for which the joint venture has agreed to spend $140,000 for the balance of 1996.</p>
+<p>In addition to exploring these targets, the venture will investigate other gold prospects with similar gold signatures within a 200 square mile surrounding area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

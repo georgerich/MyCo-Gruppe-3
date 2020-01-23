@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3058" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: Commonwealth denounces &quot;flawed&quot; Gambia poll plan.</title>
+<headline>Commonwealth denounces &quot;flawed&quot; Gambia poll plan.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>Rules drawn up for forthcoming elections in Gambia are obviously flawed and will result in the small west African country's military leaders strengthening their grip on power, the Commonwealth said on Tuesday.</p>
+<p>Gambia's military rulers last week lifted a two-year ban on all political activity but barred the country's three main parties and senior politicians who held office in former civilian administrations from contesting presidential elections on September 26 and parliamentary elections on December 11.</p>
+<p>A statement issued by Zimbabwean Foreign Minister Stan Mudenge, chairman of the eight-nation Commonwealth Ministerial Action Group (CMAG), said the curbs were of grave concern and would create an uneven political playing field.</p>
+<p>&quot;CMAG remains ready to continue to assist the transitional process but it clearly cannot be expected to endorse a process which is obviously flawed and which is likely to lead to the consolidation of military rule in another form,&quot; Mudenge said.</p>
+<p>&quot;I therefore appeal to the authorities in Banjul to rescind this blanket ban proscription in the interest of a credible and durable democracy in The Gambia,&quot; he added.</p>
+<p>CMAG was set up by Commonwealth heads of government at their last summit in New Zealand last November to deal with serious and persistent violation of the basic principles of the group, which links Britain to its former colonies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COMWH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GAMB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

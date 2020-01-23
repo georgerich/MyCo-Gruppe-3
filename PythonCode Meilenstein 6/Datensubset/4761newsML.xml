@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4761" id="root" date="1996-08-20" xml:lang="en">
+<title>SINGAPORE: India tenders for one million barrels Oct crude.</title>
+<headline>India tenders for one million barrels Oct crude.</headline>
+<dateline>SINGAPORE 1996-08-20</dateline>
+<text>
+<p>The Indian Oil Corp. (IOC) has tendered to buy one million barrels of crude oil for October, traders said on Tuesday.</p>
+<p>The tender closes August 29 and offers should be valid until August 30, they said.</p>
+<p>The tender covers a range of crude oil, including MidEast, Asian regional grades, North Sea and West African.</p>
+<p>For September, IOC bought three very large crude carriers (VLCC) of Nigerian Qua Iboe crude and five cargoes of Dubai crude.  </p>
+<p>Traders said West African crude might be difficult to work into the Indian tender for October given the widening spread of Brent/Dubai.</p>
+<p>Brent rallied in London on Monday with October gaining 30 cents to $20.85.</p>
+<p>The October Brent/Dubai was notionally talked in Asia on Tuesday at $1.90/$2.00 per barrel, out from $1.70/$1.90 on Monday.</p>
+<p>--Singapore Newsroom (+65 870 3081)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9954" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-National Australia appoints director.</title>
+<headline>RTRS-National Australia appoints director.</headline>
+<dateline>MELBOURNE 1996-08-22</dateline>
+<text>
+<p>National Australia Bank Ltd said it appointed Thomas Park to its board of directors.</p>
+<p>The bank said Park was the area director of Australia and New Zealand for Kraft Foods Inc and has been managing director of Kraft Foods Ltd since 1987.</p>
+<p>Kraft is a unit of Philip Morris Cos Inc.</p>
+<p>&quot;Mr Park's high level of international management experience makes him a valuable addition to our board of directors,&quot; NAB chairman Bill Irvine said in a statement.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

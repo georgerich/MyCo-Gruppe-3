@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3329" id="root" date="1996-08-20" xml:lang="en">
+<title>PERU: Peru first half oil trade deficit rises 14.7 pct.</title>
+<headline>Peru first half oil trade deficit rises 14.7 pct.</headline>
+<dateline>LIMA 1996-08-20</dateline>
+<text>
+<p>Peru's oil and derivatives trade deficit rose 14.7 percent in the first half of the year to $148 million, compared with same period last year, the Central Reserve Bank said Tuesday.</p>
+<p>In the first six months of the year, imports of oil and derivatives rose 37 percent to $334 million, while exports rose 63 percent to $186 million, compared with the same period in 1995.</p>
+<p>In June, the oil and derivatives deficit was $24 million, compared to $11 million in the same month last year.</p>
+<p>June's imports were $59 million, down 17 percent compared to the same month last year. The reduction was the result of a three percent increase in national oil production and a three percent reduction in demand for gasoline, the bank said.</p>
+<p>Meanwhile exports in June rose to $37 million from $28 million in the same month last year.</p>
+<p>Peru's oil deficit swelled 134 percent to $323.2 million in 1995 compared with $138 million the previous year, according to the Energy and Mines Ministry.</p>
+<p>-- Saul Hudson, Lima newsroom 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

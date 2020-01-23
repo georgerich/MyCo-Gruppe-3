@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8071" id="root" date="1996-08-22" xml:lang="en">
+<title>LEBANON: SOLIDERE shares mixed on market.</title>
+<headline>SOLIDERE shares mixed on market.</headline>
+<dateline>BEIRUT 1996-08-22</dateline>
+<text>
+<p>SOLIDERE shares were mixed on Thursday on increased turnover on the privately-operated Beirut Secondary Market (BSM).</p>
+<p>A shares -- distributed to former holders of property rights in the Beirut central district SOLIDERE is rebuilding -- closed at $104.625 slightly down from $104.750 on Wednesday.</p>
+<p>B shares -- issued in a $650-million subscription in January 1994 -- rose to $106.375 from $106.25 a day earlier.</p>
+<p>Turnover on BSM, which trades only SOLIDERE shares, was up to 8,757 shares from Wednesday's 7,162 and value was $918,288 from $753,464.</p>
+<p>On the official Beirut Stock Exchange, only 2,036 Ciments Libanais shares were traded at $1.1875 unchanged from Tuesday.</p>
+<p>There was no trade in any of the three other listed companies: Ciments Blancs, Eternit and Uniceramic.</p>
+<p>The BLOM Stock Index which covers both markets fell 0.03 percent to 902.76 and the LISPI index was 81.56, unchanged from a day earlier.</p>
+<p>--Beirut editorial (961 1) 864148 353078 861723</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

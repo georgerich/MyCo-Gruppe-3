@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8789" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Shared Technologies, Continental in pact.</title>
+<headline>Shared Technologies, Continental in pact.</headline>
+<dateline>WETHERSFIELD, Conn. 1996-08-22</dateline>
+<text>
+<p>Shared Technologies Cellular Inc said on Thursday it made a joint marketing agreement with Continental Airlines Inc so that transatlantic passengers may reserve a cellular phone.</p>
+<p>The company said it would ship cellular phones or deliver them personally to passengers traveling on the airline in the United Stated or abroad for no extra charge.</p>
+<p>The company said it would charge customers a flat rate of $1.95 per minute which includes long distance and roaming charges. To make an international call, customers would use their own calling card or the card provided by the company in the phone package, Shared Technologies said.</p>
+<p>No further details of the marketing pact were provided.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WETHERSFIELD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

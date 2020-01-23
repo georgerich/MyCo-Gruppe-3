@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11162" id="root" date="1996-08-23" xml:lang="en">
+<title>PANAMA: Panama police end drug money probe into campaign.</title>
+<headline>Panama police end drug money probe into campaign.</headline>
+<dateline>PANAMA CITY 1996-08-23</dateline>
+<text>
+<p>Panama's police drug unit said on Friday it was closing its investigation into how drug money entered the ruling party's 1994 electoral campaign after concluding there had been no impropriety.</p>
+<p>&quot;Everything was analysed, such as how they received the checks, and we arrived at the conclusion that there wasn't any illicit behaviour,&quot; Rosendo Miranda, head of Panama's Technical Police drug unit, told reporters.</p>
+<p>The scandal began after two checks for $51,000 each were contributed to President Ernesto Perez Balladares' campaign by accused Colombian drug lord Jose Castrillon Henao, currently held in a Panama City jail.</p>
+<p>The findings will now be sent to a circuit court judge for a final ruling.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

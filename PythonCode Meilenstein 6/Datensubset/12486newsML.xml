@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12486" id="root" date="1996-08-23" xml:lang="en">
+<title>SWEDEN: PRESS DIGEST - Sweden - Aug 23.</title>
+<headline>PRESS DIGEST - Sweden - Aug 23.</headline>
+<dateline>STOCKHOLM 1996-08-23</dateline>
+<text>
+<p>Following are some of the leading stories in the Swedish papers this morning. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>DAGENS NYHETER</p>
+<p>- Housing costs in Sweden are some of the highest in the world, a survey by Statistics Sweden showed. Swedes spend 32 percent of their income on housing compared to 23 percent in Germany.</p>
+<p>- The Swedish construction sector has been paralysed over the past five years, and the market is unlikely to improve in the near future.</p>
+<p>- Sweden's unemployment is higher than Denmark's for the first time in 25 years. Swedish jobless totalled 8.8 percent of the workforce in July, compared to 8.7 percent in Denmark.</p>
+<p>SVENSKA DAGBLADET</p>
+<p>- The Swedish trade union body LO is gearing up for battle as the government prepares to liberalise Sweden's labour laws in the autumn.</p>
+<p>DAGENS INDUSTRI</p>
+<p>- Swedish wage-earners have for decades watched their wage rises eroded by rising inflation. This year is different as Swedes in the private sector will see average wage rises of six percent while inflation consumer prices are only expected to rise by 1.5 percent.</p>
+<p>- Saab Aircraft is currently negotiating with several companies regarding the sale of its Saab 2000 commuter planes. Each plane has a price tag of $15 million.</p>
+<p>-- Paul de Bendern, Stockholm newsroom +46-8-700 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

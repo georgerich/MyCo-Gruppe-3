@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9267" id="root" date="1996-08-22" xml:lang="en">
+<title>MEXICO: Gas truck blast injures 30 in Mexico - radio.</title>
+<headline>Gas truck blast injures 30 in Mexico - radio.</headline>
+<dateline>MEXICO CITY 1996-08-22</dateline>
+<text>
+<p>About 30 people were injured on Thursday in an explosion on the highway linking Mexico City to the central city of Puebla, apparently caused by an accident involving a gas truck,  Radio Red said.</p>
+<p>The explosion took place about 50 miles (80 km) from the Mexican capital, the radio report said.</p>
+<p>Television news programme 24 Horas said a gas tanker carrying 10,600 gallons (40,000 litres) of propylene had exploded and one person had been killed.</p>
+<p>There was no immediate official comment on the reports.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

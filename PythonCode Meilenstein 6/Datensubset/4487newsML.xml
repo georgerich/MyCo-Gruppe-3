@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4487" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: STOCKS -- Closing stock market indices, Aug 19.</title>
+<headline>STOCKS -- Closing stock market indices, Aug 19.</headline>
+<dateline>LONDON 1996-08-19</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended on Monday.</p>
+<p>LONDON - Shares retreated from record levels, ending a quiet session modestly lower as investors took a chance to catch their breath after the market's recent surge. Shares edged to a new record high of 3,877.9 early on, before slipping back to end the day 9.2 points lower at 3,863.7.</p>
+<p>FRANKFURT - Blue chip shares, dominated by hopes for an imminent rate cut, held firm in bourse trading before declining slightly with weaker Bunds in late electronic dealing. The IBIS DAX index, which tracks all-day electronic dealings, ended down at 2,556.25. Earlier the DAX ended the floor session up 14.40 points at 2,562.76 points.</p>
+<p>PARIS - Shares finished firm but with reduced gains after bond markets gave up some of their earlier advances. One broker said the market was more active than last week but still fairly quiet. Operators are cautious ahead of the U.S. FOMC meeting on Tuesday and German M3 figures due this week. The CAC-40 index closed up 6.69 points or 0.34 percent at 1,986.21.</p>
+<p>ZURICH - Shares ended slightly weaker after yielding early gains on a lack of follow-through buying. The market was mainly centered on pharmaceuticals Sandoz and Ciba which plan to merge into Novartis. Switches into Ciba and Sandoz from Roche certificates and numerous recommendations were seen behind the rise. The all-share SPI ended 2.73 points lower at 2,349.08 points.</p>
+<p>TOKYO - The Nikkei average closed above 21,000 for the first time in two weeks, but overall, trade was light and lacking in energy with short-covering and small-lot buying boosting indices while investors stayed quiet. The 225-share Nikkei average ended up 272.41 points, or 1.31 percent, at 21,106.41.</p>
+<p>HONG KONG - Gains in the property sector lifted stocks to a higher close, with hopes of solid earnings from developers generating buying interest in an otherwise quiet session, analysts said. The Hang Seng index rose 37.50 points to close at 11,213.48.</p>
+<p>SYDNEY - The share market closed at its highs, extending early gains as players punted on a boost to financial markets from Tuesday's Federal budget. The All Ordinaries index jumped 28.2 points to close at 2,261.50.</p>
+<p>JOHANNESBURG - Industrial shares pared intraday gains to end steady as the rand took a knock in the afternoon while golds ended soft in sluggish trade, characterised by a dearth of institutional interest. The overall index lost 5.9 points to 6.521.5 points, the industrial index was 2.3 points higher at 7,738.8 points and the gold index slipped 3.6 points to 1,730.8 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

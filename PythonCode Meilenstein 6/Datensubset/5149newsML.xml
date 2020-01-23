@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5149" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Tokyo stocks jump in early morning trade.</title>
+<headline>Tokyo stocks jump in early morning trade.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Tokyo stocks jumped in early morning trade on Wednesday, inspired by the Dow and Chicago Nikkei 225 futures, which rose overnight after the U.S. Federal Reserve decided to keep interest rates at low levels, market sources said.</p>
+<p>At 0015 GMT, the key Nikkei 225 average was up 227.49 points, or 1.08 percent at 21,354.50 and its September futures were up 200 points at 21,380.</p>
+<p>&quot;Both Wall Street and Chicago ended on a positive tone so that should support the Nikkei average as well,&quot; said Osamu Yamazaki, director and general manager at New Japan Securities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

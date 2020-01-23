@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11092" id="root" date="1996-08-23" xml:lang="en">
+<title>CZECH REPUBLIC: Czech Zivno posts CZK 267.7 mln H1 net.</title>
+<headline>Czech Zivno posts CZK 267.7 mln H1 net.</headline>
+<dateline>PRAGUE 1996-08-23</dateline>
+<text>
+<p>Results for six-month period</p>
+<p>ending June 30, 1996: (in millions of crowns)</p>
+<p> after-tax profit	   267.74    vs    208.62</p>
+<p>Profit from financial</p>
+<p>  operations		   161.00    vs	 n/a</p>
+<p> Balance sheet total    33,266.13    vs    27,733.61</p>
+<p> Total client deposits  16,551.91    vs    15,177.53</p>
+<p> Total client loans     10,019.30    vs     7,764.45</p>
+<p> basic capital	     1,360.41    vs     1,360.41</p>
+<p>Note. Full name is Zivnostenska Banka a.s. German BHF-Bank holds a 46.8 percent stake in Zivnostenska Banka.</p>
+<p>-- Alan Crosby, Prague Newsroom,42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6093" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexico same-day Cetes rate falls on cash surplus.</title>
+<headline>Mexico same-day Cetes rate falls on cash surplus.</headline>
+<dateline>MEXICO CITY 1996-08-21</dateline>
+<text>
+<p>Mexico's same-day Cetes rate closed lower on the secondary money market on Wednesday, reversing initial rises when an excess of cash in the market bid up prices, dealers said.</p>
+<p>Same-day Cetes fell 40 basis points to 23.50 points, this after Tuesday's close was the lowest rate in 19 months.</p>
+<p>&quot;They (banks, financial institutions) had a lot of money and tried to speculate by selling off some paper to push rates up, but it didn't work and they had to cover their positions ...,&quot; one said. Rates on bank notes and acceptances fell 60 basis points to 25.40 percent, the lowest of the session.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

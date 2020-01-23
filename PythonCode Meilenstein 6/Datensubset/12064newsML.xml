@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12064" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: FORECAST- ATRIA H1 RESULT SEEN FALLING.</title>
+<headline>FORECAST- ATRIA H1 RESULT SEEN FALLING.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>A Reuters survey of six analysts</p>
+<p>covering Finnish equities showed a 29 million markka mean</p>
+<p>forecast for meat and meat products group Atria Oy's first-half</p>
+<p>profit before extraordinary items.</p>
+<p>	   Profit before extraordinary items	EPS*</p>
+<p>			 (FIM million)		    (FIM)</p>
+<p>  Mean		    29				1.89</p>
+<p>  Lowest		  21				1.20</p>
+<p>  Highest		 38				2.40</p>
+<p>  Median		  29				1.90</p>
+<p>* EPS forecasts from five of the six analysts polled.</p>
+<p>The results are due on Monday August 26 at 1000 local time</p>
+<p>(0700 GMT).</p>
+<p>In the corresponding period in 1995, Atria posted a 39</p>
+<p>million markka profit before extraordinaries.</p>
+<p>In February 1996, Atria CEO Seppo Paatelainen said the 1996</p>
+<p>profit outlook was uncertain.</p>
+<p>Five of the analysts polled by Reuters forecast Atria's</p>
+<p>full-year 1996 operating profit at 61 million markka on average</p>
+<p>(range 55-73 million).</p>
+<p>Atria's 1995 full-year profit before extraordinary items was</p>
+<p>67 million markka.</p>
+<p>Contributors to the survey were ABB Aros, Carnegie, Erik</p>
+<p>Selin, Evli, Merita, Opstock.</p>
+<p>-- Helsinki Newsroom +358-0-680 50 292</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

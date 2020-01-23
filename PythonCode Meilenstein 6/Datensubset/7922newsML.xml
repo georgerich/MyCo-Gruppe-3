@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7922" id="root" date="1996-08-22" xml:lang="en">
+<title>FINLAND: OKOBANK SAYS LIFE-INSURANCE GROWS STRONGLY.</title>
+<headline>OKOBANK SAYS LIFE-INSURANCE GROWS STRONGLY.</headline>
+<dateline>HELSINKI 1996-08-22</dateline>
+<text>
+<p>Finnish cooperative owned bank OKOBANK said in a statement on Thursday its life-insurance sales grew strongly and that it would increase its life-insurance company Aurum's capital by 50 million markka to 80 million.</p>
+<p>&quot;Due to rapid growth in sales and the balance sheet, Aurum's owner OKOBANK has decided to increase Aurum's operating capital,&quot; OKOBANK said.</p>
+<p>&quot;Growth of premium income has strengthened during the summer. Sales, which started in mid-December, have exceeded 370 million markka,&quot; it said.</p>
+<p>OKOBANK said it expected life-insurance sales to be very lively in the autumn.</p>
+<p>-- Helsinki newsroom +358-0-6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

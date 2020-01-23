@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3473" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Costello hopes Senate split boosts budget.</title>
+<headline>RTRS-Costello hopes Senate split boosts budget.</headline>
+<dateline>CANBERRA 1996-08-20</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said on Tuesday that he hoped the desertion of an opposition senator improved the chances of the budget passing through the upper house of parliament.</p>
+<p>&quot;I hope it improves it,&quot; Costello said when asked what implications the split had for the budget's chances in the Senate.</p>
+<p>Earlier, Senator Mal Colston quit the opposition Labor Party, issuing a statement that recognised the government's mandate to implement some new policies.  </p>
+<p>With Liberal-National government support, he was later voted deputy president of the Senate.</p>
+<p>The Liberal-Nationals are two votes short of a majority in the Senate.</p>
+<p>If Colston backs the government, which announced a deficit-slashing budget on Tuesday, then it might gain passage of contentious bills with just the support of the other Independent or, less probably, one of the two Greens senators.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

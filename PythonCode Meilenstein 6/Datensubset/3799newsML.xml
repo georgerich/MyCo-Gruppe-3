@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3799" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Margaux Hemingway death said to be suicide.</title>
+<headline>Margaux Hemingway death said to be suicide.</headline>
+<dateline>LOS ANGELES 1996-08-20</dateline>
+<text>
+<p>An autopsy on model and actress Margaux Hemingway found that the granddaughter of novelist Ernest Hemingway committed suicide by taking an overdose of a sedative, it was reported on Tuesday.</p>
+<p>KNBC television, Los Angeles flagship of the NBC network, said the coroner's office had determined that Hemingway, 41, whose body was found on July 1 in her Santa Monica apartment, had died of acute phenobarbital intoxication.</p>
+<p>She had a history of epilepsy but according to KNBC she did not have a prescription for the drug and investigators are trying to find out where she got enough of it to kill herself. A coroner's investigator declined to comment on the report.</p>
+<p>The actress, whose films included &quot;Lipstick,&quot; &quot;Killer Fish,&quot; &quot;They Call Me Bruce?&quot; &quot;Over the Brooklyn Bridge,&quot; and &quot;Inner Sanctum,&quot; had a well-publicised bout with alcoholism after a near-fatal skiing accident and also battled bulimia.</p>
+<p>Her agent, Graham Kaye, told KNBC, &quot;Whatever demons she was fighting is over now and ... it's just time to let her rest.&quot;</p>
+<p>Hemingway's body was cremated and services were held in July in her hometown of Ketchum, Idaho.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

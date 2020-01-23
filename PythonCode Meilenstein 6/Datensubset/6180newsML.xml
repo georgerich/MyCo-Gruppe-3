@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6180" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Highest/Lowest Australian P-E Ratios-Aug 22.</title>
+<headline>RTRS-Highest/Lowest Australian P-E Ratios-Aug 22.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Highest and lowest price earnings ratios for Australian companies included in the 320-company All Ordinaries Index based on closing prices on Wednesday. P/E based on rolling 12 months earnings.</p>
+<p>Highest 10</p>
+<p>Rank Name		     P/E    Close</p>
+<p> 1   Union Gold Mine	214.29   1.50</p>
+<p> 2   Gold Mines Aust	153.33   0.23</p>
+<p> 3   Golden Shamrock	145.07   1.03</p>
+<p> 4   Memtec		   127.49  36.50</p>
+<p> 5   Orion Rsc		102.33   1.76</p>
+<p> 6   National Food	   97.37   1.48</p>
+<p> 7   Great Central	   89.59   3.70</p>
+<p> 8   Pete Secu Aust	  75.48   5.45</p>
+<p> 9   Otter Gold		72.18   1.92</p>
+<p>10   Harris Scarfe	   70.59   1.20</p>
+<p>Lowest 10</p>
+<p> 1   Computer Power	   3.17   3.25</p>
+<p> 2   OLS Asia Hldgs	   5.37   0.75</p>
+<p> 3   Parbury Ltd		5.42   0.48</p>
+<p> 4   Country Road	     5.95   1.46</p>
+<p> 5   Walker Corp		5.99   0.49</p>
+<p> 6   Pac Mutal Aust	   6.66   2.38</p>
+<p> 7   David Jones		7.01   1.67</p>
+<p> 8   Galore Grp		 7.13   0.32</p>
+<p> 9   Capcount Prop	    7.59   0.83</p>
+<p>10   Central Equity	   7.68   0.96</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

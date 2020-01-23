@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3083" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: British burglar roasted during hospital break-in.</title>
+<headline>British burglar roasted during hospital break-in.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>A British burglar who decided to try for a quick tan after breaking into a hospital nearly roasted to death on a sunbed, a court heard on Tuesday.</p>
+<p>Owen Crowther, 18, suffered third degree burns on 90 percent of his body after just 15 seconds on the sunbed in Salisbury District Hospital in southern England.</p>
+<p>After being treated at another local hospital Crowther admitted the burglary.</p>
+<p>&quot;He's very lucky not to have killed himself with that machine,&quot; his lawyer Sarah Barnard told the court.</p>
+<p>&quot;He was under it for 15 seconds and 45 seconds causes death. He was in extreme pain when he was caught and in great distress.&quot;</p>
+<p>Salisbury magistrates, who were told the machine used to treat skin complaints was 60 times more powerful than a regular sunbed, ajourned the case after ordering Owens to undergo psychiatric tests.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

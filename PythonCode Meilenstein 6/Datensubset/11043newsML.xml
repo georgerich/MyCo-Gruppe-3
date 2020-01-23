@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11043" id="root" date="1996-08-23" xml:lang="en">
+<title>UKRAINE: Ukraine to issue T-bills on August 27.</title>
+<headline>Ukraine to issue T-bills on August 27.</headline>
+<dateline>KIEV 1996-08-23</dateline>
+<text>
+<p>Ukraine's central bank will auction three-month, six-month, nine-month and 12-month discount treasury bills on August 27, the head of the bank's capital markets and exchange department, Vitaly Migashko, told Reuters.</p>
+<p>The central bank is not setting the issue volume in advance. It last auctioned three-month treasury bills on August 22 and six- and nine-month bills on August 20.</p>
+<p>At the three-month T-bill auction, the bank sold 1.153 trillion karbovanets worth of paper, with an average annualised yield of 57.30 percent. The average price was 8.750 million karbovanets.</p>
+<p>On August 20, a sale of 79.37 billion karbovanets worth of paper averaged a yield of 59.90 percent. The average price was 7.700 million karbovanets.</p>
+<p>The 770 million karbovanets worth of nine-month paper sold at an average yield of 59.90 percent.</p>
+<p>On August 6, the 6.206 trillion karbovanets worth of 12-month discount T-bills sold with an average yield of 55.19 percent. The average price was 6.450 million karbovanets.</p>
+<p>--Irene Marushko, Kiev Newsroom +380 33 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

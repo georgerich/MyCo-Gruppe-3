@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8453" id="root" date="1996-08-22" xml:lang="en">
+<title>ITALY: FORECAST - Italy seen issuing 37 trln lire Bots.</title>
+<headline>FORECAST - Italy seen issuing 37 trln lire Bots.</headline>
+<dateline>MILAN 1996-08-22</dateline>
+<text>
+<p>The Italian Treasury is expected to offer a lower amount of short term bills (Bots) at its month end auction than that expiring, while analysts expect 2.5 trillion lire of zero coupon certificates (Ctzs) to be offered.</p>
+<p>Economists polled by Reuters forecast the Treasury will offer between 36.75 and 37.5 trillion lire of Bots, against 38.25 trillion expiring, when it details later today the sums for auction on August 27.</p>
+<p>The quantity of three-month Bots particularly is expected to be below the 12.25 trillion expiring.</p>
+<p>Yields are expected either to be stable or rise slightly given difficult market conditions and upward pressure on short term rates.</p>
+<p>Following are analysts' forecasts (in trillion lire):</p>
+<p>		   3 Month    6 Month   12 Month  Total Bot    Ctz</p>
+<p> Expiring	12.25	14.00	12.00	 38.25     n/a</p>
+<p> Banca Roma    12.00	13.50	12.00	 37.50    2.50</p>
+<p> BankAmerica   11.75	13.50	11.50	 36.75    2.50</p>
+<p> Caboto	  12.00	13.50	11.50	 37.00    2.50</p>
+<p> Chase	   11.50	13.50	12.50	 37.50    2.50</p>
+<p> BCI	     11.75	14.00	12.00	 37.75    2.50</p>
+<p> Indosuez	11.50	13.25	12.00	 36.75    2.50</p>
+<p> Prometeia     11.75	13.50	11.75	 37.00    4.50*</p>
+<p>NOTE: *Issue forecast for all of August, not just end of month auctions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

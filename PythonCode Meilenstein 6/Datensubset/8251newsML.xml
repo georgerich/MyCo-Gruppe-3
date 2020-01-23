@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8251" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Whittman-Hart 2 mln share offer underway.</title>
+<headline>Whittman-Hart 2 mln share offer underway.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>Whittman-Hart Corp said Thursday its public offering of two million common shares at $28.50 a share is underway.</p>
+<p>Of the shares being offered, 1,050,000 are being offered by Whittman-Hart and 950,000 are being offered by selling stockholders.</p>
+<p>The company's proceeds from this offering are expected to be used for general corporate purposes, including working capital, branch expansion and possible acquisitions of related businesses.</p>
+<p>Whittman-Hart provides information technology services to improve productivity.</p>
+<p>Underwriters are led by Donaldson, Lufkin &amp; Jenrette Securities Corp and Volpe, Welty &amp; Co.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

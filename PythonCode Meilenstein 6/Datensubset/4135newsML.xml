@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4135" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Talbots sales softened in last 2 wks of July.</title>
+<headline>Talbots sales softened in last 2 wks of July.</headline>
+<dateline>HINGHAM, Mass. 1996-08-20</dateline>
+<text>
+<p>Talbots Inc said on Tuesday there was &quot;unexpected&quot; softening of sales during the last two weeks of July.</p>
+<p>&quot;Had this softening occurred earlier in the quarter, we could have reacted further from the expense side to more fully protect earnings for the quarter,&quot; said Arnold Zetcher, chief executive officer, in a press release.</p>
+<p>Talbots said that while readings from its early fall catalog allow the company to remain &quot;hopeful&quot;, it continues to be cautious.</p>
+<p>Talbots reported earnings for the second quarter ended August 3 of $0.20 a share down from $0.24 a share the previous second quarter.</p>
+<p>Second quarter net sales were $232.1 million up from $226.9 million. Comparable store sales fell 4.9 percent.</p>
+<p>The company also said that it is on track to open 75 new stores by the end of fiscal 1996, for a total of 535 stores worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

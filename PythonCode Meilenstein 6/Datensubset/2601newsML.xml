@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2601" id="root" date="1996-08-20" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Kerry half-yr pre-tax profit up 21 pct.</title>
+<headline>Kerry half-yr pre-tax profit up 21 pct.</headline>
+<dateline>DUBLIN 1996-08-20</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>			   (million punts unless stated)</p>
+<p> Shr (p) after goodwill 10.6		   vs 8.8</p>
+<p> Dividend (pence)	 1.265		  vs 1.1</p>
+<p> Pretax profit	    19.97		  vs 16.50</p>
+<p> Turnover		   589.38		 vs 580.65</p>
+<p> Operating profit	 40.25		  vs 37.40</p>
+<p> Goodwill amortised     5.83		   vs 5.66</p>
+<p> Interest payable	 14.46		  vs 15.24</p>
+<p> Tax			  2.61 charge	  vs 2.08 charge</p>
+<p> Net taxed		  17.36		  vs 14.42</p>
+<p> Profit retained	  15.29		  vs 12.61</p>
+<p> Pay date		   Nov 25</p>
+<p>Div registration date  Nov 19 NOTE - Irish-based food company Kerry Group Plc said that net debt amounted to 372 million Irish pounds at June 30, 1996 and shareholders funds, including deferred income, were 345 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

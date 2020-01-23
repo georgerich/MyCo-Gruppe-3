@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4591" id="root" date="1996-08-20" xml:lang="en">
+<title>SINGAPORE: Acer computer 1st-half net up.</title>
+<headline>Acer computer 1st-half net up.</headline>
+<dateline>SINGAPORE 1996-08-20</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>	   (in millions of Singapore dollars unless stated)</p>
+<p>    Net profit			    14.69  vs  12.84</p>
+<p>    Group shr (cents)		    8.87  vs  10.39</p>
+<p>    Turnover			     511.04  vs 402.77</p>
+<p>    Operating profit		    16.97  vs  15.56</p>
+<p>    Interest (expense)		   2.24  vs   0.66</p>
+<p>    Depreciation			   1.50  vs   1.18</p>
+<p>    Amortization			   1.30  vs   1.28</p>
+<p>    Profits from associates	    7.26  vs   3.16</p>
+<p>    Pre-tax profit			16.97  vs  15.56</p>
+<p>    Tax					3.89  vs   2.69</p>
+<p>    Minorities		    (loss) 0.61  vs   0.07 (loss)</p>
+<p>    Extraordinaries	     (gain) 0.18  vs   0.44 (gain)</p>
+<p>Note - Acer Computer International Ltd is a unit of Taiwanese computer giant Acer Inc.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

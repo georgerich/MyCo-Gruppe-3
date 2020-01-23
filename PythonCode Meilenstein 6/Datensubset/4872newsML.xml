@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4872" id="root" date="1996-08-20" xml:lang="en">
+<title>FINLAND: Amer up on brisk overseas demand.</title>
+<headline>Amer up on brisk overseas demand.</headline>
+<dateline>HELSINKI 1996-08-20</dateline>
+<text>
+<p>Finnish sporting goods group Amer-yhtyma Oy gained on brisk overseas demand on Tuesday, brokers said, but could not give a specific reason for the rise.</p>
+<p>At 1215/0915 GMT, Amer traded at 104.50 markka, up 4.30 markka or more than four percent. Turnover was a lively 8.8 million markka.</p>
+<p>Amer rose sharply early in August partly on speculation it might sell its Wilson sporting goods unit. On August 5, the company announced it would streamline Wilson's operations in order to respond to the market conditions.</p>
+<p>-- Helsinki newsroom +358-0-6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

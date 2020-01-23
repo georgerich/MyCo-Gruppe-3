@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3020" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Cellex Biosciences Q3 June 30 loss narrows.</title>
+<headline>Cellex Biosciences Q3 June 30 loss narrows.</headline>
+<dateline>MINNEAPOLIS 1996-08-20</dateline>
+<text>
+<p>Third Quarter	     Nine Months</p>
+<p>		     1996		 1995	1996	  1995</p>
+<p>Operating Revenues</p>
+<p>	     $2,562,867	 $1,286,501 $10,732,538 $7,576,980</p>
+<p>Cost of Sales</p>
+<p>		 1,017,533	    776,904  6,535,395  4,616,423</p>
+<p>Operating Expenses</p>
+<p>		 2,291,627	  2,004,038  6,165,165  5,222,758</p>
+<p>Income (loss) from</p>
+<p>operations</p>
+<p>	   (746,293)	(1,494,441)  (1,968,022)  (2,262,201)</p>
+<p>Other Expense, Net</p>
+<p>		(94,973)	  (300,621)  (746,967)  (1,120,224)</p>
+<p> Net Loss   ( 841,266) ( 1,795,062) ( 2,714,989) ( 3,382,425)</p>
+<p>NET LOSS PER SHARE</p>
+<p>		   ( 0.20)	    ( 0.87)  ( 0.75)	( 1.69)</p>
+<p>Average Shares Outstanding</p>
+<p>		 4,538,130	  2,055,101  3,867,250  1,998,254</p>
+<p>		    Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

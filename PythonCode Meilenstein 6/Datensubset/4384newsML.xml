@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4384" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: Deutscher Herold details 1995 income.</title>
+<headline>Deutscher Herold details 1995 income.</headline>
+<text>
+<p>BONN, Aug 20, Reuter - Calendar 1995</p>
+<p>(in millions of marks unless otherwise stated)</p>
+<p>    Group premium income		4,300    vs   3,800</p>
+<p>	 Of which</p>
+<p>Herold Leben (life insurance)</p>
+<p>    Premium income			3,695    vs   3,329</p>
+<p>    Sums insured			 79,650    vs   73,630</p>
+<p>    New business			  1,146    vs   1,133</p>
+<p>    Returns on capital		  1,378    vs   1,184</p>
+<p>Herold Allgemeine (non-life)</p>
+<p>    Gross premiums			522.1    vs    505.5</p>
+<p>NOTE - Full name of the German insurer is Deutscher Herold, the insurance arm of Deutsche Bank AG. The company said that 1994 figures for life insurance business were calculated by adding numbers for Deutsche Bank's former separate life insurance business and Herold Leben's. Figures for 1995 were based on their merged operations.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9466" id="root" date="1996-08-22" xml:lang="en">
+<title>EGYPT: Egypt wants nothing to do with Sudanese rulers.</title>
+<headline>Egypt wants nothing to do with Sudanese rulers.</headline>
+<dateline>CAIRO 1996-08-22</dateline>
+<text>
+<p>The Egyptian government will have nothing more to do with the Sudanese government because it continues to shelter and support Egyptian militants, President Hosni Mubarak said in a speech on Thursday.</p>
+<p>Egypt says the Sudanese government helped the Moslem militants who tried to kill Mubarak in Addis Ababa last year.</p>
+<p>It sponsored last week's U.N. Security Council resolution threatening a ban on Sudanese flights abroad if Khartoum does not hand over three men accused in the Addis Ababa incident.</p>
+<p>The sanctions will come into effect in November if Sudan fails to extradite the men, but Sudan says it cannot hand them over to Ethiopia for trial because they are not in Sudan.</p>
+<p>&quot;We are still eager that nothing should affect the Sudanese people but we will not deal with the current regime or the Turabi front or whatever,&quot; Mubarak told a group of academics.</p>
+<p>Hassan al-Turabi is the leader of the National Islamic Front, the political force behind the Sudanese government.</p>
+<p>&quot;I don't want to go into more details than that but there are more details and they are bitter. There are terrorists they are sheltering and they make Sudanese passorts for them and they get paid by them,&quot; Mubarak said.</p>
+<p>He did not say if Egypt would go so far as to break relations, a step it has been reluctant to take, ostensibly because it would affect ordinary Sudanese.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10764" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Brown &amp; Sharpe files for 4.156 mln shares.</title>
+<headline>Brown &amp; Sharpe files for 4.156 mln shares.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>Brown &amp; Sharpe Manufacturing Co filed Friday in a Securities and Exchange Commission filing for up to 4.156 million Class A common shares.</p>
+<p>The North Kingston, Rhode Island-based company said that of the total, four million Class A common shares are being offered by the company and 156,000 Class A shares are being sold by stockholders.</p>
+<p>The net proceeds from the offering will be used to repay any outstanding debt and for working capital and general corporate purposes.</p>
+<p>The company said the offering will be made through Donaldson, Lufkin &amp; Jenrette Securities and CS First Boston.</p>
+<p>The underwriters have been granted an over-allotment option for up to 623,400 Class A common shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

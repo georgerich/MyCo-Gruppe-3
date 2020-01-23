@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3741" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: World market rice prices -- USDA.</title>
+<headline>World market rice prices -- USDA.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>The U.S. Agriculture Department reported the prevailing world market prices of milled rice, loan rate basis, effective from today as follows:</p>
+<p>-- Long grain whole kernels, 12.62 cts per lb, versus 12.62 cts a week earlier.</p>
+<p>-- Medium grain whole kernels, 12.60 cts, versus 12.60.</p>
+<p>-- Short grain whole kernels,  12.46 cts, versus 12.46.</p>
+<p>-- Broken kernels, 6.31 cts, versus 6.31 cts.  </p>
+<p>Based on these prices for milled rice, loan deficiency payment rates and gains from repaying price support loans at the world market price level are:</p>
+<p>    -- Long grain,   Nil per cwt versus Nil a week earlier.</p>
+<p>-- Medium grain, Nil per cwt versus Nil.</p>
+<p>-- Short grain,  Nil per cwt versus Nil.</p>
+<p>USDA said the prices are in effect until Aug. 27 at 1500 ET.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

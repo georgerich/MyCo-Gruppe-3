@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10420" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: German Ig Bau union says agreed new minimum wage.</title>
+<headline>German Ig Bau union says agreed new minimum wage.</headline>
+<dateline>FRANKFURT 1996-08-23</dateline>
+<text>
+<p>German construction union IG Bau said on Friday it had reached agreement with employers on a new minimum hourly wage of 17 marks in west Germany and 15.65 marks in the east.</p>
+<p>The union said it hoped the wage would apply from October 1, provided that the level is accepted as binding nationwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

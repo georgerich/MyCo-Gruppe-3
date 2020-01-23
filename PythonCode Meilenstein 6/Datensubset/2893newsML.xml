@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2893" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS/Lawsuits turn focus to tobacco.</title>
+<headline>U.S. OPTIONS FOCUS/Lawsuits turn focus to tobacco.</headline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>Two new lawsuits against tobacco companies helped drive options activity in Philip Morris Cos Inc on the American Stock Exchange, traders said on Tuesday.</p>
+<p>Earlier in the day, Kansas and Arizona each filed lawsuits against tobacco companies including Philip Morris and RJR Nabisco Holdings Corp's RJR Reynolds Tobacco</p>
+<p>&quot;There really is a lot of speculation going on with the new court cases out in the Midwest,&quot; said Andrew Schwarz, senior partner at AGS Specialist Partners. &quot;People are using a variety of strategies, both on the put and call side.&quot;  </p>
+<p>Despite the new lawsuits, Philip Morris shares were ahead 1-1/4 at 91-1/8 in afternoon trading.</p>
+<p>Schwarz said activity in Philip Morris and RJR Nabisco options included protective put buying, speculative call buying and call selling.</p>
+<p>&quot;Everybody has a different opinion&quot; on the outcome of the various lawsuits, and players were developing their options strategies based on their expectations, Schwarz said.</p>
+<p>Most action in Philip Morris options was on the put side, led by the September 80 put, with 2,123 contracts traded. With the underlying stock up, the option fell 3/16 to 3/4.  </p>
+<p>Other active Philip Morris puts included the September 90, with nearly 1,400 contracts traded, the September 85 with about 500 and the December 85 with nearly 400.</p>
+<p>Among the calls, the September 90 and 100 each traded more than 1,000 contracts and the September 95 traded nearly 1,000.</p>
+<p>Activity was relatively heavy right through the January 1997 series, with the January 90 call trading more than 400 contracts and the corresponding put trading about 260. The March 1997 100 call traded about 125 contracts.</p>
+<p>For RJR Nabisco, most options trading was on the call side but combined volume in the RJR October 25 put was 260.  </p>
+<p>In other trading, investors were actively buying puts on shares of Cyrix Corp.</p>
+<p>On the CBOE, the Cyrix September 15 put traded 533 contracts and the September 12-1/2 traded 314. The same two options traded 425 and 220 contracts, respectively, on the American Stock Exchange.</p>
+<p>On the Pacific Stock Exchange, the Cyrix September 15 put traded 260 contracts and the September 12-1/2 traded 105. Call volume on Cyrix was minimal.</p>
+<p>&quot;It looks to me like just a straight downward bet,&quot; said Harrison Roth, a first vice president at Cowen &amp; Co. Cyrix shares were off 5/16 at 14-1/4 Tuesday afternoon.  </p>
+<p>Call options on shares of healthcare information company Medaphis Corp remained relatively active, nearly a week after the stock lost 60 percent of its value.</p>
+<p>Combined volume was 753 on the Medaphis September 15 call, 150 on the September 12-1/2 and 190 on the September 20 call.</p>
+<p>Put volume was nominal.</p>
+<p>Schwarz at AGS Specialist Partners said many investors had speculated the stock would rebound after its collapse, but that some who bought the calls when they were listed last Thursday had already sold off their holdings. -Gregory Crawford, 312 408-8750/E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

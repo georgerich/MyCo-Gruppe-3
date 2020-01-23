@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5075" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-News says UK papers profits up 10 pct.</title>
+<headline>RTRS-News says UK papers profits up 10 pct.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>News Corp Ltd said operating profits from its UK newspapers were up 10 percent year on year for the 12 months to June 30, due to higher cover prices and advertising volumes, which offset increased newsprint prices.</p>
+<p>News Corp said advertising revenues for the group rose seven percent year on year. At its broadsheet paper 'The Times', daily circulation has grown by more than 91 percent to over 700,000 since it first cut the paper's cover price in August 1993.</p>
+<p>It said the rise in circulation at The Times, helped boost advertising at the paper, which grew by more than 20 percent year on year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

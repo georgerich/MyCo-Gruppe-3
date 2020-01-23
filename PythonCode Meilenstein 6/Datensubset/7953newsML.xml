@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7953" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>COAL - Cape Australia - 140,000 tonnes coal Hay Point/Rotterdam plus Hansaport $9.55 fio 50,000/20,000 shinc BHP.</p>
+<p>Esplanade - 120,000 tonnes coal Hampton Roads/Ijmuiden mid Seeptember $5.35 level six days shinc Hoogovens.</p>
+<p>ORE - Folegandros - 125,000 tonnes ore Tuburao/Rotterda 10-20/9 $5.50 fio six days shinc Rohstoffhandel.</p>
+<p>Fixtures reported from New York on Wednesday.</p>
+<p>COAL - Docecape 110,000/10 tonnes coal Baltimore/Money Point 15-30/9 $5.70 four days/25,000 shinc Cetragpa.  </p>
+<p>TBN 60,000/10 tonnes coal no range op USG/Jorf Lasfar Nov-Apr $6.90 op $7.75 30,000/12,000 shinc eight-ten cargoes Glencore.</p>
+<p>Ocean Cherry 55,000/10 tonnes petroleum coke Long Beach/AntRottAmsterdam 1-10/9 $9.25 five days shinc Koch.</p>
+<p>TBN 65,000/10 tonnes coal Hay Point/Oxelosund and Lulea 12-27/9 $12.00 35,000 shinc/10,000 shex BHP.</p>
+<p>ORE - TBN 110,000/10 tonnes iron ore Tubarao/Kaohsiung 5-15/10 $9.20 40,000/38,000 CSC.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2885" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Southern Union sues to block merger.</title>
+<headline>Southern Union sues to block merger.</headline>
+<dateline>AUSTIN, Texas 1996-08-20</dateline>
+<text>
+<p>Southern Union Co said on Tuesday it has filed a lawsuit to block a merger between United Cities Gas Co and Atmos Energy Corp.</p>
+<p>Southern Union said it alleges that United Cities executives and directors failed to perform their fiduciary duties by approving the proposed deal with Atmos.  </p>
+<p>Southern Union, which holds 854,300 shares, or 6.5 percent, of United Cities, is seeking to block the deal until the United Cities board exercises its fiduciary duties. Southern Union wants United Cities to provide confidential information so it can make an informed takeover offer.</p>
+<p>Atmos Energy and United Cities Gas, both natural gas providers, agreed last month that Atmos would acquire United Cities in a stock swap.</p>
+<p>Atmos Energy declined to comment since it had not seen the lawsuit filed in the U.S. District Court for the Middle District of Tennessee. United Cities was not immediately available for comment.</p>
+<p>Atmos and United Cities filed a complaint with the Missouri Public Service Commission on August 6, 1996 alleging that Southern Union's purchases of United Cities shares violated state utility regulations. Southern Union said it filed a counter complaint saying it was entitled to the usual privileges of ownership associated with United Cities stock.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

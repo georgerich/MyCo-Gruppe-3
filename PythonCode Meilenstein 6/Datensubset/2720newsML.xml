@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2720" id="root" date="1996-08-20" xml:lang="en">
+<title>FINLAND: OKOBANK SEES WEAKER H2, FULL-YEAR PROFIT.</title>
+<headline>OKOBANK SEES WEAKER H2, FULL-YEAR PROFIT.</headline>
+<dateline>HELSINKI 1996-08-20</dateline>
+<text>
+<p>Finnish OKOBANK said on Tuesday it expected its second half profit to be weaker than in the first half due to significant non-recurring items in January-June and that for the full-year, it would have a profit.  </p>
+<p>&quot;The better-than-anticipated performance in the first part of the year was mainly due to the inclusion in the net operating profit figure of significant non-recurring gains on the sale of assets, commission income as well as income due to the change in valuation and accounting entry principles,&quot; it said.</p>
+<p>&quot;The earnings trend in the latter part of the year is thus estimated to be weaker than in the first part. The net operating result for the entire year is estimated to be in the black,&quot; it said.  </p>
+<p>In the second half of this year, the general economic trend and the stability of interest rates would have the biggest impact on the profit level, OKOBANK said.</p>
+<p>-- Helsinki newsroom +358-0-6805 0245</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

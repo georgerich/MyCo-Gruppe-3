@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8285" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Fluor Daniel GTI Inc Q1 shr nil.</title>
+<headline>Fluor Daniel GTI Inc Q1 shr nil.</headline>
+<dateline>NORWOOD, Mass. 1996-08-22</dateline>
+<text>
+<p>Quarter Ended		   Jul 31, 1996	Jul 31, 1995(A)</p>
+<p> Revenue				 $42,056		   $8,397</p>
+<p> Gross profit			    9,388		    2,112</p>
+<p> Selling, general and admin exp  (9,561)		  (1,682)</p>
+<p> License and other income		 37			  0</p>
+<p>Income before investment</p>
+<p>    and other income		   (136)			430</p>
+<p> Investment and other income, net    159			  0</p>
+<p>Income before provision for</p>
+<p>    income taxes			    23			430</p>
+<p> Provision for income taxes		0			168</p>
+<p> Net income				   23			262</p>
+<p> Earnings per common share	    0.00			N/A</p>
+<p> Shrs					8,229			  0</p>
+<p>			(In thousands, except per share amounts)</p>
+<p>NOTE: (A) Reflects historical results of predecessor Fluor Daniel Environmental Services Inc. Pro forma results for the period, presented as though the merger of FDESI and Groundwater Technology had occurred at the beginning of the quarter, were net income of approximately $646,000 on gross revenues of approximately $52,000,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWOOD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

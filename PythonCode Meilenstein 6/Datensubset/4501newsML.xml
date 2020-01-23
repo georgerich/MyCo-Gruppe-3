@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4501" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS - No need to cut superannuation money - Costello.</title>
+<headline>RTRS - No need to cut superannuation money - Costello.</headline>
+<dateline>CANBERRA 1996-08-20</dateline>
+<text>
+<p>Australian Treasurer Peter Costello said on Tuesday the government would review how to contribute money to employee's retirement savings (superannuation) but did not need to cut the money to achieve his fiscal plans.</p>
+<p>&quot;We don't need to save any money from the budget,&quot; he said, when asked whether his changes would save money. &quot;It (the programme) is fully funded and we have the budget back into a surplus by then anyway.&quot;  </p>
+<p>But the government was not convinced that the programme as currently planned -- a public contibution equal to three percent of each employee's earnings -- was the best way to pay it.</p>
+<p>An announcement would be made later in the year.</p>
+<p>The 1996/97 budget papers, issued on Tuesday, show the programme costing A$1.1 billion in 1998/99 and A$2.4 billion in the following year.</p>
+<p>Carrying the burden of those payments, the budget is expected to move into underlying surplus -- that is, without asset sales -- in 1998/99.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

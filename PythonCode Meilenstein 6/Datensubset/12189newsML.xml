@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12189" id="root" date="1996-08-23" xml:lang="en">
+<title>NEW ZEALAND: NZ electricity group recommends short-selling.</title>
+<headline>NZ electricity group recommends short-selling.</headline>
+<dateline>WELLINGTON 1996-08-23</dateline>
+<text>
+<p>A working group looking at the rules governing New Zealand's wholesale electricity market has recommended changes that would allow short and long selling, market operator EMCO's chief executive Lincoln Gould said on Friday.</p>
+<p>After a day-long meeting on Thursday the despatch rules working group rejected proposals from some market participants that the rules covering the day ahead (ex-ante) market should be the same as those covering the ex-post market, Gould said.  </p>
+<p>It had also decided against recommending a proposal to change the current &quot;dynamic nodal pricing structure&quot; to fixed location factors for one year.</p>
+<p>&quot;But it did recommend to the rules committee that we allow for short selling by purchasers and long selling by generators in the ex-ante market,&quot; Gould told Reuters.</p>
+<p>There would also be a number of smaller technical changes recommended, Gould said.</p>
+<p>The recommendations go to the rules committee and, if approved, to a vote of market participants.  </p>
+<p>Gould said the changes may not be in place in time for the October 1 launch of the market, because the computer software may not be ready.</p>
+<p>He said the calls for changes to the ex-ante market &quot;were not so much a concern about the compulsory nature of the market but concern about market participants' ability to manage risk&quot;.</p>
+<p>Under the existing rules, participation in the ex-ante market is voluntary.</p>
+<p>He said national grid operator Transpower was developing risk products and other market players were also looking at such products, so the issue of hedging was being addressed.  </p>
+<p>Liquidity in the ex-ante market, which was also a concern to some market players, would be enhanced by allowing short selling, Gould said. -- Wellington newsroom 64 4 473-4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

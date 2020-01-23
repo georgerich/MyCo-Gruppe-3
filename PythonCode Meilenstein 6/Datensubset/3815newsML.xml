@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3815" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: PG&amp;E Diablo Canyon still at reduced power.</title>
+<headline>PG&amp;E Diablo Canyon still at reduced power.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Pacific Gas and Electric Co's (PG&amp;E) Diablo Canyon nuclear power units were still operating at reduced capacity while a wildfire continued to burn in the nearby Los Padres national forest, the company said Tuesday.</p>
+<p>The company said both Diablo Canyon units, with combined capacity of 2,160 megawatt (MW), were at 75 percent power.</p>
+<p>As a precautionary measure, PG&amp;E on Monday shifted all transmission from Diablo Canyon to just one power line after shutting two other lines that were closest to the blaze.</p>
+<p>Diablo Canyon is at Avila Beach on the California coast.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

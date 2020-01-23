@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10421" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: German shares open bourse steady after rate cut.</title>
+<headline>German shares open bourse steady after rate cut.</headline>
+<dateline>FRANKFURT 1996-08-23</dateline>
+<text>
+<p>German shares opened bourse trade on Friday slightly higher, with sentiment boosted by the Bundesbank's decision to cut the securities repurchase, or repo, rate on Thursday.</p>
+<p>In early bourse trade the DAX index, which measures floor trade in 30 blue-chip shares, was up 3.64 points, or 0.14 percent, at 2,560.90 points.</p>
+<p>The Dow Jones index of U.S. industrial shares closed up 43.65 points, or 0.77 percent, at 5,733.47 points overnight, which helped underpin sentiment in early trade.</p>
+<p>&quot;I think after the rate cut on Thursday we are going to go higher, and that we will stabilise at the higher levels. Sentiment is definitely warmer after the repo cut,&quot; said on Frankfurt trader.</p>
+<p>&quot;We're not really going to see any kind of trend until Monday,&quot; said the trader, adding that market players would use the interim period for breathing space.</p>
+<p>Chemical shares were among the main winners on the DAX in early bourse trade, especially BASF AG which was up 74 pfennigs at 43.87 marks.</p>
+<p>BASF was boosted by a 14.7 percent rise in first-half profits which it reported on Thursday and dealers said an analysts' meeting on Thursday also buoyed the share.</p>
+<p>Positve sentiment on BASF lifted other chemical stocks, including Hoechst AG, up 25 pfennigs at 51.25 marks, Bayer AG, up 38 pfennigs at 53.33 marks, and Degussa AG, up 2.50 marks at 507 marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7026" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: High-tech companies set up $100 mln Java fund.</title>
+<headline>High-tech companies set up $100 mln Java fund.</headline>
+<dateline>MENLO PARK, Calif. 1996-08-21</dateline>
+<text>
+<p>Venture capital firm Kleiner Perkins Caufield &amp; Byers said on Wednesday it had closed the KPCB Java Fund, a $100 million venture capital fund focused on Java technology-based companies and related Internet, intranet, networking and communications companies.</p>
+<p>In a statement, KPCB said corporate partners of the fund include industry leaders in internetworking, personal computers, enterprise computing, Internet software, database software, and communications.  </p>
+<p>The companies are Cisco Systems Inc, Comcast Corp, Compaq Computer Corp, International Business Machines Corp, Japan's Itochu Corp Netscape Communications Corp, Oracle Corp, Sun Microsystems Inc, Tele-Communications Inc and U S West Media Group.</p>
+<p>Developed by Sun Microsystems, Java is an open platform technology that enables distributed applications, interactivity, security, and platform independence over the Internet as well as intranets. Forty-seven corporations have licensed the technology.</p>
+<p>The initial investments in the Java Fund are Active Software, Calico Technology, and Marimba.  Active Software, founded in 1995, is a privately held company focused on extending information systems to the Web.</p>
+<p>Calico Technology is a provider of interactive, enterprise configuration products.  Marimba provides technologies for developing and deploying network-aware Java applications.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

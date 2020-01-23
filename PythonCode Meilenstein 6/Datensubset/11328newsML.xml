@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11328" id="root" date="1996-08-23" xml:lang="en">
+<title>CHINA: Shanghai T-bill repo rates end down, spots mixed.</title>
+<headline>Shanghai T-bill repo rates end down, spots mixed.</headline>
+<dateline>SHANGHAI 1996-08-23</dateline>
+<text>
+<p>Contracts on the treasury bill repurchase market in Shanghai closed mostly down on Friday after the People's Bank of China, the central bank, cut bank interest rates as from today, traders said.</p>
+<p>The annual rate for the three-day contract closed down at 3.18 percent from 10.91 percent on Thursday but the most active seven-day contract ended slightly up at 9.05 percent from 9.00.</p>
+<p>Combined volume fell to 5.48 million lots from 11.57 million. One lot is 1,000 yuan face value of treasury bills.</p>
+<p>Traders said the rise of the most active contract was due to more new domestic share issues next week.  </p>
+<p>Contracts on the T-bill spot market in Shanghai ended mixed, with three down and four up.</p>
+<p>Combined volume of the seven-contract market plunged to 5.69 million lots from 16.375 million.</p>
+<p>The most active 10-year bond that matures in June 2006 fell to 124.25 yuan from 124.59 yuan.</p>
+<p>Traders said the contracts did not rise today despite the bank interest rate cut because rumours of the cut had been circulating on the market for a few days and had already been digested.</p>
+<p>-- Shanghai newsroom (86-21) 6279-7004</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

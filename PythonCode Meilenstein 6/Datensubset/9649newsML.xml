@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9649" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: DEP Corp gets lender approval on reorg.</title>
+<headline>DEP Corp gets lender approval on reorg.</headline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>DEP Corp said Thursday it has reached an agreement with its lender group and unsecured creditors on an amended plan of reorganization.</p>
+<p>DEP said it hopes to emerge from Chapter 11 bankruptcy protection by the end of October.</p>
+<p>The plan includes;</p>
+<p>--A $62 million six-year loan at an interest rate of two percentage points over Prime to be arranged by Foothill Capital Corp.</p>
+<p>--Lenders will receive $150,000 in cash in satisfaction of certain post-petition interest claims and 542,488 shares of DEP common stock plus warrants to buy another 330,050 shares. The company has 6,251,140 common shares outstanding.</p>
+<p>-- DEP will reclassify all of its existing common stock and new stock as one class of voting stock so all common shares have identical voting rights.</p>
+<p>--DEP will assume up to $1.1 million in post-petition professional fees and expenses incurred by the lenders, less payments made during the case.</p>
+<p>-- Unsecured creditors will be paid, with five percent interest, over 18 months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

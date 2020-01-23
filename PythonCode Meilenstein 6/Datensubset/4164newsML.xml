@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4164" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Republican whip predicts 1996 party sweep.</title>
+<headline>Republican whip predicts 1996 party sweep.</headline>
+<dateline>ANCHORAGE, Alaska 1996-08-19</dateline>
+<text>
+<p>House Majority Whip Tom DeLay Monday predicted a Republican sweep in November's election and an expansion of the &quot;Republican Revolution&quot; that resulted in the party's 1994 takeover of Congress.</p>
+<p>&quot;Worst case scenario, we'll pick up 10 seats and probably pick up 20 seats,&quot; DeLay told an afternoon news conference. &quot;If Bob Dole is elected president, with a nice margin, we could pick up 30 seats from the West and from the South.&quot;</p>
+<p>The Texas congressman, in Anchorage to campaign for Rep. Don Young, chairman of the House Resources Committee, cited previous Republican come-from-behind victories.</p>
+<p>&quot;I remind people that in 1992 we were behind 14 points and we gained 10 seats. In 1994 we were behind 10 points and we took the House of Representatives and the Senate. Now we're at dead even, so we're in great shape,&quot; he said.</p>
+<p>He also promised a second version of the Republicans' 1994 &quot;Contract With America.&quot;</p>
+<p>&quot;We're going to come back to the American people and remind them that Contract Number Two will include those things that this president vetoed in Number One, and hopefully they get a president who will sign them,&quot; he said.</p>
+<p>Delay, who once in a floor speech referred to the Environmental Protection Agency as the &quot;Gestapo,&quot; defended the Republicans' environmental record against recent attacks. &quot;The environmentalists issue is the most indicative issue of how commercials are being bought lying about what we did,&quot; he said.</p>
+<p>The majority whip said Republican presidential nominee Bob Dole was committed to opening the Arctic National Wildlife Refuge (ANWR) to oil drilling, a project cherished by Alaska's all-Republican congressional delegation.</p>
+<p>Young, Alaska's at-large House member, condemned President Clinton for blocking oil development in the wildlife refuge.</p>
+<p>&quot;This president, with Al Gore, is not ever going to open ANWR, and that's why we have to get rid of them,&quot; Young said.</p>
+<p>The oil industry has said the wildlife refuge could contain an oil bonanza, but environmentalists have said the area was too fragile for industrial development.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANCHORAGE, Alaska"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

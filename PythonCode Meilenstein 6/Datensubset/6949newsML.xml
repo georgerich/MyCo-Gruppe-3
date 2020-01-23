@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6949" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Mac Frugal's Q2 shr $0.12 vs $0.13.</title>
+<headline>Mac Frugal's Q2 shr $0.12 vs $0.13.</headline>
+<dateline>DOMINGUEZ, Calif. 1996-08-21</dateline>
+<text>
+<p>Amounts in thousands except per share amounts</p>
+<p>	   For the three months ended  For the six months ended</p>
+<p>		    Jul 28,	 Jul 30,     Jul 28,     Jul 30,</p>
+<p>			 1996	    1995	  1996	  1995</p>
+<p> NET SALES     $157,952	$146,754    $317,084    $301,004</p>
+<p>OPERATING INCOME</p>
+<p>			6,443	   8,825	13,829	16,535</p>
+<p> NET EARNINGS     3,013	   3,290	 6,525	 6,605</p>
+<p>EARNINGS PER</p>
+<p>   COMMON SHARE    0.12	    0.13	  0.25	  0.26</p>
+<p>AVERAGE SHARES</p>
+<p>   OUTSTANDING   25,721	  25,833	25,707	25,778</p>
+<p>Note: Company's full name is Mac Frugal's Bargains Closeouts inc.</p>
+<p>-- New York Newsroom (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOMINGUEZ, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

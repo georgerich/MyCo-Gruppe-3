@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7042" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: National Steel names Osamu Sawaragi CEO.</title>
+<headline>National Steel names Osamu Sawaragi CEO.</headline>
+<dateline>MISHAWAKA, Indiana 1996-08-20</dateline>
+<text>
+<p>National Steel Corp said on Tuesday its board of directors had named chairman Osamu Sawaragi chief executive.</p>
+<p>He replaces V. John Goodwin, who resigned as chief executive, president and chief operating officer. Goodwin will remain as a consultant during the transition.</p>
+<p>John Maczuzak, the vice president and general manager of the Granite City division, has been appointed executive vice president and acting chief operating officer.</p>
+<p>National is the United States' fourth-largest integrated steel company. Its parent company is Japan's NKK Corp.</p>
+<p>Sawaragi has been a director since 1990 and was elected chairman in January 1994.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MISHAWAKA, Indiana"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

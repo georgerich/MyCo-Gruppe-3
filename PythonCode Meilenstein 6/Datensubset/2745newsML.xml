@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2745" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: Tarragon Q2 net up slightly.</title>
+<headline>Tarragon Q2 net up slightly.</headline>
+<dateline>CALGARY 1996-08-20</dateline>
+<text>
+<p>Period ending June 30.</p>
+<p>			     1996			  1995</p>
+<p> Shr			 C$0.10		   C$0.09</p>
+<p> Net			  4,987		    3,568</p>
+<p> Cash flow/shr	     0.48		     0.45</p>
+<p> Revs			43,965		   37,253</p>
+<p>		MONTHS</p>
+<p> Shr			 C$0.26		   C$0.16</p>
+<p> Net			 11,598		    6,258</p>
+<p> Cash flow/shr	     1.05		     0.92</p>
+<p> Revs			86,792		   74,045</p>
+<p> Avg shrs		  45,090		   40,081</p>
+<p>		  (All data above 000s except per share numbers)</p>
+<p>Note: Full name is Tarragon Oil and Gas Ltd.</p>
+<p>	 -- Reuters Toronto bureau 416-941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

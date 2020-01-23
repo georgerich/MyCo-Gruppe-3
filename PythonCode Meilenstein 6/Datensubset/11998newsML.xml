@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11998" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: Paris airports cargo imports traffic up 1.8 percent.</title>
+<headline>Paris airports cargo imports traffic up 1.8 percent.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>July 1996 import traffic to the Paris airports, Charles de Gaulle and Orly, totalled 41,479 tonnes, an increase of 1.8 percent on the same month last year, Aeroports de Paris, (ADP) figures show.</p>
+<p>North America, the ADP's  major import route, tabled a decrease of 2.6 percent on July 1995 to 14,121 tonnes in contrast to shipments from the Far East which increased by 11.2 percent to 10,164 tonnes.</p>
+<p>European shipments to CDG and Orly rose by 15.3 percent on the same month last year to 5,401 tonnes while imports from sub-Saharan Africa also tabled double-digit growth increasing by 13.6 percent to 3,943 tonnes.</p>
+<p>Global import traffic to the ADP in July 1996, by region, with percentage change on July 1995 were as follows:</p>
+<p> Domestic		 2,557 tonnes    down   9.7 pct</p>
+<p> European Union	 5,401 tonnes    up    15.3</p>
+<p> Non-EU Europe	  1,009 tonnes    down   0.1</p>
+<p> North Africa	     490 tonnes    down  29.3</p>
+<p> Sub-Saharan Africa   3,943 tonnes    up    13.6</p>
+<p> North America	 14,121 tonnes    down   2.6</p>
+<p> French territories     999 tonnes    up     5.5</p>
+<p> Latin America	    976  tonnes   down  27.5</p>
+<p> Middle East	    1,819 tonnes    down  14.4</p>
+<p> Far East		10,164 tonnes    up    11.2</p>
+<p> Total		   41,479 tonnes    up     1.8</p>
+<p>-- Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

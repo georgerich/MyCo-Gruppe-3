@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7359" id="root" date="1996-08-21" xml:lang="en">
+<title>PHILIPPINES: Suspected Philippine killer dies in tree fall.</title>
+<headline>Suspected Philippine killer dies in tree fall.</headline>
+<dateline>OZAMIS, Philippines 1996-08-21</dateline>
+<text>
+<p>A suspected killer who climbed a coconut tree to evade capture died when angry villagers cut it down with a chainsaw, police in the southern Philippines said on Wednesday.</p>
+<p>Police said Elmer Sinarillos, suspected of hacking two women and two children to death with a machete, tried to evade arrest by climbing up the tree in Sangay Daku village on Tuesday.</p>
+<p>Sinarillos, 28, refused to come down and after two hours of negotiations villagers felled the tree with a chainsaw, chief inspector Edgardo Martinez said.</p>
+<p>Sinarillos, clinging to the tree trunk, died in the fall after breaking his spine, police said.</p>
+<p>The dead man's parents denied their son had killed the women and the children, aged one and two, all of whom were relatives of the Sinarillos family.</p>
+<p>Sangay Daku is on the outskirts of the city of Ozamis, 780 km (490 miles) south of Manila.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OZAMIS, Philippines"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

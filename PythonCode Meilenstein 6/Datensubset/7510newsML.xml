@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7510" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: Buba allots 69.0 bln marks in tender at 3.30 pct.</title>
+<headline>Buba allots 69.0 bln marks in tender at 3.30 pct.</headline>
+<dateline>FRANKFURT 1996-08-21</dateline>
+<text>
+<p>The Bundesbank said it allocated 69.0 billion marks of 14-day securities repurchase funds at this week's tender at a fixed interest rate of 3.30 percent.</p>
+<p>A repo pact for 69.9 billion marks also set at a fixed 3.30 percent expires today, Wednesday, so a net 900 million marks is draining from the market.</p>
+<p>The Bundesbank said banks bid for 86.3 billion marks of the repurchase funds this week. It accepted 80.0 percent of the bids made. The repo rate has been steady at 3.30 percent since February. --Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

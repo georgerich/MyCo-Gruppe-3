@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4166" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Chrysler to announce Latin American project.</title>
+<headline>Chrysler to announce Latin American project.</headline>
+<dateline>AUBURN HILLS, Mich. 1996-08-19</dateline>
+<text>
+<p>Chrysler Corp said it would announce plans on Tuesday for a new manufacturing investment in South America in conjunction with Detroit Diesel Corp.</p>
+<p>The two companies gave no details of the investment, but a Chrysler spokesman said it was being made in addition to the $100 million assembly plant project that Chrysler is currently building in Argentina.</p>
+<p>Industry analysts said the project was expected to be in Brazil and was likely to include diesel engines for a light truck for the Latin American market.</p>
+<p>Detroit Diesel owns VM Motori SpA, in Centro, Italy, which produces diesel engines for Chrysler minivans and Jeep Grand Cherokee minivans built in Graz, Austria.</p>
+<p>VM Motori technology may be adapted for a Chrysler-built vehicle for Latin America, said Michael Robinet, managing director for CSM Forecasting in Farmington Hills, Mich.</p>
+<p>Such a vehicle could use the company's Jeep Grand Cherokee platform or its front-wheel-drive Neon car platform, he said.</p>
+<p>Chrysler said its chairman, Robert Eaton, would hold a news conference at 1100 EDT Tuesday at company headquarters, along with Detroit Diesel Chairman Roger Penske.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUBURN HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4151" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Nader wins Green Party presidential nominination.</title>
+<headline>Nader wins Green Party presidential nominination.</headline>
+<byline>David Brinkerhoff</byline>
+<dateline>LOS ANGELES 1996-08-19</dateline>
+<text>
+<p>Consumer rights crusader Ralph Nader was nominated on Monday as the Green Party's presidential candidate.</p>
+<p>The nomination highlighted a Green Party conference, titled &quot;Building Critical Mass -- Green Gather '96,&quot; held at the University of California at Los Angeles.</p>
+<p>Nader is a potent consumer advocate who came to prominence 30 years ago for attacking automobile safety standards. He runs the Washington D.C.-based Centre for the Study of Responsive Law.</p>
+<p>Around 400 audience members cheered &quot;Go Ralph Go&quot; and waved &quot;Nader '96&quot; placards at a campus auditorium, where Nader gave his acceptance speech. It came after an afternoon meeting in which Green Party representatives from 30 states formally nominated him.</p>
+<p>&quot;He's currently on 12 (state) ballots and we expect to have him on 30,&quot; said Michael Feinstein, a Green Party spokesman. He expects another 15 states to make Nader a write-in candidate for the Nov. 5 election.</p>
+<p>&quot;All but four states have a write-in process,&quot; he said.</p>
+<p>Nader's previous bid for the presidency came in 1992, when he ran as an Independent in the New Hampshire primary.</p>
+<p>&quot;The pressure to exploit the consumers and workers continues,&quot; Nader said.</p>
+<p>He urged greater consumer control of utilities, health insurance and television programming. &quot;We're the landlords of the public airwaves,&quot; he said, denouncing television as an &quot;electronic molester.&quot;</p>
+<p>He repeatedly criticised large corporations for weakening democracy and degrading the national culture.</p>
+<p>&quot;In the last twenty we have had an extraordinary concentration of power and wealth in fewer and fewer global corporations,&quot; Nader said.</p>
+<p>In the political arena, he called for 12-year term limits and publicly funded elections.</p>
+<p>Responding to criticism that he was stealing the Democratic Party's votes, he said &quot;We're sick of being told we have to chose between the bad and the worse.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

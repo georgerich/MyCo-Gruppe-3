@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10050" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Kyowa Hakko Mexico unit begins additive production.</title>
+<headline>Kyowa Hakko Mexico unit begins additive production.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Kyowa Hakko Kogyo Co Ltd's Mexican subsidiary has begun production of an additive for livestock feed in Veracruz, Mexico, a Kyowa spokesman said on Thursday.</p>
+<p>Fermentaciones Mexicanas SA de CV (Fermex), a company 75 percent owned by Kyowa and 25 percent by Sumitomo Corp, is producing L-Threonine, a nutrient used in the raising of livestock, Kyowa said in a statement.</p>
+<p>Kyowa also said it expects yearly output of 3,000 tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

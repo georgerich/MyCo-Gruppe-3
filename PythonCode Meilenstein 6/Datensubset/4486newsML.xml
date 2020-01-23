@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4486" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Aug 20.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Aug 20.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- Saudi may allow foreigners residing in the kingdom to deal in Saudi shares; bankers rule out any negative impact.</p>
+<p>- Saudi's Safari Company Ltd is maintaining and operating government projects worth 1.5 billion riyals.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Three opposition candidates win in Lebanon's parliamentary election.</p>
+<p>- King Hussein of Jordan rejects Prime Minister's Kabariti resignation.</p>
+<p>- Kuwaiti finance ministry signs memorandum of understanding with a British company and a French firm to invest $99 million in Kuwait.</p>
+<p>- Deep differences between Syrian producers and investors over import laws.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

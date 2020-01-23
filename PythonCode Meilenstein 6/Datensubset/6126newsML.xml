@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6126" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Cristoba shares delisted from Mexican bolsa.</title>
+<headline>Cristoba shares delisted from Mexican bolsa.</headline>
+<dateline>MEXICO CITY 1996-08-21</dateline>
+<text>
+<p>The Mexican stock exchange said Wednesday that shares for Compania Industrial de San Cristobal (Cristoba) have been delisted following Cristoba's merger with Kimberly Clark de Mexico.</p>
+<p>In March, Kimberly Clark bought out Cristoba's existing shares by offering 0.57265 of Kimberly's shares for each Cristoba share.</p>
+<p>The move followed the international merger of paper giants Kimberly Clark Corp and  Scott Paper Co, which was the parent company of Cristoba.</p>
+<p>-- Mexico City newsroom, (525) 728-9507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

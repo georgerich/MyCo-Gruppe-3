@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3361" id="root" date="1996-08-20" xml:lang="en">
+<title>MEXICO: FORECAST-Mexico 28-day Cetes seen at 25.05 pct.</title>
+<headline>FORECAST-Mexico 28-day Cetes seen at 25.05 pct.</headline>
+<dateline>MEXICO CITY 1996-08-20</dateline>
+<text>
+<p>Interest rates on Mexico's bellwether 28-day Cetes, or T-bills, are seen falling 158 basis points to 25.05 percent at auction, and rates are also seen falling at longer terms, according to a Reuters' survey of nine Cetes dealers.</p>
+<p>Following is a table comparing last week's primary rates versus expectations for this week's auction and the expected change in basis points.</p>
+<p>    TERM	LAST WEEK    THIS WEEK'S SURVEY   CHANGE</p>
+<p>    28-day     26.63 pct	25.05 pct	    -158 bps</p>
+<p>    91-day     29.43 pct	27.72 pct	    -171 bps</p>
+<p>    182-day    31.82 pct	30.20 pct	    -162 bps</p>
+<p>    1-year     32.70 pct	31.49 pct	    -121 bps</p>
+<p>The results will be released by Banco de Mexico at 1830 local time/1930 EDT).</p>
+<p>-- Karina Balderas, Mexico City newsroom +525 7289559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

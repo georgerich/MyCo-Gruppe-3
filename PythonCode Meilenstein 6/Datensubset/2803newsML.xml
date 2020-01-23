@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2803" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Security Capital sets rights offering.</title>
+<headline>Security Capital sets rights offering.</headline>
+<dateline>DENVER 1996-08-20</dateline>
+<text>
+<p>Security Capital Industrial Trust said on Tuesday it has commenced a rights offering for shareholders to buy 6,787,806 common shares at a price of $17.25 per share.</p>
+<p>Security Capital's shareholders of record on August 30, 1996, will receive a dividend of one right for each share held, the company said.</p>
+<p>Twelve rights will be required to purchase one Security Capital share for $17.25 in the rights offering, which expires on September 24, 1996, the company said. As of the end of the company's second quarter, the company had approximately 80 million shares outstanding.</p>
+<p>Proceeds of the offering will be used to repay borrowings under Security Capital's $350 million unsecured revolving line of bank credit and to invest in additional distribution properties in its target markets.</p>
+<p>Security Capital Group Inc, Security Capital's principal shareholder and the owner of the real estate investment trust manager, has agreed to exercise in full its rights and may seek to buy additional shares, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8297" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Bon-Ton Stores Inc Q2 loss about flat.</title>
+<headline>Bon-Ton Stores Inc Q2 loss about flat.</headline>
+<dateline>YORK, Pa. 1996-08-22</dateline>
+<text>
+<p>(Amounts in thousands, except per share data)</p>
+<p>		   Thirteen Weeks Ended    Twenty-Six Weeks Ended</p>
+<p>		     8/3/96	7/29/95     8/3/96	 7/29/95</p>
+<p> Net sales     $130,740     $128,422   $260,060	$254,515</p>
+<p>Income (loss)</p>
+<p>  from operations   767	(1,334)	  428	 (2,887)</p>
+<p>Interest expense,</p>
+<p>  net		 3,801	  1,832	6,898	   3,626</p>
+<p>Loss before</p>
+<p>  income taxes  (3,034)	(3,166)    (6,470)	 (6,513)</p>
+<p>Income tax</p>
+<p>  benefit	 (1,088)	(1,139)    (2,325)	 (2,343)</p>
+<p> Net loss	 (1,946)	(2,027)    (4,145)	 (4,170)</p>
+<p>Per share amounts:</p>
+<p>Net loss</p>
+<p>per common share</p>
+<p>		     (0.18)	 (0.18)     (0.37)	  (0.38)</p>
+<p>Weighted average</p>
+<p>shares outstanding</p>
+<p>		     11,064	 11,057     11,063	  11,029</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORK, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

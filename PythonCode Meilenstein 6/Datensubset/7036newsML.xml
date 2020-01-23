@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7036" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Allen Group unit loses Ohio EPA contract.</title>
+<headline>Allen Group unit loses Ohio EPA contract.</headline>
+<dateline>BEACHWOOD, Ohio 1996-08-21</dateline>
+<text>
+<p>The Allen Group Inc said its subsidiary MARTA Technologies Inc had lost a contract with the Ohio Environmental Protection Agency for centralized automobile emissions testing in the Cincinnati area.</p>
+<p>In a statement late on Tuesday, the company said the contract was worth about $11 million a year in revenues to MARTA.</p>
+<p>MARTA had received a cancellation notice from the agency that was effective Aug 27. The agency also suspended MARTA's operations under the program effective on Wednesday.</p>
+<p>The agency cited &quot;alleged problems&quot; for termination of the contract, Allen Group said.</p>
+<p>&quot;We strongly disagree with the state of Ohio's ... decision to cancel MARTA's contract,&quot; said Allen Group president and chief executive Robert Paul.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEACHWOOD, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

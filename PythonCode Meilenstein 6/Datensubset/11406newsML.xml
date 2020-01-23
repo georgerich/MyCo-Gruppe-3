@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11406" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Marine jet crashes in Arizona with four on board.</title>
+<headline>Marine jet crashes in Arizona with four on board.</headline>
+<dateline>YUMA, Ariz 1996-08-23</dateline>
+<text>
+<p>A U.S. Marine aircraft on a routine training mission with a crew of four on board crashed near Yuma on Friday, an official said.</p>
+<p>Marine spokesman Christopher Tessier said the plane went down west of the Gila mountain range in an area inaccessible to vehicles. The fate of the four-man crew was not immediately known, though the wreckage of the EA6B Prowler jet had been located from the air, he said.</p>
+<p>It was the third U.S. military plane crash in two days.</p>
+<p>A Marine reserve F/A-18 fighter attack plane crashed into the Atlantic on Thursday and the pilot was missing. Hours later an Air National Guard A-10 tankbuster crashed less than 100 miles (160 km) away and the pilot was taken to hospital.</p>
+<p>The plane that went down on Friday was visiting the Yuma Marine Corps Air Station from a Marine air station at Cherry Point, North Carolina, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YUMA, Ariz"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

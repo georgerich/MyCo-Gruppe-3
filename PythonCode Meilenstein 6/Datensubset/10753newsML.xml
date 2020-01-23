@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10753" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US mortgage-backeds slip after durables report.</title>
+<headline>US mortgage-backeds slip after durables report.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>U.S. mortgage-backed securities narrowed to Treasuries on Friday, with Fannie Mae and Freddie Mac pass-throughs outperforming Ginnie Maes.</p>
+<p>Prices fell after the morning report on durable goods orders, which showed an overall rise of 1.6 percent in July. Ginnie Mae 30-year pass-throughs traded off 4/32 to 20/32, while Fannie Maes and Freddie Macs were off 6/32 to 19/32.</p>
+<p>Trading activity was generally light, traders said.</p>
+<p>Treasuries slid farther, with the 30-year bond off more than a point and the 10-year note off about 25/32 late on Friday afternoon.  </p>
+<p>Late on Friday, GNMA 30-year 8.0 percent coupons were off 17/32 at 100-25/32, yielding 107 basis points over 10-year Treasuries.</p>
+<p>Comparable FNMAs were off 16/32 at 100-21/32, and FHLMCs were off 24/32 at 100-24/32.</p>
+<p>Economists said the durables rise signaled strong demand for big-ticket items. &quot;Capital spending is rising and manufacturing is back in an uptrend,&quot; said Astrid Adolfson, senior economist at MCM MoneyWatch Inc.</p>
+<p>Next week, the market will get a look at home sales data and revised second-quarter gross domestic product.  </p>
+<p>Wall Street economists in a Reuters survey forecast existing homes sales fell to a 4.1 million unit annual rate in July against 4.18 million in June. They projected new home sales fell from 734,000 annualized to 728,000.</p>
+<p>The economists forecast revised GDP will be unchanged at 4.2 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

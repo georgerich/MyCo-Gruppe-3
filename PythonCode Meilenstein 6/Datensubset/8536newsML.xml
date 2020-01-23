@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8536" id="root" date="1996-08-22" xml:lang="en">
+<title>ROMANIA: SOCCER-GLORIA BISTRITA BEAT 2-1 F.C. VALLETTA.</title>
+<headline>SOCCER-GLORIA BISTRITA BEAT 2-1 F.C. VALLETTA.</headline>
+<dateline>BISTRITA 1996-08-22</dateline>
+<text>
+<p>Gloria Bistrita (Romania) beat 2-1 (halftime 1-1) F.C. Valletta (Malta) in their Cup winners Cup match, second leg of the preliminary round, on Thursday.</p>
+<p>Scorers:</p>
+<p>Gloria Bistrita - Ilie Lazar (32nd), Eugen Voica (84th)</p>
+<p>F.C. La Valletta - Gilbert Agius (24th)</p>
+<p>Attendance: 8,000</p>
+<p>Gloria Bistrita won 4-2 on aggregate and qualified for the first round of the Cup winners Cup. REUTER</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BISTRITA"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

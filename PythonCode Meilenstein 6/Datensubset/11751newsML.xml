@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11751" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Roche unit to sell Palo Alto operations.</title>
+<headline>Roche unit to sell Palo Alto operations.</headline>
+<dateline>LAWRENCE, Kan. 1996-08-22</dateline>
+<text>
+<p>Roche Holding Ltd said Thursday its Syntex subsidiary signed an agreement to sell its manufacturing and development operations in Palo Alto, California, to Oread Inc.</p>
+<p>Financial terms were not disclosed, but the companies said Syntex would become a minority stockholder in Oread. The sale is expected to close in November.</p>
+<p>Roche, based in Basel, Switzerland, is a research-based health care group.</p>
+<p>Oread was formed in 1983 as a commercial outlet for technologies developed at Higuchi Biosciences Center for BioAnalytical Research.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAWRENCE, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

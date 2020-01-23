@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6584" id="root" date="1996-08-21" xml:lang="en">
+<title>INDIA: India's CARE sets ratings for four fixed deposits.</title>
+<headline>India's CARE sets ratings for four fixed deposits.</headline>
+<dateline>BOMBAY 1996-08-21</dateline>
+<text>
+<p>Credit Analysis &amp; Research Ltd (CARE) has announced ratings for four fixed deposit, one non-convertible debenture and two bonds.</p>
+<p> Company		 Instrument  Rating    Issue size(Rupees)/</p>
+<p>								 Comments</p>
+<p>* IDBI		     Bonds     CARE AAA     (30 billion)</p>
+<p>			   Omni Bonds  CARE AAA     (50 billion)</p>
+<p>							    (size enhanced</p>
+<p>							     from Rs 38.17</p>
+<p>							     billion)</p>
+<p>* Welzmann Homes Ltd.   FD	 CARE BBB(FD) (50 million)</p>
+<p>* Surya Fincap Ltd.     FD	 CARE BBB+(FD)(100 million)</p>
+<p>							    (upgraded from</p>
+<p>							    CARE BBB(FD) for</p>
+<p>							    Rs. 70 million)</p>
+<p>* Reliance Capital Ltd. FD	 CARE AAA(FD) (1 billion)</p>
+<p>							    (Enchanced from</p>
+<p>							     Rs 600 million)</p>
+<p>				NCD	CARE AAA     (2 billion)</p>
+<p>* Vijaya Commercial   Credit Ltd.	     FD	 CARE BB(FD)  (550 million)</p>
+<p>							    (Enchanced from</p>
+<p>							     400 million)</p>
+<p>    FRB    -  Floating rate bonds</p>
+<p>    CP     -  Commercial paper</p>
+<p>    CD     -  Certificate of Deposit</p>
+<p>    PCD    -  Partly convertible debenture</p>
+<p>    FD     -  Fixed Deposit</p>
+<p>    OCD    -  Optionally convertible debenture</p>
+<p>    NCD    -  Non-convertible debenture</p>
+<p>    PCN    -  Partly convertible notes.</p>
+<p>    ICD    -  Inter Corporate Deposit</p>
+<p>    CCPS   -  Cumulative convertible preference shares</p>
+<p>    OFCD   -  Optionally fully convertible debentures.</p>
+<p>    DDB    -  Deep Discount Bond</p>
+<p>    CAR    -  Credit Analysis Rating</p>
+<p>    SO     -  Structural Obligation</p>
+<p>Note : PR1 is a symbol for superior, PR2 for strong, PR3 adequate, PR4 risk prone and PR5 default. The plus or minus sign after the rating indicates the relative position within the band covered by the symbol.</p>
+<p>CARE AA(FD) indicates high quality, CARE A(FD) indicates adequate safety, CARE BBB(FD) indicates moderate safety, CARE AAA(FD) indicates best quality, CARE BB(FD) indicates inadequate safety, CARE B(FD) indicates risk prone, CARE C(FD) indicates high risk, and CARE D(FD) indicates default.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

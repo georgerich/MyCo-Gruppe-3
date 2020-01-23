@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2380" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: UK shares open steady, look to M4, FOMC meeting.</title>
+<headline>UK shares open steady, look to M4, FOMC meeting.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>London shares opened mixed but steady on Tuesday as UK economic data and U.S. and German decisions on monetary policy expected this week once again dampened trading interest, dealers said.</p>
+<p>At the open the FTSE 100 index of leading shares was 3.6 points higher at 3,867.3.</p>
+<p>After one of the quietest sessions of recent weeks on Monday, activity is likely to remain cautious ahead of Wednesday's outcome of the Federal Reserves Open Market Committee (FOMC) meeting which starts today in the U.S.</p>
+<p>However, markets anticipate no change to interest rates after recent data easing worries about inflationary pressures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

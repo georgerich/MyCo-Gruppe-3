@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9887" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: Indian forex market inactive as Bombay banks shut.</title>
+<headline>Indian forex market inactive as Bombay banks shut.</headline>
+<dateline>BOMBAY 1996-08-22</dateline>
+<text>
+<p>India's foreign exchange market was virtually closed on Thursday as banks in Bombay, the major financial centre, were closed for a holiday, dealers said.</p>
+<p>Banks are open in other major cities but there were no deals. In Madras, banks were quoting dollars at 35.64/66 rupees but there were no deals, a dealer at Madras bank said.</p>
+<p>Dealers in Calcutta said there was no activity or quotes.</p>
+<p>&quot;The market is very thin when Bombay is closed,&quot; said the Madras dealer. &quot;Only, some people try to cover forward,&quot; she said. The dollar had closed at 35.65/66 rupees on Wednesday.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

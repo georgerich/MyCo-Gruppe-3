@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5975" id="root" date="1996-08-21" xml:lang="en">
+<title>UKRAINE: Ukraine Jan-July GDP fell 9.2 pct from a year ago.</title>
+<headline>Ukraine Jan-July GDP fell 9.2 pct from a year ago.</headline>
+<dateline>KIEV 1996-08-21</dateline>
+<text>
+<p>Ukraine's gross domestic product in</p>
+<p>the first seven months of this year was 9.2-percent lower than a</p>
+<p>year earlier, the Statistics Ministry said on Wednesday.</p>
+<p>    UKRAINE GDP     Jan-July 96    Jan-June 96    Jan-July 95</p>
+<p> yr/yr pct change     -9.2	     -8.7	     -11.2</p>
+<p>The government has forecast a GDP decline of 1.8 to two percent this year after an 11.8-percent drop in 1995. --Kiev Newsroom, +380 44 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

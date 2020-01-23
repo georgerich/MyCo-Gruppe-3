@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6246" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: Taiwan interbank rate ends lower, uptrend seen.</title>
+<headline>Taiwan interbank rate ends lower, uptrend seen.</headline>
+<dateline>TAIPEI 1996-08-21</dateline>
+<text>
+<p>Taiwan's interbank rate closed slightly lower on Wednesday, but dealers said payments for T$30 billion in government bonds, which were auctioned on Tuesday, were seen tightening liquidity.</p>
+<p>The overnight interbank rate finished at 5.426 percent against Tuesday's 5.428 close, with 30-day commercial paper at 5.40-5.45 against 5.40-5.50.</p>
+<p>The central bank injected T$6.53 billion in funds on Wednesday to maintain stable liquidity in the banking system.</p>
+<p>The 10-year 84/1 government bond yield was at 5.820 and the 10-year construction bond yield at 5.9675.-- Julie Hu (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

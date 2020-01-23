@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7307" id="root" date="1996-08-21" xml:lang="en">
+<title>PHILIPPINES: Manila cites gains from 10 new foreign banks.</title>
+<headline>Manila cites gains from 10 new foreign banks.</headline>
+<dateline>MANILA 1996-08-21</dateline>
+<text>
+<p>Ten new foreign banks allowed to open up in the Philippines a year ago have already amassed 9.9 billion pesos in deposits and extended 32.7 billion pesos in loans for infrastructure and trade financing, the Central Bank reported on Wednesday.</p>
+<p>The Philippines allowed 10 foreign banks to set up full-service branches last year to attract more foreign investments and enhance banking services.</p>
+<p>In terms of specifically identified foreign capital flows coursed through them, the 10 new foreign banks reported net inflows of $192.9 million in 1995 and $143.8 million in the first half of 1996 alone, the Central Bank said.</p>
+<p>The 10 foreign banks are: ING Bank, Australia and New Zealand Banking Group Ltd, Bangkok Bank, Fuji Bank Ltd, Deutsche Bank AG, Bank of Tokyo-Mitsubishi Ltd, Chemical Bank, Development Bank of Singapore, International Commercial Bank of China and Korea Exchange Bank.</p>
+<p>-- Manila newsroom (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

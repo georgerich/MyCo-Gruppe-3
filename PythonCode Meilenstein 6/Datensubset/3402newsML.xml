@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3402" id="root" date="1996-08-20" xml:lang="en">
+<title>SURINAM: Surinam presidential vote set for Sept. 5.</title>
+<headline>Surinam presidential vote set for Sept. 5.</headline>
+<dateline>PARAMARIBO, Surinam 1996-08-20</dateline>
+<text>
+<p>A final vote to select Surinam's next president will take place on Sept. 5, National Assembly Registrar Edmund Bleau said on Tuesday.</p>
+<p>The ballot of the 869-member United Peoples Assembly (VVV) will bring to an end more than three months of uncertainty about the former Dutch colony's next government, Bleau said. A simple majority of the VVV, which includes regional and municipal councilors, is sufficient to name a president.</p>
+<p>Neither the ruling New Front coalition of President Ronald Venetiaan nor the National Democratic Party of former military strongman Desi Bouterse secured enough votes in May 23 national general elections to form a government.</p>
+<p>Despite several weeks of political bargaining, Venetiaan and Jules Wijdenbosch, Bouterse's right-hand man during the military regime of the 1980s, failed to muster the necessary two-thirds majority of the National Assembly necessary to become president in two votes earlier this month.</p>
+<p>Venetiaan was elected president at a VVV meeting in 1991.</p>
+<p>The South American country's 400,000 inhabitants have endured two military coups, seven years of dictatorship and widespread guerrilla activity in the last two decades</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SURM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARAMARIBO, Surinam"/>
+<dc element="dc.creator.location.country.name" value="SURINAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

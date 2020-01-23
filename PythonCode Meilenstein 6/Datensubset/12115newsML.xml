@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12115" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Best Australian bank/non-bank term deposits.</title>
+<headline>RTRS-Best Australian bank/non-bank term deposits.</headline>
+<text>
+<p>(Updated August 23)</p>
+<p>BANKS</p>
+<p>    PERIOD	BANK		  RATE   EFFECTIVE RATE</p>
+<p>    30 days     HKBK		  6.45	  --</p>
+<p>    90 days     Arab Bank	   7.00	  --</p>
+<p>   180 days     Arab Bank	   7.00	  --</p>
+<p>   270 days     Arab Bank	   7.05</p>
+<p>    1 year	Arab Bank	   7.15	  7.15</p>
+<p>    2 years     SBNSW		 7.40	  7.40</p>
+<p>    3 years     SBNSW		 7.75	  7.75</p>
+<p>    4 years     SBNSW		 7.85	  7.85</p>
+<p>    5 years     SBNSW		 7.85	  8.00</p>
+<p>OTHERS</p>
+<p>    PERIOD	INSTITUTIONS		  RATE    EFFECTIVE RATE</p>
+<p>     30 days    GIO			     6.55	  --</p>
+<p>     90 days    Transrail CU		  7.00	  --</p>
+<p>    180 days    Newcastle Perm/Police CU/</p>
+<p>		    Transrail CU		  7.00</p>
+<p>    270 days    Newcastle Perm/Police CU/</p>
+<p>		    Transrail CU		  7.00	  --</p>
+<p>    1 year	MLC BS			  7.26	  7.51</p>
+<p>    2 years     MLC BS			  7.54	  7.76</p>
+<p>    3 years     MLC BS			  7.78	  8.01</p>
+<p>    4 years     MLC BS			  7.78	  8.01</p>
+<p>    5 years     IMB			     7.80	  8.08</p>
+<p>(Based on investment of A$25,000)</p>
+<p>Source: Cannex</p>
+<p>-- Reuters Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

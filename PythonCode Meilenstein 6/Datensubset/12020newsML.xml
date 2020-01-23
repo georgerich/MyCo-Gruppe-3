@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12020" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: German Jan-April coffee imports up at 3.8 mln bags.</title>
+<headline>German Jan-April coffee imports up at 3.8 mln bags.</headline>
+<dateline>HAMBURG 1996-08-23</dateline>
+<text>
+<p>German net green coffee imports from outside the EU totalled 3.80 million bags in January-April 1996 compared with 3.69 million a year earlier, the DKV coffee association said on Friday.</p>
+<p>But imports of 902,114 bags in April were down from 1.18 million in March 1996 and 946,436 in April 1995.</p>
+<p>Colombia shipped 178,801 bags in April after 298,652 in March, El Salvador 103,575 (121,140), Vietnam 78,930 (69,867), Guatemala 54,883 (57,471) and Ethiopia 53,009 (58,479).</p>
+<p>Brazil was in 13th position with 26,368 bags (43,037 bags in March). --Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7887" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: Bonn estimates Q2 growth at one pct yr/yr.</title>
+<headline>Bonn estimates Q2 growth at one pct yr/yr.</headline>
+<dateline>BONN 1996-08-22</dateline>
+<text>
+<p>The German economics ministry estimated on Thursday that economic output picked up in the second quarter of 1996.</p>
+<p>Gross domestic product (GDP) grew clearly from the previous quarter, and about one percent from the year-earlier quarter on a real, seasonally-adjusted basis, the ministry said.</p>
+<p>&quot;Important economic indicators in Germany have improved perceptibly recently,&quot; the ministry said in a monthly report. &quot;Signs are increasing that the growth lull observed since mid-1995 has been overcome.&quot;</p>
+<p>The ministry has forecast growth for the full year at 0.75 percent, slowing from 1.9 percent last year. Private research institutes have forecast second-quarter growth at 0.5 percent.</p>
+<p>Latent demand revived in the quarter after the unusually severe winter, the ministry said. Demand for industrial goods turned sharply higher, with both domestic and foreign orders rising. Higher demand boosted production as well.</p>
+<p>Capacity utilisation stopped falling, and a regular survey by the Ifo research institute showed an improvement in business sentiment.</p>
+<p>The Federal Statistics Office is expected to release full data on second-quarter GDP in early September. In the first quarter, German GDP fell 0.4 percent from the previous quarter, and rose 0.4 percent from the year-earlier quarter.</p>
+<p>In contrast to industry, the construction sector remained in a downtrend in the second quarter, with any rebound due merely to seasonal factors, the ministry said. Output has not returned to the levels of last autumn.</p>
+<p>Exports saw a light upturn in the second quarter after stagnating in the preceding two quarters. Exports to European Union countries rose weakly, but shipments to other countries rose more strongly.</p>
+<p>The labour market remained depressed, as economic growth forces remained too feeble to bring much relief. Structural problems stand in the way of significant progress.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

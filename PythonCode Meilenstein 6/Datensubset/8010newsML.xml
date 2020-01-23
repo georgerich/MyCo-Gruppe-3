@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8010" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: London &quot;tube&quot; in last-minute talks to avert strike.</title>
+<headline>London &quot;tube&quot; in last-minute talks to avert strike.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>London underground rail managers called union leaders to a meeting on Thursday in a last-minute effort to avert another 24-hour strike by drivers on Friday, a management spokesman said.</p>
+<p>One of the unions, Aslef, on Wednesday accepted a pay and hours package offered by management, but the Rail, Maritime and Transport union (RMT) voted to reject the deal and its members will go ahead with strikes planned for Friday and next Tuesday.</p>
+<p>The management spokesman said that, in contrast to previous strike days in the currrent dispute when the &quot;tube&quot; network has been paralysed, some trains would run on these two days.</p>
+<p>&quot;We're looking at running approximately two-thirds of our normal trains,&quot; he said.</p>
+<p>Aslef is the main drivers union, but the RMT represents 900 of the 2,200 drivers and passengers could experience long delays if all the RMT members heed the strike call.</p>
+<p>The RMT ballot came out almost four to one against the pay package, but only half the drivers voted.</p>
+<p>Separately on Thursday, Britain's postal delivery workers staged the sixth in a series of one-day strikes in protest at new working arrangements drawn up by the Royal Mail.</p>
+<p>However, hopes of a settlement rose after the Communication Workers Union (CWU) sent a letter to managers asking for more talks. The Royal Mail has declined previous offers after the CWU executive threw out a deal accepted by its own negotiators, but a spokeswoman said it was considering the latest request.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5268" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: FAG Kugelfischer H1 net profit up 7.1pct.</title>
+<headline>FAG Kugelfischer H1 net profit up 7.1pct.</headline>
+<dateline>SCHWEINFURT, Germany 1996-08-21</dateline>
+<text>
+<p>Six months to end June 1996 (in millions of marks unless stated)</p>
+<p>    Group net profit			   45.3    vs 42.3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCHWEINFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

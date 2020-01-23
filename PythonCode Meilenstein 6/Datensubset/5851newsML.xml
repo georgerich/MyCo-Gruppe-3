@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5851" id="root" date="1996-08-21" xml:lang="en">
+<title>SENEGAL: W.Africa Central Bank discount rate falls to 7 pct.</title>
+<headline>W.Africa Central Bank discount rate falls to 7 pct.</headline>
+<dateline>DAKAR 1996-08-21</dateline>
+<text>
+<p>The West African Central Bank (BCEAO) has lowered its discount and refinancing rates by a quarter of a point to seven and six percent respectively, the Bank said in a statement.</p>
+<p>The new rates took effect on Monday, it added. They apply to banks in seven member states -- Benin, Burkina Faso, Ivory Coast, Mali, Niger, Senegal and Togo.</p>
+<p>The statement said the drop was justified by falling domestic inflation and falling interest rates abroad and a desire to ease the cost of credit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAKAR"/>
+<dc element="dc.creator.location.country.name" value="SENEGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

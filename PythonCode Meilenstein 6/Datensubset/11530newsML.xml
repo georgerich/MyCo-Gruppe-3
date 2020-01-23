@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11530" id="root" date="1996-08-23" xml:lang="en">
+<title>SRI LANKA: Washington to curb Tamil support in U.S.-Sri Lanka.</title>
+<headline>Washington to curb Tamil support in U.S.-Sri Lanka.</headline>
+<dateline>COLOMBO 1996-08-23</dateline>
+<text>
+<p>Sri Lanka said on Friday the United States had promised to stamp out any illegal activities on U.S. soil directed against the island's government.</p>
+<p>The Sri Lankan foreign ministry said in a statement: &quot;The United States government sympathised with the current predicament Sri Lanka was facing.&quot;</p>
+<p>The statement said the U.S. government &quot;would do all within its prevailing legal framework to prevent the use of American soil to perpetrate violence against the democratic government of Sri Lanka&quot;.</p>
+<p>It said the U.S. State Department's coordinator for counter terrorism, Philip Wilcox, had expressed Washington's support for the government when he visited Colombo this week.</p>
+<p>Colombo has said it believes Tamil rebels, fighting a 13-year war for independence against the government, finance their military activity through funds extorted from expatriate Sri Lankans in western countries such as the United States.</p>
+<p>U.S. embassy officials in Colombo were not immediately available to comment on the report.</p>
+<p>Colombo estimates more than 50,000 people have been killed in the war between government forces and the Liberation Tigers of Tamil Eelam rebels in the island's north and east.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

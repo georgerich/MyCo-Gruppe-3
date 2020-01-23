@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11539" id="root" date="1996-08-23" xml:lang="en">
+<title>INDIA: Indian metals witness mixed trend.</title>
+<headline>Indian metals witness mixed trend.</headline>
+<dateline>BOMBAY 1996-08-23</dateline>
+<text>
+<p>Metal prices witnessed a mixed trend on Thursday, dealers said.</p>
+<p>Nickel prices went up while tin suffered a fresh setback. But other base metals remained steady, they said.</p>
+<p>Nickel climbed up 700 rupees to 38,200 rupees per quintal on increased physical support and restricted inflow.</p>
+<p>&quot;Reports of recovery in the world market also pulled prices upward,&quot; dealers said.</p>
+<p>Tin fell by 400 rupees to 35,600 rupees per quintal on fresh arrivals of the imported metal. Copper was steady at reduced level of 12,700 rupees per quintal amid limited activity.</p>
+<p>Aluminium was steady at 7,450 rupees per quintal, zinc at 6,300 rupees and lead at 4,850 rupees per quintal respectively in limited activity.</p>
+<p>-Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

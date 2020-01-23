@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7458" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: RESEARCH ALERT - Matsushita-Kotobuki raised.</title>
+<headline>RESEARCH ALERT - Matsushita-Kotobuki raised.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Nomura Research Institute Ltd upgraded Matsushita-Kotobuki Electronics Industries Ltd to a &quot;1&quot; from its previous &quot;2&quot;, market sources said on Wednesday.</p>
+<p>In its three-grade rating system, the research institute assigns a &quot;1&quot; rating to issues whose values it expects will outperform the key 225-share Nikkei average by more than 10 percentage points over the following six months.</p>
+<p>Nomura officials were not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8830" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Alliance Capital, Albion in joint venture.</title>
+<headline>Alliance Capital, Albion in joint venture.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Alliance Capital Management LP said on Thursday that it and Albion Asset Advisors LLC have formed Albion Alliance LLC, a company dedicated to the management of private investments on behalf of institutional and large private investors.</p>
+<p>Alliance said that Mark Arnold and Alastair Tedford, co-founders of Albion Asset Advisors, are directing the new company.</p>
+<p>Albion Alliance will have a global focus and will expand Alliance's existing corporate finance and private investing business, particularly into emerging markets, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

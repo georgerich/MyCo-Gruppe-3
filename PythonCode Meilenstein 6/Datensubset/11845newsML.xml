@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11845" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Guess started by Merrill.</title>
+<headline>RESEARCH ALERT - Guess started by Merrill.</headline>
+<text>
+<p>-- Merrill Lynch analyst Brenda Gall initiated coverage of Guess Inc with a near-term buy and long-term accumulate rating and said the stock price would appreciate 35 percent over the next 12 months.</p>
+<p>-- Her earnings per share estimate for 1996 is $1.27 and $1.54 for 1997.</p>
+<p>-- She said Guess was the cheapest stock in apparel, trading at 10.6 times earnings and a more than 40 percent discount to the the S&amp;P.</p>
+<p>&quot;Look for strong earnings gains in the second half of this year,&quot; she said, adding that EPS growth over the next five years would be 15 to 20 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

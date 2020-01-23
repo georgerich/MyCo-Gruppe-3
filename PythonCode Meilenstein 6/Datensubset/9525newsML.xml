@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9525" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PRESALE- South Lyon Bldg Auth, Mich..</title>
+<headline>PRESALE- South Lyon Bldg Auth, Mich..</headline>
+<text>
+<p>AMT: 2,650,000	DATE: 08/28/96	NYC Time: 1100	CUSIP: NA</p>
+<p>ISSUER: South Lyon Building Authority			     ST: MI</p>
+<p>ISSUE: 1996 Building Authority				  TAX STAT: Exempt-REV</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: FSA Aaa/AAA/NA					  BANK QUAL: Y</p>
+<p>DTD: 09/01/96							     SURE BID: Y</p>
+<p>DUE: 5/1/97-11						SR MGR:</p>
+<p>1ST CPN: 05/01/97</p>
+<p>CALL: 5/1/04 @ 101, dtp 5/1/06			  NIC</p>
+<p>DELIVERY: 14 days					   ORDERS:</p>
+<p>PAYING AGENT: Michigan National Bank, Detroit</p>
+<p>L.O.: Miller Canfield Paddock &amp; Stone, Detroit</p>
+<p>F.A.: Stauder Barch &amp; Assoc., Ann Arbor</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    120,000</p>
+<p>1998		    125,000</p>
+<p>1999		    135,000</p>
+<p>2000		    140,000</p>
+<p>2001		    150,000</p>
+<p>2002		    155,000</p>
+<p>2003		    165,000</p>
+<p>2004		    170,000</p>
+<p>2005		    180,000</p>
+<p>2006		    190,000</p>
+<p>2007		    200,000</p>
+<p>2008		    210,000</p>
+<p>2009		    225,000</p>
+<p>2010		    235,000</p>
+<p>2011		    250,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

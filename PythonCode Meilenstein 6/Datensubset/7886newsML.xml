@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7886" id="root" date="1996-08-22" xml:lang="en">
+<title>SWITZERLAND: Sandoz food unit buys Swiss brand.</title>
+<headline>Sandoz food unit buys Swiss brand.</headline>
+<dateline>BERNE 1996-08-22</dateline>
+<text>
+<p>Wander AG, a Swiss unit of pharma and nutrition group Sandoz AG, said it will buy the brand name and major products of Swiss food manufacturer Galactina AG.</p>
+<p>Wander said Galactina's babyfood, tofu and biomalt brands and marketing would be taken over as of November 1, with production to follow somewhat later.</p>
+<p>Wander declined to specify the annual revenues of its new acquisition. Wander itself is consolidated in Sandoz Nutrition AG, with 1995 sales of 3.67 billion Swiss francs.</p>
+<p>Wander, which produces Isostar and Ovomaltine beverages for world markets, said the Galactina brand would boost its Swiss market presence, including giving it 40 percent of the Swiss baby food market.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

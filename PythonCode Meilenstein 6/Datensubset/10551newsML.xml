@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10551" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: CRICKET-CRAWLEY FORCED TO SIT AND WAIT.</title>
+<headline>CRICKET-CRAWLEY FORCED TO SIT AND WAIT.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>England batsman John Crawley was forced to endure a frustrating delay of over three hours before resuming his quest for a maiden test century in the third test against Pakistan on Friday.</p>
+<p>Heavy overnight rain and morning drizzle ruled out any play before lunch on the second day but an improvement in the weather prompted the umpires to announce a 1415 local time (1315 GMT) start in the event of no further rain.</p>
+<p>Crawley, unbeaten on 94 overnight in an England total of 278 for six, was spotted strumming a guitar in the dressing-room as the Oval ground staff took centre stage.</p>
+<p>There were several damp patches on the square and the outfield and it was still raining when the players took an early lunch at 1230 local time (1130 GMT).</p>
+<p>When brighter weather finally arrived, the umpires announced a revised figure of 67 overs to be bowled with play extended to at least 1900 local time (1800 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

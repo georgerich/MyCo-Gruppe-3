@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10690" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Tandem, Computer Assoc hold briefing.</title>
+<headline>Tandem, Computer Assoc hold briefing.</headline>
+<dateline>PALO ALTO, Calif. 1996-08-23</dateline>
+<text>
+<p>The heads of Tandem Computer Inc and Computer Associates International Inc plan to announce a major technology-related development at a news briefing on Monday, a spokeswoman for the companies said.</p>
+<p>The spokeswoman declined further comment.</p>
+<p>The teleconference, to be held from the CA World convention in New Orleans, will include presentations by Tandem chief executive Roel Pieper and Charles Wang, chairman and chief executive of Computer Associates.</p>
+<p>The teleconference is due to start at 8:15 PDT/11:15 EDT.</p>
+<p>Tandem closed down 1/4 at 10-5/8 on Friday, while Computer Associates shares gained one to 58-1/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

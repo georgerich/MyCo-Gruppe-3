@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8264" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Micro Component Q4 June 29 loss narrows.</title>
+<headline>Micro Component Q4 June 29 loss narrows.</headline>
+<dateline>ST. PAUL, Minn. 1996-08-22</dateline>
+<text>
+<p>Three months ended	Year ended</p>
+<p>			   Jun 29,    Jun 24,    Jun 29,    Jun 24,</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p> Net sales		$4,188     $5,751    $22,318    $23,635</p>
+<p> Cost of sales	   1,787	2,558	9,319     12,896</p>
+<p> Gross profit	    2,401	3,193     12,999     10,739</p>
+<p> S/G/A expenses	  2,061	1,720	7,933     11,267</p>
+<p>Research, Development cost</p>
+<p>			     1,054	  531	4,260	3,727</p>
+<p> Unusual/Non-recurring    --	   --    (1,524)    (6,178)</p>
+<p> Oper (Loss) Income    (714)	  942	2,330	1,923</p>
+<p>Interest expense</p>
+<p>  (income), net	  (102)	  (2)	(246)	  272</p>
+<p> Income tax provision   (68)	 (24)	    8	   85</p>
+<p>Net (Loss) Income</p>
+<p>  (continuing ops)     (544)	  968	2,568	1,566</p>
+<p>Discontinued operations</p>
+<p>  loss/(income)	  (178)	3,611	(652)	3,897</p>
+<p> Extraordinary income     --	   --	   --	1,005</p>
+<p> Net income (loss)    ( 366)   ( 2,643)	3,220   ( 1,326)</p>
+<p> Net (loss) per share ( 0.05)    ( 0.51)	 0.44    ( 0.25)</p>
+<p> Average shares    7,646,000  5,238,000  7,246,000  5,240,000</p>
+<p>	    (In thousands, except share and per share data)</p>
+<p>NOTE: Micro Component Technology Inc is full company name.</p>
+<p>	    Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

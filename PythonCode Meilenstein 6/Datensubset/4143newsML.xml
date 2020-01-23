@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4143" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Limited Inc Q2 net up vs pro forma.</title>
+<headline>Limited Inc Q2 net up vs pro forma.</headline>
+<dateline>COLUMBUS, Ohio 1996-08-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   $0.12		    $0.10</p>
+<p> Net			  33,150		   28,701</p>
+<p> Revs		    1,895,601		1,718,643</p>
+<p> Avg shrs		  272,077		  273,961</p>
+<p>			6  MONTHS</p>
+<p> Shr			   $0.21		    $0.18</p>
+<p> Net			  61,302		   48,954</p>
+<p> Revs		    3,683,544		3,306,777</p>
+<p> Avg shrs		  291,284		  273,468</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Results for 1995 periods are pro forma and assume Intimate Brands IPO, sale of 60 pct interest in WFN, and 85 million shr self-tender had been consummated at beginning of period.</p>
+<p>Historical net was $48.8 million, or $0.14/shr, for Q2, and $87.97 million, or $0.25/shr, for six months.</p>
+<p>Periods ended Aug 3, 1996 vs July 29, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

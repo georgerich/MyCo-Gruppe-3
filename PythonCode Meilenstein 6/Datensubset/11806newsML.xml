@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11806" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Canada spot LPGs steady to higher, lagging U.S.</title>
+<headline>Canada spot LPGs steady to higher, lagging U.S.</headline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>Canada spot LPGs were steady to higher on Thursday, catching up to U.S. prices that firmed on a scramble to build winter stocks.</p>
+<p>&quot;We're following Belvieu and Conway. Inventories are building but people are concerned they're not building as strong as they should be,&quot; said one Canadian trader.</p>
+<p>Propane in Eastern Canada rose 2.50 cents a gallon to 41.50/42.50 cents.</p>
+<p>Sarnia butane was notionally unchanged at 39.75.40 cents, despite trader worries of inadequate supply ahead of gasoline blending season.</p>
+<p>According to the latest Canadian government stock data, normal butane stocks in Eastern Canada rose by 21.7 percent last month. But as of Aug. 1, they were still 40 percent below levels the same time last year.</p>
+<p>Field butane in Western Canada, meanwhile, had a -0.8 percent draw for the month. There is no normal butane market in the west.</p>
+<p>Western Canada field butane were assessed notionally firmer at 28/29 cents, a half cent rise from last week.</p>
+<p>Western propane also rose about a half cent to 35.25/35.50 cents.</p>
+<p>-- David Brinkerhoff, Los Angeles bureau +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

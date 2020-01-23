@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8272" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Marks Bros. Jewelers Inc Q2 profit vs loss.</title>
+<headline>Marks Bros. Jewelers Inc Q2 profit vs loss.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>(in thousands, except for per share data)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>				    Jul 31, Jul 31,   Jul 31, Jul 31,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net sales		    $  34,906  28,398 $  64,466$ 52,074</p>
+<p> Gross profit		    14,214  11,235    25,840  20,115</p>
+<p> Income from operations	 3,847   2,803     5,455   3,657</p>
+<p> ESOP compensation expense	 --     148	  --     295</p>
+<p>Income (loss) before</p>
+<p>   extraordinary gain	  1,406   (423)	 548  (2,655)</p>
+<p>Extraordinary gain on extinguishment</p>
+<p>  of debt, net of taxes	11,164	--    11,164	--</p>
+<p> Net income (loss)	     12,570   (423)    11,712 (2,655)</p>
+<p>Primary earnings per share:</p>
+<p>Income (loss) before</p>
+<p>    extraordinary gain	    .16   (.09)	 .08   (.58)</p>
+<p>Extraordinary gain on extinguishment</p>
+<p>    of debt, net of taxes	1.25	--	1.53	--</p>
+<p>    Net income (loss)	    1.41   (.09)	1.61   (.58)</p>
+<p>    Avg shrs			8,938   4,555     7,287   4,555</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

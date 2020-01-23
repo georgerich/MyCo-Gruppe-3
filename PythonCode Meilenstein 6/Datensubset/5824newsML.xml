@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5824" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: Basketball-Heal signs with NBA club - finally.</title>
+<headline>Basketball-Heal signs with NBA club - finally.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Sydney Kings guard Shane Heal has joined the Minnesota Timberwolves in the NBA on a three-year contract worth a reported AS1.5 million.</p>
+<p>Heal, a three-point specialist, said the prospect of playing in the best league in the world was beyond his expectations.</p>
+<p>During the NBA off-season he would return to Australia to help the Kings in a &quot;non-playing capacity&quot;, Heal said.</p>
+<p>Heal told reporters he would wear the number 10 singlet when playing in the U.S. in honour of his friend and Australia teammate Andrew Gaze.</p>
+<p>The Kings released Heal from the final two years of his three-year contract but will have first choice on the player when he is finished with the NBA, The Sydney Morning Herald newspaper reported on Wednesday.</p>
+<p>Heal becomes only the third Australian to play in the NBA behind Luc Longley of the Chicago Bulls and Gaze, who spent a brief time with the Washington Bullets two years ago.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

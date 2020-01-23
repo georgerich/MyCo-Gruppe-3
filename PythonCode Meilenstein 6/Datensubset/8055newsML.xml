@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8055" id="root" date="1996-08-22" xml:lang="en">
+<title>DUBAI: UAE stocks unmoved, but selling pressure seen.</title>
+<headline>UAE stocks unmoved, but selling pressure seen.</headline>
+<dateline>DUBAI 1996-08-22</dateline>
+<text>
+<p>United Arab Emirates shares resisted a wave of selling pressure in the week to Thursday to end without any significant price changes, brokers said.</p>
+<p>They said buying interest remained low for the second week running as most investors focused their demand on a 209 million dirham public offering by a new UAE insurance firm.</p>
+<p>&quot;Subscription in Al-Khazna Insurance Company which started on Tuesday was the centre of attention,&quot; one broker said.</p>
+<p>He said small investors resorted to selling some recently- acquired shares as the 12-day subscription period was too short for them to arrange alternative funding to buy into the new flotation. But shares managed to hold recent levels.</p>
+<p>Dubai Investment Co (DIC) was the exception, with its share price ending half a dirham lower at 12.5 dirhams.</p>
+<p>Other share prices were unchanged.</p>
+<p>The unofficial National Bank of Abu Dhabi 27-share index ended the week fractionally lower at 2,333.02 points from 2,335.06 the previous week.</p>
+<p>-- Dubai Newsroom  9714-626990</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

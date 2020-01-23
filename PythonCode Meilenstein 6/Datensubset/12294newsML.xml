@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12294" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: King Jim - 95/96 parent results.</title>
+<headline>King Jim - 95/96 parent results.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Year to June 20, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 39.17		vs	   34.89</p>
+<p> Operating	    3.00		vs	    2.69</p>
+<p> Current		3.11		vs	    2.75</p>
+<p> Net		    1.58		vs	    1.40</p>
+<p> EPS		  117.62 yen	  vs	  116.54 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares	     13 million	  vs	  12 million</p>
+<p> Ord div	     14.00 yen	  vs	   14.00 yen</p>
+<p>NOTE - King Jim Co Ltd is one of the leading manufacturers of office supplies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

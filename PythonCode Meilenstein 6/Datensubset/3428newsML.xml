@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3428" id="root" date="1996-08-20" xml:lang="en">
+<title>MEXICO: Mexico says Japan to grant it $940 mln. [CORRECTED 03:05 GMT]</title>
+<headline>Mexico says Japan to grant it $940 mln. [CORRECTED 03:05 GMT]</headline>
+<dateline>MEXICO CITY 1996-08-19</dateline>
+<text>
+<p>A top official in Mexico's Foreign Ministry said on Monday that the country would receive credits from the Japanese government for $940 million during a visit starting Tuesday by Prime Minister Ryutaro Hashimoto.  </p>
+<p>Juan Rebolledo Gout, an undersecretary in the Foreign Ministry, told reporters the credits would be signed by Mexican and Japanese officials on Wednesday, and would support ecological projects, small and medium-sized businesses and exporters in Mexico.</p>
+<p>He did not detail how much would be offered for each sector or explain the terms of the loans.</p>
+<p>A Foreign Ministry spokeswoman said the export credits would be signed on the Mexican side by Enrique Vilatela, head of the state trade development bank Bancomext.</p>
+<p>The credit to small- and medium-sized businesses would be channeled via state development bank Nafin.</p>
+<p>Hashimoto two-day visit to Mexic will kick off a five-nation, 10-day tour of Latin America that he hopes will open a new trade front for Japanese industry in the region.</p>
+<p>Tokyo has pumped nearly $60 billion (Corrects from $60 million) into the region in the past 14 years.</p>
+<p>-- Henry Tricks, Mexico City newsroom +525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

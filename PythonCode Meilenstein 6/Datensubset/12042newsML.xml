@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12042" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: Rain still delays N.France wheat but yields high.</title>
+<headline>Rain still delays N.France wheat but yields high.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>Rain continues to delay the end of the grain harvest in northern France but record wheat yields are now forecast for the Nord-Pas de Calais region, crop analysts said on Friday.</p>
+<p>Harvest work is 80 percent complete but scattered showers and thunderstorms have kept farmers away from the fields over the last two days and more rain is forecast over the weekend.</p>
+<p>The coastal region, which consistently turns in France's highest wheat yields, could hit a record 10 tonnes per hectare for 1996 against last year's 8.1 tonnes, an analyst for the local ONIC grain office said.</p>
+<p>France's average national wheat yield for 1995 was 6.6 tonnes per hectare.</p>
+<p>&quot;It is obviously a good crop with record wheat yields,&quot; the analyst said, referring to Nord-Pas de Calais.</p>
+<p>ONIC expects the soft wheat area there to rise to 280,000 hectares in 1996 from 270,000 hectares last year.</p>
+<p>Winter barley yields are pegged at 8.0-8.5 tonnes per hectare against 7.2 tonnes, while spring barley yields may reach 7.5 tonnes against 6.7 tonnes last year.</p>
+<p>Details about quality were still scarce but rain has hurt specific weight, the analyst said.</p>
+<p>&quot;Specific weight was 82 kilos per hectolitre before the rain. It is now 76 kilos,&quot; he said.</p>
+<p>This led some farmers to cut part of their wheat before it was fully matured, raising concern over possible quality loss.</p>
+<p>But the region's wheat production is mainly destined to the animal feed industry and is thus less concerned with quality criteria set by French millers for bread-making wheat. --Dominique Vidalon, Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

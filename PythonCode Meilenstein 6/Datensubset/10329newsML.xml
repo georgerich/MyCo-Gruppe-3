@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10329" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Kong Wah year net down 13.02 percent.</title>
+<headline>Kong Wah year net down 13.02 percent.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   9.22     vs 15.82</p>
+<p>    Dividend (H.K. cents)    nil	vs 4.0</p>
+<p>    Exceptional items	  nil	vs 20.0 loss</p>
+<p>    Net			    165.42   vs 190.19</p>
+<p>    Turnover		     3,660.53 vs 3,456.47</p>
+<p>    Company name		 Kong Wah Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - A television set manufacturer.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- HK Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11905" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: BIG Entertainment hires strategic adviser.</title>
+<headline>BIG Entertainment hires strategic adviser.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>BIG Entertainment Inc said on Friday it had retained investment banking firm Wasserstein Perella &amp; Co to provide financial and strategic advisory services.</p>
+<p>&quot;Wasserstein Perella will assist the company in its efforts to identify strategic opportunities in the media business that are consistent with the company's goal of increasing shareholder value,&quot; said Mitchell Rubenstein, chairman and chief executive of BIG Entertainment.</p>
+<p>&quot;Among the possible transactions that will be reviewed are joint ventures that will utilize the company's intellectual property rights and/or Entertainment Super-Kiosks.&quot;</p>
+<p>Rubenstein added, &quot;The company has already held preliminary discussions with possible strategic partners in this regard.&quot;</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

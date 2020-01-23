@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6702" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: LPC-Julian Hodge signs 51 mln stg credit.</title>
+<headline>LPC-Julian Hodge signs 51 mln stg credit.</headline>
+<text>
+<p>LONDON, August 21 (LPC) - Julian Hodge Bank has signed a 51 million stg revolver, arranger Lloyds Bank Capital Markets announced.</p>
+<p>The credit, which marks Julian Hodge Bank's debut in the syndicated loan market, will be used for general corporate purposes.</p>
+<p>It is divided into two equal tranches, with three- and five-year maturities. The shorter tranche is priced at 35 basis points over LIBOR and the other at 40 bps over.</p>
+<p>Subscribing banks are Lloyds Bank, BZW, Royal Bank of Scotland, Yamaichi Bank, Banca Nazionale del Lavoro and Brown, Shipley &amp; Co.</p>
+<p>- LPC Newsroom 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

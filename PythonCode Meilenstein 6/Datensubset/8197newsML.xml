@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8197" id="root" date="1996-08-22" xml:lang="en">
+<title>CANADA: Foreigners sell Canadian securities in June.</title>
+<headline>Foreigners sell Canadian securities in June.</headline>
+<dateline>OTTAWA 1996-08-22</dateline>
+<text>
+<p>Foreign investors sold a net C$2.01 billion of Canadian securities in June, after buying a net C$1.85 billion in May (revised from sales of C$168 million), Statistics Canada said on Thursday.</p>
+<p>Canadian residents bought a net C$393 million of foreign securities after sellling C$292 million in May (revised from sales of C$2.40 billion).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

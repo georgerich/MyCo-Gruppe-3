@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8800" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PAREXEL buys health care consulting firm.</title>
+<headline>PAREXEL buys health care consulting firm.</headline>
+<dateline>BOSTON, MA 1996-08-22</dateline>
+<text>
+<p>PAREXEL International Corp said Thursday it had acquired a health care consulting firm in a transaction designed to pool interests for financial accounting purposes.</p>
+<p>PAREXEL said it had bought State and Federal Associates Inc in exchange for about $20 million in common stock.</p>
+<p>The firm will help PAREXEL to provide client services like clinical research on product safety, it said.</p>
+<p>PAREXEL is a contract research organization that provides clinical research and development to pharmaceutical, biotechnical and medical device industries.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON, MA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10316" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia July car registrations fall.</title>
+<headline>RTRS-Australia July car registrations fall.</headline>
+<dateline>CANBERRA 1996-08-23</dateline>
+<text>
+<p>Australian new motor vehicle registrations fell a seasonally-adjusted 17.7 percent in July from June to 50,651, the Australian Bureau of Statistics said.</p>
+<p>Most economists had expected registrations to fall around 10.0 percent.  </p>
+<p>				  July 96    June 96    July 95</p>
+<p>    Seasonally adjusted    50,651     61,547     52,720</p>
+<p>    Unadjusted		 54,976     63,693     52,919</p>
+<p>    Trend Estimates	  54,883     55,044     53,142</p>
+<p>The bureau said passenger vehicle registrations in the month fell 17.7 percent while other vehicles also fell 17.7 percent.</p>
+<p>The annual change was a fall of 3.9 percent.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3930" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: Indian Gujarat cotton falls amid sluggish demand.</title>
+<headline>Indian Gujarat cotton falls amid sluggish demand.</headline>
+<dateline>BOMBAY 1996-08-20</dateline>
+<text>
+<p>Indian Gujarat cotton varieties extended losses on Tuesday on sluggish demand and fresh offerings by stockists and state agencies, dealers said.</p>
+<p>Punjab cotton was steady, they said.</p>
+<p>In spot deals Gujarat Kalyan (medium staple) fell by 200/300 rupees to 11,800/12,000 rupees per candy (355.56 kg) while wagad cotton fell by 100/200 to 10,300/10,400.</p>
+<p>Punjab was quiet on limited activity. Punjab saw-ginned was steady at 1,675/1,700 rupees per maund (37.32 kg) while F-414 was quiet at 1,925/1,940. &quot;About 1,400/1,500 bales (170 kg each) of Punjab cotton were traded today,&quot; one broker said.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

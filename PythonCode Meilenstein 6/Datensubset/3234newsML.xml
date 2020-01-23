@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3234" id="root" date="1996-08-20" xml:lang="en">
+<title>ESTONIA: Estonian Savings Bank quotes other Baltic stocks.</title>
+<headline>Estonian Savings Bank quotes other Baltic stocks.</headline>
+<dateline>TALLINN 1996-08-20</dateline>
+<text>
+<p>Savings Bank, one of the leading banks in Estonia, on Tuesday said it has started quoting shares in the leading commercial banks in fellow Baltic states of Latvia and Lithuania.</p>
+<p>Savings Bank dealer Charlie Viikberg said the bank was now quoting shares of leading Latvian bank Unibanka and the shares and global depositary receipts of key Lithuanian commercial bank Vilnius Bank.</p>
+<p>&quot;They are interesting for Estonian investors also,&quot; Viikberg told Reuters, but noted that it was difficult to get hold of Vilnius Bank stock in Lithuania as it was not very liquid.</p>
+<p>Vilnius Bank recently became the first Soviet state to launch GDRs and they are quoted in Luxembourg.</p>
+<p>News agency Baltic News Service (BNS) said Estonian bank Hansapank already quotes Unibanka and Vilnius Bank.</p>
+<p>Viikberg said that his bank did $50,000 of business in Vilnius Bank's GDR today but nothing in Unibanka.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10029" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Cheung Kong interim net up 37 pct.</title>
+<headline>Cheung Kong interim net up 37 pct.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   359.0 Vs 271.0</p>
+<p>    Dividend (H.K. cents)    33.0 vs 30.0</p>
+<p>    Exceptional items	  nil xxx vs nil</p>
+<p>    Net			    8,156 vs 5,948</p>
+<p>    Turnover		     9,784 vs 7,314</p>
+<p>    Company name		 Cheung Kong (Holdings) Ltd</p>
+<p>    Books close		  Oct 15-22</p>
+<p>    Dividend payable	   Oct 23</p>
+<p>NOTE - Cheung Kong (Holdings) is a major property developer in Hong Kong.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

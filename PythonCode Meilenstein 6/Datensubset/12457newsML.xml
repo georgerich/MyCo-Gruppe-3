@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12457" id="root" date="1996-08-23" xml:lang="en">
+<title>TURKEY: PRESS DIGEST - Turkey - Aug 23.</title>
+<headline>PRESS DIGEST - Turkey - Aug 23.</headline>
+<dateline>ANKARA 1996-08-23</dateline>
+<text>
+<p>These are the leading stories in the Turkish press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>SABAH</p>
+<p>- The deputy head of the Privatisation Administration vows to push ahead with the privatisation scheme which has been stalled for years.</p>
+<p>MILLIYET</p>
+<p>- Turkish tycoon Sakip Sabanci criticises the free car import regulation introduced by the Islamist-led government.</p>
+<p>- The EgyptAir Boeing 707 accident in Istanbul airport on Wednesday was a result of poor runway conditions.</p>
+<p>HURRIYET</p>
+<p>- The chairman of the leading opposition Motherland Party (ANAP) Yilmaz vows to introduce changes within the party ahead of the party congress this weekend.</p>
+<p>CUMHURIYET</p>
+<p>- More mobile phone service licences are to be sold before the privatisation of the state telecommunications company Turk Telekom.</p>
+<p>YENI YUZYIL</p>
+<p>- The second big textile and readywear international fair of the year starts in Istanbul.</p>
+<p>DUNYA</p>
+<p>- Athens bans import of Turkish agricultural products because of concerns about foot-and-mouth disease.</p>
+<p>ZAMAN</p>
+<p>- The Islamist-led government's coalition partners contradict each other over the reasons for calling an extraordinary session of parliament.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

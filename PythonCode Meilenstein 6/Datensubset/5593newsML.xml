@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5593" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Chateau says gets unsolicited bid from Sun.</title>
+<headline>Chateau says gets unsolicited bid from Sun.</headline>
+<dateline>CLINTON TOWNSHIP, Mich. 1996-08-21</dateline>
+<text>
+<p>Chateau Properties Inc said Wednesday it had received an unsolicited proposal from Sun Communities Inc.</p>
+<p>Chateau is a real estate investment trust operating in the manufactured housing community industry.</p>
+<p>Sun said it was prepared to offer 0.892 shares of Sun's common stock for each Chateau share outstanding, and was prepared to make the same offer to holders of limited partnership interests in Chateau's operating partnership, CP Limited Partnership, according to Chateau.  </p>
+<p>MHC said the Sun offer in no way changes its proposal, under which MHC offered $26 or 1.15 MHC shares per Chateau share, or a combination of stock and cash. The company said it is not attending the Chateau meeting Thursday and is still awaiting feedback on its offer.</p>
+<p>&quot;We still remain with a strong belief that our offer is a good offer,&quot; an MHC spokeswoman said in a telephone interview. &quot;It's an ideal fit.&quot;</p>
+<p>ROC could not immediately be reached for comment.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLINTON TOWNSHIP, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

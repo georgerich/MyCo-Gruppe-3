@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3014" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Harry's Farmers sees profitable Q2 results.</title>
+<headline>Harry's Farmers sees profitable Q2 results.</headline>
+<dateline>ATLANTA, Ga 1996-08-20</dateline>
+<text>
+<p>Harry's Farmers Market Inc said it projected the results for the second quarter of  fiscal 1997 to be the first profitable one since the second quarter of fiscal 1994.</p>
+<p>The food products supplier said it expected earnings per share to range between $0.04 and $0.06 for the second quarter of the fiscal year, compared to a loss of $0.19 per share in the same year-ago period and a loss of $0.05 per share in the first quarter of the fiscal year.</p>
+<p>The second quarter of fiscal 1997 began May 2, 1996 and ended July 31, 1996, it said.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA, Ga"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9593" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Atlanta bomb probe to continue.</title>
+<headline>Atlanta bomb probe to continue.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The investigation of last month's bombing at the Atlanta Olympic Games will continue as long as necessary to solve the case, Attorney General Janet Reno said Thursday.</p>
+<p>&quot;This whole matter has been one of our highest priorities and we are trying to do everything we can, as quickly as possible but consistent with a thorough investigation to make sure that justice is done,&quot; she told a weekly news conference.</p>
+<p>Attorneys for security guard Richard Jewell, the only known suspect in the July 27 pipe bombing that left two people dead and injured more than 100, have demanded the government charge Jewell or drop its investigation of him.</p>
+<p>Reno declined comment on a report by Jewell's attorneys that he passed a lie detector test.</p>
+<p>Jewell, 33, a security guard, was the first to report seeing a suspicious backpack, which exploded before the area could be cleared. After being hailed as a hero, he was identified as a suspect in news reports.</p>
+<p>FBI agents questioned him and searched his home but have not arrested him. He has denied any role in the bombing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4149" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Pacific Bell, AT&amp;T unable to reach deal.</title>
+<headline>Pacific Bell, AT&amp;T unable to reach deal.</headline>
+<dateline>SAN FRANCISCO 1996-08-19</dateline>
+<text>
+<p>Pacific Bell, a unit of Pacific Telesis Group, said it had been unable to negotiate an agreement with AT&amp;T Corp to interconnect the companies' networks.</p>
+<p>In a statement late on Monday, Pacific Bell said AT&amp;T was expected to file a request early this week with the California Public Utilities Commission for arbitration proceedings in order to reach an agreement.</p>
+<p>&quot;We've been trying very hard over the past months to reach agreement on the terms and conditions for interconnecting our networks,&quot; said Liz Fetter, president of Pacific Bell's Industry Markets Group. &quot;While we've made progress on many of the issues, several significant ones remain unresolved.&quot;</p>
+<p>Pacific Bell is negotiating under guidelines issued by the utilities panel for opening up its statewide network to competitors certified to provide local phone service in California.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

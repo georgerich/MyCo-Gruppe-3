@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7741" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Top Asia-Pacific execs call for WTO to admit China.</title>
+<headline>Top Asia-Pacific execs call for WTO to admit China.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>Top Asia-Pacific businessmen have called for China's admission to the World Trade Organisation, saying the global body can never achieve its goals without one of the world's top trading nations.</p>
+<p>Former Philippine Foreign Secretary Roberto Romulo said on Thursday that the businessmen, who met in Hawaii last weekend, wanted the Asia Pacific Economic Cooperation (APEC) forum to press for China's admission to the WTO.</p>
+<p>&quot;There was sentiment that APEC should push for one of the largest economies in the world, China, to be a member of the WTO,&quot; Romulo said in an interview.</p>
+<p>Their view was &quot;you can't have a WTO unless you have all the major players there&quot;.</p>
+<p>The business executives are members of the APEC Business Advisory Council (ABAC) which was set up to advise the region's political leaders. Romulo is chairman of ABAC.</p>
+<p>The United States has been blocking China's entry to the WTO, saying it must first give firm market access commitments.</p>
+<p>&quot;Both sides (the U.S. and China) should come to a meeting of minds and compromise and allow one of the world's largest economies to be part of WTO or you are not going to reach your objective,&quot; Romulo said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

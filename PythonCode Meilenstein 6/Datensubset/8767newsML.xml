@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8767" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: NYSE says program trading 15.1 pct of avg volume.</title>
+<headline>NYSE says program trading 15.1 pct of avg volume.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The New York Stock Exchange said on Thursday program trading averaged 15.1 percent of its average daily volume of 335.9 million shares, or 50.6 million shares, for the week of August 12-16.</p>
+<p>Program trading accounted for an average of 9.9 percent of average daily volume of 341.9 million shares for the week of August 5-9.</p>
+<p>Of the average 50.6 million shares during the week, buy programs accounted for an average 25.2 million shares, while sell programs accounted for an average 25.4 million daily.  </p>
+<p>In all markets, program trading averaged 63.0 million shares a day during the week of August 12-16.</p>
+<p>Of the five member firms reporting the most program activity on the New York Stock Exchange, Morgan Stanley and Nomura Securities conducted most of its program activity for its own account. First Options, Merrill Lynch and Susquehanna Brokerage Services executed all or most of their program activity for customers.</p>
+<p>Program trading executed by firms as agent, for non-member customers, amounted to 53.8 percent during the week, while volume executed as principal, for their own accounts, amounted to 38.8 percent of program volume from August 12-16.</p>
+<p>Between August 12 and August 16, 28.2 percent of program trading volume executed by NYSE member firms was related to index arbitrage.</p>
+<p>Program trading encompasses trading strategies involving the sale or purchase of a basket of at least 15 stocks with a value of $1 million or more the exchange said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

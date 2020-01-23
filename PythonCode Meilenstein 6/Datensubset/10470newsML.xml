@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10470" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Ascend expands MFS' UUNET pact.</title>
+<headline>Ascend expands MFS' UUNET pact.</headline>
+<dateline>ALAMEDA, Calif. 1996-08-23</dateline>
+<text>
+<p>Ascend Communications Inc said corporate Internet service provider UUNET Technologies has tested and certified the Ascend Pipeline 130 remote access network router for resale to its customers.</p>
+<p>The Pipeline 130 product is Ascend's family of fully integrated network access routers offering Integrated Services Digital Network (ISDN), Frame Relay and leased-line remote access data connections.</p>
+<p>Asend said UUNET, now a unit of MFS Communications Co Inc, will resell the Pipeline 130 product family to its blue chip corporate customer list.</p>
+<p>UUNET had previously acted as a reseller of Ascend's ISDN BRI Pipeline products. The new product integrates several additional, higher speed technologies.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

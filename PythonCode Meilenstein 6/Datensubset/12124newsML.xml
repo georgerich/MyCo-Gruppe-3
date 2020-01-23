@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12124" id="root" date="1996-08-23" xml:lang="en">
+<title>NEW ZEALAND: NZ's Nuplex sees strong waste treatment activity.</title>
+<headline>NZ's Nuplex sees strong waste treatment activity.</headline>
+<dateline>WELLINGTON 1996-08-23</dateline>
+<text>
+<p>Nuplex Industries Ltd said on Friday its diversification into special waster treatment was meeting expectations and had enabled the group to maintain its history of steady growth despite the tightening trading conditions in its resin business.</p>
+<p>&quot;This level of business activity in waste treatment is seen as sustainable for the new trading year with its strong performance again making a valuable contribution to group overall profitability,&quot; the company told the New Zealand Stock Exchange.  </p>
+<p>Nuplex earlier reported a year net profit of NZ$8.16 million, up from $7.2 million in the previous year.</p>
+<p>It said the programme of diversification and expansion of the group operations has seen shareholders' equity grow to NZ$50 million from $39 million at the end of last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

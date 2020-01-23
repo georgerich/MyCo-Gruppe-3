@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11735" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Evidence shows explosive device on TWA jet - NY Times.</title>
+<headline>Evidence shows explosive device on TWA jet - NY Times.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Investigators have found scientific evidence that an explosive device was detonated inside the passenger cabin of the TWA jumbo jet that crashed off Long Island, New York, last month, The New York Times reported in its early Friday editions.</p>
+<p>Chemists at the Federal Bureau of Investigation crime laboratory have found traces of PETN, a chemical in plastic explosives, on a piece of wreckage retrieved from the jet's passenger cabin between rows 17 and 27, the newspaper said.</p>
+<p>The newspaper cited three senior officials deeply involved in the investigation who spoke on condition of anonymity.</p>
+<p>TWA's Flight 800 from New York to Paris exploded and crashed into the Atlantic Ocean off New York's Long Island on July 17. All 230 passengers and crew aboard were killed.</p>
+<p>While the new finding provides evidence that the plane was destroyed by an explosive device, a senior official noted that PETN, or pentaerythritol tetranitrate, is an explosive component commonly found in many bombs and surface-to-air missiles, making it impossible for now to know which type of explosive device destroyed the Boeing 747.</p>
+<p>The discovery meets the FBI's previously stated standard for declaring that the plane was brought down by a criminal act, the newspaper said.</p>
+<p>But senior investigators said they were not ready to declare the crash a result of a criminal act in part because they do not yet know whether the explosion was caused by a bomb or a missile. A senior investigator said federal authorities could never bring any suspects to trial until they have answered that question, the newspaper reported.</p>
+<p>He and other senior officials said they still hoped to find additional forensic evidence as salvage workers continue to retrieve more wreckage from the Atlantic.</p>
+<p>They are particularly interested in finding metal fragments showing what investigators call shock waves - physical damage left by a blast that holds signature markings demonstrating what type of device exploded.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

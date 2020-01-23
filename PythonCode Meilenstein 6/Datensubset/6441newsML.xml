@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6441" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: FCOJ futures settle mixed, prices firm on close.</title>
+<headline>FCOJ futures settle mixed, prices firm on close.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Speculative and fund buying gave the market a slight boost on the close to settle narrowly mixed and above session lows.</p>
+<p>While September was the only contract to finish the day weaker, it remained well above support pegged at 119.00 cents a lb. The contract ended at 120.25, off 0.50, after trading from 120.50 to 119.55. November closed 0.15 firmer at 115.25, while the remaining months settled steady to 0.55 higher.</p>
+<p>Steady trade selling pressured prices throughout most of the session.</p>
+<p>Despite a dearth of news and an annual lull, volume was estimated to have reached 5,000 lots.</p>
+<p>--Suzanne Rostler, New York Commodities Desk 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

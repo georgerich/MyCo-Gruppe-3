@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10059" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Fukuda -1996 group forecast.</title>
+<headline>Fukuda -1996 group forecast.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Year to December 31, 1996</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    PREVIOUS	   ACTUAL</p>
+<p> (Group)		FORECAST	   FORECAST	  YEAR-AGO</p>
+<p> Sales		249.00	     249.00	     239.98</p>
+<p> Current		6.40		 6.80		 6.31</p>
+<p> Net		    2.70		 2.80		 2.72</p>
+<p>NOTE - Fukuda Corp is a civil engineering and building contractor.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11628" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: Average discount rate at UK bill tender 5.5335 pct.</title>
+<headline>Average discount rate at UK bill tender 5.5335 pct.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>The average rate of discount at the weekly tender of 91-day UK Treasury bills fell to 5.5335 percent from 5.5649 percent last week, the Bank of England said on Friday.</p>
+<p>The 600 million stg offer attracted bids of 2.888 billion stg. The pro rata price was 98.620.</p>
+<p>Next week 600 million stg of bills will be on offer.</p>
+<p>London Newsroom +44 171 542 7708</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

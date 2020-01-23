@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3012" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: The Network Connection Q2 shr loss rises.</title>
+<headline>The Network Connection Q2 shr loss rises.</headline>
+<dateline>ATLANTA, Ga 1996-08-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss	  $0.20	     loss $0.13</p>
+<p> Net loss	  568		 loss 251</p>
+<p> Revs		1,500		    811</p>
+<p>	  6  MONTHS</p>
+<p> Shr loss	  $0.45	     loss $0.17</p>
+<p> Net loss	  1,200		    NA</p>
+<p> Revs		2,000		    1,900</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Q2 net loss due to higher bid and proposal activity, increased advertising expenses and lower margins on initial project sales.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA, Ga"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

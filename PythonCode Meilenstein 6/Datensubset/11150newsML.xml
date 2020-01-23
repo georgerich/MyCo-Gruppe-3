@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11150" id="root" date="1996-08-23" xml:lang="en">
+<title>MEXICO: Hurricane Dolly heads for Mexico coast.</title>
+<headline>Hurricane Dolly heads for Mexico coast.</headline>
+<dateline>MEXICO CITY 1996-08-22</dateline>
+<text>
+<p>Mexico's northeast coast braced on Thursday for Dolly, freshly upgraded to hurricane status and on track to strike land sometime on Friday morning, according to forecasters in Mexico and Miami.</p>
+<p>National Weather Service meteorologist Pablo Escamilla said Dolly was now packing sustained winds of 120 kph (75 mph) and gusts of up to 150 kph (93 mph), which makes it a weak Category One hurricane.</p>
+<p>Hurricane warnings were posted from Veracruz to La Pesca on the northeast coast, and major ports have been closed to shipping.</p>
+<p>At 6 p.m. EDT (2200 GMT), Dolly was located 220 km (137 miles) northeast of Veracruz and was moving at 17 kph (11 mph) in a west, northwesterly direction.</p>
+<p>It is expected to hit the coast in the early hours of Friday near Laguna de Tamiahua, Veracruz, a tiny town some 300 km (186 miles) northeast of Mexico City and 80 km (50 miles) south of Tampico, Tamaulipas, a major port.</p>
+<p>&quot;We expect the storm to strengthen during the night before making landfall,&quot; Escamilla said.</p>
+<p>Captains from Mexico's three crucial Gulf of Mexico crude export ports told Reuters earlier on Thursday that Pajaritos, Dos Bocas and Cayo Arcas ports remained closed to shipping.</p>
+<p>Mexico's Communications and Tranportation Ministry confirmed the closures in a statement. The three ports are among 37 in the Gulf currently shut down because of Dolly.</p>
+<p>In Miami, the National Hurricane Centre forecast that Dolly's centre would strike the coast sometime on Friday morning.</p>
+<p>Hurricane force winds extended up to 30 miles (48 km) from the storm's centre, and tropical storm force winds extended outward up to 175 miles (282 km).</p>
+<p>The centre also said that Tropical Storm Edouard gained little strength as it moved westward across the distant Atlantic Ocean.</p>
+<p>At 5 p.m. EDT (2100 GMT), Edouard's centre was near latitude 13.6 north, 35.1 west, or about (1,284 km) west of the Cape Verde Islands off Africa's coast, and moving west near 14 mph (23 kmh).</p>
+<p>That motion was expected to continue on Friday, with some slight strengthening possible during the next 24 hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

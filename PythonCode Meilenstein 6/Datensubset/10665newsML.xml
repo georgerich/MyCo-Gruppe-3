@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10665" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Ulster Petroleums Ltd Q2 net profit falls.</title>
+<headline>Ulster Petroleums Ltd Q2 net profit falls.</headline>
+<dateline>CALGARY 1996-08-23</dateline>
+<text>
+<p>1996			    1995</p>
+<p> Shr			 C$0.04		   C$0.08</p>
+<p> Net			  1,196		    2,232</p>
+<p> Cash flow/shr	     0.39		     0.41</p>
+<p> Revs			20,167		   18,623</p>
+<p>	    6 MONTHS</p>
+<p> Shr			 C$0.12		   C$0.15</p>
+<p> Net			  3,674		    4,271</p>
+<p> Cash flow/shr	     0.86		     0.81</p>
+<p> Revs			41,752		   35,711</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- Reuters Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

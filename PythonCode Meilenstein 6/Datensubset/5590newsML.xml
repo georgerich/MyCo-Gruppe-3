@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5590" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Terra Nitrogen gets credit facility.</title>
+<headline>Terra Nitrogen gets credit facility.</headline>
+<dateline>SIOUX CITY, Iowa 1996-08-21</dateline>
+<text>
+<p>Terra Nitrogen Co said on Wednesday that it has entered into a credit facility based on its accounts receivable, which will result in a one-time third quarter earnings distribution rise of $0.50 to $0.70 per unit.</p>
+<p>The agreement is for three years. Terra will receive the amount of its accounts receivable upfront and upon payment will pay the creditor. If the facility is reduced or canceled during its three-year term, the distribution will be reduced, Terra said.</p>
+<p>-- Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SIOUX CITY, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4770" id="root" date="1996-08-20" xml:lang="en">
+<title>CHINA: China aluminium imports up 26.1 pct in Jan-July.</title>
+<headline>China aluminium imports up 26.1 pct in Jan-July.</headline>
+<dateline>BEIJING 1996-08-20</dateline>
+<text>
+<p>China's imports of unwrought aluminium and aluminium materials in the first seven months were 370,735 tonnes, up 26.1 percent from the same period last year, the China Securities newspaper said on Tuesday.</p>
+<p>In July, imports of unwrought aluminium and aluminium materials reached 71,836 tonnes, up from 53,395 tonnes in June, it said, quoting customs statistics.</p>
+<p>Imports of unwrought aluminium including alloys reached 219,918 tonnes in January-July, up 25.8 percent from the same 1995 period. Imports in July alone were 39,417 tonnes, up from 26,001 tonnes in June, it said.</p>
+<p>In January-July, imports of aluminium materials hit 150,817 tonnes, up 26.6 percent from the same period last year. Imports in July alone were 32,419 tonnes, it said.</p>
+<p>China imported 134,486 tonnes of aluminium scrap in the first seven months, down 30 percent compared with the same 1995 period. Imports in July were 33,982 tonnes.</p>
+<p>Imports of alumina in the January-July were 600,000 tonnes, up 7.6 percent compared with the same period last year. Imports in July were 130,000 tonnes, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

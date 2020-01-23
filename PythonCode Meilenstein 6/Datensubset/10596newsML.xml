@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10596" id="root" date="1996-08-23" xml:lang="en">
+<title>BELGIUM: ATHLETICS-WOMEN'S 1,000 METRES WORLD RECORD EVOLUTION.</title>
+<headline>ATHLETICS-WOMEN'S 1,000 METRES WORLD RECORD EVOLUTION.</headline>
+<dateline>BRUSSELS 1996-08-23</dateline>
+<text>
+<p>Evolution of the women's 1,000</p>
+<p>metres world record (tabulated under time, name/nationality,</p>
+<p>venue, date):</p>
+<p> 2:30.67  Christine Wachtel (Germany)	   Berlin     17.8.90</p>
+<p> 2:29.34  Maria Mutola (Mozambique)	     Brussels   25.8.95</p>
+<p> 2:28.98  Svetlana Masterkova (Russia)	  Brussels   23.8.96</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MOZAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

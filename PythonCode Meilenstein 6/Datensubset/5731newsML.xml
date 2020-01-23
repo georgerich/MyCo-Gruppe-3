@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5731" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: ADR REPORT - Mexican ADRs strong despite disruptions.</title>
+<headline>ADR REPORT - Mexican ADRs strong despite disruptions.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Major Mexican issues rose on thin volume Wednesday despite a protest outside Mexico City's stock exchange that disrupted trade for the morning.</p>
+<p>Traders said the Mexican ADRs, or American Depositary Receipts, generally were holding firm on both strong economic data released earlier this week and a renewed interest in Mexico by foreign investors.</p>
+<p>&quot;We got some great data from Mexico on the economic side,&quot; a trader said. &quot;There's some significant interest now that Mexico is back on track.&quot;  </p>
+<p>Bellwether stock Telfonos de Mexico was up 3/4 to 34-1/8 in midday trading.</p>
+<p>&quot;Telmex is pretty indicative of what's happening down there,&quot; a trader said.</p>
+<p>Trading remained light on the bolsa because demonstrators -- high school students and their parents protesting school placements -- blocked the main entrance of the stock exchange building. Trading by open outcry opened at midday. Electronic trading data was delayed all morning, but before noon the system reported the key IPC index was up 18.1 points to 3,419.89, building on Tuesday's rally.  </p>
+<p>Grupo Tribasa rose 1/8 to 4-1/2, Grupo Embotelladora was up 1/8 to 10-1/8 and Grupo Televisa rose 1/8 to 31-1/2.</p>
+<p>The Mexico Fund Inc also climbed, up 1/8 to 17.</p>
+<p>Traders said strong second-quarter gross domestic product and falling interest rates helped boost Mexican stock activity this week.  </p>
+<p>The ADR market otherwise was quiet Wednesday, traders said. Brazil's Telebras rose 3/4 to 76-1/8. Bear Stearns raised the company's fiscal year 1996 and 1997 earnings estimates Wednesday morning.</p>
+<p>Argentina's YPF SA fell 3/8 to 21-3/4.</p>
+<p>-- Patricia Willens, 212-859-1727</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

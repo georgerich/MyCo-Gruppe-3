@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10261" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: Unilever falls as Merrill repeats &quot;sell&quot;.</title>
+<headline>Unilever falls as Merrill repeats &quot;sell&quot;.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Shares in Unilever Plc fell on Friday after brokerage Merrill Lynch restated its &quot;sell' position on the stock and recommended switching into Cadbury, sources close to the broker said.</p>
+<p>Shares in Unilever were down 9p at 12.80 stg by 1130 GMT. Dealers said Merrill Lynch had repeated its short term &quot;sell' recommendation on Unilever and its buy stance on Cadbury Schweppes at current prices. Merrill's are also recommending clients to switch out of Unilever into Cadbury.</p>
+<p>Cadbury was up 2p at 511p and was the most actively traded stock in the market on volume of 6.7 million shares.</p>
+<p>-- Elaine Hardcastle, London Newsroom +44 171 542 4027</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9560" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Imperial Oil raises Canada posted oil price.</title>
+<headline>Imperial Oil raises Canada posted oil price.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Imperial Oil Ltd said it has raised the price it will pay for various grades of crude oil effective today.</p>
+<p>The new prices are as follows:</p>
+<p>Edmonton Light Sweet $189.00 per cubic metre</p>
+<p>Cromer Light Sour $184.00</p>
+<p>Bow River at Hardisty  $165.00</p>
+<p>Cromer Medium $173.00</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

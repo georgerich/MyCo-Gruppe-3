@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10777" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Calif. Senate clears way for quake insurance plan.</title>
+<headline>Calif. Senate clears way for quake insurance plan.</headline>
+<dateline>SACRAMENTO, Calif. 1996-08-23</dateline>
+<text>
+<p>The California state Senate approved legislation Friday that was expected to clear the way for final passage next week of the $10.5 billion California Earthquake Authority plan.</p>
+<p>The Senate approved a so-called &quot;trailer&quot; bill containing amendments smoothing over differences between insurance companies and homeowner groups. The bill passed by 32-to-0.</p>
+<p>&quot;These are the final amendments to make it (the authority) financially feasible,&quot; said Republican Senator John Lewis from Orange County. &quot;It is voluntary for the insurance companies and it is voluntary for the consumers.&quot;  </p>
+<p>The proposed $10.5 billion earthquake authority stalled in the state Senate in July after concerns were raised the legislation was not consumer-friendly enough and homeowners in the San Francisco Bay area were being asked to pay too much.</p>
+<p>The authority was proposed as part of a plan to help solve the state's homeowners insurance crisis.</p>
+<p>Senate President Pro Tem Bill Lockyer, D-Hayward, who in July had held up approval of the authority plan, said Friday that the authority, with the amendments, could become a model for the nation in dealing with disasters.  </p>
+<p>The trailer bill called for a more scientific approach to setting earthquake insurance rates. The bill also required that the insurance industry retain its contingent liability for 12 years. Originally, the industry was expected to retain its contigent liability for 10 years.</p>
+<p>As part of the $10.5 billion authority, about $1.5 billion would be raised through the sale of so-called &quot;catastrophe&quot; bonds that would be issued through the state.</p>
+<p>&quot;It doesn't take care of all the problems for the policy holders and the insurance industry,&quot; said Senator Charles Calderon, the newly elected Senate Democratic majority leader.  </p>
+<p>But Calderon added, &quot;It provides certainty for the policy holders and the industry. For the homeowners' market, it provides stability. Equivalent rates for equivalent risk will prevail.&quot;</p>
+<p>Some lawmakers were still somewhat concerned by the plan.</p>
+<p>Senator Quentin Kopp, an Independent from San Francisco, said he was concerned rates in the San Francisco area would still be higher than other regions despite the amendments.</p>
+<p>The state Assembly, which has already approved the main California Earthquake Authority legislation, was expected to act on the trailer bill early next week.</p>
+<p>The Senate would take up the main legislation creating the authority once the Assembly approved the trailer bill.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

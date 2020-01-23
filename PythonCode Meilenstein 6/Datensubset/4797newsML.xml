@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4797" id="root" date="1996-08-20" xml:lang="en">
+<title>CHINA: Shanghai promises to support local listed firms.</title>
+<headline>Shanghai promises to support local listed firms.</headline>
+<dateline>SHANGHAI 1996-08-20</dateline>
+<text>
+<p>The Shanghai government has promised to offer preferential treatment to 100 locally listed firms to speed up the development of the city's stock market, the Shanghai Securities News said on Tuesday.</p>
+<p>The city government said it would help to reduce cost of fund-raising for the firms, recommend good projects for them to invest in and offer favourable conditions in the course of mergers and restructuring, the newspaper said.</p>
+<p>Major local banks will give more credit to blue-chip listed companies and the city's securities authorities will help the listed firms raise more money from the stock market, it said.</p>
+<p>The city government will publish specific measures within a few days, it said.</p>
+<p>It quoted the city's vice general secretary, Han Zheng, as saying that improving the performance of listed firms was a key factor to further develop the stock market and the local economy. It did not elaborate.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

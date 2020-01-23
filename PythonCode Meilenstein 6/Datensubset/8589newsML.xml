@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8589" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: GOLF-GERMAN OPEN FIRST ROUND SCORES.</title>
+<headline>GOLF-GERMAN OPEN FIRST ROUND SCORES.</headline>
+<dateline>STUTTGART, Germany 1996-08-22</dateline>
+<text>
+<p>Leading first round</p>
+<p>scores in the German Open golf championship on Thursday (Britain</p>
+<p>unless stated):</p>
+<p>62 Paul Broadhurst</p>
+<p>63 Raymond Russell</p>
+<p>64 David J.Russell, Michael Campbell (New Zealand), Ian</p>
+<p>Woosnam, Bernhard Langer (Germany), Ronan Rafferty, Mats</p>
+<p>Lanner (Sweden), Wayne Riley (Australia)</p>
+<p>65 Eamonn Darcy (Ireland), Per Nyman (Sweden), Russell Claydon,</p>
+<p>Mark Roe, Retief Goosen (South Africa), Carl Suneson</p>
+<p>66 Stephen Field, Paul Lawrie, Ian Pyman, Max Anglert</p>
+<p>(Sweden), Miles Tunnicliff, Christian Cevaer (France),</p>
+<p>Des Smyth (Ireland), David Carter, Lee Westwood, Greg</p>
+<p>Chalmers (Australia), Miguel Angel Martin (Spain),</p>
+<p>Thomas Bjorn (Denmark), Fernando Roca (Spain), Derrick</p>
+<p>Cooper</p>
+<p>67 Jeff Hawksworth, Padraig Harrington (Ireland), Michael</p>
+<p>Welch, Thomas Gogele (Germany), Paul McGinley (Ireland),</p>
+<p>Gary Orr, Jose-Maria Canizares (Spain), Michael Jonzon</p>
+<p>(Sweden), Paul Eales, David Williams, Andrew Coltart,</p>
+<p>Jonathan Lomas, Jose Rivero (Spain), Robert Karlsson</p>
+<p>(Sweden), Marcus Wills, Pedro Linhart (Spain), Jamie</p>
+<p>Spence, Terry Price (Australia), Juan Carlos Pinero (Spain),</p>
+<p>Mark Mouland</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STUTTGART, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

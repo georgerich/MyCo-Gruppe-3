@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10173" id="root" date="1996-08-22" xml:lang="en">
+<title>MALAYSIA: Tenaga blackout loss seen 23.26 mln rgt.</title>
+<headline>Tenaga blackout loss seen 23.26 mln rgt.</headline>
+<dateline>KUALA LUMPUR 1996-08-22</dateline>
+<text>
+<p>State-owned utility Tenaga Nasional Bhd suffered an estimated 23.26 million ringgit in losses from the 12-15 hour blackout in peninsula Malaysia on Aug. 3, a report from the company said.</p>
+<p>In the second report on the incident submitted to the Malaysian Cabinet on Wednesday, the company said the power outage cost it 13.26 million ringgit in revenues and another 10 million ringgit in equipment damage.</p>
+<p>The Federation of Malaysian Manufacturers has said the manufacturing sector lost 123 million ringgit from the blackout.</p>
+<p>Tenaga's report reiterated that technical problems at a power station led to the blackout, the country's second major outage in four years.</p>
+<p>It said a faulty component in a 275kV circuit breaker at its Paka power station in the east coast Terengganu state tripped a number of gas turbines and led to an automatic cut-off to the national transmission grid. The grid connects 23 power stations.</p>
+<p>Tenaga said it is inspecting all similar circuit breakers.</p>
+<p>Malaysia is hiring a foreign consultant to review Tenaga's operations following the incident, which triggered official outrage and embarrassment. Tenaga's executive chairman Ani Arope will be replaced when his term expires at the end of this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

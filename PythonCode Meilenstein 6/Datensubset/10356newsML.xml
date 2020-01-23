@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10356" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Honda raises 96/97 parent, group operating f'casts.</title>
+<headline>Honda raises 96/97 parent, group operating f'casts.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Honda Motor Co Ltd said on Friday that it had raised its parent operating forecast for the current business year to March 31, 1997, to 115 billion yen from its May forecast of 82 billion yen.</p>
+<p>A company official also said Honda had raised its group operating forecast for the year to 295 billion yen from its May forecast of 235 billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

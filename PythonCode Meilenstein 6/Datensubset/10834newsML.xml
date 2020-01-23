@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10834" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: EchoCath gets second, broader patent.</title>
+<headline>EchoCath gets second, broader patent.</headline>
+<dateline>PRINCETON, N.J. 1996-08-23</dateline>
+<text>
+<p>EchoCath Inc said Friday that it the company received a second, broader patent for diffracting Doppler-Transducers.</p>
+<p>&quot;This second patent is a valuable asset to EchoCath because it broadens the company's claims on an ultrasonic transducer technology that meets what diagnosticians have sought -- the ability to monitor and measure the amount of blood flow, rather than just blood pressure,&quot; said EchoCath's executive vice president David Vilkomerson.</p>
+<p>EchoCath manufactures medical devices that expand the use of ultrasound technology for medical applications and procedures.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

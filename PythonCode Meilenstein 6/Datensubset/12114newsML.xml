@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12114" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian Bank Reference (Prime) Rates.</title>
+<headline>RTRS-Australian Bank Reference (Prime) Rates.</headline>
+<text>
+<p>To Advise Changes - Phone (02) 373-1800</p>
+<p>		  (Updated August 23, 1996)</p>
+<p>&quot;BIG FOUR&quot;</p>
+<p>  ANZ Bank   Reference			  10.35</p>
+<p>		 Index (Business Overdraft)   10.75</p>
+<p>  CBA	  Corporate Loan Reference     10.25</p>
+<p>		 Corporate Overdraft	    10.25</p>
+<p>		 Loan Index Rate		  10.75</p>
+<p>		 Overdraft Index		  10.75</p>
+<p>		 Residential Property Ref     11.50</p>
+<p>		 Better Business		   9.45</p>
+<p>  NAB	  Benchmark			  10.25</p>
+<p>		 Base				 10.75</p>
+<p>  Westpac    Business Finance Rate	   9.00</p>
+<p>		 Reference Lending Rate	 10.25</p>
+<p>		 Indicator Lending Rate	 10.75</p>
+<p>&quot;OTHERS&quot;</p>
+<p>  Advance    Business Reference	     11.10</p>
+<p>		 Business Overdraft Base Rate 10.95</p>
+<p>		 Base Factoring Rate	    12.50</p>
+<p>  Arab Bank  Prime Lending Rate	     10.15</p>
+<p>  Bank Melb  Base Lending Rate		10.75</p>
+<p>  Bank NZ    Corporate Base		   10.50</p>
+<p>		 Consumer Base		    11.00</p>
+<p>		 Deposit Indicator Rate	  6.25</p>
+<p>  BankSA     Base Indicator		   10.90</p>
+<p>		 Personal Base		    14.00</p>
+<p>		 Corporate Overdraft	    10.90</p>
+<p>  BankWest   Overdraft Reference	    10.75</p>
+<p>  Challenge  Business Reference	     10.45</p>
+<p>		 Corporate Benchmark	    10.45</p>
+<p>		 Commercial variable	    10.70</p>
+<p>		 Bill Indicator		    7.80</p>
+<p>  HK Bank    Base Lending Rate		10.75</p>
+<p>  Metway     Base Rate			  10.50</p>
+<p>  QIDC	 Business Variable Rate	 10.50</p>
+<p>		 Business Overdraft	     11.00</p>
+<p>  St George  Business Banking Reference   11.75</p>
+<p>		 Prime Lending Rate	     11.25</p>
+<p>St George</p>
+<p>  Partnership Prime Lending Rate	    11.25</p>
+<p>  State NSW   Reference Rate		  10.75</p>
+<p>		  Special Business Plus Var.   9.25</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

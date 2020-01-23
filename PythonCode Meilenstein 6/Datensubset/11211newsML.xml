@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11211" id="root" date="1996-08-23" xml:lang="en">
+<title>BRAZIL: Brazil gov't sends &quot;check tax&quot; bill to Congress.</title>
+<headline>Brazil gov't sends &quot;check tax&quot; bill to Congress.</headline>
+<dateline>BRASILIA 1996-08-23</dateline>
+<text>
+<p>Brazilian President Fernando Henrique Cardoso has sent to Congress a regulatory bill setting up the so-called CPMF check tax, officials said.</p>
+<p>Congress has already approved, after heated debate and last-minute deals, a consitutional amendment permitting the implementation of the tax, which would levy 0.2 percent on all financial transactions and is aimed at funding health services.</p>
+<p>The draft of the regulatory bill allows for government bodies, including the federal government, the states and cities and state-owned firms, to be exempt.  </p>
+<p>Transfers between accounts belonging to the same person or firm are also exempt, as are financial transactions by institutions on behalf of third parties, a measure intended to avoid double-taxation.</p>
+<p>Those earning less than three minimum salaries a month, currently 336 reais, and state pensioners will be compensated.</p>
+<p>In a preamble to the draft bill, Finance Minister Pedro Malan and Health Minister Adib Jatene said the tax, to run for a year, was expected to raise 400 million reais a month. No date has yet been set for Congress to start discussing the bill.</p>
+<p>-- Michael Christie, Brasilia newsroom 55-61-2230358</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

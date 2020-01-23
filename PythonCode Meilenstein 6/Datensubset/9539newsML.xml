@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9539" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Kevorkian attends third suicide in week.</title>
+<headline>Kevorkian attends third suicide in week.</headline>
+<dateline>PONTIAC, Mich. 1996-08-22</dateline>
+<text>
+<p>Dr. Jack Kevorkian attended his third suicide in less than a week on Thursday, bringing the body of a 40-year-old Missouri woman suffering from multiple sclerosis to a hospital emergency room, doctors said.</p>
+<p>Dr Robert Aranosian, emergency room director at Pontiac Osteopathic Hospital, said Kevorkian brought in the body of Patricia Smith, of Lees Summit, Mo., at midday and told doctors that she had been paralysed by the disease.</p>
+<p>It was his second assisted-suicide in 36 hours and the 37th that he has acknowledged attending since starting his crusade for doctor assisted suicide in 1990.</p>
+<p>Kevorkian's lawyer, Geoffrey Fieger, said those attending Smith's death included her husband, David, a police officer, her father, James Poland, and Kevorkian. It was the first known time that a police officer has been president at the suicide of one of Kevorkian's patients.</p>
+<p>He offered no details about the cause of Smith's death or the location. She was a nurse who had &quot;rapidly progressing multple sclerosis.&quot;</p>
+<p>On Tuesday night, Kevorkian attended the death of Louise Siebens, a 76-year-old Texas woman with amyotrophic lateral sclerosis, or Lou Gehrig's disease. On August 15, Kevorkian helped Judith Curren, a 42-year-old Massachusetts nurse, who suffered from chronic fatigue syndrome, a non-terminal illness, to end her life.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PONTIAC, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

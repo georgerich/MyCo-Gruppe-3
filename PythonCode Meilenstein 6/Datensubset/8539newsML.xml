@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8539" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: HORSE RACING-NUNTHORPE STAKES RESULTS.</title>
+<headline>HORSE RACING-NUNTHORPE STAKES RESULTS.</headline>
+<dateline>YORK, England 1996-08-22</dateline>
+<text>
+<p>Result of the Nunthorpe Stakes, a group one race for two-year-olds and upwards, run over five furlongs (1 km) on Thursday:</p>
+<p> 1. Pivotal		100-30 (ridden by George Duffield)</p>
+<p> 2. Eveningperformance  16-1 (Chris Rutter)</p>
+<p> 3. Hever Golf Rose     11-4 (Jason Weaver)</p>
+<p>Eight ran. </p>
+<p>Favourite: Mind Games (7-4) finished 4th</p>
+<p>Distances: a short head, 1-1/4 lengths.</p>
+<p>Winner owned by the Cheveley Park Stud and trained by Sir</p>
+<p>Mark Prescott at Newmarket.</p>
+<p>Value to winner: 72,464 pounds sterling ($112,200)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORK, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6994" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: NYC lost 5,200 jobs in July - city comptroller.</title>
+<headline>NYC lost 5,200 jobs in July - city comptroller.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>New York City's economy lost a seasonally adjusted 5,200 jobs in July due to job losses in the public sector, city Comptroller Alan Hevesi said Wednesday.</p>
+<p>This is the first loss in six months.</p>
+<p>The private sector, however, continued to generate jobs, adding 2,600 in July, the city comptroller reported in his release of employment data provided by the Department of Labor, which the city comptroller's office seasonally adjusts.</p>
+<p>After a small gain in June, government lost a large amount of jobs, down a seasonally adjusted 7,800.</p>
+<p>Local government, which includes city government and agencies such as Port Authority of New York and New Jersey and New York State Metropolitan Transportation Authority, lost 7,200 jobs, while the state and federal government lost a combined 600 jobs.</p>
+<p>Sectors showing job losses in July were wholesale and retail trade, down a seasonally adjsuted 300, finance, insurance and real estate (FIRE), down 600, and health services, down 2,100.</p>
+<p>The job loss data for July reflect a large loss in the health services sector, which experienced mild gains in the spring and none in May or June. The city began laying off some employees from its hospital system as it continues to look to streamline and privatize and sell the hospital system.</p>
+<p>The gains in the private sector were concentrated in manufacturing, which added 2,300 jobs -- the first gains made by that sector after five months of losses. The securities industry was constant, with no gains or losses, the city comptroller reported.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

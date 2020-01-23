@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6100" id="root" date="1996-08-21" xml:lang="en">
+<title>ECUADOR: Ecuadoran oil union calls for more foreign bans.</title>
+<headline>Ecuadoran oil union calls for more foreign bans.</headline>
+<dateline>QUITO 1996-08-21</dateline>
+<text>
+<p>The union representing workers at Ecuador's state-owned Petroecuador Wednesday called on the government to ban more foreign oil companies and said they ran inefficient, high cost operations.</p>
+<p>The union call came after the government announced late Tuesday that it was banning U.S firm Maxus Energy Corp from continuing its operations in Ecuador until it reaches a joint-venture deal with state-owned Petroecuador.</p>
+<p>The National Federation of Petroecuador workers said that its president, Ivan Narvaez, has asked Energy and Mines Minister Alfredo Adoum to adopt a hard line against other foreign oil companies operating in the country.</p>
+<p>&quot;Just like Maxus, they are inefficient and maintain higher production costs,&quot; the Federation said.</p>
+<p>It praised the government's move because Maxus &quot;was yielding the state zero profitability&quot;.</p>
+<p>The Federation alleged that Petroecuador produced oil at a cost of only $2 a barrel and that Maxus's cost was $21.58 a barrel. It alleged Tripetrol produced oil in Ecuador for $44.58 a barrel and Elf for $24.56.</p>
+<p>Among the foreign oil companies operating in Ecuador are France's Elf Aquitaine, Repsol of Spain and ARCO (Atlantic Richfield Co) of the United States.</p>
+<p>-- Gustavo Oviedo, Quito Newsroom +5932 258-433</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

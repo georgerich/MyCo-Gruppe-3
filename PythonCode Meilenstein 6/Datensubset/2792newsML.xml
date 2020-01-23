@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2792" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Netscape urges action on Microsoft.</title>
+<headline>Netscape urges action on Microsoft.</headline>
+<dateline>PALO ALTO 1996-08-20</dateline>
+<text>
+<p>Netscape Communications Corp's lead antitrust lawyer has written to the U.S. Department of Justice to urge that immediate action be taken against Microsoft Corp for what Netscape called &quot;far-reaching anti-competitive behavior.&quot;</p>
+<p>The letter, dated August 12 and made available to Reuters Tuesday, is a further escalation of a battle of words between the two companies that began earlier this month as the rivals prepared to issue new versions of Internet browser software.</p>
+<p>Gary Reback, an outside attorney representing Netscape, also suggested in the letter that the issue be turned back to the Federal Trade Commission for further investigation.  </p>
+<p>The eight-page letter accuses Microsoft of having made written offers to computer makers, Internet service providers (ISPs), systems integrators and large corporations providing for &quot;either clandestine side payments, discounts on the Microsoft desktop operating system (Windows) or payments in the form of 'real estate' on the Windows 95 screen.&quot;</p>
+<p>The Netscape counsel said these inducements were made on the condition that the parties involved would &quot;make competitors' browsers far less accessible to users than Microsoft's own browser.&quot;</p>
+<p>A browser enables PC users to access the World Wide Web.  </p>
+<p>The legal clash comes at a critical point as both Netscape and Microsoft are introducing new versions of their respective browsers, Netscape Navigator and Microsoft Internet Explorer.</p>
+<p>Netscape, which pioneered browser technology and surged on to the public stock market with a stellar initial public offering in August 1995, holds the lead with an estimated 80 percent or more of the worldwide browser market.</p>
+<p>But Microsoft, whose Windows systems dominate the personal computer market with about a 90 percent share, has moved quickly to gain an estimated 10 percent browser share.  </p>
+<p>It said Monday that more than one million users have downloaded its latest Internet Explorer version in its first week of availability.  </p>
+<p>The software, known as Internet Explorer 3.0, was formally introduced just a week ago. On Monday, Netscape launched the latest version of its own Navigator software.</p>
+<p>Both companies have linked up with content providers to offer free trial subscriptions as a way of promoting their browsers. Analysts have said that Microsoft, which has thrown its marketing and financial clout into Internet products, has leveled the playing field with its latest software.</p>
+<p>Netscape and Microsoft are already well along the way to developing the next version of their browser software.  </p>
+<p>Reback, a Silicon Valley lawyer known for spearheading past legal tussles with the Redmond, Wash.-based software company, said the alleged practices went far beyond those that had been addressed in a consent decree agreed by Microsoft and the Justice Department two years ago.</p>
+<p>&quot;Microsoft's behavior is, if anything, more anti-competitive and pernicious than the conduct addressed specifically in the decree,&quot; Reback wrote in the letter.</p>
+<p>Reback said in an interview a number of companies had &quot;started coming out of the trees&quot; with compliants since a war of words began between Netscape and Microsoft two weeks ago.  </p>
+<p>Reback urged the Department of Justice to investigate what Netscape believes was illegal conduct by Microsoft, saying the department could do so swiftly. He said many small Internet companies &quot;now face the threat of elimination from the market by reason of Microsoft's illegal conduct.&quot;</p>
+<p>The attorney also suggested the department's antitrust division return the matter to the Federal Trade Commission, which he said has taken a recent interest in the subject.</p>
+<p>&quot;In any event, we are requesting immediate attention,&quot; he said. &quot;Time is of the essence. We know that the antitrust division has an open file with respect to Microsoft.&quot;</p>
+<p>-- sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

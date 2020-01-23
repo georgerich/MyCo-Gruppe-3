@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9515" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Texas/w Okla feedlot cattle slow at $68 - USDA.</title>
+<headline>Texas/w Okla feedlot cattle slow at $68 - USDA.</headline>
+<dateline>AMARILLO 1996-08-22</dateline>
+<text>
+<p>Trade was slow in the Panhandle area Wednesday, USDA said. Slaughter steers and heifers steady.</p>
+<p>Feedlots reporting light inquiry from buyers.  Sales reported on 4,000 slaughter steers and 2,000 heifers; 155,000 head confirmed for week to date which includes 20,900 formulated cattle and 1,300 previously contracted cattle to be shipped this week and 44 loads or 1,500 CME cattle.  Note: all cattle prices based on net weights FOB the feedlot after a 4 percent shrink.</p>
+<p>Slaughter Steers:  Select and Choice 2-3 1150-1250 lbs 68.00.</p>
+<p>Slaughter Heifers: Select and Choice 2-3 1050-1150 lbs 68.00.</p>
+<p>Select, few Choice 2-3 1050-1200 lbs 67.00.</p>
+<p>Confirmed:    6,000   Week Ago: 13,600	  Year Ago: 35,000</p>
+<p>Wk to Date: 155,000   Week Ago: 51,600	  Year Ago: 48,300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMARILLO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

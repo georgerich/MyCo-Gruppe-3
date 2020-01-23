@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10299" id="root" date="1996-08-23" xml:lang="en">
+<title>KAZAKHSTAN: Kazakh government sets up Air Kazakhstan airline.</title>
+<headline>Kazakh government sets up Air Kazakhstan airline.</headline>
+<dateline>ALMATY 1996-08-23</dateline>
+<text>
+<p>The Kazakh government has set up a new national carrier, ZAO Air Kazakhstan, following the suspension of flights this week by state-owned Kazakhstan National Airways (KazAir), transport minister Yuri Lavrinenko told reporters.</p>
+<p>Air Kazakhstan belongs to the State Property Committee. Privately owned Kazkommertsbank will lend the airline money, provide credit guarantees and manage the airline's finances, he said.</p>
+<p>The head of the property committee, Sarybai Kalmyrzaev, said KazAir had $149 million of debts.</p>
+<p>&quot;This money will be repaid to creditors,&quot; he added, saying the company would be wound up.</p>
+<p>&quot;The new company must work efficiently and it will be clear from all debts,&quot; Kalmyrzaev said, adding that Air Kazakhstan would inherit only 20 percent of closed airline's fleet. He said the airline would buy new planes.</p>
+<p>Kalmyrzaev also said that Air Kazakhstan would have the prospect of share emission to the end of this year.</p>
+<p>Askar Alshimbaev, Kazcommertsbank deputy chief, said the bank would finance Air Kazakhstan activity, including the purchase of new aircraft.</p>
+<p>Lavrinenko said the carrier would be registered with the International Civil Aviation Organisation (ICAO) in the next three months. &quot;All scheduled domestic and international flights will be made during this period,&quot; he said.</p>
+<p>--Almaty Newsroom, (3272) 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

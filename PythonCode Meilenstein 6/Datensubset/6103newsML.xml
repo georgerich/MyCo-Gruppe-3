@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6103" id="root" date="1996-08-21" xml:lang="en">
+<title>BRAZIL: Brazil real ends off 0.06 pct in calm trading.</title>
+<headline>Brazil real ends off 0.06 pct in calm trading.</headline>
+<dateline>SAO PAULO 1996-08-21</dateline>
+<text>
+<p>Brazil's real dropped 0.06 percent to end at 1.0147 per dollar in the commercial foreign exchange market, dealers said.</p>
+<p>Preliminary figures for commercial and financial foreign exchange contracts showed a Wednesday surplus of around $120 million in late afternoon, traders said.</p>
+<p>In the interbank floating rate market, the real fell 0.04 percent to end at 1.0190 to the dollar.</p>
+<p>In the illegal parallel market, the real close at 1.035 per greenback, down 0.19 percent.</p>
+<p>-- Romina Nicaretta, Sao Paulo newsroom, 55-11-2324411</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

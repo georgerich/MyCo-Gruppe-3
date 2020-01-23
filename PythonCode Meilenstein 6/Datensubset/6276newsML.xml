@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6276" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Sumitomo meeting did not discuss copper losses.</title>
+<headline>Sumitomo meeting did not discuss copper losses.</headline>
+<dateline>OSAKA, Japan 1996-08-21</dateline>
+<text>
+<p>Sumitomo group company presidents did not discuss the ongoing controversy surrounding Sumitomo Corp's massive losses in the copper market during their informal monthly meeting, Sumitomo Bank Ltd president Toshio Morikawa said on Wednesday.</p>
+<p>This was in marked contrast to the July Hakusui-kai gathering, when Sumitomo Corp chairman Tomiichi Akiyama told the meeting of 20 presidents that he believed investigations would make it clear the company was not involved in the unauthorised copper trades.</p>
+<p>At a news conference after the July meeting, Morikawa revealed that his bank had recently provided small additional loans to Sumitomo Corp and that Hakusui-kai participants agreed jointly to study ways of improving risk management.</p>
+<p>On June 13 Sumitomo Corp announced it amassed an estimated $1.8 billion in losses from unauthorised copper trading.</p>
+<p>The Hakusui-kai has been a Sumitomo group tradition since 1951, following the post-war break-up by allied forces of the so-called &quot;zaibatsu&quot; conglomerates, which included Mitsui and Mitsubishi as well as Sumitomo.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSAKA, Japan"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

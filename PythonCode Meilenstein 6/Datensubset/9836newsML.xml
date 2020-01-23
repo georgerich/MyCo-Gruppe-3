@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9836" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: Delhi shares end lower after early gains.</title>
+<headline>Delhi shares end lower after early gains.</headline>
+<dateline>NEW DELHI 1996-08-22</dateline>
+<text>
+<p>Delhi shares shed early gains to close lower on Thursday as late selling by profit-takers outweighed fresh buying by foreign institutional investors, brokers said.</p>
+<p>The Delhi sensitive index fell 3.71 points to close at 792.03.</p>
+<p>&quot;Shares failed to sustain higher levels as profit-takers preferred to book profits at every rise which mainly disrupted the recovery,&quot; said Yogesh sethi of brokers Vinayaka Investments.</p>
+<p>Reliance Industries fell 4.35 to 209.90 while TISCO lost 1.75 rupees to close at 188.35. State Bank of India dropped 5.20 rupees to 207.20 mainly on selling by mutual funds.</p>
+<p>ACC lost 55 rupees at 2,085 while TELCO gained four rupees to close at 484.</p>
+<p>-- New Delhi newsroom +91-11- 301 2024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

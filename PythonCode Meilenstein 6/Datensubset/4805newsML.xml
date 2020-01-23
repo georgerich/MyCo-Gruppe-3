@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4805" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Sony Music ask-only on lower earnings forecast.</title>
+<headline>Sony Music ask-only on lower earnings forecast.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Shares in Sony Music Entertainment (Japan) Inc were ask-only in Tuesday morning trade, depressed by the company's announcement on Monday of a sharp downward revision of its earnings forecast, traders said.</p>
+<p>As of 0144 GMT, the ask-only price for Sony Music Entertainment was 4,300 yen, compared with its closing price of 4,550 yen on Monday.  </p>
+<p>On Monday, Sony Music said it saw its parent current profit for the six months to September 30, 1996, at 4.30 billion yen, down from its earlier forecast of 10.30 billion yen.</p>
+<p>It also said its parent current forecast for the 1996/97 business year was 11.50 billion yen, down from its earlier forecast of 19.40 billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

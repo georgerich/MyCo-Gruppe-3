@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12211" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Kyungki Bank launches US$40 mln FRN.</title>
+<headline>Kyungki Bank launches US$40 mln FRN.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>The following issue was announced by arranger Sumitomo Finance (Asia).</p>
+<p> BORROWER KYUNGKI BANK</p>
+<p> GUARANTOR --</p>
+<p> AMT	US$40 MLN  COUPON     6ML+40	MATURITY    3 YRS</p>
+<p> TYPE     FRN	  ISS PRICE  PAR	   RE-OFFER    99.82</p>
+<p> PUTS     NONE	 CALLS	NONE	  PAY DATE    LATE SEP</p>
+<p>LISTING  NONE	 REPAYMENT  BULLET	DENOMS	---</p>
+<p> RATINGS  BAA1	 SALES LMTS STANDARD</p>
+<p> NEG PLG  YES	  CRS DEF    YES	   FORCE MAJ   YES</p>
+<p> GOV LAW  ENGLISH    HOME CTRY  S.KOREA     TAX PROV    ---</p>
+<p>MANAGEMENT LEVELS AND FEES</p>
+<p>	    CO-LEAD MGR US$4 MLN+   27 BP ALL-IN 49</p>
+<p>	    MANAGER     US$2-3 MLN  24 BP ALL-IN 48</p>
+<p>ARRANGER SUMITOMO FINANCE ASIA (JAPANESE BOOKS), UNION BANK OF</p>
+<p>	    SWITZERLAND (BOOKS)</p>
+<p> NOTES    MOODY'S BANK FINANCIAL STRENGTH RATING IS D.</p>
+<p>-- Hong Kong Newsroom (852) 2843-6371</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

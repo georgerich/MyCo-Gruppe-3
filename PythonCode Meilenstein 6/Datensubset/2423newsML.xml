@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2423" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Aust Prov News sees higher 1996 profit.</title>
+<headline>RTRS-Aust Prov News sees higher 1996 profit.</headline>
+<dateline>BRISBANE 1996-08-20</dateline>
+<text>
+<p>Media group Australian Provincial Newspapers Ltd (APN) said on Tuesday that it was optimistic of reporting an increase in earnings for the 12 months to December 31, 1996.</p>
+<p>&quot;We would be pretty optimistic of maintaining our unbroken record of profit increases in the current year,&quot; APN chief executive Cameron O'Reilly told a media briefing in Brisbane.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

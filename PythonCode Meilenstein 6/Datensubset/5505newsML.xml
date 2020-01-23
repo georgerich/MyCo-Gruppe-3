@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5505" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: RESEARCH ALERT - Newbridge EPS raised.</title>
+<headline>RESEARCH ALERT - Newbridge EPS raised.</headline>
+<text>
+<p>-- Cowen &amp; Co analyst James Kedersha said he raised his 1996 and 1997 earnings per share view on Newbridge Networks Corp after the company reported solid first quarter results.</p>
+<p>He said he raised his 1997 EPS estimate by $0.10 to $2.25 and his 1998 EPS view by $0.15 to $2.85.</p>
+<p>&quot;There has been a lot of controversy about Newbridge over the past quarter and a number of analysts have either downgraded the stock or cast serious doubts on its ability to make the quarter,&quot; Kedersha said.</p>
+<p>&quot;It turns out that they didn't just make the quarter but they beat it,&quot; he said, adding that orders were strong and the company had a positive balance sheet. &quot;Everything you could want was there.&quot;</p>
+<p>-- Shares of Newbridge were up 6-5/8 at 55 on the NYSE.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

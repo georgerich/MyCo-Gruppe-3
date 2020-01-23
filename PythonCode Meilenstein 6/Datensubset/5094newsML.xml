@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5094" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: Australia stocks open flat as budget digested.</title>
+<headline>Australia stocks open flat as budget digested.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>The Australian share market was steady at the open on Wednesday with turnover returning to modest levels as the market digested Tuesday's 1996/97 budget.</p>
+<p>At open, the All Ordinaries index firmed 0.3 points to 2,265.0 while September share index futures rose seven points to 2,277, a 12.0 point premium to the underlying index.</p>
+<p>Brokers said activity was likely to remain steady as players examined the equity market implications of the budget, although early indications were that it had been reasonably well received.</p>
+<p>&quot;It's looking okay so far,&quot; said dealer Duncan Gamble of brokerage Wilson HTM.</p>
+<p>&quot;There's not great activity and there is some digesting of the budget going on but people are generally pretty confident about the market after the budget,&quot; he said.</p>
+<p>Expectations were for a generally steady day's trading with a single figure finish the likely prospect.</p>
+<p>Commonwealth Bank was an early performer, gaining ground after reporting a 16.6 percent higher full year pre-tax profit of A$1.78 billion.</p>
+<p>Falls outnumbered rises by a ratio of about six to five, while about 47 percent of stocks traded remained steady.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

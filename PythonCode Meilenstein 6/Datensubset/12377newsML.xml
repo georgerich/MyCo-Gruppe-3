@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12377" id="root" date="1996-08-23" xml:lang="en">
+<title>VIETNAM: Family killed by Vietnam's Unification train.</title>
+<headline>Family killed by Vietnam's Unification train.</headline>
+<dateline>HANOI 1996-08-23</dateline>
+<text>
+<p>A family of three, including a pregnant woman, has been killed while crossing the tracks in front of Vietnam's north-south &quot;Unification train&quot;.</p>
+<p>Police in a district to the south of Hanoi said on Friday the family had been knocked down as they attempted to cross the tracks at a point where the oncoming train was hidden from view. The accident happened on Wednesday and further details were not available.</p>
+<p>Vietnam's Unification train is the name give to the service which runs between Hanoi and Ho Chi Minh City, the former South Vietnam capital.</p>
+<p>Accidents on Vietnam's old rail system are commonplace. Trains are slow-moving and people have been killed after falling asleep on the tracks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

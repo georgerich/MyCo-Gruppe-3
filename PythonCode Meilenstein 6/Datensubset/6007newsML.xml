@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6007" id="root" date="1996-08-21" xml:lang="en">
+<title>ALBANIA: Albania's Berisha pledges commitment to free vote.</title>
+<headline>Albania's Berisha pledges commitment to free vote.</headline>
+<dateline>TIRANA 1996-08-21</dateline>
+<text>
+<p>Albanian President Sali Berisha on Wednesday urged all political parties to participate in upcoming local elections, pledging his government's commitment to a free and fair vote.</p>
+<p>Most opposition groups, citing fears of a biased electoral process, have threatened to boycott the nationwide local ballot on October 20, five months after a disputed general election cast a shadow over the ex-communist country's young democracy.</p>
+<p>&quot;I invite them to participate (in the local polls),&quot; Berisha said at a news conference. &quot;I guarantee a serious engagement for free and fair elections&quot;.</p>
+<p>Foreign governments, including the United States, have said they will keep a close eye on the local ballot and consider it a fresh test for democracy.</p>
+<p>Albania's third multi-party general election, held on May 26 and June 2, was marred by widespread allegations of manipulation. All major opposition parties withdrew from the parliamentary poll in protest.</p>
+<p>Berisha told reporters that the boycott, led by the main opposition Socialists, had been immoral.</p>
+<p>He did not refer to demands by the opposition to restyle a recently-formed electoral commission, which many parties claim is biased in favour of Berisha's Democratic Party.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

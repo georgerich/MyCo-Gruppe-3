@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3122" id="root" date="1996-08-20" xml:lang="en">
+<title>MAURITANIA: Mauritanians complain of treatment in Angola.</title>
+<headline>Mauritanians complain of treatment in Angola.</headline>
+<dateline>NOUAKCHOTT 1996-08-20</dateline>
+<text>
+<p>Dozens of Mauritanians expelled from Angola returned home on Tuesday, with some saying they had been badly treated and prevented from saying their Moslem prayers.</p>
+<p>The 82 Mauritanians, mostly businessmen, said after a plane from Angola's national airline flew them home that they had not been illegal immigrants and had left valuable possessions behind.</p>
+<p>Angola said on Friday it had deported 415 immigrants operating unlawful businesses and would expel hundreds more by early this week.</p>
+<p>Returning Mauritanians said Angola had severe economic problems and that Angolans were jealous of foreigners' success. Some said they had been given inadequate food and water while in detention before their expulsion.</p>
+<p>Guinean officials said on Monday that 159 Guineans expelled at the weekend had been unfairly treated by Angolan security forces.</p>
+<p>A sudden clampdown on foreigners began on August 12 when the Angolan government expelled 349 citizens of Senegal, Lebanon and Mali.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ANGOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MAURTN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOUAKCHOTT"/>
+<dc element="dc.creator.location.country.name" value="MAURITANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

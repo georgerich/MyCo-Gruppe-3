@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11454" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Reptile smuggling ring indicted in Florida.</title>
+<headline>Reptile smuggling ring indicted in Florida.</headline>
+<dateline>ORLANDO, Florida 1996-08-23</dateline>
+<text>
+<p>A federal grand jury indicted six men for a conspiracy to smuggle hundreds of rare and endangered reptiles from Madagascar into the United States and Canada, officials said on Friday.</p>
+<p>The charges, handed down on Thursday, came a week after two men were arrested in connection with the arrival of 61 Madagascan tree snakes and four rare spider tortoises at Orlando International Airport.</p>
+<p>Officials believe the reptiles, discovered by U.S. Customs inspectors in luggage belonging to a man who flew to Orlando from Frankfurt, Germany, were intended for sale during a large reptile breeders show in Orlando on August 17 and 18.</p>
+<p>The most recent arrests capped off a three-year investigation of international wildlife trafficking that federal officials believe generates billions of dollars of illegal profits each year.</p>
+<p>&quot;The indictment alleges a scheme in which a small, well-organised group of people set about to pillage the wildlife resources of Madagascar purely for their own profit,&quot; said Lois J. Schiffer, U.S. Justice Department's assistant attorney general for the natural resources division.</p>
+<p>Charged were Frank Lehmeyer, 42, of Frankfurt, Germany; Wolfgang Kloe, 33, of Rauenberg, Germany; Enrico Truant, 30, of Windsor, Ontario, Canada; Olaf Strohmann, 34, of Germany; Roland Werner, 34, of Germany; and Simon Harris, 25, of Blairgowrie, South Africa.</p>
+<p>Harris was arrested on August 13 after U.S. Customs Service inspectors in Orlando found $100,000 of reptiles in his luggage. Harris cooperated with federal investigators who later arrested Kloe, officials said.</p>
+<p>The other suspects are still being sought.</p>
+<p>The grand jury indictment alleged that after protected animals were transported from Madagascar to Europe, the suspects shipped snakes and tortoises from Europe to Canada and the United States concealed in suitcases. Payment for the smuggled animals was made by international wire transfers.</p>
+<p>Many of the smuggled animals are protected from export by a treaty called the Convention on International Trade in Endangered Species of Wild Fauna and Flora. They include the Madagascan Tree Boa, Spider tortoise and Radiated tortoise.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MALAG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Florida"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

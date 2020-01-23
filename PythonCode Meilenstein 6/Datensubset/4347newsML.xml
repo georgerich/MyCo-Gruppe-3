@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4347" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: Metaleurop eyes Sept restart at Nordenham.</title>
+<headline>Metaleurop eyes Sept restart at Nordenham.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>Metals firm Metaleurop said on Tuesday it planned to restart lead production at its Nordenham smelter in Germany in early September.</p>
+<p>&quot;We are aiming for a restart in early September. That is what is planned and there have been no changes so far,&quot; a company spokeswoman told Reuters.</p>
+<p>Metaleurop, a subsidiary of Preussag, announced in late July it was closing down the smelter to make technical modifications after some months of experience with its new bath technology.</p>
+<p>The smelter started producing lead in March.  </p>
+<p>Metaleurop had said output at the new 90,000 tonne plant was to be limited to 70 percent of capacity during the first 12 months of operation.</p>
+<p>The spokeswoman said the production target may be adjusted after the restart.</p>
+<p>Because of recurring technical problems Nordenham had been producing less lead than initially expected, she said.</p>
+<p>Asked if this meant Nordenham would not meet its initial output target for the first 12 months of operation, she said, &quot;We should be below our target but at this stage we cannot say by how much.&quot;</p>
+<p>Deliveries to customers have not been affected by the closure as Metaleurop was able to secure lead mainly from its Noyelle-Godault plant in France.</p>
+<p>Because of a traditional slowdown in orders during the summer, the company did not need to buy extra lead on an already tight physical market, she said.</p>
+<p>-- Dominique Vidalon, Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

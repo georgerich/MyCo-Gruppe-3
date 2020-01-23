@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4216" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: JW Charles Q2 net rises.</title>
+<headline>JW Charles Q2 net rises.</headline>
+<dateline>BOCA RATON, Fla. 1996-08-20</dateline>
+<text>
+<p>JWCharles Financial Services Inc</p>
+<p>					    Three Months Ended June 30,</p>
+<p>						     1996	   1995</p>
+<p> Revenues				  $25,874,000  $18,969,000</p>
+<p> Earnings before income taxes	  2,173,000    1,051,000</p>
+<p> Net Income				  1,346,000	652,000</p>
+<p> Earnings per common share		    0.37	   0.16</p>
+<p>Weighted average number of</p>
+<p> common shares outstanding	     3,632,000    3,952,000</p>
+<p>					     Six Months Ended June 30,</p>
+<p>							1996	  1995</p>
+<p> Revenues				  $46,885,000  $35,079,000</p>
+<p> Earnings before income taxes	  3,579,000    1,779,000</p>
+<p> Net Income				  2,208,000    1,082,000</p>
+<p> Earnings per common share		    0.56	   0.27</p>
+<p>Weighted average number of</p>
+<p> common shares outstanding	     3,935,000    3,952,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOCA RATON, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

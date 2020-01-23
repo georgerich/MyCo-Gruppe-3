@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10801" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. Northeast spot power steady on cool weather.</title>
+<headline>U.S. Northeast spot power steady on cool weather.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Spot electricity prices in the northeastern U.S. were steady Friday amid flat regional power usage due to continued mild weather and predictions temperatures are headed even lower, market sources said.</p>
+<p>&quot;Load is still low,&quot; said one Northeast trader, adding the amount of generating capacity in the region has been sufficient this summer despite outage of two nuclear power facilities operated by Northeast Utilities (NU).</p>
+<p>The capacity of NU's Millstone and Connecticut Yankee total 3,282 megawatts (MW). The plants were shut because of safety concerns raised by regulators.</p>
+<p>A sharp drop in natural gas prices this week depressed the incremental fuel costs for producing power in the Northeast, traders said.</p>
+<p>In the New England Power Pool (NEPOOL), firm, peak electricity for weekend delivery at NU's Conn.-N.Y. border was quoted at $20.00-$23.00 per megawatt hour (MWh), market sources said.</p>
+<p>Weekend NEPOOL electricity for firm, off-peak delivery was discussed in the $17.00 area.</p>
+<p>Firm, peak NEPOOL prices for Monday was assessed at $25.00-$27.00.</p>
+<p>There were still transmission constraints to move power from New York to New England, traders said.</p>
+<p>&quot;The Central-East is still a problem,&quot; said another Northeast trader, referring to congestion on the main N.Y.-New England power line due to high demand.</p>
+<p>In the New York Power Pool (NYPP), firm, peak electricity for weekend delivery was quoted at $18.00-$19.00 per MWh, while off-peak, firm prices for the weekend was pegged in the $16.00-$17.00 range, traders said.</p>
+<p>Firm, peak NYPP electricity for Monday was valued at $22.00-$24.00.</p>
+<p>--R Leong, New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

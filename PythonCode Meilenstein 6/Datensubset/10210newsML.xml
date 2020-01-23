@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10210" id="root" date="1996-08-23" xml:lang="en">
+<title>MEXICO: Mexican shares tumble on profit-taking.</title>
+<headline>Mexican shares tumble on profit-taking.</headline>
+<dateline>MEXICO CITY</dateline>
+<text>
+<p>Mexican stocks ran out of steam on Friday after a week of record highs gave way to profit-taking, although stock prices made up some ground toward the close of trade after falling through support levels.</p>
+<p>The IPC index of leading stocks fell 24.96 points or 0.74 percent to 3,364.37.</p>
+<p>&quot;The market was very weak. Most of the people paid to see what was going on and got out early,&quot; one floor trader said.</p>
+<p>Traders said the fact that stocks bottomed out at the second resistance level of 3,332 points and rebounded was a good sign that stocks are consolidating in preparation to rise again.</p>
+<p>But volume was very low at 62.57 million shares in 2,708 transactions. Losers outpaced gainers 51 to 31.</p>
+<p>Benchmark Telmex ADRs fell 3/8 to 33-3/4 while in Mexico its L shares, the largest issue on the bolsa, fell 1.09 percent to 12.70 pesos ($1.69). Telmex A shares fell 1.25 percent to 12.62 pesos ($1.68).</p>
+<p>Retailers took the biggest hit with Grupo Salinas y Rocha L shared topping the lists of losers by falling five percent or to 38 centavos (5 cents). Gigante B followed, off 4.44 percent to 2.58 pesos (34 cents) and Grupo Palacio de Hierro fell 3.85 percent to five pesos (67 cents).</p>
+<p>On the list of top gainers, Elektra L shares picked up 12.50 percent to 18 pesos ($2.40) on one 30,000-share trade in the morning.</p>
+<p>Sidek L shares gained 5.56 percent to 1.90 pesos (25 cents) and Ponder A posted its second straight day of solid gains, advancing 5.14 percent to 3.89 pesos (52 cents).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

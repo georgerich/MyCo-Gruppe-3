@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11138" id="root" date="1996-08-23" xml:lang="en">
+<title>RUSSIA: Central bank dollar/rouble rates 5298/5338  FXSU.</title>
+<headline>Central bank dollar/rouble rates 5298/5338  FXSU.</headline>
+<dateline>MOSCOW 1996-08-23</dateline>
+<text>
+<p>The Russian Central Bank said it had set 5298/5338 roubles per dollar as its bid and offer rates for its operations on the currency market on Friday.</p>
+<p>The official rate for Saturday will be 5318.</p>
+<p>On Thursday the bid/offer rates were 5291/5331, with the official dollar rate 5311 from Friday.</p>
+<p>The Central Bank announces daily bid/offer dollar/rouble rates for its currency operations. The midpoint of these rates is the official dollar/rouble rate for the following day.</p>
+<p>The daily corridor for the rouble on the interbank market is 5145/5745 after 5142/5742.</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

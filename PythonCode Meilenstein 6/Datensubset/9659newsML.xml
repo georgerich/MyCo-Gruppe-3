@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9659" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: SDL CEO says firm has turned away orders.</title>
+<headline>SDL CEO says firm has turned away orders.</headline>
+<dateline>SAN FRANCISCO 1996-08-22</dateline>
+<text>
+<p>SDL Inc chief executive Donald Scifres said Thursday the semiconductor maker has had to turn away some new orders in recent weeks because it could not provide customers with certain product delivery dates.</p>
+<p>Scifres said a manufacturing yield problem at SDL, announced earlier today, is delaying the delivery dates.</p>
+<p>&quot;In some cases, we are not taking new orders until we get some visibility on when we can (deliver),&quot; Scifres told analysts and reporters in a conference call.  </p>
+<p>The semiconductor manufacturing industry uses &quot;yield&quot; as a measurement of the number of flawless die, which are first-stage microchips, that can be produced on a given wafer.</p>
+<p>Scifres said SDL has in the past had yield issues, but that this particular one is taking longer to fix because the company has yet to uncover the entire problem.</p>
+<p>SDL shares were off 8-3/4 at 19-1/4 in very heavy trading by mid-afternoon. Scifres said he was &quot;very surprised&quot; by the falling stock price, and he called it an &quot;overreaction.&quot;</p>
+<p>The stock price tumbled as much as 14 points in early trading after analysts issued warnings about the company.</p>
+<p>Cowen and Co analyst Drew Peck told Reuters in an interview that margins could be down &quot;materially&quot; at SDL because it costs will stay constant while revenues slip. He cut his 1996 earnings by $0.13 a share to $0.68.</p>
+<p>In a statement, Donaldson Lufkin analyst Krishna Shankar also warned of margin pressure.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

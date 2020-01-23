@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4827" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Walt Disney launches 5.80% yen/Aussie dual samurai.</title>
+<headline>Walt Disney launches 5.80% yen/Aussie dual samurai.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Walt Disney Co on Tuesday launched 50 billion yen worth of 5.80 percent three-year yen/Australian dollar dual currency samurai bonds due September 9, 1999, lead manager Nikko Securities said.</p>
+<p>The bonds will be priced at par.</p>
+<p>The coupon of the samurai bonds will be paid in yen, while redemption will be in Australian dollars.</p>
+<p>Holders of the samurai bonds will receive A$11,759.59 for each one million yen bond held at maturity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

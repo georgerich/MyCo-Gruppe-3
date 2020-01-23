@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8706" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Nashville Country Q2 proforma net loss shrinks.</title>
+<headline>Nashville Country Q2 proforma net loss shrinks.</headline>
+<dateline>HICKORY VILLAGE, Tenn. 1996-08-22</dateline>
+<text>
+<p>For Second Quarter, April 1 - June 30, 1996</p>
+<p>		    Historical		  Pro Forma</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p> Revenues	  1,778,000    587,000   3,068,000   2,417,000</p>
+<p> Net income	(891,000)  (225,000)   (996,000) (1,065,000)</p>
+<p> Earnings per share  (.45)	(.15)	 (.22)	 (.23)</p>
+<p> Total Assets   38,032,277  3,112,352</p>
+<p> Shareholders'</p>
+<p>  Equity	  14,202,716  2,094,237</p>
+<p>				Selected Financial Data</p>
+<p>			     For Six Months, Jan. 1 - June 30, 1996</p>
+<p>		     Historical		  Pro Forma</p>
+<p>			    1996	 1995	  1996	 1995</p>
+<p> Revenues	   2,294,201  1,132,284  12,440,488  9,596,206</p>
+<p> Net income	 (990,528)  (494,000)     691,814  (227,870)</p>
+<p> Earnings per share   (.40)	(.34)	   .15	(.05)</p>
+<p> Total Assets    38,032,277  3,112,352</p>
+<p> Shareholders'</p>
+<p>  Equity	   14,202,716  2,094,237</p>
+<p>NOTE:Full company name is Nashville Country Club Inc.</p>
+<p>The company said it acquired The Village At Breckenridge Resort on April 29, 1996. Proforma results assume the acquisition was final as of January 1, 1996.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HICKORY VILLAGE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

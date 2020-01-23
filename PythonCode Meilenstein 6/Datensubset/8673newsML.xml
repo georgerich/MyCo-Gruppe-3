@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8673" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Federal Reserve report 2 (H.3/H.4.1) - August 22.</title>
+<headline>Federal Reserve report 2 (H.3/H.4.1) - August 22.</headline>
+<text>
+<p>Two Weeks Ended August 21 - daily avgs-millions</p>
+<p> Total Vault Cash.............43,327 vs........43,492</p>
+<p> Inc Cash Equal to Req Res....37,633 vs........37,741</p>
+<p>One Week Ended  August 21 (H.4.1)</p>
+<p> Bank Borrowings.................325 up............29</p>
+<p> Seasonal Loans..................319 up............24</p>
+<p> Extended Loans..................nil ............unch</p>
+<p> Float...........................556 up...........198</p>
+<p> Balances/Adjustments..........6,370 up.. .........57</p>
+<p> Currency....................429,499 down.........174</p>
+<p> Treasury Deposits.............5,129 up...........349</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

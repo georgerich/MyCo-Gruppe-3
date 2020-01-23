@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2658" id="root" date="1996-08-20" xml:lang="en">
+<title>SOUTH AFRICA: SOCCER-PRETORIA REFUSE TO PLAY IN ALGERIA.</title>
+<headline>SOCCER-PRETORIA REFUSE TO PLAY IN ALGERIA.</headline>
+<dateline>JOHANNESBURG 1996-08-20</dateline>
+<text>
+<p>Pretoria City have pulled out of an African Cup Winners' Cup quarter-final in Algeria next month because of safety fears.</p>
+<p>The South African side were due to play CR Belouizdad in a first leg match on September 6 but said on Tuesday concern over the security situation in the north African country forced them to withdraw.</p>
+<p>They now faces a fine from the Confederation of African Football, who have declared travel to Algeria safe.</p>
+<p>City are the first club in two years to refuse to go to Algeria, who have hosted several African club competition matches this year without incident.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

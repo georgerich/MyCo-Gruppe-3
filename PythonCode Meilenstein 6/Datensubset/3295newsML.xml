@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3295" id="root" date="1996-08-20" xml:lang="en">
+<title>KAZAKHSTAN: Uzbek banks say they ordered not to pay out cash.</title>
+<headline>Uzbek banks say they ordered not to pay out cash.</headline>
+<dateline>ALMATY 1996-08-20</dateline>
+<text>
+<p>Banks in the Uzbek capital Tashkent said on Tuesday the government had ordered them to stop paying out cash in the national sum currency for the rest of this month, but official sources denied such an order existed.</p>
+<p>&quot;They gave us an order to stop paying out cash until the beginning of next month,&quot; a spokeswoman for Uzpromstroibank, told Reuters by telephone.</p>
+<p>She said accounts held in sum had been frozen temporarily but she had no information as to whether foreign exchange accounts were affected.</p>
+<p>A source at another bank, Pakhta Bank, also confirmed the order but could give no further details.</p>
+<p>Late on Monday, Interfax news agency quoted a senior finance ministry official as saying cash operations had been suspended to allow the authorities to pay wages to agricultural workers. There is a shortage of cash banknotes in Uzbekistan.</p>
+<p>A spokesman at the Central Bank of Uzbekistan denied such an order existed. &quot;We know nothing about this order,&quot; he said.</p>
+<p>--Chris Bird, Almaty newsroom, +7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UZBK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

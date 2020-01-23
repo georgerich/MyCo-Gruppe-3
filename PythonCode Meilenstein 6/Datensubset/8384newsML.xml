@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8384" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: Generale des Eaux hardly reacts to sales.</title>
+<headline>Generale des Eaux hardly reacts to sales.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>Shares in Generale des Eaux were slightly lower after the group announced its first-half sales figures and said it did not exclude joining a takeover offer for state-owned film production company SFP.</p>
+<p>On Wednesday the company's CGEA unit won a franchise to run a second British train service.</p>
+<p>At 1100 GMT, the share was 0.20 percent lower at 504 francs in a modest volume of 61,204 while the market average headed higher after a German repo rate cut.</p>
+<p>Financial analysts said that the slide in Generale des Eaux was not significant and did not reflect a disappointment. They said the sales figures were as expected and in line with the company's objectives.</p>
+<p>Generale des Eaux said it first half sales were stable at 78 billion francs, but up 7.5 percent if the troubled French public works activities were excluded.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I9741112">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

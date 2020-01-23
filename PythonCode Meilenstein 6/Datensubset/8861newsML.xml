@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8861" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: NYMEX COB electric futures jump, Sept PV cuts loss.</title>
+<headline>NYMEX COB electric futures jump, Sept PV cuts loss.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>NYMEX California-Oregon Border (COB) electricity futures jumped midday Thursday on a bullish combination of technical and fundamental factors, brokers and traders said.</p>
+<p>&quot;It's a little technical correction,&quot; said one Houston trader, adding forecasts of hot weather in the U.S. Northwest and expectation of lower hydroelectric output in September also pushed the COB half of the complex higher.</p>
+<p>&quot;After breaking out of $18.25, there's been a lot of buying,&quot; a New York futures broker said, referring to the September COB contract.</p>
+<p>September COB was up 70 cents at $18.95 per megawatt hour (MWh) after hitting a near two-week high of $19.00. October COB gained 85 cents to $17.00.</p>
+<p>September Palo Verde (PV) futures, moving in tandem with the strength in COB, were up 14 cents cents at $21.18 per MWh after talked as low as $20.30, October PV, in very thin volume, was up 80 cents at $17.00.</p>
+<p>The Houton trader said ongoing softness in natural prices in West has pressured the September PV contract in early trading.</p>
+<p>September natgas prices for delivery at San Juan, N.M., were quoted in the low $1.50 per thousand cubic feet range, down from the high $1.50 area on Wednesday close.</p>
+<p>As of 1140 EDT, NYMEX said 50 COB and 37 PV PV contracts were sold.</p>
+<p>September COB and PV contracts expire Tuesday, Aug 27.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

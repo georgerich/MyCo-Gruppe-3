@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10308" id="root" date="1996-08-23" xml:lang="en">
+<title>POLAND: More Polish firms show output, exports rise - poll.</title>
+<headline>More Polish firms show output, exports rise - poll.</headline>
+<dateline>WARSAW 1996-08-23</dateline>
+<text>
+<p>The number of Polish firms showing production and exports growth increased in July, according to a survey by the planning ministry (CUP) released on Friday.</p>
+<p>The survey showed the number of firms which increased production in July rose by 10 percentage points to 33 percent of those polled. The number of companies with growing exports rose three points to 29 percent.</p>
+<p>The survey also said that 28.5 percent of firms increased employees' wages in July, up from 15 percent in June. The survey polls 123 manufacturing, construction and trade firms, both private and state-owned.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

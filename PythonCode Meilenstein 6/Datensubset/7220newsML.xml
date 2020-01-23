@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7220" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian 13-week T-note yields 6.781 pct.</title>
+<headline>RTRS-Australian 13-week T-note yields 6.781 pct.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>The Reserve Bank of Australia said the result of this week's T-note tender was as follows:</p>
+<p> 13-week -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS400 mln   6.781	 6.76-6.79   6.797</p>
+<p>		  (RBA take-up A$100 mln, pct allotted at top 44)</p>
+<p> 5-week  -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS200 mln   6.880	 6.88 only   6.891 (Aug 7)</p>
+<p>		  (RBA take-up A$100 mln, pct allotted at top 50)</p>
+<p> 26-week -    Amount	Av. yield   Range	 Previous</p>
+<p>		  AS800 mln   6.706	 6.67-6.72   6.732</p>
+<p>		  (RBA take-up nil, pct allotted at top 76)</p>
+<p>-- Sydney newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

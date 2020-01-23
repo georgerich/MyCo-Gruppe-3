@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9907" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS - Cons Paper says margins recovering.</title>
+<headline>RTRS - Cons Paper says margins recovering.</headline>
+<dateline>MELBOURNE 1996-08-22</dateline>
+<text>
+<p>Paper merchant Consolidated Paper Industries Ltd said on Thursday that trading margins were gradually recovering to former levels as industry demand and supply were coming back into balance.</p>
+<p>Earlier, the company reported a 78.3 percent fall in full year net profit to A$2.02 million.  </p>
+<p>Consolidated Paper said international paper prices bottomed in June and had already seen some small increases.</p>
+<p>This followed trading conditions in the second half which the company described as the most difficult it had ever experienced, with a slump in prices that continued through the first quarter of 1996.</p>
+<p>Consolidated Paper shares closed untraded but were bid at A$2.45, unchanged from its previous close on August 21.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

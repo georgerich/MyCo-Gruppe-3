@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11320" id="root" date="1996-08-23" xml:lang="en">
+<title>INDONESIA: Indonesian palm oil higher on tight supply.</title>
+<headline>Indonesian palm oil higher on tight supply.</headline>
+<dateline>JAKARTA 1996-08-23</dateline>
+<text>
+<p>Indonesian palm oil was higher in late trade on Friday amid continuing tight supply in the domestic market, traders said.</p>
+<p>&quot;Demand remains stable, but tight supply keeps boosting prices up. The trend is still on the upside,&quot; one trader said.</p>
+<p>They said ready palm olein was higher at 1,550-80 rupiah/kg in Jakarta and Surabaya, while olein in Medan was higher at 1,470 rupiah from 1,460 in the morning trade.</p>
+<p>Traders said no tender of crude palm oil was heard on Friday. A tender of 2,000 tonnes of crude palm oil was sold at 1,215 rupiah/kg on Thursday, compared with 1,175 rupiah/kg on Tuesday.</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

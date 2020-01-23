@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5547" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Cinemark USA completes $200 mln issue of notes.</title>
+<headline>Cinemark USA completes $200 mln issue of notes.</headline>
+<dateline>DALLAS 1996-08-21</dateline>
+<text>
+<p>Cinemark USA Inc said it completed the issuance of $200 million 9-5/8 percent senior subordinated notes due 2008.</p>
+<p>The notes were issued at 99.553 percent of the principal face amount, the company said.</p>
+<p>Proceeds from the issuance of the subordinated notes were $193.2 million, enabling the company to repurchase $123.4 million of its 12 percent senor notes due June 1, 2002.</p>
+<p>The company will use remaining proceeds for general corporate purposes, including theater development and reducing borrowing through a revolving credit facility, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

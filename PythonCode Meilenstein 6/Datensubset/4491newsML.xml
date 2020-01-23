@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4491" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: Talisman to buy interests from BP.</title>
+<headline>Talisman to buy interests from BP.</headline>
+<dateline>CALGARY, Alberta 1996-08-20</dateline>
+<text>
+<p>Talisman Energy (UK) Ltd, a unit of Canada's Talisman Energy Inc, said early on Tuesday it had agreed to acquire interests in three producing oil fields and adjacent acreage from British Petroleum Co Plc (BP).</p>
+<p>In a statement, the company said BP announced its intention to sell the Beatrice, Buchan and Clyde fields in March 1996 as part of a plan to dispose of some non-core assets. BP is the operator of these properties and its interests range from 43 percent to 65 percent.</p>
+<p>No financial terms were announced.  </p>
+<p>Talisman will acquire about 27 million net barrels of proved and probable reserves. The transaction is expected to close at the end of this year, with an effective date of July 1, 1996.</p>
+<p>The acquisition will add about 16,000 barrels a day of oil and liquids production, starting in 1997, &quot;and $30 million to 40 million annually in cash flow at WTI prices of US$18.00 per barrel,&quot; the statement said.</p>
+<p>Most of the contractors and employees working in the fields are expected to join Talisman.</p>
+<p>Talisman produces 96,000 barrels a day of oil and liquids, of which 33,000 is in the North Sea. The company produces 654 mmcf/day of natural gas, of which 91 mmcf/day is in the North Sea.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY, Alberta"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10620" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH AFRICA: SOUTH AFRICA LAUNCHES PHARMACEUTICAL CLUSTER STUDY.</title>
+<headline>SOUTH AFRICA LAUNCHES PHARMACEUTICAL CLUSTER STUDY.</headline>
+<dateline>JOHANNESBURG 1996-08-23</dateline>
+<text>
+<p>South Africa will formally launch a pharmaceuticals cluster study on October 22, the department of trade and industry said in a statement on Friday.</p>
+<p>The move is part of a joint approach with the National Economic Development and Labour Council (Nedlac) and the state-owned Industrial Development Corporation (IDC).</p>
+<p>The aim is develop a &quot;cluster&quot;, or industry grouping, approach to secure a viable domestic pharmaceutical industry which creates and sustains jobs, the department said.</p>
+<p>Industry representatives will consider the best way forward at a pharmaceutical industry forum on October 22.</p>
+<p>-- Johannesburg newsroom +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

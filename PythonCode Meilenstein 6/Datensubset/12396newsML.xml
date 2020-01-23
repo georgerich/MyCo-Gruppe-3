@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12396" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Woman becomes Japan killer germ's 11th victim.</title>
+<headline>Woman becomes Japan killer germ's 11th victim.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>A 59-year-old woman died of food poisoning on Friday in western Japan's Nara prefecture, casting a cloud over the country's plans to declare that the threat from a mysterious killer germ was receding.</p>
+<p>The woman, a housewife from Yamatotakada city who had been hospitalised since last month, was the 11th person to die from the O-157 colon bacillus.</p>
+<p>News of the death came as Japanese media reported that health officials were preparing to declare next month that the worst of the epidemic was over as the number of new infections had decreased.</p>
+<p>Health Minister Naoto Kan said on Thursday that there had been no new cases of the disease.</p>
+<p>The O-157 colon bacillus has been found responsible for a widespread food poisoning epidemic that has also made more than 9,500 people ill this year.</p>
+<p>The city of Sakai, near Osaka in western Japan, has been hit hardest, with nearly 6,500, mostly school children, affected by the disease.</p>
+<p>Health authorities believe school lunches are the source of the food poisoning which hit Sakai. But researchers have been unable to locate the exact source of the infection.</p>
+<p>Raw fish, radish sprouts, meat and cold noodles -- all items served in the lunches -- were suspected and then discounted as the cause of the poisoning.</p>
+<p>The outbreak has prompted authorities to tighten sanitary standards at slaughterhouses and meatpacking plants and sparked calls for an overhaul of the nation's school lunch programme.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

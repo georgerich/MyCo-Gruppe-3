@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5764" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: HGCA daily agri-money rates - Aug 21.</title>
+<headline>HGCA daily agri-money rates - Aug 21.</headline>
+<text>
+<p>Green Rate   Ref Period    1 Day     3 Day   Forecast Current</p>
+<p> 21 Aug	  21 Aug     21 Aug		  G.Rate   rate in</p>
+<p>		  AMR	 RMG    RMG	RMG   31 Aug   effect</p>
+<p>BFr  39.5239  39.1820   0.865  0.865    n/a     unch   24.06.95</p>
+<p>Dmk  1.91639  1.90182   0.760  0.760    n/a     unch   07.07.96</p>
+<p>DFl  2.14934  2.13326   0.748  0.748    n/a     unch   07.07.96</p>
+<p>UK   0.833821 0.827679  0.737  0.737    n/a     unch   17.06.96</p>
+<p>DKr  7.49997  7.35044   1.994  1.994    n/a     unch   24.07.95</p>
+<p>FFr  6.61023  6.50352   1.614  1.614    n/a     unch   01.02.95</p>
+<p>Lit  2030.40  1946.50   4.132  4.132    n/a     unch   26.04.96</p>
+<p>IR   0.829498 0.796521  3.976  3.976    n/a     unch   26.03.95</p>
+<p>Dra  311.761  304.006   2.487  2.487    n/a     unch   01.01.96</p>
+<p>Pta  165.198  160.287   2.558  2.558    n/a     unch   24.07.95</p>
+<p>Esc  198.202  195.272   1.478  1.478    n/a     unch   01.02.95</p>
+<p>Skr  8.64446  8.47048   2.013  2.013    n/a     unch   07.07.96</p>
+<p>Os   13.4875  13.3827   0.777  0.777    n/a     unch   07.07.96</p>
+<p>Fmk  6.02811  5.74315   4.727  4.727    n/a     unch   06.05.96</p>
+<p>AMR = Agricultural Market Rate.</p>
+<p>RMG = Real Monetary Gap.</p>
+<p>On the basis of exchange rates on 21 August, the average Finnish RMG has fallen below +5 percent. The Finnish markka is therefore currently forecast not to enter a second confirmation period on 31 August and its green rate would therefore remain unchanged. All other green rates are alos currently forecast to remain unchanged from 31 August.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

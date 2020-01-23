@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3220" id="root" date="1996-08-20" xml:lang="en">
+<title>POLAND: Polish insurer Amplico Life net up 470 pct in H1.</title>
+<headline>Polish insurer Amplico Life net up 470 pct in H1.</headline>
+<dateline>WARSAW 1996-04-26</dateline>
+<text>
+<p>Polish insurance company Amplico Life earned net 9.6 million zlotys in the first half of 1996, 470 percent up from the same period of last year, the company said in a statement on Tuesday.</p>
+<p>It said the company's pre-tax profit also surged almost 400 percent to 12.65 million zlotys in the first half.</p>
+<p>Amplico said gross premiums rose 176 percent to 90.5 million in the first half and technical reserves rose threefold to 96.4 million zlotys.</p>
+<p>Amplico's spokeswoman Balbina Wolongiewicz told Reuters the company boosted its share of Poland's life insurance market to 7.1 percent in the first half from 4.6 percent at the end of 1995.</p>
+<p>Amplico Life, active in Poland since 1990, is 55-percent owned by American International Group Inc (AIG) and 45-percent by Poland's state-owned bank Pekao SA.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-04-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

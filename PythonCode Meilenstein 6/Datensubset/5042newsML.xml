@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5042" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: UGG cuts W. Canada wheat crop forecast, ups canola.</title>
+<headline>UGG cuts W. Canada wheat crop forecast, ups canola.</headline>
+<dateline>WINNIPEG 1996-08-21</dateline>
+<text>
+<p>United Grain Growers cut its forecast for western Canadian wheat production in the 1996/97 (Aug/July) crop year but a substantial increase from the previous year is still anticipated.</p>
+<p>UGG forecast wheat output would total 28.61 million tonnes, down slightly from an earlier projection of 28.84 million but well above Statistics Canada's 1995/96 production figure of 23.85 million.  </p>
+<p>&quot;The major element of risk in this forecast is the fact that the crop remains one to two weeks behind normal maturity in many regions of the prairies and is very susceptible to an early frost,&quot; UGG said in a crop report.</p>
+<p>UGG said forecasts were based on a survey of UGG elevator managers over the period August 12 to 14 when growing conditions were close to ideal.</p>
+<p>Canola production in western Canada this year was projected at 5.01 million tonnes, up slightly from UGG's previous forecast of 4.95 million but sharply below StatsCan's 1995/96 production figure of 6.37 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4628" id="root" date="1996-08-20" xml:lang="en">
+<title>HONG KONG: Hansol Merchant mandates $40 mln FRCD.</title>
+<headline>Hansol Merchant mandates $40 mln FRCD.</headline>
+<dateline>HONG KONG 1996-08-20</dateline>
+<text>
+<p>Hansol Merchant Bank has mandated Credit Suisse and KDB Asia to arrange a US$40 million floating rate certificate of deposit issue, bankers said.</p>
+<p>They said the facility has a final maturity of three years with annual put options and no call options. The issue will be priced at par.</p>
+<p>An arranger group is being formed, bankers noted.</p>
+<p>No futher details were available.</p>
+<p>In March, the issuer launched a US$50 million FRCD.</p>
+<p>The three-year facility was priced at par to float at 50 basis points over the six-month London Interbank Offered Rate.</p>
+<p>With fees, the all-in return for top-tier managers was 66 basis points.</p>
+<p>--Hong Kong Newsroom (852) 2847 4039</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7503" id="root" date="1996-08-21" xml:lang="en">
+<title>ITALY: Minimum rate 8.85 pct at Italy lira repo.</title>
+<headline>Minimum rate 8.85 pct at Italy lira repo.</headline>
+<dateline>ROME 1996-08-21</dateline>
+<text>
+<p>The minimum rate at today's 9.0 trillion lire 22-day Bank of Italy repurchase tender was 8.85 percent, compared with 9.03 percent previously, the Bank said.</p>
+<p>The average rate was 8.86 percent against 9.05 percent at the last repurchase pact for 7.0 trillion lire and 21 days on August 12.</p>
+<p>The pact takes effect today and the securities are for resale on September 12. The Bank said it received 52 bids of which 10 were met in full and four in part.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

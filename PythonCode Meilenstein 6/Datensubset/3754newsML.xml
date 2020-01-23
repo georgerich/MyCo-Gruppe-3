@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3754" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: US yield curve to buck trend and steepen post FOMC.</title>
+<headline>US yield curve to buck trend and steepen post FOMC.</headline>
+<byline>Roanne Daniels</byline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Federal Reserve policymakers left short-term interest rates untouched on Tuesday, setting the stage for a trend-breaking steepening of the cash Treasury yield curve in the near-term, analysts said.</p>
+<p>A steeper yield curve means a greater difference in yields between long-term and short-term government debt, reflecting investor fears that inflation could heat up. The yield curve in U.S. debt has been narrowing in recent months.  </p>
+<p>&quot;The potential now is for steepening, especially after the auctions are out of the way next week,&quot; said Michael Krauss, chief technical strategist at Chase Securities Inc.</p>
+<p>The U.S. Treasury will announce on Wednesday the amount of next week's scheduled two- and five-year note sales. Morgan Guarantee Trust Co. has estimated the total at $31.25 billion.</p>
+<p>The yield curve has been on a flattening trend since last February as the difference in yields between 30- and two-year Treasuries shrank from roughly 130 basis points to 70, said Walter Burke, senior technical analyst at consulting firm MCM MoneyWatch.  </p>
+<p>The current spread stands at 83 basis points and Burke said it could go as high as 95 in the short term, breaking out of the 70 to 85 basis point range seen so far this summer.</p>
+<p>&quot;I see resistance at around 94, so we're looking at maybe 10 basis points of steepening within the near-term,&quot; he said.</p>
+<p>Krauss sees the yield differential between 10- and two-year notes widening to the high 60's from a current 59 basis point spread.</p>
+<p>&quot;It's a combination of the Fed not going, commodity prices strong and the curve trying to put in a little bit of a base,&quot; Krauss added.  </p>
+<p>But a flattening trend will reinstate itself if the economy heats up and talk emerges once again regarding a possible future Federal funds rate hike, analysts said.</p>
+<p>&quot;I think the economy is going to look stronger in the month of September than in the July data we've been getting,&quot; said Martin Mauro, first vice president and senior economist in securities research and economics at Merrill Lynch &amp; Co.</p>
+<p>&quot;The market right now has no Fed tightening priced in and it will start to be priced in during September,&quot; he said, adding that the rise in short-term rates would likely outpace that of long-term yields, thus flattening the curve.  </p>
+<p>For investors with a one-year horizon, Mauro recommended a so-called &quot;barbell&quot; strategy -- splitting maturities between the front end of the curve for decreased price volatility and the long end for higher yield -- over an equivalent duration strategy of going long in a single maturity.</p>
+<p>&quot;You do a barbell when you expect the curve to flatten. You often give up yield...but you gain convexity. With the curve flattening, overall you get a better return,&quot; Mauro said.  </p>
+<p>Convexity measures the rate at which duration changes in response to a change in interest rates. Duration is the average number of years a bond portfolio is exposed to market risk. Duration and convexity are the two criteria used to measure price sensitivity of bonds.</p>
+<p>Fundamentals aside, technicals point to more curve steepening after the initial breakout from the summer's tight range.</p>
+<p>&quot;Looking longer-term, the charts make the case for more of a steepening move,&quot; Burke said.  </p>
+<p>Relatively stagnant yield differencials have been solidifying a new base level. Once this base is firmly established in two to three months, the two- and 30-year Treasury spread will move towards 110 to 120, Burke said.</p>
+<p>The Federal Open Market Committee opted on Tuesday to hold interest rates steady amid signs the economy is slowing with no immediate inflation pressures in sight.</p>
+<p>-- 212-859-1677</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5782" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: Lloyd's seen avoiding worst in U.S. court case.</title>
+<headline>Lloyd's seen avoiding worst in U.S. court case.</headline>
+<byline>Christopher Adams</byline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>Lloyd's of London is expected by Thursday evening to have avoided the worst possible outcome of a last minute legal assault in the United States to its recovery plan, said industry sources.</p>
+<p>U.S. district judge Robert Payne, who is to rule by then on demands from 93 U.S. investors (or Names) for an injunction blocking the plan, was thinking over his decision on Wednesday.  </p>
+<p>Lloyd's has for several years faced a huge amount of litigation in the U.S., but the timing of the latest challenge, so near the August 28 deadline for Names to accept or reject the recovery plan, has caused serious problems.</p>
+<p>Under its recovery proposals, Lloyd's plans to reinsure billions of pounds in liabilities, including pollution and asbestosis claims in the U.S., into a new company Equitas. It is asking Names to help pay for Equitas, but offered them 3.2 billion stg to offset this cost and to end litigation.  </p>
+<p>Industry sources noted that, while Payne might seek to grant some sort of relief to the U.S. Names, he said on Tuesday that it was not his intention to stop the Lloyd's recovery plan worldwide.</p>
+<p>It is possible that, apart from dismissing the case as Lloyd's has requested, Payne may be considering a compromise.</p>
+<p>He could, for example, issue an order that Lloyd's provide Names with more information and that funds be held in escrow allowing Names more time to accept or reject the recovery plan.  </p>
+<p>It is unclear how Lloyd's would respond to a ruling like this. But the insurance market has already said it would appeal any decision it felt was a setback.</p>
+<p>Lloyd's is also likely to consider the implications of the judge's decision on where legal battles with Names are fought. In moving to dismiss this case, it has argued that the U.S. Names under their contract with Lloyd's are bound to conduct legal action against the insurance market in Britain.</p>
+<p>The Names contend that Lloyd's sold them a security and they cannot under U.S. laws waive protection in their own country.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

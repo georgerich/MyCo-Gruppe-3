@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8300" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Eli Lilly licenses drugs to Dura.</title>
+<headline>Eli Lilly licenses drugs to Dura.</headline>
+<dateline>INDIANAPOLIS 1996-08-22</dateline>
+<text>
+<p>Eli Lilly and Co said on Thursday it had signed an agreement giving Dura Pharmaceuticals Inc exclusive U.S. marketing rights to Lilly's patented cephalosporin antibiotics Ceclor CD (cefaclor extended release tablets) and Keftab (cephalexin hydrochloride) for about $100 million plus additional contingent amounts.</p>
+<p>As part of the agreement, Lilly will continue to manufacture both products.</p>
+<p>Dura will begin promoting Keftab to physicians immediately after the transaction closes and will launch and promote Ceclor CD, Lilly said.</p>
+<p>The promotion of Ceclor CD and Keftab by Dura will allow Lilly to concentrate efforts on maximizing the growth of Prozac and its full complement of new products, including ReoPro, Gemzar and Humalog, Lilly said.</p>
+<p>The company said it expects the transaction to close next month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

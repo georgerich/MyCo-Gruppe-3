@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6872" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: McDermott Intl says CFO resigning.</title>
+<headline>McDermott Intl says CFO resigning.</headline>
+<dateline>NEW ORLEANS 1996-08-21</dateline>
+<text>
+<p>McDermott International Inc said on Wednesday that Brock Hattox, its chief financial officer, is resigning from his various positions at the company.</p>
+<p>Hattox is resigning from his positions as executive vice president, chief financial officer and as president of the engineering and construction group.</p>
+<p>He also is stepping down from the boards of both McDermott International and J. Ray McDermott SA, a majority-owned subsidiary of the energy-services company.</p>
+<p>His resignation is effective September 1. The company said Hattox is pursing &quot;other interests.&quot; No successor was named.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

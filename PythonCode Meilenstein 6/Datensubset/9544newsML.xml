@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9544" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Tumor treatment for transplant patients is promising.</title>
+<headline>Tumor treatment for transplant patients is promising.</headline>
+<byline>Kerri Selland</byline>
+<dateline>PITTSBURGH 1996-08-22</dateline>
+<text>
+<p>Six years after receiving a heart transplant, Robert Smith woke one morning last year with bumps the size of small eggs on his right leg.</p>
+<p>&quot;I knew they weren't normal,&quot; the 64-year-old resident of Nesquehoning, Pennsylvania, said. After his doctor ran tests, Smith was sent to Pittsburgh, where he received an experimental treatment for tumours in transplant patients.</p>
+<p>Eight days later, the malignant tumours disappeared. A year later, they have not returned. &quot;There were no side effects,&quot; Smith said on Thursday via telephone from his home. &quot;I felt fine.&quot;</p>
+<p>Organ transplant patients who develop malignant tumours -- a condition called post-transplant lymphoproliferative disease (PTLD) -- may benefit from a treatment being researched at the University of Pittsburgh Medical Centre, according to Dr Michael Nalesnik, one of the researchers.</p>
+<p>The new treatment showed promise in a study that began last year and involved seven patients including Smith, Nalesnik said.</p>
+<p>&quot;We have a lot of work to do, research is ongoing,&quot; Nalesnik said. &quot;But it appears promising. We'd like to expand it and use it on more patients.&quot;</p>
+<p>In the study, cells were removed from the immune systems of patients who developed malignant tumours after an organ transplant.</p>
+<p>Tumours can develop after an organ transplant because of a resulting weakness in the immune system.</p>
+<p>The cells were then mixed with Interleukin-2, a natural hormone that stimulated the cells to become lymphokine-activated killer cells (LAK cells.)</p>
+<p>The LAK cells, which kill tumour cells while sparing normal ones and are used in other forms of cancer therapy, were infused back into the patients' bloodstreams.</p>
+<p>Nalesnik said tumours disappeared in four of the patients and have not recurred. The medical centre plans to use the treatment on at least 20 more patients.</p>
+<p>According to the medical centre, about 2 percent of transplant patients develop PTLD. Tumours can develop months or even years after a transplant.</p>
+<p>Nalesnik said only a small percentage of tumours respond to traditional treatments, which include temporarily reducing them or eliminating drugs patients took to suppress their immune systems and prevent organ rejection.</p>
+<p>Nalesnik plans to present the study's results next week in Spain at a meeting of the International Congress of the Transplantation Society.</p>
+<p>Other researchers said the treatment was encouraging. &quot;I would love to see more people treated this way,&quot; said Dr Israel Penn, a transplant researcher at the University of Cincinnati Medical Centre. &quot;It could be a significant advancement in the management of these patients.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

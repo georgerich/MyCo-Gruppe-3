@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11776" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US Energy Dept awards $5 mln for willow power plan.</title>
+<headline>US Energy Dept awards $5 mln for willow power plan.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>The U.S. Energy Department on Friday awarded $5 million for six years to Niagara Mohawk Power Corp to grow willow trees as fuel for power plants to make electricity, an Energy Department spokeswoman said.</p>
+<p>Niagara Mohawk and New York State Electric and Gas are leading a consortium of more than 25 companies, power producers, farmers, associations, academic institutions, and regional government agencies in a $14 million project to produce willow trees as fuel for power plants in six years.</p>
+<p>The Salix Consortium expects to be able to produce 37-47 megawatts of electricity.</p>
+<p>By 2010, the group plans to have 40,000 to 60,000 acres of willows planted in central and western New York, to help power electricity sales worth about $135 million a year, according to the Energy Department.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8670" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: RESEARCH ALERT - Fannie Mae raised to buy.</title>
+<headline>RESEARCH ALERT - Fannie Mae raised to buy.</headline>
+<text>
+<p>--Montgomery Securities analyst Joseph Jolson upgraded his rating on Fannie Mae to buy from hold.</p>
+<p>--sees earnings per share for fiscal years 1996 and 1997 at $2.47 a share and $2.82 a share, respectively.</p>
+<p>--set a a six month target price of $40.</p>
+<p>--revised his credit expense outlook, which he said could improve even further compared to already low current chargeoff levels.</p>
+<p>--increased his secular growth rate by 100 basis points, to 14 percent compounded over the next three to five years.</p>
+<p>--said the high visibility of the growth rate and the company's reduced macro risk profile warrant a premium price earnings valuation.  </p>
+<p>--Shares of Federal National Mortgage Association closed 1/2 higher at 33 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

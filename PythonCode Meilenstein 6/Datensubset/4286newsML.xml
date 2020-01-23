@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4286" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Talbots Inc Q2 net falls.</title>
+<headline>Talbots Inc Q2 net falls.</headline>
+<dateline>HINGHAM, Mass. 1996-08-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   $0.20		    $0.24</p>
+<p> Net			   6,605		    8,261</p>
+<p> Revs			232,109		  226,907</p>
+<p> Avg shrs		   33,191		   34,558</p>
+<p>			6  MONTHS</p>
+<p> Shr			   $0.82		    $0.86</p>
+<p> Net			  27,384		   29,878</p>
+<p> Revs			468,296		  457,485</p>
+<p> Avg shrs		   33,339		   34,724</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Q2 same-store sales fell 4.9 pct.</p>
+<p>Periods ended Aug 3, 1996 vs July 29, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12208" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH KOREA: South Korean students throw &quot;irreplaceable&quot; rocks.</title>
+<headline>South Korean students throw &quot;irreplaceable&quot; rocks.</headline>
+<dateline>SEOUL 1996-08-23</dateline>
+<text>
+<p>Students at South Korea's Yonsei University threw more than just ordinary rocks at riot police -- some were samples that the geology department had taken 30 years to collect, newspapers reported on Friday.</p>
+<p>Geology prefessors were quoted as saying that their collection of 10,000 rocks, gathered from across the nation and abroad, were irreplaceable.</p>
+<p>&quot;These are not like missing window panes or broken desks. They are lost forever,&quot; said one professor.</p>
+<p>The students staged a violent nine-day demonstration at the university to demand unification with North Korea. Police ended the protest on Tuesday after storming the campus.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

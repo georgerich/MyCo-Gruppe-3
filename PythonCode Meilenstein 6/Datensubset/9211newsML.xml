@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9211" id="root" date="1996-08-22" xml:lang="en">
+<title>BELARUS: Belarus July inflation 2.0 pct vs 2.6 pct.</title>
+<headline>Belarus July inflation 2.0 pct vs 2.6 pct.</headline>
+<dateline>MINSK 1996-08-22</dateline>
+<text>
+<p>Belarus's monthly consumer price inflation slowed in July to 2.0 percent, the Statistics Ministry said on Thursday.</p>
+<p>    BELARUS CONSUMER PRICES  JULY 96   JUNE 96   JULY 95</p>
+<p>    Month-on-month change	 +2.0	+2.6	+5.2</p>
+<p>    Year-on-year change	  +44.1     +49    +1,174</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

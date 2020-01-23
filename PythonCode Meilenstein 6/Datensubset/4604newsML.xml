@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4604" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Kobe rubber futures mostly up in after-hours trade.</title>
+<headline>Kobe rubber futures mostly up in after-hours trade.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Kobe rubber futures were mostly up in after-hours trade on Tuesday, lifted by sporadic bargain-hunting after nearby months hit their life-of-contract lows earlier in the day, traders said.</p>
+<p>Prices ranged from 0.1 yen per kg lower to 1.0 yen firmer than the day's close. Benchmark January was unchanged at 137.5 yen. Activity was lacklustre with 5,458 lots traded.</p>
+<p>The market opened mixed with nearby months hurt by continued selling pressure. But a view that the market has been oversold helped prices to rebound, sending most prices into positive territory in after-hours trade, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

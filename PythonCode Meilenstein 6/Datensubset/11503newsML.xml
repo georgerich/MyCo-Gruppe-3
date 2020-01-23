@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11503" id="root" date="1996-08-23" xml:lang="en">
+<title>SWITZERLAND: Rich says SNB actions no threat to inflation.</title>
+<headline>Rich says SNB actions no threat to inflation.</headline>
+<dateline>ZURICH 1996-08-23</dateline>
+<text>
+<p>Swiss National Bank chief economist Georg Rich said the bank's recent policy of adding liquidity to the domestic money market did not pose an inflationary threat.</p>
+<p>&quot;Inflationary potential will not arise from such short-term calming actions,&quot; Rich was quoted as saying in an interview prepared for the Swiss financial weekly, Finanz und Wirtschaft.</p>
+<p>The interview, confirmed by the SNB, was made available to Reuters before publication on Saturday.</p>
+<p>Latest official figures show Swiss consumer prices fell by 0.1 percent in July for a year-on-year rise of 0.7 percent.</p>
+<p>Rich said the SNB remained cautious, although the inflationary risk was low due to the stagnation or even declining trend in the Swiss economy.</p>
+<p>&quot;Inflationary danger threatens only when an economic overheating results from an expansive monetary policy. That is currently certainly not the case,&quot; Rich said.</p>
+<p>He said he was more concerned about the deflationary implications of higher Swiss capital market interest rates, triggered by developments on foreign capital markets.</p>
+<p>Rich said the SNB had opted lately for a more expansive monetary policy as money market interest rates began to rise and economic forecasts started being revised downward.</p>
+<p>Rich attributed some of the tightness in the domestic money market to technical shifts in banks' holdings.</p>
+<p>He said that there may have been a shift by banks lately to hold fewer deposits at the Swiss Post Bank, which is also one of Switzerland's main settlement banks.</p>
+<p>Economists said that banks may have held less money recently at the Post Bank due to improvements in the cash settlement system. The banks shifted the funds to deposits held at the SNB.</p>
+<p>The SNB may have seen the resulting rise in sight deposits and assumed the liquidity in the system was adequate, without realising that the funds were simply being shifted from other accounts. It thus may have drained money.</p>
+<p>However, banks still needed the same amount of funding to meet liquidity requirements, economists said.</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

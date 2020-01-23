@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4627" id="root" date="1996-08-20" xml:lang="en">
+<title>PHILIPPINES: Philippine Asiatrust sets IPO price at 39.88 pesos.</title>
+<headline>Philippine Asiatrust sets IPO price at 39.88 pesos.</headline>
+<dateline>MANILA 1996-08-20</dateline>
+<text>
+<p>Philippines' Asiatrust Bank has set a price of 39.88 pesos per share for its initial public offering due to open on September 3, the issue's international lead manager PrimeEast Capital (HongKong) Ltd said.</p>
+<p>The bank is offering 18.8 million shares, or a 27.1 percent public float and hopes to raise 750 million pesos. The offer closes September 16 and listing is set for October 7.</p>
+<p>PrimeEast said money from the IPO would be used to fund the bank's loan portfolio expansion, for information technology upgrade as well as for opening of new branches.</p>
+<p>&quot;The issue is very attractive at a PER of 11 times prospective 1997 earnings on an expected EPS growth of 70 percent,&quot; PrimeEast's research head for the Philippines, Joy Quintos, said in a statement.</p>
+<p>&quot;This is a big discount to the average sector PER of 16.5 times for 1997, with an estimated average EPS growth of 31 percent,&quot; Quintos said.</p>
+<p>Asiatrust's net earnings have grown by a compounded annual rate of 32 percent in the last five years and this is expected to grow by 70 percent and 31 percent in 1996 and 1997, the statement said. PrimeEast said a roadshow was planned in Hong Kong and Singapore later this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

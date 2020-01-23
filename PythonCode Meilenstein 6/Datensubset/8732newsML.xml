@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8732" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. Justice Department files safe, Reno says.</title>
+<headline>U.S. Justice Department files safe, Reno says.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Computer hackers who altered the Justice Department's Internet home page last weekend did not get access to criminal files, U.S. Attorney General Janet Reno said on Thursday.</p>
+<p>The unidentified hackers added swastikas, obsenities and a picture of Adolf Hitler to the department's page on the World Wide Web in an apparent protest against a law prohibiting transmission of sexually explicit material on the Internet.</p>
+<p>The page was shut down until it could be restored. It has information about the department with links to pages on related topics such as the Violence Against Women Act.</p>
+<p>Reno said the department's web page (http://www.usdoj.gov) was separate from its other computer files.</p>
+<p>&quot;My understanding is that there is a clear wall between the two systems,&quot; Reno said at her weekly news briefing. &quot;The system designed for public information is separate from that that tracks criminal investigations.&quot;</p>
+<p>&quot;In this situation, it is a system that is available for the public because it is the Web site, designed to provide information to the public. And thus, it is more difficult to prevent hacking,&quot; she said.</p>
+<p>&quot;And what we had done and what this nation needs to do with respect to all its computer systems is continue to refine our knowledge and develop greater knowledge of what can be done to prevent hacking,&quot; she added.</p>
+<p>Reno and other officials have warned that the U.S. computer network is vulnerable to theft and sabotage and have called for stronger computer security measures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

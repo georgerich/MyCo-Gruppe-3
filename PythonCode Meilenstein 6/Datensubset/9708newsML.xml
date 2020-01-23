@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9708" id="root" date="1996-08-22" xml:lang="en">
+<title>NETHERLANDS: European feeds remain dull in afternoon.</title>
+<headline>European feeds remain dull in afternoon.</headline>
+<dateline>ROTTERDAM 1996-08-22</dateline>
+<text>
+<p>Business on the European meals and feeds market remained dull this afternoon with only three trades reported, market sources said.</p>
+<p>&quot;There was little buying mood today and calls for a weaker Chicago soymeal opening coupled to a stronger dollar also kept a firm lid on activity,&quot; one broker said.</p>
+<p>Arrived Brazilian soymeal pellets traded at $289 a tonne cif Rotterdam, Oct/Dec citruspulp pellets changed hands at $119 a tonne cif and EU rapemeal traded at 28 marks per 100 kg fob lower Rhine.--KAREL LUIMES +31 20 504 5832</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROTTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6058" id="root" date="1996-08-21" xml:lang="en">
+<title>RUSSIA: Indian grain exporters seek Moscow deals - embassy.</title>
+<headline>Indian grain exporters seek Moscow deals - embassy.</headline>
+<dateline>MOSCOW 1996-08-21</dateline>
+<text>
+<p>A group of major Indian grain producers is in Moscow seeking entry to the Russian grain market, an Indian embassy commercial counsellor said on Wednesday.</p>
+<p>&quot;We expect the delegation will reach preliminary accords with the Russian Agriculture Ministry and grain merchants on deliveries of Indian grain here,&quot; Amarendre Khatua, Commercial Counsellor at the Indian Embassy, told Reuters.</p>
+<p>Fourteen major grain producers were trying to sell Russia wheat and rice during a three-day visit, he said.</p>
+<p>&quot;This year India has a surplus of some three million tonnes of wheat...There is hope for an agreement to be reached here,&quot; Khatua said.</p>
+<p>He said Russia had imported no large quantities of Indian rice or wheat so far this year. Last year Russia bought no Indian wheat, but purchased about 10,000 tonnes of wheat flour and around 230,000 tonnes of rice, he added.</p>
+<p>&quot;With rice (exports) there must be no problem at all. India, one of the world's leading rice producers, can compete with anyone,&quot; he said.</p>
+<p>Khatua said most of the companies visiting Moscow were &quot;large and respectable, with annual turnovers of $300 million to $500 million and regular exports to the USA, Middle East and Europe&quot;.</p>
+<p>--Dmitry Solovyov, Moscow Newsroom +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

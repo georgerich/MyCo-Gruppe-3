@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12394" id="root" date="1996-08-23" xml:lang="en">
+<title>SINGAPORE: Malaysia Malacca refinery runs at 121,000 bpd.</title>
+<headline>Malaysia Malacca refinery runs at 121,000 bpd.</headline>
+<dateline>SINGAPORE 1996-08-23</dateline>
+<text>
+<p>Malaysia's state-owned oil company Petronas is now running its refinery in Malacca at 121,000 barrels per day (bpd), back to its operating rate before a recent nationwide power blackout, sources said on Friday.</p>
+<p>The operating rate is about 20 percent over the refinery's nameplate capacity of 100,000 bpd.  </p>
+<p>The refinery was shutdown for about four days to a week after the blackout on August 3. It was gradually restored to 115,000 bpd by mid-August.</p>
+<p>But the refinery, which is located on the east coast of Peninsula Malaysia, was again shut for a day on August 16 due to technical problems at the crude distillation unit and was subsequently restored to its pre-blackout running rate.</p>
+<p>Sources said the refinery has been running at around 120,000 bpd over the past two months prior to the power outage.</p>
+<p>The refinery processes domestic light sweet Tapis crude and condensates from Bintulu.  </p>
+<p>A power trip at the Paka power plant in the east coast state of Terengganu prompted all other power plants in the country to shut down as a precaution and so affected the Malacca refinery.</p>
+<p>--Singapore newsroom (+65-8703084)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

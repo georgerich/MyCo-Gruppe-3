@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12180" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-BHP makes three senior appointments.</title>
+<headline>RTRS-BHP makes three senior appointments.</headline>
+<dateline>MELBOURNE 1996-08-23</dateline>
+<text>
+<p>The Broken Hill Pty Co Ltd (BHP) said on Friday it had made three new senior appointments.</p>
+<p>The company said Bob Flew had been seconded to BHP Copper as senior vive president corporate development, while Lance Hockeridge was appointed to replace Flew's former position of corporate general manager international and Bruce McGowan had been made group general manager BHP transport. McGowan was formerly general manager Port Kembla Coal.</p>
+<p>BHP said Flew's appointment would bring experience from the wider BHP organisation to the corporate development function at BHP Copper.  </p>
+<p>Last year BHP merged its copper operations with those of Magma Copper Co to create the world's second largest copper company in a deal worth US$2.4 billion.</p>
+<p>&quot;The integration of Magma into BHP has proceeded well with the headquarters of BHP Copper now established in San Francisco and an organisational structure in place,&quot; BHP said.</p>
+<p>At 12.00 p.m. (0200 GMT), BHP shares were nine cents higher at A$17.58.</p>
+<p>-- Sydney newsroom 61-2 3273-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7901" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: B.A.T to set up new firm in India --ITC.</title>
+<headline>B.A.T to set up new firm in India --ITC.</headline>
+<dateline>CALCUTTA 1996-08-22</dateline>
+<text>
+<p>Britain's B.A.T Industries Plc will set up a new company to sell new cigarette brands in India, the chairman of B.A.T associate ITC Ltd said on Thursday.</p>
+<p>ITC chairman Yogi Deveshwar said his firm would also take an undisclosed stake in the new company.  </p>
+<p>&quot;We will have a stake in the new firm. We are still negotiating it,&quot; Deveshwar told reporters after addressing ITC's annual shareholders' meeting in Calcutta.</p>
+<p>An ITC official said the new venture would sell some of B.A.T's major cigarette brands not yet marketed in India, including 555, State Express and Lucky Strike.</p>
+<p>Deveshwar gave no further details about the venture.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

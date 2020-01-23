@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6112" id="root" date="1996-08-21" xml:lang="en">
+<title>BRAZIL: Bahia cocoa arrivals 57,701 bags in week to Aug 18.</title>
+<headline>Bahia cocoa arrivals 57,701 bags in week to Aug 18.</headline>
+<dateline>SALVADOR, Brazil 1996-08-21</dateline>
+<text>
+<p>Bahia cocoa arrivals were 57,701 bags in the week ending August 18 compared to 58,851 bags the previous week and 38,474 bags in the corresponding week last year, the Brazilian Trade Commission Comcauba said.</p>
+<p>This brought total arrivals for the 1996/97 crop to 1,313,237 bags.</p>
+<p>The cumulative total at this stage of the 1995/96 crop was 840,106 bags and 1,273,448 bags in the 1994/95 crop after weekly arrivals of 75,903 bags.</p>
+<p>-- Caroline Bulloch, Rio de Janeiro newsroom, 5521 5074151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALVADOR, Brazil"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

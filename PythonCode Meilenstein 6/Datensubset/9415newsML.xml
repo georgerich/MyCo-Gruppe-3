@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9415" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Bankers Trust sets China Light warrants.</title>
+<headline>Bankers Trust sets China Light warrants.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Bankers Trust International Plc</p>
+<p>said it intended to issue 64 million American style call</p>
+<p>warrants on shares of China Light &amp; Power Co Ltd.</p>
+<p>Ten warrants control one share.</p>
+<p> STRIKE PRICE	HK$28.815    PREMIUM	 8.50 PCT</p>
+<p> ISSUE PRICE	 HK$0.7967    GEARING	 4.2553X</p>
+<p> EXPIRATION	  21.NOV.97    PAYDATE	 3 WKS AFTER LAUNCH</p>
+<p> LISTING	     HONG KONG    MIN EXER LOT  5,000</p>
+<p> SPOT REFERENCE    HK$33.90</p>
+<p> NOTES		 GOVERNING LAW IS HONG KONG</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

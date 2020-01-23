@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2845" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: NYMEX electricity ends mostly lower, COB fronts up.</title>
+<headline>NYMEX electricity ends mostly lower, COB fronts up.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>NYMEX electricity futures ended mostly lower Tuesday, although the California-Oregon Border (COB) front months finished higher in a late rally that traders said was difficult to account for.</p>
+<p>The futures may have been following physicals prices, which firmed in the Northwest and fell in the Southwest, in part due to lower natural gas prices, industry sources said.</p>
+<p>September COB finished up 30 cents at $17.90 after trading as low as $17.55 per megawatt hour (MWh), while October closed 18 cents higher at $15.83 after trade as low as $15.65.</p>
+<p>Remaining COB deferreds, with the exception of June, 1997 closed 15-55 cents lower. Futures prices for the winter months have been decreasing over the past week.</p>
+<p>&quot;People trading the back months are probably looking at what is happening to the front months, which rallied for two to three weeks and now are coming off pretty hard,&quot; said one New York-based futures broker.</p>
+<p>September Palo Verde (PV) ended down 30 cents at $20.90, while October PV ended down 30 cents at $16.10.</p>
+<p>Remaining PV deferreds ended down 15-70 cents.</p>
+<p>NYMEX said an estimated total of 316 COB contracts traded, while an estimated 42 PV contracts traded.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

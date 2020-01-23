@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5657" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Temple-Inland enters fiberboard venture.</title>
+<headline>Temple-Inland enters fiberboard venture.</headline>
+<dateline>DIBOLL, Texas 1996-08-21</dateline>
+<text>
+<p>Temple-Inland Forest Products Corp and Canada's Re-Con Building Products Inc said in a joint statement on Wednesday that they formed a venture to build and operate a cement fiberboard plant south of Dallas/Fort Worth.</p>
+<p>The plant is expected to cost approximately $60 million to $70 million, a Temple-Inland spokesman said.</p>
+<p>Ownership of the venture is split evenly between Temple-Inland and Re-Con Building, the spokesman said. Re-Con Building is a unit of The Clarke Group, Temple-Inland said.</p>
+<p>The plant will be able to produce approximately 240 million square feet per year of cement fiberboard siding and related products and will employ about 90 people, Temple-Inland said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DIBOLL, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

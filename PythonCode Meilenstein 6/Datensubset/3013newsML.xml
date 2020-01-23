@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3013" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Applied Science Q4 full results.</title>
+<headline>Applied Science Q4 full results.</headline>
+<dateline>WOBURN, Mass. 1996-08-20</dateline>
+<text>
+<p>Three Months Ended	Twelve Months Ended</p>
+<p>			 June 29,    July 1,   June 29,     July 1,</p>
+<p>			   1996	  1995	 1996	  1995</p>
+<p>Product sales, net</p>
+<p>	     $12,894,803  $5,905,394 $36,175,388 17,157,756</p>
+<p>Research contract</p>
+<p> revenue	 319,304	410,497	894,517    2,138,332</p>
+<p>Other revenue  741,619	192,599    2,065,691	708,765</p>
+<p>Total revenue 13,955,726   6,508,490   39,135,596   20,004,853</p>
+<p>Cost of sales and revenue: Product sales and other</p>
+<p>  revenues     8,239,272   4,090,476   23,414,139   10,868,160</p>
+<p>Research contracts:</p>
+<p>		    149,073	 86,741	439,659	945,072</p>
+<p>Total cost of sales</p>
+<p>and revenue   8,388,345    4,177,217   23,853,798   11,813,232</p>
+<p>Gross profit  5,567,381    2,331,273   15,281,798    8,191,621</p>
+<p>Operating expenses:</p>
+<p>Selling expenses:</p>
+<p>		  1,132,923	610,062    3,297,664    1,991,459</p>
+<p>General and  administrative</p>
+<p> expenses     1,229,226	824,494    3,807,327    2,561,221</p>
+<p>Research and development</p>
+<p>expenses	1,592,840	721,119    4,553,361    2,839,986</p>
+<p>Acquisition related</p>
+<p> expenses	 (65,353)	   ---    2,887,647	    ---</p>
+<p>Write-off of goodwill:</p>
+<p>		 6,813,562	    ---    6,813,562	    ---</p>
+<p>Total operating</p>
+<p> expenses   10,703,198    2,155,675   21,359,561    7,392,666</p>
+<p>Earnings (loss) from</p>
+<p> operations  (5,135,817)     175,598   (6,077,763)     798,955</p>
+<p>Other expense (income):</p>
+<p>Interest expense 159,282	   -0-	323,510	    960</p>
+<p>Interest income (112,653) (213,890)     (659,066)    (744,751)</p>
+<p>Other expense	1,731	4,687	  13,568	 13,998</p>
+<p>Total other</p>
+<p> expense (income) 48,360   (209,203)    (321,988)    (729,793)</p>
+<p>Earnings (loss) before</p>
+<p>income taxes  (5,184,177)    384,801   (5,755,775)   1,528,748</p>
+<p>Income tax expense 742,000	-0-     1,541,000	401,000</p>
+<p>Net earnings (net loss):</p>
+<p>		   $5,926,177  $384,801   $(7,296,775)   1,127,748</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOBURN, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

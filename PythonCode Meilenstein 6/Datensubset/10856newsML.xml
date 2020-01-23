@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10856" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Glendale Co-Operative Q1 shr up at $0.29.</title>
+<headline>Glendale Co-Operative Q1 shr up at $0.29.</headline>
+<dateline>EVERETT, Mass 1996-08-23</dateline>
+<text>
+<p>Quarter Ended July 31,</p>
+<p>						 1996		    1995</p>
+<p>							 (Unaudited)</p>
+<p>				     (In thousands except share data)</p>
+<p>Selected statement of</p>
+<p>operations data:</p>
+<p>Net interest and dividend</p>
+<p>   income				    $349		    $354</p>
+<p>  Provision for loan losses		--			--</p>
+<p>  Other income				 22			25</p>
+<p>  Other expenses			    248		     267</p>
+<p>  Net income before income taxes	123		     112</p>
+<p>  Income taxes				 52			47</p>
+<p>  Net income				   71			65</p>
+<p>  Net income per share		   0.29		    0.26</p>
+<p>  Shares outstanding		  247,250		 247,250</p>
+<p>NOTE: Full company name is Glendale Co-Operative Bank.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVERETT, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

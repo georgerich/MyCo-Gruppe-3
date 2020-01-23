@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8676" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for August 22, provided by Zacks investment research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks</p>
+<p>COMPANY		   ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>AIRPORT SYSTEMS	  0.01     0.06	500.00%</p>
+<p>LANVISION		 -0.06    -0.02	 66.67%</p>
+<p>EAGLE HARDWARE	   0.26     0.35	 34.62%</p>
+<p>MARKS BROS		 0.13     0.16	 23.08%</p>
+<p>SBS TECHNOLOGY	   0.24     0.77	 22.22%</p>
+<p>RENAISSANCE HTL	  0.26     0.29	 20.83%</p>
+<p>SHARPER IMAGE	   -0.16    -0.13	 19.23%</p>
+<p>SHOE CARNIVAL	    0.06     0.07	 18.75%</p>
+<p>WCI STEEL		  0.20     0.22	 16.67%</p>
+<p>MICOR COMP		 0.03    -0.07     -333.33%</p>
+<p>HANDLEMAN CO	    -0.12    -0.24     -100.00%</p>
+<p>FARAH			0.20     0.01	-95.00%</p>
+<p>INTERIAN		  -0.36     0.57	-58.33%</p>
+<p>BOMBAY CO		 -0.04    -0.06	-50.00%</p>
+<p>CATHERINES		 0.28     0.22	-21.43%</p>
+<p>SPORTMART		  0.41     0.35	-14.63%</p>
+<p>BAKER			0.12     0.11	 -8.33%</p>
+<p>CFM TECH		   0.14     0.13	 -7.14%</p>
+<p>SUNGLASS		   0.33     0.36	 -5.25%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I49100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I64600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

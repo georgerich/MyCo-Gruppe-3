@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11679" id="root" date="1996-08-23" xml:lang="en">
+<title>IRAQ: Kurd rebels to free Turkish soldier prisoners.</title>
+<headline>Kurd rebels to free Turkish soldier prisoners.</headline>
+<dateline>DOHUK, Iraq 1996-08-23</dateline>
+<text>
+<p>Turkish Kurd guerrillas said on Friday they would free seven Turkish soldiers they hold in northern Iraq under a tentative Islamist peace bid.</p>
+<p>&quot;...For the sake of safety we are asking for their family members or the authorities to come and pick them up,&quot; Kurdistan Workers Party (PKK) central committee member Riza Altun told journalists near the Iraqi city of Dohuk.</p>
+<p>PKK guerrillas would accompany the soldiers, captured last spring in one of Turkey's frequent cross-border drives, until they could be handed over, he said.</p>
+<p>Their release has been negotiated by Islamist writer Ismail Nacar as part of a wider effort, partly backed by Prime Minister Necmettin Erbakan, to find a political solution to Turkey's Kurdish problem.</p>
+<p>Erbakan has encouraged Nacar's bid but has ruled out direct talks with the rebels.</p>
+<p>The PKK often uses bases in northern Iraq in its fight for autonomy or independence in southeast Turkey. More than 20,000 people have died in 12 years of fighting between the guerrillas and Turkish forces.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOHUK, Iraq"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

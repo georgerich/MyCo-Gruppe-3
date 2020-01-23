@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9221" id="root" date="1996-08-22" xml:lang="en">
+<title>POLAND: Poland may sell two soda firms next week - paper.</title>
+<headline>Poland may sell two soda firms next week - paper.</headline>
+<dateline>WARSAW 1996-08-22</dateline>
+<text>
+<p>Poland's privatisation ministry will probably sell off the country's main soda producers next week and the likely buyer is large state-controlled chemical trader Ciech SA, the Rzeczpospolita daily said on Thursday.</p>
+<p>The companies, in which the ministry offers 75 percent stakes, are  Janikowskie Zaklady Sodowe Janikosoda SA and Inowroclawskie Zaklady Chemiczne Soda Matwy SA, both in central Poland.</p>
+<p>Rzeczpospolita quoted deputy Privatisation Minister Leszek Juchniewicz that out of the two bidders for the plants -- France's Rhone-Poulenc SA and Poland's state-controlled Ciech SA -- the latter stood a stronger chance of winning the tender.</p>
+<p>&quot;We were in favour of the French, but Ciech made a better offer,&quot; Juchniewicz told the Reczpospolita.</p>
+<p>Ciech, now 53 percent-owned by the state treasury, is slated for flotation in the first quarter of 1997.</p>
+<p>Janikosoda SA employs 1,600 workers and had a 4.1 million zloty net profit on 155.5 million zloty sales in 1994.</p>
+<p>No figures were available for 1995.</p>
+<p>Matwy SA, employing 1,900 workers, had 5.9 million zlotys of net profit and 155.6 million zlotys of sales in 1994.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

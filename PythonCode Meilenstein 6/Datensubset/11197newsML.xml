@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11197" id="root" date="1996-08-23" xml:lang="en">
+<title>VENEZUELA: Venezuelan oil basket rises 45 cts to $19.05.</title>
+<headline>Venezuelan oil basket rises 45 cts to $19.05.</headline>
+<dateline>CARACAS 1996-08-23</dateline>
+<text>
+<p>The average export price for Venezuela's basket of crude and products rose $0.45 to $19.05 per barrel in the week to Friday from $18.60 on Aug 16, the Energy and Mines Ministry said.</p>
+<p>The average price for the year so far is $17.08 per barrel, the ministry statement said.</p>
+<p>Venezuela's oil export price averaged $14.84 per barrel last year compared to $13.23 per barrel in 1994.</p>
+<p>The Venezuelan government has based its revised 1996 budget calculations on an average price of $15.60 per barrel.</p>
+<p>-- Caracas newsroom, 582 834405.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

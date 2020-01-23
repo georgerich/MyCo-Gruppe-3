@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12225" id="root" date="1996-08-23" xml:lang="en">
+<title>SINGAPORE: SIMEX Nikkei ends down on weak buying, ignores Dow.</title>
+<headline>SIMEX Nikkei ends down on weak buying, ignores Dow.</headline>
+<dateline>SINGAPORE 1996-08-23</dateline>
+<text>
+<p>Stronger western markets after the Bundesbank announced a surprisingly hefty cut in its repo rate failed to spur SIMEX Nikkei futures due to a lack of buying interest, dealers said on Friday.</p>
+<p>Dealers said the Asian market reaction to the 30 basis point cut in the repo rate was more muted as dealers felt London and New York markets might have over-reacted to the announcement and may see some correction later.</p>
+<p>Dealers said the impact on Nikkei was limited as focus on the Bank of Japan, which many felt was likely to maintain a steady rate policy.  </p>
+<p>After hitting a high at 21,455 in the morning, SIMEX's key Nikkei 225 September contract continued to slide to end five points above its psychological support, at 21,245. This was down 145 points from its previous close. Turnover was at a moderate 15,855 lots.</p>
+<p>Dealers said they now awaited the August 28 Tankan for a clearer signal to BOJ's rate policy stance.</p>
+<p>-- Angela Tan, Singapore newsroom (65 8703083)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

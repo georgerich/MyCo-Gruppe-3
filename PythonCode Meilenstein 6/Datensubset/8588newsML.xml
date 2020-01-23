@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8588" id="root" date="1996-08-22" xml:lang="en">
+<title>BELGIUM: ATHLETICS-IT'S A RECORD - 40,000 BEERS ON THE HOUSE.</title>
+<headline>ATHLETICS-IT'S A RECORD - 40,000 BEERS ON THE HOUSE.</headline>
+<dateline>BRUSSELS 1996-08-22</dateline>
+<text>
+<p>Spectators at Friday's Brussels grand prix meeting have an extra incentive to cheer on the athletes to world record performances -- a free glass of beer.</p>
+<p>A Belgian brewery has offered to pay for a free round of drinks for all of the 40,000 crowd if a world record goes at the meeting, organisers said on Thursday.</p>
+<p>It could be one of the most expensive rounds of drinks ever.</p>
+<p>The meeting is sold out already. Two world records are in serious danger of being broken at the meeting -- the women's 1,000 metres and the men's 3,000 metres.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7350" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: RESEARCH ALERT - S.Korea petrochem firms to benefit.</title>
+<headline>RESEARCH ALERT - S.Korea petrochem firms to benefit.</headline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>South Korean petrochemical companies are expected to benefit from the impact of unplanned outages in Taiwan and Malaysia, coupled with a concentration of maintenance shutdowns in September and October, BZW Securities said on Wednesday.</p>
+<p>In Taiwan, China Petrochemical Co (CPC) shut its No 5 naphtha cracker (NCC) due to an oil leak in one of its main pipelines and Malaysia's Titan Ethylene Malaysia lost its 570,000 tonne NCC after a mechanical failure early this month, BZW said in a statement.  </p>
+<p>It said the impact of these outages was extremely positive for South Korea as the recovery in spot crude prices from the second half would accelerate on intensified demand in the region and reduced output.</p>
+<p>This, along with maintenance closures involving more than three million tonnes in September and October from mostly Japanese firms and South Korea's Yukong Ltd and Daelim Industrial Co, should result in considerable shortages in the region and drive prices up further, BZW Securities said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

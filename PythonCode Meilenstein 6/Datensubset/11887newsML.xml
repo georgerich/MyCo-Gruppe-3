@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11887" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Humana to sell Washington health plan.</title>
+<headline>Humana to sell Washington health plan.</headline>
+<dateline>WASHINGTON, D.C. 1996-08-23</dateline>
+<text>
+<p>Humana Inc said on Friday that Humana Group Health Plan Inc signed a non-binding letter of intent for Kaiser Permanente Mid-Atlantic States Region to acquire certain assets and liabilities of Humana's Washington D.C.-based health plan.</p>
+<p>Terms of the agreement were not disclosed.</p>
+<p>Consummation of the deal is subject to successful negotiation of a definitive agreement and regulatory approvals, the company said.</p>
+<p>Humana Group Health is a wholly-owned subsidiary of Humana Inc.</p>
+<p>Kaiser is a non-profit health plan that serves the Baltimore, Md., and Washington, D.C. metropolitan areas. It is part of the Kaiser Permanente Medical Care Program.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON, D.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7280" id="root" date="1996-08-21" xml:lang="en">
+<title>PHILIPPINES: Manila starts third well at Maniguin oil prospect.</title>
+<headline>Manila starts third well at Maniguin oil prospect.</headline>
+<dateline>MANILA 1996-08-21</dateline>
+<text>
+<p>State-owned PNOC-Exploration Corp (PNOC-EC) has started drilling a third onshore well at the Maniguin prospect on the central Philippine island of Mindoro, the Department of Energy (DOE) said on Wednesday.</p>
+<p>The estimated recoverable reserves from Maniguin are 18.7 to 37.4 million barrels of oil, the department said.</p>
+<p>The drilling project, which is expected to cost $3.22-$3.62 million, will reach a total depth of 7,200 feet and is expected to be completed in about 25 days. The operator has already reached a depth of 535 feet, the department said.</p>
+<p>The second Maniguin well was spudded in 1994. It flowed 300 barrels per day (bpd) of waxy crude during the drillstem testing and about 180 bpd during the extended production test.</p>
+<p>Members of the drilling consortium include PNOC-Exploration Corp with a 41.763 percent stake, Oriental Petroleum and Minerals Corp (29.0 percent), Dragon (Far East) Ltd (15.0 percent), Petrofields Exploration and Development Co Inc (5.737 percent), Asian Petroleum Corp (3.0 percent), Basic Petroleum and Minerals Inc (3.0 percent) and Southwest Resources Inc (2.50 percent).</p>
+<p>-- Manila newsroom (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I1300002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

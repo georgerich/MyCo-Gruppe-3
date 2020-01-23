@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6735" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: British detective to help in Belgian sex case.</title>
+<headline>British detective to help in Belgian sex case.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>The British detective who led the investigation into the &quot;House of Horrors&quot; serial murders will meet Belgian police investigating their country's worst child sex scandal on Wednesday, British police said.</p>
+<p>Superintendent John Bennett will meet Belgian officers in Belgium to discuss the case as an international hunt widens for two teenage girls abducted a year ago by convicted child rapist Marc Dutroux.  </p>
+<p>&quot;At the request of the Belgian police, Superintendent John Bennett of the Goucestershire constabulary will attend a meeting in Belgium on Wednesday,&quot; said a police spokesman in Gloucester in the west of England where Bennett is based. Police could give no further details.</p>
+<p>Belgian police asked Bennett, who dealt with the investigation into serial killers Rosemary and Fred West, for advice on Tuesday in their search for further possible victims of an organised paedophile ring.</p>
+<p>The sight of Belgian police digging for bodies at the weekend evoked memories of scenes at the house of the Wests, where British detectives excavated the remains of the couple's dismembered victims.</p>
+<p>The Wests killed up to 12 young women and girls after sexually abusing them. Fred committed suicide in his prison cell before he came to trial, while Rose, who was convicted on 10 of the murders, still protests her innocence from jail.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

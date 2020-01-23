@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7160" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: Deutsche Telekom details share incentives.</title>
+<headline>Deutsche Telekom details share incentives.</headline>
+<dateline>BONN 1996-08-21</dateline>
+<text>
+<p>German telecommunications giant Deutsche Telekom AG on Wednesday gave details of incentives it will offer private investors to help boost the first stage of its planned November flotation.</p>
+<p>The state-owned telecoms company said that there would be price reductions for private investors, as well as loyalty shares for investors who hold their shares for three years, which will be issued on a 1:10 ratio.</p>
+<p>Telekom said the price reductions and the loyalty shares would apply to the first 300 shares purchased and the prospectus would be available in October.</p>
+<p>Would-be investors who are members of the share information forum (AIF) would receive preferential treatment when the shares were issued, Telekom said.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

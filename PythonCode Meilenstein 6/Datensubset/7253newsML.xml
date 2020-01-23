@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7253" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: Steel and Tube annual net profit slips.</title>
+<headline>Steel and Tube annual net profit slips.</headline>
+<dateline>WELLINGTON 1996-08-21</dateline>
+<text>
+<p>Year to June 30.</p>
+<p>			   (million NZ$ unless stated)</p>
+<p>    Net profit				  25.3 vs 27.4</p>
+<p>    Shr (cents)				 58.1 vs 63.0</p>
+<p>    Div (cents)				 20.0 vs same</p>
+<p>    Total div for yr (cents)		40.0 vs same</p>
+<p>    Turnover				   355.1 vs 335.7</p>
+<p>    Pretax profit			     38.7 vs 43.6</p>
+<p>    Tax					   13.6 vs 14.6</p>
+<p>    Shares outstanding (million)	 43.75 vs same</p>
+<p>Dividend carries full imputation credit.</p>
+<p>Pay date Sept 13</p>
+<p>Reg date Sept 6</p>
+<p>    Ex div   Sept 9</p>
+<p>Note - Steel and Tube Ltd is involved in contract engineering, manufacturing, vehicle assembly and retailing.</p>
+<p>Balance sheet (in millions unless stated)</p>
+<p>    Current assets			     151 vs 109</p>
+<p>    Total assets				 221 vs 159</p>
+<p>    Current liabilities		     81.2 vs 53.5</p>
+<p>    Total liabilities			 99.7 vs 53.5</p>
+<p>    Shareholders' equity		     121 vs 106</p>
+<p>Cashflow from operating activities  23.4 vs 13.9</p>
+<p>Cashflow from investing activities(24.6) vs (0.84)</p>
+<p>-- Wellington newsroom 64 4 473-4746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9402" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Marine Midland to fund acquisition itself.</title>
+<headline>Marine Midland to fund acquisition itself.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>HSBC Holdings Plc's Marine Midland Bank will finance the acquisition of First Federal Savings and Loan Association of Rochester, New York, through its own capital, an HSBC spokesman said on Thursday.</p>
+<p>Marine Midland said earlier it would acquire First Federal for US$620 million.</p>
+<p>First Federal had recurring earnings of US$27.2 million in the first half of the year against HK$20.6 million a year earlier, the spokesman said.</p>
+<p>Net income in the first half was US$62.3 million against US$48.7 million in the first half of 1995.</p>
+<p>Marine Midland operates 330 branches in New York state, the spokesman said.</p>
+<p>First Federal had US$7.2 billion in assets, 1,600 employees, 79 retail branches in New York state and 15 mortgage origination offices in nine states.</p>
+<p>The latest acquisition follows Marine Midland's 1994 acquisition of Spectrum Home Mortgage, which now operates in eight states.  </p>
+<p>In 1995, it acquired United Northern Federal Savings Bank, with branches in Watertown and Lowville, New York, as well as the six New York City-based retail branches of HSBC's Hongkong and Shanghai Banking Corp Ltd.</p>
+<p>Earlier this year, two Hang Seng Ltd branches in New York city  and the East River Savings Bank's 22 branches in the New York metropolitan area were added to the Marine Midland stable.</p>
+<p>Hang Seng Bank is 61.51 percent held by HSBC Holdings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9664" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: CBOT corn turns higher late on bullish tour data.</title>
+<headline>CBOT corn turns higher late on bullish tour data.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>CBOT corn futures turned higher in late dealings on bullish input from a crop tour of eastern Iowa, traders said.</p>
+<p>Crop scouts said northeastern Iowa corn ears were small and soybean pod counts were low.</p>
+<p>Corn was pressured early when crop scouts on the Professional Farmers of America tour overnight pegged the 1996 Illinois corn yield potential at 133.2 bushels per acre, up from USDA's August outlook of 125 bushels per acre.</p>
+<p>Good crop weather in the U.S. Midwest also weighed on the market, they said.</p>
+<p>&quot;The crop is improving, the weather has been beneficial,&quot; said Steve Bruce of E.D. and F. Man International.</p>
+<p>Nearby September was lower but was firm relative to other months on tight stocks, mostly firm cash basis markets and some concerns about a potential slowdown in corn harvesting in the South.</p>
+<p>At 1256 CDT, corn was one to three cents per bushel higher, with September up three at $3.69-1/4.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

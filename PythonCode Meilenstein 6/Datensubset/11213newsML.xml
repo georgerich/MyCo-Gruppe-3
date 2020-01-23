@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11213" id="root" date="1996-08-23" xml:lang="en">
+<title>VENEZUELA: Chevron makes $0.32/barrel in Venezuela.</title>
+<headline>Chevron makes $0.32/barrel in Venezuela.</headline>
+<byline>Omar Lugo</byline>
+<dateline>CAMPO BOSCAN, Venezuela 1996-08-23</dateline>
+<text>
+<p>U.S. oil company Chevron Overseas Petroleum Inc, a unit of Chevron Corp is earning 32 cents par barrel on the 80,000 barrels per day of heavy crude it produces from the Boscan field in western Venezuela, Venezuelan oil officials said.</p>
+<p>Petroleos de Venezuela (PDVSA) unit Maraven, with which Chevron signed a $2.5 billion deal to produce and sell heavy crude products from the field in December 1995, pays Chevron, &quot;a stipend of 32 cents for every barrel produced this year,&quot; Herrol Hosein, head of Maraven's operating agreements said.  </p>
+<p>The stipend is due to rise to 50 cents in 1997, 75 cents in 1998 and one dollar in 1999, Hosein told Reuters.</p>
+<p>Chevron began operating the Boscan field it first discovered in 1946 in July of this year.</p>
+<p>&quot;In the first month Chevron managed to produce 78,500 bpd and it is now moving more than 80,000 bpd,&quot; Javier Gutierrez, Chevron's head of operations at the field told reporters during a visit to the site.</p>
+<p>The crude has an API of about nine degrees - &quot;the best crude in the world to make asphalt,&quot; Gutierrez said.  </p>
+<p>&quot;Boscan is the biggest project which Chevron operates in Latin America right now. It represents almost 90 percent of our Latin America production and between five and 10 percent of our world output,&quot; Gutierrez said.</p>
+<p>Chevron and Maraven signed a 20-year strategic alliance in December to sell asphalts and other products on the U.S. east coast and to supply heavy crude to Chevron's Pascagoula, Miss, and Perth Amboy, N.J. refineries.</p>
+<p>Maraven calculates that the field contains reserves of about 1.6 billion barrels.  </p>
+<p>&quot;Our only limitation is the market not the production from the field. He hope to reach 115,000 bpd by 1997,&quot; Gutierrez said.</p>
+<p>-- Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMPO BOSCAN, Venezuela"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

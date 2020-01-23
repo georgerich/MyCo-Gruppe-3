@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12116" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian Mortgage Guide (Investment).</title>
+<headline>RTRS-Australian Mortgage Guide (Investment).</headline>
+<text>
+<p>(Updated on August 23)</p>
+<p>    LENDER	 VARIABLE   INTRO RATES   *TRUE RATE</p>
+<p>Adelaide	 8.75	  n/a	     8.89</p>
+<p>Advance	  9.25	  8.20	    9.23</p>
+<p>AIDC	     8.60	  8.55	    8.72</p>
+<p>ANZ		9.25	  8.50	    9.23</p>
+<p>Aussie Home    8.65	  n/a	     8.76</p>
+<p>Austral	  8.35	  n/a	     8.46</p>
+<p>BNZ		8.50	  n/a	     8.60</p>
+<p>Bank of Melb   9.75	  7.75	    9.43</p>
+<p>Bank SA	  9.25	  8.25	    9.22</p>
+<p>BankWest	 9.25	  8.00	    9.18</p>
+<p>BMC Mortgage   8.30	  n/a	     8.44</p>
+<p>CHS HomeLoans  8.45	  n/a	     8.55</p>
+<p>Citibank	 8.70	  n/a	     8.84</p>
+<p>CBA		9.25	  8.75	    9.30</p>
+<p>Endeavour	9.25	  7.40	    9.06</p>
+<p>FAI		8.45	  n/a	     8.53</p>
+<p>GIO		8.95	  n/a	     8.95</p>
+<p>Greater BSoc   9.25	  7.50	    8.93</p>
+<p>IMB		8.40	  n/a	     8.54</p>
+<p>Macquarie	8.95	  8.20	    8.99</p>
+<p>Metway	   8.50	  n/a	     8.68</p>
+<p>MLC BSoc	 8.95	  7.95	    8.91</p>
+<p>NAB		9.25	  7.50	    9.07</p>
+<p>Newcastle	8.75	  7.50	    8.65</p>
+<p>Premier State  8.50	  8.20	    8.54</p>
+<p>Priority One   8.59	  n/a	     8.69</p>
+<p>RAMS	     8.50	  n/a	     8.61</p>
+<p>St George	8.50	  n/a	     8.61</p>
+<p>State NSW	9.25	  6.99	    9.00</p>
+<p>Suncorp/Syd    8.45	  n/a	     8.67</p>
+<p>Super Loans    8.30	  n/a	     8.39</p>
+<p>Westpac	  9.35	  8.50	    9.43</p>
+<p>*The true rate takes into account fees and the introductory rate based on a typical A$100,000 loan, using total monthly payments over seven years which is the average life of a mortgage. The interest rate used after the initial fixed/capped period is a variable rate.</p>
+<p>Source: Cannex</p>
+<p>-- Reuters Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5918" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH AFRICA: CFC lifts first half earnings.</title>
+<headline>CFC lifts first half earnings.</headline>
+<dateline>JOHANNESBURG 1996-08-21</dateline>
+<text>
+<p>Half yr ended June 30</p>
+<p>			(million rand unless stated)</p>
+<p>    Shr, attrib (cts)     58.1	  vs 43.5</p>
+<p>    Div (cts)		 15.0	  vs 12.0</p>
+<p>    Attrib income	   5.77	  vs 4.32</p>
+<p>    Pre-tax		   8.16	  vs 5.47</p>
+<p>    Tax			 1.02	  vs 0.89</p>
+<p>    Operating income	2.68	  vs 1.78</p>
+<p>Div payable October 30</p>
+<p>on register October 11</p>
+<p>NOTE - Investment trust company CFC said second half earnings should exceed those of the year ago period.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

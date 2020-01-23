@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2794" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Longs Drug Stores adopts shareholder rights.</title>
+<headline>Longs Drug Stores adopts shareholder rights.</headline>
+<dateline>WALNUT CREEK, Calif. 1996-08-20</dateline>
+<text>
+<p>Longs Drug Stores Corp said Tuesday it had adopted a shareholders rights plan designed to deter hostile takeover attempts.</p>
+<p>Shareholders will receive one right for preferred stock for each common share held as of close of business on September 16.</p>
+<p>Each right will allow shareholders to buy one-hundredth of a newly issued share of preferred stock at an exercise price of $130 dollars.</p>
+<p>The rights are exercisable when a person buys a 15 percent stake in Longs, excluding certain Long family members. At that time rights holders may buy shares of the company, or of the acquiring company if it is the surviving entity, having a value of twice the exercise price of each right.</p>
+<p>The rights will expire on September 15, 2005. The company said the plan was not adopted in response to any hostile takeover bid or offer.  </p>
+<p>Earlier Longs said it plans to open 12 new stores during this fiscal year with a further 12-15 planned for opening during the next fiscal year.</p>
+<p>Longs posted second quarter profits of $13.5 million or $0.69 a share on sales of $681.5 million compared with earnings of $12.4 million or $0.62 a share on sales of $646.3 million in the year-ago period.</p>
+<p>Longs shares closed 3/8 lower at 40-1/4 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALNUT CREEK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

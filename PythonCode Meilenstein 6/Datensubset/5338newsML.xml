@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5338" id="root" date="1996-08-21" xml:lang="en">
+<title>INDIA: Asia seen having appetite for Internet banking.</title>
+<headline>Asia seen having appetite for Internet banking.</headline>
+<byline>Narayanan Madhavan</byline>
+<dateline>NEW DELHI 1996-08-21</dateline>
+<text>
+<p>Asian nations are eager to make use of the Internet in the field of banking and finance to meet individual country's needs, a senior official of computer group Hewlett-Packard Co said on Wednesday.</p>
+<p>&quot;The response through the region is quite phenomenal,&quot; Jeff Ayton, the region's director of marketing in the financial services division of Hewlett-Packard, told Reuters in an interview.</p>
+<p>He said a Hewlett-Packard roadshow he held across the region revealed a keen interest in the use of Internet in banking and insurance. Internet experts say customers can use the network to transact business and banks can improve communications and customer service with its help.</p>
+<p>&quot;I don't think any Asian country wants to be left behind,&quot; he said, but added that the exact level of sophistication in the demand generated would depend on customer needs and infrastructure facilities in each nation.</p>
+<p>With even rural areas now linked via satellites, there is a big potential for Internet-linked business in huge emerging markets, he said.</p>
+<p>&quot;Satellite technology is what will help in countries like China and India,&quot; he said, referring to their own satellite launch programmes.</p>
+<p>Ayton said he had found interest in using the Internet in banking in the Philippines, Hong Kong, Malaysia, Thailand, Singapore, Taiwan and South Korea.</p>
+<p>Hewlett-Packard officials say that countries like India could leapfrog in computer networking technology because they have not yet invested huge amounts in computer infrastructure.</p>
+<p>Ayton said he was scheduled to meet Indian banking officials next week to discuss Internet-related possibilities in the field.</p>
+<p>Kapi Attawar, a senior Hewlett-Packard official dealing with emerging markets, said his company saw particular potential for the &quot;Intranet&quot;. The latter enables local networks within companies to be linked to the worldwide information highway.</p>
+<p>Many Indian companies already had local computing networks using basic data transmission facilities which may be used to hook on to Internet, Attawar said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

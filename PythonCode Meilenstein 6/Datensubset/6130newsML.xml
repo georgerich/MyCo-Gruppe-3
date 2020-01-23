@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6130" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexico port captain confirms Pajaritos closure.</title>
+<headline>Mexico port captain confirms Pajaritos closure.</headline>
+<dateline>MEXICO CITY 1996-08-21</dateline>
+<text>
+<p>The captain of the port of Coatzacoalcos confirmed Wednesday that the crude export port of Pajaritos, which comes under his juridiction, has been closed to all shipping.</p>
+<p>&quot;The port of Pajaritos was closed for leaving ships this morning,&quot; Juan Francisco Resendez Estrada told Reuters in a telephone interview. He explained it was obviously open for incoming vessels that needed to take shelter from Tropical Storm Dolly.</p>
+<p>Pajaritos in the state of Veracruz is one of three crude export terminals closed because of the threatening weather system.</p>
+<p>State-owned oil monopoly Petroleos Mexicanos said earlier Wednesday its three Gulf of Mexico ports -- Pajaritos alongside Dos Bocas and Cayo Arcas in Campeche state -- had closed because of the threat from Dolly.</p>
+<p>Another port source at Coatzacoalcos, just four km (2.5 miles) from Pajaritos said the crude port had been closed since 0800 (1300 GMT) Wednesday. &quot;The crude fleet is not moving,&quot; he said.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

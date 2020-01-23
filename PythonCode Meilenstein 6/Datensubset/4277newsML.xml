@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4277" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Merrill Corp Q2 July 31 net up.</title>
+<headline>Merrill Corp Q2 July 31 net up.</headline>
+<dateline>ST. PAUL, Minn. 1996-08-20</dateline>
+<text>
+<p>(in thousands, except share and per share data)</p>
+<p>			    Three Months Ended   Six Months Ended</p>
+<p>					 July 31	    July 31</p>
+<p>			    1996	1995	   1996	 1995</p>
+<p> Revenues	     $87,569   $62,703     $158,769   $120,135</p>
+<p> Cost of revenues    54,878    43,815	100,908     82,631</p>
+<p> Gross profit	  32,691    18,888	 57,861     37,504</p>
+<p>Selling, general and</p>
+<p>administrative expenses</p>
+<p>			   23,099    14,039	 40,608     28,971</p>
+<p> Other expense, net   1,099	  52	  1,180	  130</p>
+<p> Net income	     4,671     2,714	  8,916	4,790</p>
+<p> Net income per share   .57	 .34	   1.11	  .60</p>
+<p>Weighted avg shares</p>
+<p>			8,214,770  7,967,817   8,067,014   7,935,543</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

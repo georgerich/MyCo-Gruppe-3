@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9384" id="root" date="1996-08-22" xml:lang="en">
+<title>CHINA: U.S. sees promising nuclear market in China.</title>
+<headline>U.S. sees promising nuclear market in China.</headline>
+<dateline>BEIJING 1996-08-22</dateline>
+<text>
+<p>China will be a big market for American nuclear technology once Beijing has a nuclear export control regime in place, the U.S. nuclear regulatory chief said on Thursday.</p>
+<p>China is still in need of &quot;putting in place as comprehensive as possible a regime of control over non-safeguarded facilities,&quot; said Shirley Ann Jackson, chairman of the U.S. Nuclear Regulatory Commission.</p>
+<p>She praised Beijing for taking significant steps in this direction and said that U.S. exports could proceed once a regime could ensure that nuclear technology from the United States was not re-exported to unauthorised countries.</p>
+<p>&quot;There is a lot of (Chinese) interest in U.S. technology,&quot; she said.</p>
+<p>In May, the United States decided against imposing sanctions against China over what it charged was the sale to Pakistan of ring magnets. It said these were for use in equipment that reprocesses uranium and could be used for making nuclear bombs.</p>
+<p>Beijing pledged not to make such transfers to &quot;unsafeguarded facilities&quot; in future.</p>
+<p>The U.S. regulatory chief declined to say when she believed Washington might be satisfied with the control system but she added that some estimates put the value of China's nuclear industry imports at $50 billion over the next 30 years.</p>
+<p>China has two commercial nuclear power plants, one at Qinshan in Zhejiang province south of Shanghai and a second at Daya Bay near Hong Kong.</p>
+<p>It has several smaller experimental reactors and plans to start construction of at least four more power plants by the year 2000 to meet its growing demand for electric power.</p>
+<p>Some of its nuclear plants use pressurised water reactor technology, which the United States can supply.</p>
+<p>Jackson is in China to meet Beijing's nuclear industry officials as part of Sino-U.S. cooperation in nuclear technology.</p>
+<p>The two countries have cooperated in this field since the early 1980s under a protocol on nuclear safety matters as part of a science and technology accord. That agreement called for exchanges in nuclear waste management, environmental monitoring, emergency response mechanisms and plant decomissioning.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

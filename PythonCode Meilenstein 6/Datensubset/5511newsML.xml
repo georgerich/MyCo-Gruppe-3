@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5511" id="root" date="1996-08-21" xml:lang="en">
+<title>CANADA: Chateau Stores Q2 July 27 turns to profit.</title>
+<headline>Chateau Stores Q2 July 27 turns to profit.</headline>
+<dateline>MONTREAL 1996-08-21</dateline>
+<text>
+<p>Q2 ends July 27</p>
+<p>				1996			    1995</p>
+<p> Shr	 profit	C$0.12     loss	C$0.26</p>
+<p> Net	 profit	   529     loss	 1,186</p>
+<p> Revs			31,314		   31,592</p>
+<p>	   6  MONTHS</p>
+<p> Shr	 profit	C$0.10     loss	C$0.35</p>
+<p> Net	 profit	   441     loss	 1,596</p>
+<p> Revs			60,565		   62,112</p>
+<p> Avg shrs		   4,561		    4,560</p>
+<p>		(All data above 000s except per share numbers)</p>
+<p>Note: Previous fiscal year ended July 29, 1995. Full name is Chateau Stores of Canada Ltd.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

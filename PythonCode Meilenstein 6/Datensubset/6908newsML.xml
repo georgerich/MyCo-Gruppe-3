@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6908" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Nordson Corp Q3 Aug 4 net falls.</title>
+<headline>Nordson Corp Q3 Aug 4 net falls.</headline>
+<dateline>WESTLAKE, Ohio 1996-08-21</dateline>
+<text>
+<p>(Dollars in thousands except for per share amounts)</p>
+<p>	    THIRD QUARTER Ending August 4, 1996  (Unaudited)</p>
+<p>					   Third Quarter  Year-to-Date</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net Sales		    $146,699 $155,152 $429,905 $421,704</p>
+<p> Cost of Sales		  61,290   66,318  176,676  177,788</p>
+<p> Operating Profit	     18,701   23,405   55,127   58,314</p>
+<p> Net Income		     11,869   14,847   34,879   36,481</p>
+<p> Per Share			  0.65     0.80     1.91     1.96</p>
+<p> Avg Shares O/S (000's)     18,227   18,514   18,275   18,652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTLAKE, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6091" id="root" date="1996-08-21" xml:lang="en">
+<title>ARGENTINA: YPF says Ecuador operation only 1 pct sales.</title>
+<headline>YPF says Ecuador operation only 1 pct sales.</headline>
+<dateline>BUENOS AIRES 1996-08-21</dateline>
+<text>
+<p>Argentina's oil firm YPF SA said on Wednesday the operations of its Maxus Energy Corp subsidiary in Ecuador, which the Quito government has banned, account for only one percent of its sales.</p>
+<p>&quot;The income from this operation represents approximately one percent of the consolidated sales of YPF SA and its results are not significant,&quot; the company said in a statement.</p>
+<p>Ecuador's government announced late on Tuesday that it was banning Maxus from continuing its operations in Ecuador until it reaches a joint-venture deal with state-owned Petroecuador.</p>
+<p>But YPF president Nells Leon told Reuters that Maxus was still operating normally on Wednesday. He said negotiations to reach a new agreement were under way with Petroecuador.</p>
+<p>-- Jason Webb, Buenos Aires Newsroom +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

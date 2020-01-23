@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5090" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: Australia's CBA in record profit, outlook cloudy.</title>
+<headline>Australia's CBA in record profit, outlook cloudy.</headline>
+<byline>Kevin Morrison</byline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Australia's largest home lender, Commonwealth Bank of Australia, reported a record annual profit on Wednesday but warned that the outlook was clouded by slowing economic growth, rising bad loans and costs.</p>
+<p>Commonwealth, which became fully privatised last month after the Australian government sold its remaining 50.4 percent stake to the public, reported a 13.8 percent rise in net profit to A$1.12 billion (US$873.6 million) for the year to June 30, 1996.</p>
+<p>&quot;Although this is a robust result for the year just ended, the outlook for the Commonwealth Bank is increasingly difficult,&quot; managing director David Murray told reporters.</p>
+<p>&quot;The overall environment for businesses has deteriorated noticeably over the past 12 months, which amounts to a margin and profit squeeze for businesses.&quot;</p>
+<p>The slowing economy had led to a rise in problem loans during the fourth quarter of 1995/96, although the charge for bad or doubtful debts was still at a cyclically low level and down 38 percent for the overall year, he said.</p>
+<p>&quot;We have noticed a slight upturn in troublesome loans evident in the last quarter of 1995/96,&quot; Murray said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

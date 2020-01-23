@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5893" id="root" date="1996-08-21" xml:lang="en">
+<title>KENYA: Ethnic Somali nomads halt move of rare antelopes.</title>
+<headline>Ethnic Somali nomads halt move of rare antelopes.</headline>
+<dateline>NAIROBI 1996-08-21</dateline>
+<text>
+<p>Ethnic Somali nomads in arid northeastern Kenya have gotten a court order to stop the Kenya Wildlife Service from relocating rare antelopes out of a national park.</p>
+<p>Five nomads argued in papers sent to the high court that the hirola antelope was &quot;a good omen and a gift of nature bestowed on the local people&quot;.</p>
+<p>&quot;According to the traditional beliefs and customs of the pastoralist communities of the people who live side by side with hirola, its translocation to another far off land will bring disaster to the people and their livestock,&quot; they said.</p>
+<p>The Kenya Wildlife Service says a move to Tsavo National Park from the Arawale area in the northeast will help to conserve the hirola, of which only 350 remain in the world.</p>
+<p>The Nairobi court, which issued a temporary ruling on Tuesday, will make a final decision after a full hearing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

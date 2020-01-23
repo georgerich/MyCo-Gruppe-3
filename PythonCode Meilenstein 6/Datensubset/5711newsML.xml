@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5711" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 21-AUG.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 21-AUG.</headline>
+<text>
+<p>Typhoon Niki is moving westward about 12 mph across the South China Sea, and has top winds near 105 mph. Niki is expected to intensify to 115 mph while turning a little more to the west northwest. Niki is expected to hit Hainan, China, in the next 12-24 hours, producing damaging winds and flooding rains. The storm will also be a major threat to any shipping along its path.  </p>
+<p>Tropical Storm Dolly, with 45 mph winds, is over the Yucatan Peninsula about 100 miles south southeast of Merida, moving west northwest at 10 mph. Dolly will continue to cross over the Yucatan and into the waters of the southwestern Gulf of Mexico today, where it will begin to intensify again. Rainfall amounts of 5-10 inches are expected along the path of the storm, bringing flooding to the Yucatan Peninsula. The current forecast track shows Dolly reaching the upper east coast of Mexico within 48 hours as at least a minimal hurricane.  </p>
+<p>There are no further statements at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

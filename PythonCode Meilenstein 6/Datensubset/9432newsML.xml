@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9432" id="root" date="1996-08-22" xml:lang="en">
+<title>SINGAPORE: Shell Singapore refinery confirms cutbacks.</title>
+<headline>Shell Singapore refinery confirms cutbacks.</headline>
+<dateline>SINGAPORE 1996-08-22</dateline>
+<text>
+<p>Shell Singapore's 200,000 barrels-per-day (bpd) crude distillation unit number five is operating at an 80 percent output level, a spokeswoman said on Thursday.  </p>
+<p>The comment was made in a statement in response to written questions.</p>
+<p>The Shell spokeswoman said all secondary unit relating to the CDU were operating at full capacity.</p>
+<p>Earlier this week, a source close to Shell said the crude unit's operating rate was 85 percent. He said the cutback would be maintained until primary refinery margins turned positive.  </p>
+<p>The Mobil Oil refinery in Singapore reduced operations by 10,000 bpd to 270,000 bpd in mid June, while Esso Singapore is maintaining a 15-percent cut in runs at its 230,000 bpd crude unit which started in early July.</p>
+<p>The refineries have cited negative or narrow primary refinery margins as being behind the run cuts.</p>
+<p>In the statement, Shell also said there were not any disruptions to the operations around its single buoy mooring (SBM) off the refinery at Pulau Bukom.  </p>
+<p>The SBM is situated near where the Maltese 14,114 deadweight bulk carrier Herceg Novi sank on Sunday, which some shipping sources said might make maneouvring of very large crude carriers difficult.</p>
+<p>--Singapore Newsroom (+65 870 3081)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

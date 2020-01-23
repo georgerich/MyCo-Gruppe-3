@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5339" id="root" date="1996-08-21" xml:lang="en">
+<title>NEPAL: Nepali central bank moves on financial scandal.</title>
+<headline>Nepali central bank moves on financial scandal.</headline>
+<byline>Gopal Sharma</byline>
+<dateline>KATHMANDU 1996-08-21</dateline>
+<text>
+<p>Nepal's central bank has asked commercial banks not to issue letters of credit to 40 foreign firms named in a report on a $36.1 million financial scandal, officials said on Wednesday.</p>
+<p>&quot;We have restricted all commercial banks from issuing import letters of credit in favour of foreign suppliers who are listed in the LC (letters of credit) investigation commission report,&quot; said Bhaikaji Shrestha, deputy chief manager of the Nepal Rastra Bank (NRB).</p>
+<p>In June, a government-appointed commission accused more than 90 Nepali businessmen of violating foreign exchange rules in 1994 and 1995 by deflecting $36.1 million through fake letters of credit.</p>
+<p>Authorities said the scandal, one of the biggest in the country's financial sector, resulted in a customs loss of $9 million because goods were not imported.</p>
+<p>The report named more than 40 foreign business firms based in Hong Kong, Singapore, Dubai, Taiwan and South Korea whose documents were produced by Nepali businessmen to obtain payment, without actually importing any goods.</p>
+<p>So far, 15 Nepali businessmen including two top executives, have been arrested and produced in court in connection with the scandal.</p>
+<p>The commercial banks have been asked to withhold outstanding payments to the foreign firms named in the report, Shrestha told Reuters.</p>
+<p>Banks have also been asked to investigate letters of credit not covered by the panel, which only examined documents for $50,000 or more.</p>
+<p>The centre-right coalition government, which ordered the probe into the scandal six months ago, has been criticised for being slow in taking action against the businessmen who had violated the country's foreign exchange laws.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NEPAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KATHMANDU"/>
+<dc element="dc.creator.location.country.name" value="NEPAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11954" id="root" date="1996-08-23" xml:lang="en">
+<title>NORWAY: Norway shares flat despite support in blue chips.</title>
+<headline>Norway shares flat despite support in blue chips.</headline>
+<dateline>OSLO 1996-08-23</dateline>
+<text>
+<p>Norwegian shares were unchanged on Friday despite good support for cyclical stocks and positive sentiment stemming from Germany's interest rate cut on Thursday.</p>
+<p>Brokers said the market was expected to stay flat to slightly positive over the coming week in the absence of external impulses.</p>
+<p>The Total share index closed 0.35 points up at 286.03 points in turnover of 635 million crowns.</p>
+<p>&quot;There was really nothing happening today,&quot; said one dealer. &quot;The market's feeling is good following the rate cut yesterday but there were no impulses. Anyway it's Friday.&quot;  </p>
+<p>Demand remained healthy for insurance group UNI Storebrand which climbed a further 0.40 crowns to 35.90 crowns in trade worth 73.5 million crowns.</p>
+<p>UNI has climbed 1.50 crowns, or nearly 4.4 percent since Wednesday, on buying interest from mainly overseas investors.</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

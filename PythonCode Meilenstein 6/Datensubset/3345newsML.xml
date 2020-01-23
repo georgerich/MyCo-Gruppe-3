@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3345" id="root" date="1996-08-20" xml:lang="en">
+<title>HAITI: Preval visits scene of attack on Haitian police.</title>
+<headline>Preval visits scene of attack on Haitian police.</headline>
+<dateline>PORT-AU-PRINCE, Haiti 1996-08-20</dateline>
+<text>
+<p>Haitian President Rene Preval on Tuesday visited the Port-au-Prince police station, the scene of a Monday morning attack by unidentified men wearing military uniforms.</p>
+<p>&quot;There was shooting near the residence of (former President Jean-Bertrand) Aristide as well,&quot; Preval said.</p>
+<p>Police officers at the station said things were returning to normal after an attack by some 20 men in military fatigues. The men threw grenades and fired automatic weapons, killing a shoeshine worker who was caught in the crossfire.</p>
+<p>&quot;Everyone has calmed down, although now we are increasing security,&quot; said one officer who works at the station.</p>
+<p>&quot;We are increasing all our patrols and investigating to determine who was responsible,&quot; police spokesman Felder Jean-Baptiste told a news conference on Monday night.</p>
+<p>He said the attackers dressed like the former military and wielded heavy weapons but he could not say who they were as they had all escaped.</p>
+<p>The Haitian military was disbanded by Aristide in January, 1995, shortly after he was restored to power by U.S. troops. He was ousted in 1991 in a bloody military coup.</p>
+<p>The Haitian National Police replaced the military as the nation's security force. Former soldiers have been marching in the capital, angry that they no longer receive a paycheck.</p>
+<p>Police initially said Monday's attack on the police station lasted about an hour but have since trimmed that estimate. Jean-Baptiste said the attack lasted half an hour, U.N. spokesman Eric Falt said it lasted fifteen minutes, and local newspapers have reported that it raged for five minutes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT-AU-PRINCE, Haiti"/>
+<dc element="dc.creator.location.country.name" value="HAITI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

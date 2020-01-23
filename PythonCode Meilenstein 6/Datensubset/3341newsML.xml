@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3341" id="root" date="1996-08-20" xml:lang="en">
+<title>CHILE: Chile's Masisa sells stake in unit.</title>
+<headline>Chile's Masisa sells stake in unit.</headline>
+<dateline>SANTIAGO 1996-08-20</dateline>
+<text>
+<p>Chilean forestry firm Maderas y Sinteticos SA (Masisa) said it has sold 181,800 shares in its Forestal Tornagaleones division for $474,000.</p>
+<p>The stake was bought by Rawson Investment Limited and Masisa will receive payment in 20 days from August 20, said the forestry firm in a statement to the Securities Superintendency.</p>
+<p>-- Margaret Orgill, Santiago newsroom, 562-699-5595 x212</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

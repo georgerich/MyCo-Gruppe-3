@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8549" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: CRICKET-ENGLISH COUNTY CHAMPIONSHIP SCORES.</title>
+<headline>CRICKET-ENGLISH COUNTY CHAMPIONSHIP SCORES.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Close of play scores in four-day</p>
+<p>English County Championship cricket matches on Thursday:</p>
+<p>Second day</p>
+<p>At Weston-super-Mare: Durham 326 (D.Cox 95 not out,</p>
+<p>S.Campbell 69; G.Rose 7-73). Somerset 236-4 (M.Lathwell 85).</p>
+<p>Firsy day</p>
+<p>At Colchester: Gloucestershire 280 (J.Russell 63, A.Symonds</p>
+<p>52; A.Cowan 5-68). Essex 72-0.</p>
+<p>At Cardiff: Kent 128-1 (M.Walker 59, D. Fulton 53 not out) v</p>
+<p>Glamorgan.</p>
+<p>At Leicester: Leicestershire 343-8 (P.Simmons 108, P.Nixon</p>
+<p>67 not out) v Hampshire.</p>
+<p>At Northampton: Sussex 368-7 (N.Lenham 145, V.Drakes 59 not</p>
+<p>out, A.Wells 51) v Northamptonshire.</p>
+<p>At Trent Bridge: Nottinghamshire 392-6 (G.Archer 143 not</p>
+<p>out, M.Dowman 107) v Surrey.</p>
+<p>At Worcester: Warwickshire 255-9 (A.Giles 57 not out, W.Khan</p>
+<p>52) v Worcestershire.</p>
+<p>At Headingley: Yorkshire 305-5 (C.White 66 not out, M.Moxon</p>
+<p>66, M.Vaughan 57) v Lancashire.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

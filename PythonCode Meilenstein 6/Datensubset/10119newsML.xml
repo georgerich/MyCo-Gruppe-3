@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10119" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Moody's downgrades New Oji Paper rating to Baa1.</title>
+<headline>Moody's downgrades New Oji Paper rating to Baa1.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Moody's Investors Service Inc said on Thursday that it had downgraded the long-term debt rating of New Oji Paper Co Ltd to Baa1 from A3.  </p>
+<p>Approximately 100 billion yen worth of long-term debt is affected, Moody's said.</p>
+<p>The downgrading is based on Moody's belief that after New Oji's merger with Honshu Paper Co Ltd planned for October 1996, Honshu's low profitabiliy in its paperboard operations and high leverage will have a negative impact on New Oji's financial condition.</p>
+<p>This downgrade concludes a review begun on August 5, 1996, Moody's said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

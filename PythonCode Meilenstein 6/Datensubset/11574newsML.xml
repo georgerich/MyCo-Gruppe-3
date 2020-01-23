@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11574" id="root" date="1996-08-23" xml:lang="en">
+<title>GREECE: TABLE OF GREEK CENTRAL BANK FIXING RATES, AUG 23.</title>
+<headline>TABLE OF GREEK CENTRAL BANK FIXING RATES, AUG 23.</headline>
+<dateline>ATHENS 1996-08-23</dateline>
+<text>
+<p>The Bank of Greece's fixing</p>
+<p>rates for leading currencies on Friday were as follows.</p>
+<p>--------------------------------------------------------</p>
+<p> Currency:     Aug  23     Aug 22	 DEC 29 95    NET</p>
+<p>--------------------------------------------------------</p>
+<p>- USD =	  237.710     237.460     237.040    0.28 %</p>
+<p>- DEM =	  159.510     159.850     165.490   -3.61 %</p>
+<p>- FRF =	   46.774	46.840	48.410   -3.38 %</p>
+<p>- GBP =	  369.240     369.040     366.280    0.81 %</p>
+<p>- CHF =	  196.850     197.385     206.030   -4.46 %</p>
+<p>- NLG =	  142.325     142.455     147.886   -3.76 %</p>
+<p>- ITL (100) =   15.656	15.668	14.975    4.55 %</p>
+<p>- JPY (100) =  219.040     219.400     230.135   -4.82 %</p>
+<p>- ECU =	  300.600     300.600     303.640   -1.00 %</p>
+<p>- ESP =	    1.889	 1.892	 1.939   -2.58 %</p>
+<p>- PTE =	    1.557	 1.557	 1.575   -1.14 %</p>
+<p>Note: The percentage net change is calculated as the percentage</p>
+<p>difference between the most recent fixing rate and the December</p>
+<p>29, 1995 rate. Thursday was a holiday in Greece.</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

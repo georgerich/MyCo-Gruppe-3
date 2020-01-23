@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3307" id="root" date="1996-08-20" xml:lang="en">
+<title>YUGOSLAVIA: Yugoslav May oil output rises to 86,000 tonnes.</title>
+<headline>Yugoslav May oil output rises to 86,000 tonnes.</headline>
+<dateline>BELGRADE 1996-08-20</dateline>
+<text>
+<p>The Yugoslav Federal Statistical Office reported the following energy production figures:</p>
+<p>					 MAY	  APRIL     MAY 1995</p>
+<p> Crude oil (tonnes)	     86,000     84,000	91,000</p>
+<p> Natural gas (million cu. metres)   54	   54	    46</p>
+<p>-- Gordana Kukic, Belgrade Newsroom +381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

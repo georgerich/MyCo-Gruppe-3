@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6529" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: No deliveries seen on MATIF September wheat.</title>
+<headline>No deliveries seen on MATIF September wheat.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>The first trading month of MATIF wheat futures, September 1996, goes off the board tonight and signs are there will be no deliveries, traders said.</p>
+<p>Two lots traded in September on Wednesday and although positions have yet to be tallied these are seen cancelling the two positions left open in the market on Tuesday.</p>
+<p>MATIF launched wheat on July 5 but the late timing of the launch discouraged trade on the first expiry month, traders said. Legal problems had delayed by the launch by some months.</p>
+<p>Traders said most September cash had been covered, pushing trade interest into November with open interest of 257 lots.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

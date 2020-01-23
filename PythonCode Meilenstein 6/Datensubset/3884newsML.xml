@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3884" id="root" date="1996-08-20" xml:lang="en">
+<title>PAKISTAN: Pakistan, Iran mull gas pipeline options.</title>
+<headline>Pakistan, Iran mull gas pipeline options.</headline>
+<byline>Raja Asghar</byline>
+<dateline>ISLAMABAD 1996-08-20</dateline>
+<text>
+<p>Pakistani and Iranian officials on Tuesday discussed a multi-billion dollar gas pipeline deal that could be affected by U.S. sanctions against Tehran, an official Pakistani statement said.</p>
+<p>The talks between the two sides, led by Iranian Oil Minister Gholamreza Aghazadeh and Pakistani Petroleum and Natural Resources Minister Anwar Saifullah, were held a day after the Iranian delegation arrived in Islamabad.</p>
+<p>&quot;The meeting discussed in detail various options available to implement this mega-project in the shortest possible time...,&quot; the Pakistani statement said.</p>
+<p>It said the meeting also &quot;underscored the need of finalising the details of the project expeditiously so that physical work ...could start without any further loss of time&quot;.</p>
+<p>The pipeline, estimated to cost between $3.5 billion and $4 billion, is designed to bring Iranian natural gas to Pakistan and then take it to India.</p>
+<p>U.S. President Bill Clinton signed a new law early this month to penalise non-U.S. firms that invest $40 million or more a year in the oil and gas sectors of either Iran or Libya.</p>
+<p>The Pakistani statement quoted Saifullah as telling Tuesday's meeting that a joint working committee had done &quot;excellent work&quot; with regard to an alternative proposal, but it was not immediately clear if it was designed to beat the U.S. sanctions.</p>
+<p>Saifullah said the proposal envisaged the delivery of the Iranian gas at Iran-Pakistan border &quot;under the exclusive arrangements of the Iranian government&quot;.</p>
+<p>The Pakistani government will be responsible for buying gas &quot;from the point of delivery and make arrangements for its upcountry transmission and sale under its exclusive arrangements&quot;, he said.</p>
+<p>Aghazadeh said on Monday the U.S. sanctions would not put &quot;the time-tested Pakistan-Iran ties in jeopardy&quot;. He added he also planned to discuss a planned project to set up a joint oil refinery in Pakistan.</p>
+<p>Pakistan and Iran had earlier decided to invite bids in July for the pipeline project, but have not done so.</p>
+<p>Tehran's negotiations to sell gas to Pakistan and India follow a $23 billion deal with its western neighbour Turkey for supplies of Iranian gas up to the year 2020.</p>
+<p>The Iran-Pakistan project is expected to construct a 1,600-km (1,000-mile) pipeline to carry 1.6 billion cubic feet a day of Iranian gas to Pakistan's southern province of Sindh and then on to India.</p>
+<p>U.S. Senator Alfonse D'Amato, an architect of the Iran-Libya Sanctions Act signed by Clinton on August 5, has warned foreign firms from getting involved in the Iran-Pakistan-India project.</p>
+<p>Australia's Broken Hill Pty Co Ltd (BHP) has confirmed that it and several other Western companies had held talks with Tehran on the proposed gas export project but that BHP had not made any commitments.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

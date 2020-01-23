@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4023" id="root" date="1996-08-20" xml:lang="en">
+<title>TURKEY: Turkish lira/bond/forex closing report.</title>
+<headline>Turkish lira/bond/forex closing report.</headline>
+<dateline>ISTANBUL 1996-08-20</dateline>
+<text>
+<p>The Turkish central bank lent banks 15.5 trillion lira of overnight money at 75 percent on Tuesday to ease a cash shortage in the market, after keeping rates at 74-74.75 percent during the day.</p>
+<p>The bank funded banks 10.3 trillion lira of overnight money at the same rate on Monday when the market closed at an average of 73.86 percent.</p>
+<p>Although the market opened with a shortage of 4.7 trillion lira in the morning, the lira weakened due to a firmer dollar/mark and the central bank's support for the U.S currency on Tuesday.</p>
+<p>The central bank raised its dollar rate for banks' compulsory currency transfers to 86,050 lira in the afternoon, from 86,000 at the opening. That was on top of a 150-lira rise in the morning from Monday's close.</p>
+<p>The lira fell to 86,070 per dollar from 86,000 at Monday's close on the central bank's rate adjustments and the dollar/mark trend.</p>
+<p>T-bill yields firmed by one-two points as selling emerged due to the cash squeeze.</p>
+<p>Bankers said Monday's 211-day t-bill auction, in which the treasury raised the yield to extend maturity, helped push those t-bill yields lower.</p>
+<p>The most active February 26 paper yield fell to 127.55 percent from 126.26 at Monday's close. Since Friday, yields have lost 1.74 points.</p>
+<p>Yields on the March 19 papers, sold at an average yield of 128.94 percent at Monday's t-bill auction, rose to 130.29 percent. --Tulin Aygunes, Istanbul newsroom +90-212-275 08 75</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

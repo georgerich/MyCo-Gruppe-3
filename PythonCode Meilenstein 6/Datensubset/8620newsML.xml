@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8620" id="root" date="1996-08-22" xml:lang="en">
+<title>BULGARIA: ONE ROMANIAN DIES IN BUS CRASH IN BULGARIA.</title>
+<headline>ONE ROMANIAN DIES IN BUS CRASH IN BULGARIA.</headline>
+<dateline>SOFIA 1996-08-22</dateline>
+<text>
+<p>One Romanian passenger was killed, and 14 others were injured on Thursday when a Romanian-registered bus collided with a Bulgarian one in northern Bulgaria, police said.</p>
+<p>The two buses collided head on at 5 o'clock this morning on the road between the towns of Rousse and Veliko Tarnovo, police said.</p>
+<p>A Romanian woman Maria Marco, 35, was killed. The accident was being investigated, police added. -- Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

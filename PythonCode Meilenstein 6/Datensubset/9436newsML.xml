@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9436" id="root" date="1996-08-22" xml:lang="en">
+<title>VIETNAM: Vietnam rice prices fall ahead of monsoon floods.</title>
+<headline>Vietnam rice prices fall ahead of monsoon floods.</headline>
+<dateline>HANOI 1996-08-22</dateline>
+<text>
+<p>Vietnamese rice prices have fallen slightly in active trading over the last week as farmers sell off stocks ahead of the annual flood season in the southern Mekong Delta, traders said on Wednesday.</p>
+<p>They said five percent broken grade has been trading at around $275 to $280 a tonne FOB Saigon port, against $282-$285 earlier in August, but added that prices might pick up as the impact of flooding became clearer.</p>
+<p>Ten percent broken grade was quoted at between $265-$270 a tonne, down from $275 two weeks ago.  </p>
+<p>Northern Vietnam has been subject to a series of storms over the past week and Mekong Delta authorities in the south are readying for the annual monsoon inundation.</p>
+<p>&quot;Floods might be a bullish factor, but, as we've seen before, Vietnam can be a bit unpredictable,&quot; said one trader.</p>
+<p>Dealers said Iraq had bought shipments of 15 percent broken rice and Iran was in the market for five percent grade.</p>
+<p>They added that African countries were also interested in Vietnamese rice.</p>
+<p>Market rumours that China might be looking to Vietnam for rice could not be confirmed on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11415" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Dolly's rains a welcome reprieve from Texas drought.</title>
+<headline>Dolly's rains a welcome reprieve from Texas drought.</headline>
+<byline>James Pierpoint</byline>
+<dateline>HOUSTON 1996-08-23</dateline>
+<text>
+<p>Hurricane Dolly spread storms across most of rain-starved Texas as it made landfall on Friday in northern Mexico, providing brief relief to areas of the state dried out by a prolonged drought.</p>
+<p>The hurricane crashed onshore near Tampico, Mexico, dumping torrential rains in northern Mexico and spreading storm bands across the Rio Grande Valley into northern Texas.</p>
+<p>In Texas, a tornado touched down south of Brownsville, damaging several homes but causing no injuries as gusty winds and heavy rains in advance of the hurricane moved onshore along the Texas-Mexico border.</p>
+<p>&quot;We're never ones to advocate replacing one natural disaster with another, but the rains being generated right now are a great sight all across the state,&quot; said Gene Acuna, a spokesman with the Texas Department of Agriculture.</p>
+<p>Ranchers and farmers in Texas have lost an estimated $2.1 billion from the drought, and half the counties in the state are eligible for federal disaster relief because of a prolonged dry spell over the past three years.</p>
+<p>More than two inches (5 cm) of rain fell in South Padre Island on the Texas Gulf Coast, where flood warnings were posted before the storm. In the parched Rio Grande Valley, more than 1.5 inches (3.8 cm) of rain fell on the border town of Zapata.</p>
+<p>In Brownsville, rainfall ahead of the storm was measured at just over 2.5 inches (6.3 cm) in the past three days, said Don Ocker, a meteorologist with the National Weather Service.</p>
+<p>The drenching rains were a blessing to farmers preparing to plant fall crops in south Texas and the lower Rio Grande Valley, which has received barely a quarter of normal rainfall this year.</p>
+<p>But unless the storm turns north and stalls over the Rio Grande Valley, Dolly was not expected to break the severe drought that has parched sections of south Texas the past three years, meteorologists said.</p>
+<p>&quot;This hasn't done anything for (the drought),&quot; Ocker said. &quot;For the long-run, we're still in trouble.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

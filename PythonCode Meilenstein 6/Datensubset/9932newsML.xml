@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9932" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Adelaide Brighton to sell pipe assets.</title>
+<headline>RTRS-Adelaide Brighton to sell pipe assets.</headline>
+<dateline>ADELAIDE 1996-08-22</dateline>
+<text>
+<p>Cement manufacturer Adelaide Brighton Ltd said on Thursday it had decided to sell its investment in the pipe businesses of Hume Industries Ltd in New Zealand.</p>
+<p>Adelaide Brighton said the businesses to be sold included the operations of Humes Concrete Pipe, Humes Drainage and Watermain, Humes Steelpipe, Humes Castings and Plumbing and Irrigation Ltd with plans for the divestment to be completed by the end of calendar 1996.</p>
+<p>Earlier the company reported a full year loss of A$49.3 million.</p>
+<p>Adelaide Brighton said there was no immediate prospects for any improvement in its cement markets in Australia and Hawaii with most forecasters predicting no upward movement until well into 1997/98.  </p>
+<p>The company said the Australian cement market downturn had been severe with total cement tonnage falling by nearly 13 percent due to a reduction in housing construction in all states.</p>
+<p>A strategy of concentration on core assets had been adopted directors said, with an orderly divestment of non-core assets and a growth strategy based on offshore businesses.</p>
+<p>Adelaide Brighton shares closed one cent firmer at A$1.42 on turnover of 608,026 shares.</p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

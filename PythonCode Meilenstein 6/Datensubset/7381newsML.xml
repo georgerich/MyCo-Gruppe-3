@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7381" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: S.Korea seeks 1.4 trillion won budget supplement.</title>
+<headline>S.Korea seeks 1.4 trillion won budget supplement.</headline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>The South Korean government has drawn up a supplementary budget of 1.4 trillion won for this year, the finance and economic ministry said on Wednesday.</p>
+<p>The extra budget, the first in the 1996 calendar year, will be submitted to a cabinet ministers' meeting for deliberation later this month and then a parliamentary session in October.  </p>
+<p>A ministry statement said some of the supplement budget would be used to help finance recovery of damaged areas hit by torrential rains in July.</p>
+<p>About 858.5 billion won will be used to cover up a shortage of state income due to delayed sell-offs of state-owned companies.</p>
+<p>The ministry planned to generate 1.98 trillion won this year by selling government holdings in state corporations, such as Korea Telecom, but it has only sold 60 billion won worth so far. The government postponed the sales because of oversupply concerns on the stock market.</p>
+<p>The statement said the government would reduce the sell-off target to one trillion won this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

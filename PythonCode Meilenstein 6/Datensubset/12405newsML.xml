@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12405" id="root" date="1996-08-23" xml:lang="en">
+<title>MALAYSIA: Negara says borrows for 1-mth deposit at 7.05 pct.</title>
+<headline>Negara says borrows for 1-mth deposit at 7.05 pct.</headline>
+<dateline>KUALA LUMPUR 1996-08-23</dateline>
+<text>
+<p>Bank Negara Malaysia said it borrowed for a one-month deposit from the interbank market at 7.05 percent against 6.95-7.05 previously.</p>
+<p>The borrowing was part of the central bank's open market operations. Bank Negara regularly intervenes in the local interbank market to keep a check on liquidity or set interest rates as part of its efforts to fight inflation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

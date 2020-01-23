@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4140" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: CBOT soyoil deliveries - Aug 20.</title>
+<headline>CBOT soyoil deliveries - Aug 20.</headline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>CBOT soybean oil delivery notices for delivery against the August contract on August 21 (In contracts).</p>
+<p>SOYOIL - 983 lots. Up to August 19, 1996.</p>
+<p>Delivered - term commodities/h 484, kenosha/h 134, 1st option/c 365.</p>
+<p>Received - prudential/c 185, refeco/c 26, kenosha/h 126, 1st option/c 268, adm investor services/h 378.</p>
+<p>H=house account. C=Customer Account.</p>
+<p>Source: Chicago Board of Trade Clearing Corp.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

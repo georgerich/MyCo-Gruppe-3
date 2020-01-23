@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9451" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: HK CPI (A) rises annual 6.1 pct in July.</title>
+<headline>HK CPI (A) rises annual 6.1 pct in July.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>The Census and Statistics Department released the following consumer price index data showing Hong Kong's CPI (A) rose 6.1 percent in July year-on-year, according to the 1994/95-based series.</p>
+<p>    CPI (A)  July '96    June '96    July '95</p>
+<p>		  6.1	   6.1	   N/A</p>
+<p>The June 1996 comparison is calculated according to a revised set of figures following the Hong Kong government's rebasing of consumer price indices in April.</p>
+<p>The comparisons for CPI (A) and (B) according to the old series were:</p>
+<p>    CPI (A) July '96	June '96    July '95</p>
+<p>		 6.1		6.4	   8.5</p>
+<p>    CPI (B)  6.4		7.0	   9.2</p>
+<p>CPI (A) is based on the 50 percent of households spending HK$2,500-$9,999 a month as of the 1989/90 fiscal year base and CPI (B) covers the 30 percent which spent HK$10,000-$17,499.  </p>
+<p>Monthly percentage changes according to the new 1994/95-based series are</p>
+<p>			 July '96   June '96     July '95</p>
+<p>    CPI (A)	   0.2	  0.6	    0.3</p>
+<p>    CPI (B)	   0.2	  0.4	    0.3</p>
+<p>    Hang Seng CPI  -0.4	  0.6	    0.04</p>
+<p>    Composite CPI  unch	  0.5	    0.2</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

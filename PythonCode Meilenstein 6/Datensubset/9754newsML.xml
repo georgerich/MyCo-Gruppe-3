@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9754" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: German flown air cargo rises 5.4 pct in July.</title>
+<headline>German flown air cargo rises 5.4 pct in July.</headline>
+<dateline>FRANKFURT 1996-08-22</dateline>
+<text>
+<p>The following table shows total flown air cargo volumes in tonnes handled at international German airports in July 1996. The figures include transit air cargo but exclude trucked airfreight according to the German airports association ADV.</p>
+<p>Berlin (total)	     2,407   down   2.7 pct</p>
+<p>  - Tegel		    1,385    up    4.6</p>
+<p>  - Tempelhof		   32    up   39.1</p>
+<p>  - Schoenefeld		990   down  12.1</p>
+<p> Bremen			  204    up   25.9</p>
+<p> Dresden			 116    up   24.7</p>
+<p> Duessseldorf		5,353    up   11.9</p>
+<p> Frankfurt		 112,815    up    1.0</p>
+<p> Hamburg		     3,118   down   2.2</p>
+<p> Hannover			988    up   32.1</p>
+<p> Koeln (Cologne)	  24,442    up   25.6</p>
+<p> Leipzig/Halle		 195    up    5.4</p>
+<p> Munich			6,598    up   11.5</p>
+<p> Muenster/Osnabrueck	  61    up   35.6</p>
+<p> Nuremberg		   3,866    up   19.7</p>
+<p> Saarbruecken		   36   down  52.0</p>
+<p> Stuttgart		   1,603    up   13.4</p>
+<p> TOTAL		     161,802    up    5.4</p>
+<p>-- Air Cargo Newsroom tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

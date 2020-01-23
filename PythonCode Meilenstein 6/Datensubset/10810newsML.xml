@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10810" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Interneuron to change Redux drug label.</title>
+<headline>Interneuron to change Redux drug label.</headline>
+<dateline>LEXINGTON, Mass. 1996-08-23</dateline>
+<text>
+<p>Interneuron Pharmaceuticals Inc said Friday it would change the warning label on its Redux obesity drug in response to new data showing weight-loss drugs pose a greater risk of a potentially fatal lung disorder than previously believed.</p>
+<p>The original label said that an estimated 18 of every one million people who took obesity drugs for more than three months were at risk of contracting the disorder, known as primary pulmonary hypertension.  </p>
+<p>Interneuron said a recalculation of the estimate by American Home Products Corp, which markets Redux, found that 23 to 46 people per million were at risk.</p>
+<p>The incidence of the disorder in the general population is one to two people per million, it said.</p>
+<p>Interneuron spokesman Bill Boni said the Redux label would be changed to reflect the updated information. He said the study concerned &quot;a class of drugs,&quot; not just Redux.</p>
+<p>He also said the study indicated that obesity &quot;in and of itself&quot; predisposes a person to primary pulmonary hypertension.  </p>
+<p>Thus, it may be difficult to differentiate between those who contract the disease because they are overweight and those who contract it due to use of obesity drugs, Boni said.</p>
+<p>The original label for Redux was issued when the drug was approved in April. The wording for a revised label has not been approved yet by the Food and Drug Administration.</p>
+<p>Reports of the change in the label appear to have had a positive effect on Interneuron's stock and that of Jenny Craig Inc, a weight-loss chain that uses Redux.</p>
+<p>&quot;It's a resolution in the face of uncertainty,&quot; said David Crossen, an analyst with Montgomery Securities. &quot;What we know is the FDA is allowing the company to reflect the change without raising the ante that would require a black box.&quot;</p>
+<p>On Friday afternoon Jenny Craig's stock was at 11-3/8, up 1/8. Interneuron stood at 28-3/4, unchanged, after being up a full point earlier in the day.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

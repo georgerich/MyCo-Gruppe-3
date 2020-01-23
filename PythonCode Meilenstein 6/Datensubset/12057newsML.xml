@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12057" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: KESLA POSTS 0.4 MLN MARKKA H1 LOSS.</title>
+<headline>KESLA POSTS 0.4 MLN MARKKA H1 LOSS.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>Six months to June 30,</p>
+<p>				    (million markka unless stated)</p>
+<p> Loss after fin items			0.4 vs 2.1 profit</p>
+<p> Net sales				    40.8 vs 48.6</p>
+<p> Operating profit			    0.2 vs 3.1</p>
+<p> Earnings per share (markka)     loss 1.30 vs 5.43 profit</p>
+<p> Operating margin			    1.9 vs 4.8</p>
+<p> Depreciations				 1.7 vs 1.7</p>
+<p> Net financial items		charge 0.7 vs 1.0 charge</p>
+<p> Taxes					  0.05 vs 0.05</p>
+<p>NOTE - Full name of Finnish forestry harvester manufacturer</p>
+<p>is Kesla Oy.</p>
+<p>-- Helsinki newsroom +35 80 6805 0292</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

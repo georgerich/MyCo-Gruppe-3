@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8198" id="root" date="1996-08-22" xml:lang="en">
+<title>CANADA: Canada June retail sales rise 0.6 pct from May.</title>
+<headline>Canada June retail sales rise 0.6 pct from May.</headline>
+<dateline>OTTAWA 1996-08-22</dateline>
+<text>
+<p>Canadian retail sales rose 0.6 percent in June to a seasonally adjusted C$17.97 billion from C$17.86 billion in May (revised from C$17.80 billion) Statistics Canada said on Thursday.</p>
+<p>					Month pct  Year pct   Total</p>
+<p>Sales, seasonally adjusted	+0.6	 +1.4   C$17.97 bln</p>
+<p>Sales, ex vehicles, s/a	   +0.3	 +0.9   C$13.67 bln</p>
+<p>Sales, unadjusted		    n/a	 -0.6   C$19.01 bln</p>
+<p>A Reuter survey of economists had forecast that seasonally adjusted retail sales would rise by 0.3 percent in June.</p>
+<p>It said early indications for July pointed to a drop.  </p>
+<p>Statistics Canada said sales rose over the month in five of the seven major groups, accounting for almost 71.0 percent of total retail trade.</p>
+<p>Statistics Canada said retail sales rose 2.3 percent in the first half of 1996 from the same period in 1995.</p>
+<p>(For more information from Statistics Canada, contact the Retail Trade Section, Industry Division, Pierre Desjardins at 613-951-9682).</p>
+<p>-- Reuters Ottawa Bureau 613-235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

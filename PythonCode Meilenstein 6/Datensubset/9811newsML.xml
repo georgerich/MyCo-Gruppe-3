@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9811" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: French financial stocks rise on rate cuts.</title>
+<headline>French financial stocks rise on rate cuts.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>French financial stocks, which have been laggards on the bourse since the start of the year, put on a burst on Thursday following rate cuts by French and German central banks.</p>
+<p>Traders said Banque Nationale de Paris (BNP) garnered recommendations from several brokers and added 6.20 francs to 180, or 3.57 percent.</p>
+<p>Other stocks to rise were Societe Generale, up 2.53 percent at 567 francs, Paribas up 1.84 percent to 315, Credit Commercial de France up 1.06 percent at 238.80, and Suez up 1.61 percent at 182.90.  </p>
+<p>Insurer Union des Assurances de Paris (UAP) and consumer credit house Cetelem rose respectively 0.98 percent to 102.70 francs and 0.56 percent to 1,082.</p>
+<p>Traders said the rate reductions would help inject some life into the tired economy and stir credit demand, while also lower funding costs for banks.</p>
+<p>Since January BNP has fallen 18.5 percent, Suez 9.4 percent, and UAP 19.5 percent.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

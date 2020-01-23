@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8283" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. jobless claims rose in latest week.</title>
+<headline>U.S. jobless claims rose in latest week.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>U.S. Labor Department report of initial state jobless benefit claims, seasonally adjusted.</p>
+<p>Week Ended  Initial Claims  4-Week Avg.  Continued Claims</p>
+<p>     08/17/96	327,000	 314,000	Unavailable</p>
+<p>     08/10/96	321,000	 312,500-R    2,521,000</p>
+<p>     08/03/96	314,000-R     324,000-R    2,466,000-R</p>
+<p>     07/27/96	294,000	 338,000	2,515,000-R</p>
+<p>R-Revised, Aug 3 Initial Claims from 316,000; Aug 10 4-Week Average from 313,000, and Aug 3 from 324,500; Aug 3 Continued Claims from 2,471,000, and July 27 from 2,534,000.  </p>
+<p>Wall Street economists had forecast initial claims of 331,000 in the August 17 week.</p>
+<p>The department said three states reported increases in initial claims exceeding 1,000 on an unadjusted basis in the week ended August 10, the latest period for which the data are available.</p>
+<p>They were California, with 1,918 additional new filings; Alabama, with 1,250; and Arkansas, with 1,129.</p>
+<p>Alabama reported more layoffs in the textile industry. California and Arkansas had no comment.  </p>
+<p>Labor said two states reported decreases in initial claims exceeding 1,000, unadjusted, in the August 10 week.</p>
+<p>They were Missouri, with 3,049 fewer new filings; and Ohio, with 1,145. Missouri cited fewer layoffs in the transportation industry. Ohio had no comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

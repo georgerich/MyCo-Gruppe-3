@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6312" id="root" date="1996-08-21" xml:lang="en">
+<title>ISRAEL: PLO bans books of political critic - lawmaker.</title>
+<headline>PLO bans books of political critic - lawmaker.</headline>
+<dateline>RAMALLAH, West Bank 1996-08-21</dateline>
+<text>
+<p>A Palestinian lawmaker said on Wednesday that the Palestinian Ministry of Information and Culture had banned books written by prominent scholar Edward Said, a known critic of the PLO.</p>
+<p>Ziad Abu Amr said he had obtained a ministry order directing the withdrawal of books written by Said, a professor at New York City's Columbia University, from West Bank and Gaza Strip markets.</p>
+<p>Said, a U.S. citizen of Palestinian origin, has been an ardent critic of Palestinian President Yasser Arafat's self-rule deals with Israel and Arafat is said to have been angry at Said.</p>
+<p>&quot;I am going to raise this issue at the council meeting,&quot; Abu Amr said.</p>
+<p>No ministry officials were immediately available to comment.</p>
+<p>But one bookshop in the West Bank town of Ramallah confirmed that police about a month ago confiscated several copies of two of Said's books on the Israel-PLO self-rule deals.</p>
+<p>The bookshop owner, who declined to be identified, said police also seized copies held by the main distributor in the city. The distributor was not immediately available to comment.</p>
+<p>Said has written on a range of topics, including literature, cultural criticism and Middle East affairs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RAMALLAH, West Bank"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

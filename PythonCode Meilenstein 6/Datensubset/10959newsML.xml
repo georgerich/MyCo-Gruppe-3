@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10959" id="root" date="1996-08-23" xml:lang="en">
+<title>NIGERIA: Nigeria bans university lecturers' union.</title>
+<headline>Nigeria bans university lecturers' union.</headline>
+<dateline>LAGOS 1996-08-23</dateline>
+<text>
+<p>Nigeria's military government has banned the national union of university lecturers, an official statement said on Friday.</p>
+<p>&quot;Government has decided to proscribe the Academic Staff Union of Universities (ASUU) due to the unpleasant development of persistent strikes in the university system,&quot; said the statement released in the capital Abuja.</p>
+<p>Lecturers in Nigeria's 38 universities have been on indefinite strike since April, to press for better working conditions. The strike has paralysed academic activity and left tens of thousands of students without lessons.</p>
+<p>Nigeria is under fire from many western countries for human rights abuses and lack of democracy.</p>
+<p>The lecturers said they embarked on their action to pressure the government to review the agreement it signed with ASUU in September 1992, and which is subject to renewal every three years.</p>
+<p>Government signed the agreement, only after academics had been on strike for a whole year.</p>
+<p>&quot;Several efforts have been made by government since 1992 to improve conditions of service for university staff but ASUU remained adamant with its strikes,&quot; the statement said.</p>
+<p>&quot;This action is highly regretted but it is the best in the circumstances.&quot;</p>
+<p>According to ASUU president Asisi Asobie, Nigerian lecturers earn about 3,000 naira ($35.29) monthly, much less than their counterparts in other African countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

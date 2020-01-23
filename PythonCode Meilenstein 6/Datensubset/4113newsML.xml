@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4113" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Haynes International Inc issues $140 mln in debt.</title>
+<headline>Haynes International Inc issues $140 mln in debt.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>The following high-yield debt issue was priced on Tuesday, according to lead manager Merrill Lynch &amp; Co Inc.</p>
+<p>BORROWER: HAYNES INTERNATIONAL INC</p>
+<p>AMT $140 MLN	    COUPON 11.625 PCT  MATURITY 9/1/2004</p>
+<p>TYPE SENIOR NOTES     ISS PRICE 98.095   PAY DATE 3/1/1997</p>
+<p>LAST MOODY B3	   REOFFER   98.095   PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P B-	     YIELD 12.00 PCT    FULL FEES</p>
+<p>CALLABLE Non-call four</p>
+<p>NOTES THREE YEAR EQUITY CALL FOR 35 PCT AT 111.625</p>
+<p>--U.S. corporate bonds, 212-859-1672</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3640007">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

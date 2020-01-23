@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10015" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Japan buys 140,000 tonne wheat, 40,000 tonne barley.</title>
+<headline>Japan buys 140,000 tonne wheat, 40,000 tonne barley.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>The Japanese Food Agency said on Thursday it had bought 60,000 tonnes of U.S. wheat, 60,000 of Canadian wheat, and 20,000 of Australian wheat at a weekly tender.</p>
+<p>It also said it bought 20,000 tonnes of Canadian barley and 20,000 of Australian barley. These are all for October shipment. The tender results are as follows, in tonnes.</p>
+<p>WHEAT</p>
+<p> Country    Quantity</p>
+<p> U.S.	 60,000	   Western white	    20,000</p>
+<p>				   Dark northern spring   20,000</p>
+<p>				   Hard red winter</p>
+<p>				   (13 percent protein)   20,000</p>
+<p> Canada     60,000	   1 Canadian western red spring</p>
+<p>								  44,000</p>
+<p>				   Canadian Durum	   16,000</p>
+<p> Australia  20,000	   Standard white	   20,000</p>
+<p>BARLEY</p>
+<p> Country    Quantity</p>
+<p> Canada     20,000	   Feed			 20,000</p>
+<p> Australia  20,000	   Feed			 20,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2992" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Shareholder group opposes California Jockey deal.</title>
+<headline>Shareholder group opposes California Jockey deal.</headline>
+<dateline>SAN FRANCISCO 1996-08-20</dateline>
+<text>
+<p>The California Jockey Club Shareholders Committee Tuesday formally objected to the California Jockey Club's recently announced agreement with Hudson Bay Partners LP to effect a major corporate restructuring.</p>
+<p>In a statement, Ron Volkman, a member of the committee and one of the committee's nominees for election to the board of directors said shareholders would be &quot;locked in&quot; to a minority position without obtaining a true premium for surrendering control of the company.</p>
+<p>&quot;There is no guarantee that the massive cash infusion will be used wisely, rather than for even more improvident real estate speculation to the detriment of our historic franchise of live racing.</p>
+<p>California Jockey on Monday said Hudson Bay partners would invest $300 million in two new limited partnerships.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

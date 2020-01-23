@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4204" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Fed refrains from open market operations.</title>
+<headline>Fed refrains from open market operations.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>The Federal Reserve refrained from open market operations on Tuesday, dealers said.</p>
+<p>The Fed's absence in the market was widely expected and was interpreted as having no monetary policy implications.</p>
+<p>The Fed's Open Market Committee is currently meeting to decide the future of the country's short-term rates. The outcome of the meeting is seen at around 1415 EDT/1815 GMT.</p>
+<p>At 1130 EDT/1530 GMT, the time when the Fed usually intervenes in the market, the federal funds rate was quoted at 5-1/8 percent, below the central bank's 5-1/4 percent target.</p>
+<p>-- N.A. Treasury Desk (212) 859-1676</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

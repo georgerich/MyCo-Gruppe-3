@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2540" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Suit against Lloyd's dismissed in New York.</title>
+<headline>Suit against Lloyd's dismissed in New York.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Lloyd's of London said a U.S. federal court had granted Lloyd's motion to dismiss a lawsuit brought against it by four Lloyd's Names -- J. David Tufts III, James D. Tufts II, Albert B. Crutcher and Linda Tufts Hebbler.</p>
+<p>In a statement late on Monday, Lloyd's said Judge John F. Keenan of the United States District Court in the Southern District of New York ruled that the plaintiff's evidence &quot;fails to support their claim.&quot;</p>
+<p>The court focused on the choice clauses included in the General Undertaking. Keenan followed precedents set in three other lawsuits against Lloyd's by plaintiffs who brought evidence seeking to prove that Lloyd's, and certain parties and entities affiliated with it, knew the extent of the liabilities that Names faced by participating in some syndicates.</p>
+<p>Peter Lane, Managing Director of Lloyd's North America, said: &quot;We are pleased by this decision. Names entered into their commitments under U.K. law and we are pleased that U.S. courts continue to recognise this.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

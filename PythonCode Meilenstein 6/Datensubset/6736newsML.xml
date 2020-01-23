@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6736" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: BFG Hypo adds 50 mln marks to step-up Pfandbrief.</title>
+<headline>BFG Hypo adds 50 mln marks to step-up Pfandbrief.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>The following Pfandbrief, announced on Tuesday by lead manager Sal Oppenheim jr. &amp; Cie, has been increased to 150 million marks.</p>
+<p> BORROWER   BFG HYPOTHEKENBANK AG</p>
+<p> AMT ***50 MLN DEM   COUPON    *3.75 PCT  MATURITY  **28.JAN.00</p>
+<p> TYPE   STEP-UP, CALL ISS PRICE  =	   PAY DATE   S28.AUG.96</p>
+<p> FULL FEES  UNDISC    REOFFER    =	   S SHORT FIRST COUPON</p>
+<p> LISTING    FFT	 DENOMS (K) 10	  SALE LIMITS =</p>
+<p> NOTES	*FIRST YEAR,STEPS-UP TO 5.375 PCT YEARS TWO TO FOUR.</p>
+<p>		**THE ISSUER HAS THE RIGHT TO CALL THE BOND ONLY ON</p>
+<p>		 28.JAN.97 AT PAR. PFANDBRIEF</p>
+<p>		***TOTAL NOW 150 MILLION MARKS</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

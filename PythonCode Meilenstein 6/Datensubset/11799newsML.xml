@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11799" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Judge delays decision in Lloyd's case.</title>
+<headline>Judge delays decision in Lloyd's case.</headline>
+<byline>Lorrie Grant</byline>
+<dateline>RICHMOND, Va 1996-08-22</dateline>
+<text>
+<p>A federal judge on Thursday delayed for one day a decision on whether to allow a reorganization of Lloyd's of London to go forward, but a lawyer in the case denied there were any negotiations going on to settle the matter out of court.</p>
+<p>U.S. District Judge Robert Payne was expected to rule on whether to issue an injunction blocking the financially strapped market's 3.2 billion British pounds ($4.8 billion) recovery plan, but decided to withold judgment until Friday.</p>
+<p>Chris Lyman, attorney at Kilpatrick and Cody, which represents investors who brought the lawsuit, said there were no settlement negotiations going on. &quot;I don't think (the delay) bears any relation to the merits of the case or what the judge is deciding,&quot; he said.</p>
+<p>&quot;The opinion is expected to be issued in the afternoon of Friday, Aug. 23,&quot; the federal court said in a one-sentence statement.</p>
+<p>The 93 investors, or Names -- individuals who pledged their assets to back the insurance policies sold at Lloyd's -- are seeking to block the reorganization plan, whereby Lloyd's would reinsure billions in liabilities by creating a new reinsurance company, Equitas.</p>
+<p>Under the plan, the investors are being asked to pay up to $150,000 each to help fund Equitas. The investors filed suit, claiming Lloyd's declined to provide detailed financial information about Equitas as required under U.S. securities laws.</p>
+<p>In an interview with Reuters in London, Lloyd's Chairman David Rowland said any injunction served against the insurance market by the judge in the Virginia case would be quickly appealed.</p>
+<p>Rowland added he did not believe the court case would block completion of the 300-year-old insurance market's recovery plan and said many U.S. investors have already accepted the terms of the recovery proposals. He declined to reveal how many of the 2,700 Names in the United States and 33,500 worldwide have accepted.</p>
+<p>Payne, who told the court during hearings earlier this week that he learned as a law student not to impose an injunction he could not enforce, indicated his concern that U.S. investors be adequately protected. He also scolded the Securities and Exchange Commission for not taking up the matter.</p>
+<p>Lloyd's chief executive, Ronald Sandler, admitted in court that the British Embassy had arranged a meeting in Washington between the SEC and Lloyd's officials prior to the court hearing. Sandler testified he wanted to make the SEC aware of the Aug. 28 deadline for Names to vote on acceptance of the recovery plan.</p>
+<p>&quot;My particular purpose was to ensure the SEC understood we were dealing with a process in the reconstruction plan. I felt they needed to be aware of the time table,&quot; Sandler testified.</p>
+<p>In Washington, a spokesman for the SEC said the agency had no comment.</p>
+<p>Industry sources in London said that while the judge could grant some kind of relief to the U.S. Names, Payne said in court earlier this week that it was not his intention to stop Lloyd's worldwide recovery plan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

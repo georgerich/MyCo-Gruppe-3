@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3001" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Kurzweil Applied Q2 full results.</title>
+<headline>Kurzweil Applied Q2 full results.</headline>
+<dateline>WALTHAM, Mass. 1996-08-20</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>			     July 31,		    July 31,</p>
+<p>			    1996	  1995	 1996	 1995</p>
+<p>Revenues:</p>
+<p>Product and license</p>
+<p>   revenue	    $ 1,735     $ 2,101    $ 2,973    $ 4,427</p>
+<p>  Maintenance revenue   462	   415	  934	  797</p>
+<p> Total revenues	 2,197	 2,516	3,907	5,224</p>
+<p>Operating costs and expenses:</p>
+<p>Cost of product, license and maintenance revenue  </p>
+<p>				860	   961	1,741	2,256</p>
+<p>  Sales and marketing   989	   873	1,939	1,803</p>
+<p>Research and development</p>
+<p>				753	   638	1,431	1,116</p>
+<p>General and administrative</p>
+<p>				364	   404	  896	  740</p>
+<p>Total operating costs and</p>
+<p>  expenses		2,966	 2,876	6,007	5,915</p>
+<p> Operating loss	 (769)	 (360)    (2,100)	(691)</p>
+<p> Interest expense	   1	     4	    2	    6</p>
+<p> Interest income	   27	    53	   58	  112</p>
+<p>Other (expense) income, net</p>
+<p>				  5	    13	   12	   50</p>
+<p> Net loss		( 738)	( 298)   ( 2,032)     ( 535)</p>
+<p>Net loss per common share</p>
+<p>			  ( 0.09)     ( 0.04)    ( 0.27)    ( 0.08)</p>
+<p>Weighted average numbe of common shares outstanding</p>
+<p>			8,440,978   6,757,632  7,616,860  6,744,916</p>
+<p>Note: Full company name is Kurzweil Applied Intelligence Inc.</p>
+<p>(in thousands, except for per share amounts) -- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5342" id="root" date="1996-08-21" xml:lang="en">
+<title>INDIA: India's BPL Ltd raises $15 mln loan.</title>
+<headline>India's BPL Ltd raises $15 mln loan.</headline>
+<dateline>BOMBAY 1996-08-21</dateline>
+<text>
+<p>Citibank said it raised a $15.0 million loan for Indian appliances firm BPL Ltd.</p>
+<p>&quot;The loan was structured at 95 basis points over LIBOR with an average life of three years with a moratorium period of 1.5 years,&quot; a Citibank statement said on Wednesday.</p>
+<p>It said the loan would partly pay for capital imports for BPL's alkaline battery plant.</p>
+<p>The loan arranged by Citibank International Plc was joined by Bank of India, Chinatrust Commercial Bank, Citibank N.A., Fuji Bank, Indian Bank, Kredietbank N.V., Sumitomo Trust and Banking Company, Tokai Bank and Uco Bank Ltd.</p>
+<p>BPL is one of India'a leading appliances makers.</p>
+<p>Citibank said it also arranged a $12.97 million loan for Indian chemicals firm Search Chem Industries. This loan was structured with an average life of three years and was covered under a guarantee from United Phosphorus Ltd.</p>
+<p>-- Bombay newsroom +91-22-265 900</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

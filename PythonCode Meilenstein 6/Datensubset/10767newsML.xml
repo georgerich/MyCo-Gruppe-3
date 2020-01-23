@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10767" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: US spot propane builds on intraday gains.</title>
+<headline>US spot propane builds on intraday gains.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Spot propane prices built on intraday gains late on Friday, supported by short covering and inventory concerns, traders said.</p>
+<p>In the Gulf Coast trading hub of Mont Belvieu, Texas, the bid price for propane rose a quarter cent to 39.50 cents with sellers at 39.75 cents a gallon, traders said, adding 39.50 cent parcels were sold.</p>
+<p>Conway, Kansas, hub material rose on Belvieu strength, rising about 0.25 cent to 39.25/39.50 cents.</p>
+<p>&quot;It's all short covering. I can't imagine anyone else wanting propane during August,&quot; said one Houston trader.</p>
+<p>Concerns over low inventories for the October start of the winter heating season also kept propane prices firm, traders said.</p>
+<p>Propane supported other liquid gases, which held onto intraday gains despite weakening NYMEX October crude oil futures.</p>
+<p>-- Laney Salisbury, New York Energy Desk +1 212 859-1631</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9880" id="root" date="1996-08-22" xml:lang="en">
+<title>INDIA: Fourteen pro-India militants shot dead in Kashmir.</title>
+<headline>Fourteen pro-India militants shot dead in Kashmir.</headline>
+<dateline>SRINAGAR, India 1996-08-22</dateline>
+<text>
+<p>The bullet-riddled bodies of 14 pro-India militants were found on Thursday in northern Jammu and Kashmir state, police said.</p>
+<p>The victims, all members of the Muslim Mujahideen, were found in Anantnag district, about 50 km (30 miles) southeast of Srinagar, the state's summer capital, they said.</p>
+<p>Police said the bodies were in a house in the Mattan Chowk area of Anantnag town. No one claimed responsibility for the killings, but police said they suspected separatist guerrillas.</p>
+<p>Muslim Mujahideen is one of several groups that back Indian rule in the troubled province and which clash regularly with separatist militants.</p>
+<p>The bodies were found one day after Muslim Mujahideen chief Nabi Azad told reporters in Srinagar his group supported the call for greater autonomy for the region but would not take part in coming local assembly elections.</p>
+<p>The voting, to be held on four days starting on September 7, would be the first local elections in Jammu and Kashmir since the 1990 revolt against Indian rule in the mostly Moslem state.</p>
+<p>Prime Minister H.D. Deve Gowda's centre-left government hopes the elections will help restore normalcy and democratic rule in Jammu and Kashmir, where more than 20,000 people have died in insurgency-related violence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SRINAGAR, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

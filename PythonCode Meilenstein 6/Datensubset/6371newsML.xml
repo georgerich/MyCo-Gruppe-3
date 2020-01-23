@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6371" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: US senator asks Levitt to justify muni regulations.</title>
+<headline>US senator asks Levitt to justify muni regulations.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>A U.S. Senate Banking Committee member asked SEC Chairman Arthur Levitt to address cities' concerns that the agency is overstepping its bounds with its municipal bond regulatory and enforcement program.</p>
+<p>Sen. Carol Mosely-Braun, D-Ill., said in an August 9 letter to the Securities and Exchange Commission's Levitt that the National League of Cities, Government Finance Officers Association and U.S. Conference of Mayors are concerned that some SEC enforcement actions &quot;appear to expand the scope&quot; of SEC rules.</p>
+<p>They may even expand the overall scope of SEC's authority under the federal securities laws, which exempt municipal bonds from SEC registration requirements, she said.</p>
+<p>&quot;Has the commission considered whether its actions represent the most reasonable and cost-effective response to the problem the commission perceives,&quot; Moseley-Braun asked.</p>
+<p>Is SEC &quot;fully considering&quot; the costs to issuers of defending themselves in enforcement cases and in attempting to comply with what they see as unclear standards from SEC, Moseley-Braun asked.</p>
+<p>She asked whether SEC would work with issuers to development new guidance on what constitutes &quot;reasonable disclosure&quot; so localities can avoid fraud charges.</p>
+<p>And given the fact that municipal securities are exempt under the Securities Act of 1933, the first law enacted by Congress to regulate the securities markets, what legal basis does SEC have to seemingly expand disclosure standards, Moseley-Braun asked.</p>
+<p>&quot;The ability to issue bonds is critical to every municipal entity. Integrity is of major importance not only to investors, but issuers as well,&quot; Moseley-Braun said.</p>
+<p>&quot;That is why issuers themselves welcome proper and reasonable preventative measures designed to strengthen the market.&quot;</p>
+<p>She added, however, &quot;The concern I am hearing over and over from state and local officials is that the commission's actions may not achieve that objective and may, in fact, harm the market.&quot;</p>
+<p>--Vicky Stamas, 202898-8314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

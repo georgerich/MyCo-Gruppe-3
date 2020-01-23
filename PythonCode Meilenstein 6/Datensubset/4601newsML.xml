@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4601" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Japan Sept-Nov temperatures, rainfall seen average.</title>
+<headline>Japan Sept-Nov temperatures, rainfall seen average.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Temperatures in Japan are generally expected to be at average and higher-than-average levels from September to November, with average rainfall also anticipated, the Meteorological Agency said on Tuesday.</p>
+<p>In September, temperatures will be higher than average, while rainfall will be at average levels, the agency said in its three-month forecast.</p>
+<p>October will see as many sunny days as is usual for the month, and temperatures will be average, it said. Precipitation will be lower than average in most areas, but average in northern Japan and the southern Ryukyu islands, it said.</p>
+<p>For November, the agency forecasts average temperatures and rainfall. However, coastal areas facing the sea of Japan in northern and eastern Japan will tend to have many cloudy, rainy or snowy days, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

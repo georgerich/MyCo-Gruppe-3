@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3257" id="root" date="1996-08-20" xml:lang="en">
+<title>POLAND: Poland may temporarily curb heavy vehicles traffic.</title>
+<headline>Poland may temporarily curb heavy vehicles traffic.</headline>
+<dateline>WARSAW 1996-08-20</dateline>
+<text>
+<p>Poland may suspend daytime traffic of heavy goods vehicles as of August 24, to prevent them causing road damage when expected high temperatures soften asphalt, transport authorities said on Tuesday.</p>
+<p>&quot;The ban would concern vehicles heavier than 12 tonnes between 11.00 a.m. (0900 GMT) and 11.00 p.m. (2100 GMT),&quot; Karol Filipek, an official of the General Management of Public Roads (GDDP), said.</p>
+<p>PAP news agency said traffic curbs would be announced in regions where temperatures exceed 30 degrees Celsius in the early afternoon, 48 hours before the ban takes effect.</p>
+<p>GDDP will provide information about traffic bans on the Warsaw telephone number (48 22) 629 0794.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I5020041">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

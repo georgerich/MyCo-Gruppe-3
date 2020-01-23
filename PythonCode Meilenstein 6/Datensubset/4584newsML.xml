@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4584" id="root" date="1996-08-20" xml:lang="en">
+<title>CHINA: China interbank market rates (CHIBOR) mostly up.</title>
+<headline>China interbank market rates (CHIBOR) mostly up.</headline>
+<dateline>SHANGHAI 1996-08-20</dateline>
+<text>
+<p>Following is the China Interbank Offered Rate (CHIBOR) for Tuesday, issued by the official Xinhua news agency on behalf of the People's Bank of China, the central bank.</p>
+<p>The figures represent weighted averages and not closing prices and they are annual percentage rates.</p>
+<p>The central bank does not post volumes.</p>
+<p>		1DAY   7DAY  20DAY  30DAY  60DAY  90DAY  120DAY</p>
+<p> TUESDAY   12.240 12.107 12.080 12.135 12.243 12.473 12.716</p>
+<p> MONDAY    11.808 12.086 12.751 12.050 12.248 12.471 12.569</p>
+<p>Traders said the two shortest contracts rose sharply due to a new share issue today and another on Thursday.</p>
+<p>Non-banking financial institutions continued selling on the market, but the volume of loans was smaller than a few weeks ago, pushing most rates up, they said.</p>
+<p>Some big cities, including Shanghai, remain the main lenders, but borrowers were more varied than the flood-hit cities of the past few weeks, they added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10875" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 23-AUG.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 23-AUG.</headline>
+<text>
+<p>Hurricane Dolly is currently located near 21.6N/96.5W or just off the coast of Tampico, Mexico.  Dolly is packing winds of 75 mph and is expected to moke landfall within the next 6 hours.  A hurracane warning is in effect form Veracrus to La Pesca Mexico.  Heavy rains of 6-12 inches and high winds can be expected for the western coast of Mexico.  Flash flooding and mudslides will be a possibility.  </p>
+<p>Tropical Storm Edouard continued to churn in the Atlantic near 14.0N/38.0W and has winds of 58 mph.  This storm is moving off to the west at 16 mph and is expected to continue on this track for at least the next 24 hours.  It is also expected to reach hurricane strength by Saturday evening.  This system only threatens shipping at this time.  </p>
+<p>Tropical Storm Orsom conitnues to drift over open waters near 23.8N/142.3E in the Pacific.  This storm will be a moderate threat to shipping as it packs winds of 63 mph.  Orson is expected to intensify into a typhoon by Saturday morning.</p>
+<p>Tropical Storm Piper will, also, only be a threat to shipping as it is located well out into the Pacific near 29.4N/160.5E.  Winds are 40 mph and the storm is expected to slowly drift off to the north and strengthen over the next 48-72 hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

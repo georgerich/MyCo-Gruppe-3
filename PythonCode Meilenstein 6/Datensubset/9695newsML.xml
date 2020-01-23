@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9695" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Oklahoma to make tobacco announcement, sources say. [CORRECTED 19:26 GMT]</title>
+<headline>Oklahoma to make tobacco announcement, sources say. [CORRECTED 19:26 GMT]</headline>
+<dateline>OKLAHOMA CITY, Okla. 1996-08-22</dateline>
+<text>
+<p>Oklahoma Attorney General spokesman Gerald Adams has set a news conference for 1230 EDT/1630 GMT on tobacco litigation (corrects to clarify that Adams is a spokesman for the Attorney General and not the Attorney General himself).</p>
+<p>Sources involved with other attorneys general who have sued the tobacco industry to recoup Medicaid costs of smokers say Adams plans to announce that he has filed a similar case.</p>
+<p>If Oklahoma sues the industry, it will become the 14th state to take such an action. Three other states, Kansas, Arizona and Michigan, also filed this week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OKLAHOMA CITY, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

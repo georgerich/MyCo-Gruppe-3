@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8265" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Bell Atlantic requests arbitration.</title>
+<headline>Bell Atlantic requests arbitration.</headline>
+<dateline>KING OF PRUSSIA, Pa. 1996-08-22</dateline>
+<text>
+<p>Bell Atlantic Corp said on Thursday that it and Eastern TeleLogic Corp, a competitive local exchange carrier, have filed a joint petition for arbitration to establish interconnection agreements in Pennsylvania, Delaware and New Jersey.</p>
+<p>Bell Atlantic said that both companies have been in talks since March.</p>
+<p>The company said that although Eastern TeleLogic and Bell Atlantic have reached agreement on a number of issues, others remain unresolved, thereby requiring the two companies to file for arbitration, as mandated by the Telecommunications Act of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KING OF PRUSSIA, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

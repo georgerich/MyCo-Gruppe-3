@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10027" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Hutchison interim net up 75 pct.</title>
+<headline>Hutchison interim net up 75 pct.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   217.0 vs 124.0</p>
+<p>    Dividend (H.K. cents)    42.0 vs 33.0</p>
+<p>    Exceptional items	  4,100 vs nil</p>
+<p>    Net			    7,837 vs 4,480</p>
+<p>    Turnover		     18,016 vs 16,877</p>
+<p>    Company name		 Hutchison Whampoa Ltd</p>
+<p>    Books close		  Oct 10-17</p>
+<p>    Dividend payable	   Oct 18</p>
+<p>NOTE - Hutchison Whampoa, which is 45 pct owned by Cheung Kong (Holdings) Ltd, has interests in property, energy, telecommunications, container terminal operations and retail. The exceptional gain arose from the listing of susbsidiary Orange Plc in London in April.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
