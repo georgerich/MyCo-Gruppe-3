@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8298" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: ValueVision, TCI in pact.</title>
+<headline>ValueVision, TCI in pact.</headline>
+<dateline>DENVER 1996-08-22</dateline>
+<text>
+<p>ValueVision International Inc said on Thursday it had signed a cable affiliation agreement with Tele-Communications Inc.</p>
+<p>Under the pact, TCI will provide ValueVision with some 340,000 &quot;must-carry-equivalent&quot; homes in Seattle and other markets, as well as a minimum of 4.0 million part-time homes in other TCI markets.</p>
+<p>TCI may provide &quot;must-carry equivalent&quot; homes for ValueVision's Seattle broadcast station in other markets while it completes previously-scheduled rebuilds of its Seattle system, ValueVision said.  </p>
+<p>A ValueVision spokeswoman said &quot;must-carry equivalent&quot; homes refers to the number of homes an operator is obligated to send television signals to, and does not refer to specific homes.</p>
+<p>The company said connections serving about 70,000 Seattle homes will begin airing ValueVision's broadcast station (KBGE-TV, Channel 33) as soon as possible.</p>
+<p>Another 270,000 ValueVision replacement homes and markets may be selected at TCI's discretion, and will launch within six months.</p>
+<p>ValueVision's new part-time carriage on TCI systems will begin by November and will reach a minimum of 4.0 million homes on a part-time basis, generally expected to be concentrated during overnight hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4188" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: RESEARCH ALERT - Telefonica de Espana as buy.</title>
+<headline>RESEARCH ALERT - Telefonica de Espana as buy.</headline>
+<text>
+<p>-- Caspian Securities said analyst Joanne Smith initiated coverage Telefonica de Espana SA with a buy rating.</p>
+<p>-- said company &quot;has significantly outperformed over the past 12 months, yet remains very attractively valued, with excellent future growth prospects.&quot;</p>
+<p>-- estimates earnings growth of 15 percent in 1996 and 32 percent in 1997.</p>
+<p>-- set &quot;conservative&quot; 12-month price target of US$71 per ADR. The ADRS rose 1/8 to 53-7/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

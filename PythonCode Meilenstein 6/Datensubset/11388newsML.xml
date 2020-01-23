@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11388" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Tour estimate for Iowa corn yield below last year.</title>
+<headline>Tour estimate for Iowa corn yield below last year.</headline>
+<dateline>DES MOINES, Iowa 1996-08-23</dateline>
+<text>
+<p>The Pro Farmer crop tour estimated Iowa's statewide potential corn yield at 126.5 bushels per acre, down from last year's tour average of 133.0 bushels, tour officials said.</p>
+<p>Many participants said overall crop conditions in Ohio and Indiana were generally as poor as expected but Iowa's yield estimates and pod counts were lower than anticipated.</p>
+<p>USDA earlier this month projected the average corn yield in Iowa this year at 129.0 bushels an acre, up from 123.0 bushels last year.  </p>
+<p>&quot;We thought Iowa was going to make up for Indiana and Illinois and it is just not,&quot; said Gus Sundermeier, a corn and soybean producer from Grundy County, Illinois.</p>
+<p>&quot;The potential is there but it is dubious. The weather has to be near perfect through October,&quot; he added.  </p>
+<p>Tour participants sampled more than 200 Iowa corn fields in two days. Scouts said ears were mostly in the milk to early dough stage, about one week to 10 days behind average pace.</p>
+<p>The eastern corn belt states, such as Ohio and Indiana, suffered some heavy spring rain that delayed planting. Western corn belt producers said their crops were planted on time but cool, wet weather in June and July stalled germination and emergence.</p>
+<p>&quot;Those crops just would not germinate,&quot; said Iowa state statistician Jim Sands. &quot;We just didn't get the growing degree days.&quot;  </p>
+<p>Overall, producers on the tour said they did not expect the five states toured would yield an average of 120.0 bushels an acre. Most thought 115.0 bushels was possible, given an average frost date.</p>
+<p>USDA in its August report estimated average corn yield for the United States at 118.7 bushels per acre, with the five toured states ranging from 111.0 bushels for Ohio to 129.0 bushels for Iowa.</p>
+<p>An update on the tour's Iowa soybean pod count estimate was not immediately available.  </p>
+<p>An initial Iowa count for the number of soybean pods in a three-foot by three-foot square, issued late Thursday, put the total at 1,087.6 pods, slightly above last year's 1,059.3.</p>
+<p>USDA earlier this month projected a slight increase in the average Iowa soybean yield to 45.0 bushels an acre from 43.0 bushels in 1995.</p>
+<p>The four-day tour was sponsored by the farm marketing and merchandising group Professional Farmers of America.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

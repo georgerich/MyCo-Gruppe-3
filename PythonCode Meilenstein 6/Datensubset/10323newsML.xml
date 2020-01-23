@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10323" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH KOREA: Daewoo car unit said in deal with GM.</title>
+<headline>Daewoo car unit said in deal with GM.</headline>
+<dateline>SEOUL 1996-08-23</dateline>
+<text>
+<p>Daewoo Motor Co, a carmaking unit of South Korea's Daewoo Group, has been negotiating a joint venture deal with U.S. General Motors (GM), a leading newspaper said on Friday.</p>
+<p>In Saturday's edition, Chosun Ilbo said Kim Woo-choong, chairman of the Daewoo Group recently discussed with GM executives the deal including joint development and production of new car models and GM's repurchase of Daewoo Motor's stake.</p>
+<p>Daewoo officials were not available to comment.</p>
+<p>The two companies severed an unhappy 15-year marriage in 1992 when the U.S. giant carmaker sold 50 percent stake in the South Korean joint venture.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4168" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: US W.Coast products steady as few traders in market.</title>
+<headline>US W.Coast products steady as few traders in market.</headline>
+<dateline>LOS ANGELES 1996-08-19</dateline>
+<text>
+<p>U.S. West Coast product prices were little changed in lifeless trade on Monday and players said ranges were hard to discern as most traders were attending an industry social event.</p>
+<p>Traders saw prices falling modestly this week, with refinery problems resolved and production relatively normal.</p>
+<p>CARB-grade gasoline in Los Angeles was up one cent from Friday to 68/69 cents a gallon, with premium four cents higher. Regular conventional gasoline remained at the 65/66-cent level.</p>
+<p>CARB diesel was also flat from Friday at 69/71 cents a gallon, while low sulphur stayed at 69/70 cents.  </p>
+<p>CARB diesel was also flat from Friday at 69/71 cents a gallon, while low sulphur stayed at 69/70 cents.</p>
+<p>Traders saw at least two cargoes of jet fuel coming to the West Coast this week, drawn by the market's current premium to the East and Gulf Coasts.</p>
+<p>Los Angeles jet fuel was talked one cent lower at 71.50/72.50 cents, but players expected prices to hold relatively steady as incoming cargoes were balanced by supply shortness following last month's numerous hydrotreater problems.</p>
+<p>In San Francisco, conventional gasoline was three cents cheaper than L.A., while CARB quality was about five cents lower.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

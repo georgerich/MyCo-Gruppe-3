@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3734" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Toledo deliverable wheat stocks.</title>
+<headline>Toledo deliverable wheat stocks.</headline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>The Chicago Board of Trade reported the following stocks of wheat in Toledo, deliverable against CBOT futures. (in 000's bu).</p>
+<p>						8/16     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Soft Red Winter			   5,139   5,676  20,277</p>
+<p>Hard Red Winter				 0	 0	 0</p>
+<p>Dark Northern Spring			  0	 0	 0</p>
+<p>Northern Spring				 0	 0	 0</p>
+<p>Total Deliverable Grades		5,139   5,676  20,277</p>
+<p>Non-Del Grades/Ungraded		 4,782   3,034     441</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL TOLEDO WHEAT STOCKS	     9,921   8,710  20,718</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

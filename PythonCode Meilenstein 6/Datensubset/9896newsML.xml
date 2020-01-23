@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9896" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia to review NCA role in Elliott case.</title>
+<headline>RTRS-Australia to review NCA role in Elliott case.</headline>
+<dateline>CANBERRA 1996-08-22</dateline>
+<text>
+<p>The Australian Attorney-General has called for a review of the role of the National Crime Authority (NCA) in the failed prosecution of former corporate high-flier John Elliott for fraud.</p>
+<p>Elliot was acquitted on Thursday by the Victorian Supreme Court of defrauding his old business empire of A$66.5 million.</p>
+<p>&quot;In the circumstances I have asked my department to review the role of the NCA in the Elliot case in order that I can report as soon as practicable to the Intergovernmental Committee which oversees the NCA,&quot; Attorney-General Daryl Williams said in a statement.</p>
+<p>Elliott's acquittal was ordered by Judge Frank Vincent after the prosecution withdrew its case, noting an earlier court ruling that much of its evidence was inadmissable.</p>
+<p>Williams said Elliott and Victorian Premier Jeff Kennett had called for an inquiry into the NCA after Elliott's acquittal.</p>
+<p>Williams said the ruling of inadmissiblity of the bulk of the evidence which would have been put before the trial &quot;raises serious questions about the operations of the NCA wehich need to be clarified.&quot;</p>
+<p>The NCA had told Williams that the Victorian Office of Public Prosecutions intended to appeal the ruling, but any such appeal would not be against the acquittal.</p>
+<p>-- Canberra Bureau 61-6 273 2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

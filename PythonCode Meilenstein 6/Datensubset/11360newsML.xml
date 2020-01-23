@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11360" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Clinton acts to mitigate welfare reform.</title>
+<headline>Clinton acts to mitigate welfare reform.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>President Bill Clinton acted on Friday to mitigate the new welfare reform law by ensuring food aid continues to eligible legal immigrants and speeding up the process by which they become citizens, the White House said.</p>
+<p>&quot;The president has today issued two directives to ensure that legal immigrants and their children who remain eligible for benefits under the new law do not have those benefits cut off mistakenly, and that legal immigrants who are eligible to become citizens can do so as quickly as possible,&quot; a statement by White House spokesman Mike McCurry said.</p>
+<p>Clinton signed the welfare reform on Thursday, despite protests from some of his Democratic party's core constituencies that the measure left the nation's poor children in the lurch. The law gives states more power, limits eligibility and ends direct federal aid for poor children.</p>
+<p>Clinton said while signing the measure that it was imperfect and that the process of reform was only beginning. McCurry said Clinton was concerned that &quot;the welfare reform bill contains provisions that will cause unfair and unwarranted harm to many families,&quot; especially legal immigrant families.</p>
+<p>&quot;The president has vowed to repair these provisions of the bill. In the meantime, however, he is determined to ensure that they are implemented carefully, and that no individuals not actually covered by these provisions are improperly denied the benefits they and their children need,&quot; McCurry said.</p>
+<p>He said Clinton had directed Agriculture Secretary Dan Glickman to ensure states have the maximum time allowed under the law to make sure legal immigrants eligible for food stamps continue to receive them. Clinton also directed Attorney General Janet Reno and other agency heads to reduce bureaucratic delays in the citizenship process.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

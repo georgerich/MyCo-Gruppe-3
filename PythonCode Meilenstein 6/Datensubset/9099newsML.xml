@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9099" id="root" date="1996-08-22" xml:lang="en">
+<title>ZIMBABWE: Zimbabwe's FMB boosts half-yr shr, div.</title>
+<headline>Zimbabwe's FMB boosts half-yr shr, div.</headline>
+<dateline>HARARE 1996-08-22</dateline>
+<text>
+<p>Half-yr ended June 30.</p>
+<p>	   (million Zimbabwe dollars unless stated)</p>
+<p>    Shr (cts)		     141.8 vs 94.7</p>
+<p>    Div (cts)			50.0 vs 40.0</p>
+<p>    Pre-tax profit		 43.8 vs 36.4</p>
+<p>    Taxation			 14.4 vs 16.8</p>
+<p>    After-tax profit	     29.4 vs 19.6</p>
+<p>    Total income		   78.7 vs 73.4</p>
+<p>Div payable Sept 18</p>
+<p>on register Aug 28.</p>
+<p>Full name: FMB Holdings Limited</p>
+<p>NOTE - The bank said despite a generally more optimistic outlook for the Zimbabwean economy this year, significant business failures had occurred during the last six months and a number of quoted companies had issued warnings of lower than forecast results.</p>
+<p>It said with many more financial institutions now operating in the market seeking a share of available business, margins continued to be squeezed and its banking operations showed only modest growth although it had achieved a general increase in business volumes. It however forecast a continuing strong growth in profits for the full year.</p>
+<p>-- Emelia Sithole, Harare Newsroom: +263-4 72 52 27/8/9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

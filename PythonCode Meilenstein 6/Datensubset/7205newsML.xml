@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7205" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australian SFE wheat options overtake futures.</title>
+<headline>RTRS - Australian SFE wheat options overtake futures.</headline>
+<byline>Michael Byrnes</byline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Trading in wheat futures options has overtaken wheat futures on the Sydney Futures Exchange (SFE), heralding the birth of a new market in Australia.</p>
+<p>Last week, 73 wheat futures options traded against only 60 futures trades.</p>
+<p>&quot;It's the start of a new market,&quot; said Brett Stevenson of Agrisk Management, a consultant working with the SFE.</p>
+<p>Traders agree. &quot;Absolutely,&quot; Phil Lindsay of Ord Minnett Jardine Fleming Futures Ltd said when asked if options were opening a new chapter in futures trading.  </p>
+<p>&quot;The options market appears to be more liquid than the actual futures,&quot; he said.</p>
+<p>Stevenson said options were capturing attention on the fall in wheat prices, with the key January 1997 futures contract down from A$255.00 a tonne in recent months to A$192.50 on Wednesday.</p>
+<p>Wheat buyers, key wheat users, many growers and others were all buyers of A$200.00 and A$195.00 call options, he said.</p>
+<p>In the cross-roads of the Australian winter crop and the U.S. harvest, people were more comfortable buying options than futures, he said.  </p>
+<p>Option activity on the SFE has been entirely in call options, signalling an anticipation of a rising market, Stevenson said.</p>
+<p>Call options give the buyer the right to convert the option into a bought futures contract. A A$200.00 call option carries the right to convert to a bought futures contract at A$200.00 a tonne. If the option costs A$10.00, the futures market needs to rise beyond A$210.00 before the option buyer makes money.</p>
+<p>A put gives the right to turn the option into a sold futures contract at the strike price.  </p>
+<p>&quot;Only three weeks ago we did not have a January option on the books. So it's all happened pretty quickly,&quot; Stevenson said.</p>
+<p>&quot;It's the commencement of options trading in wheat in Australia -- there's been interest in those options almost every day,&quot; he said.</p>
+<p>At Ords, Lindsay said Australian wheat and canola growers were historically greater users of options than of futures.</p>
+<p>Options were being quoted at fairly realistic premiums by several different trade bodies, with grantors of the options happy to do them in 500 tonne lots.</p>
+<p>This was looked on favourably by growers, Lindsay said.  </p>
+<p>&quot;People are seeking them (options) all the time,&quot; he said.</p>
+<p>Twenty January call options traded on the Sydney Futures Exchange on Wednesday, against three futures trades.</p>
+<p>The SFE contract size is 50 tonnes of Australian Standard White (ASW) wheat.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

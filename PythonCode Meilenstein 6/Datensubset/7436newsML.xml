@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7436" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: Kerry over-allotment option exercised.</title>
+<headline>Kerry over-allotment option exercised.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>Morgan Stanley &amp; Co International Ltd exercised an over-allotment option on Tuesday requiring Kerry Properties Ltd to issue an additional 9.68 million shares, or 1.0 percent of its expanded share capital, at HK$17.50 each, the investment bank said on Wednesday.</p>
+<p>The share price is exclusive of brokerage fees and the stock exchange transaction levy, Morgan Stanley said.</p>
+<p>Kerry Properties' share capital will expand to 1,009.68 million shares following the issue, it said.</p>
+<p>Dealing in the shares is expected to start on August 23.</p>
+<p>Kerry plans to use the net proceeds of HK$160 million to fund existing property and infrastructure development projects in Hong Kong and China, and for general working capital.</p>
+<p>Kerry shares ended at HK$17.60 on Tuesday.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

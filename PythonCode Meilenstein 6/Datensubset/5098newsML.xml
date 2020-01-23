@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5098" id="root" date="1996-08-21" xml:lang="en">
+<title>CHINA: China provinces focus on same industries.</title>
+<headline>China provinces focus on same industries.</headline>
+<dateline>BEIJING 1996-08-21</dateline>
+<text>
+<p>Too many of China's provinces and cities are focusing on the same industries, causing an excess of low-output enterprises in some sectors, the Workers' Daily said on Wednesday.</p>
+<p>Out of China's 29 provinces and provincial-level municipalities, 22 took the automotive industry as their industrial base while 24 took electronics as their pillar industry, it said quoting statistics from the State Planning Commission.</p>
+<p>There were currently 122 automobile manufacturing enterprises spread across 28 provinces and cities with total annual output of 1.5 million vehicles, it said.</p>
+<p>Eleven of these provinces had an annual output of under 50,000 vehicles and nine provinces produced fewer than 5,000 vehicles a year, it said.</p>
+<p>By the end of 1995, China had 26 provinces producing television sets, 23 provinces manufacturing refrigerators and 23 provinces making washing machines, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

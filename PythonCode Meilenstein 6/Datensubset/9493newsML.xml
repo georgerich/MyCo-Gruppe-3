@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9493" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. day care center to accept diabetic children.</title>
+<headline>U.S. day care center to accept diabetic children.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The KinderCare day care centers, under government pressure, have agreed to admit children with diabetes and test them daily, Attorney General Janet Reno said Thursday.</p>
+<p>KinderCare Learning Centers, Inc., the nation's largest child care company with 1,143 centers in 38 states and Britain, had refused to take diabetic children because they needed frequent tests of their blood sugar levels.</p>
+<p>Under an agreement reached with the Justice Department, the Alabama-based company will accept diabetic children and give them daily finger prick tests.</p>
+<p>&quot;Children with diabetes shouldn't be left on the sidelines,&quot; Reno told a news conference.</p>
+<p>The agreement settles a lawsuit against the company under the Americans with Disabilities Act by the American Diabetes Association on behalf of a three-year Ohio boy who was not allowed to attend a KinderCare center in Columbus.</p>
+<p>&quot;KinderCare cares for thousands of children with disabilities every day and is proud to lead the industry in practices that benefit those children with insulin-dependent diabetes,&quot; company chairman and chief executive officer Sandra Scarr said in a statement.</p>
+<p>The tests, usually done before lunch, require pricking a finger to get a blood sample, placing the sample on a test strip, putting it in a monitor and reading the level. If the level is too low, the child is given juice and re-tested.</p>
+<p>&quot;My understanding is that they don't have to hire additional people. That this is something that child care workers in the centers can accomplish themselves very easily,&quot; Reno said.</p>
+<p>Parents or guardians will supply the test equipment and will be required to sign an authorization form every six months. KinderCare will not be required to give insulin shots and will be protected from liability as long as the company takes reasonable care when following written orders from a child's doctor and parents.</p>
+<p>About 100,000 children under the age of 18 are estimated to have diabetes. Reno did not know how many might be affected by the agreement but said, &quot;It can have a significant impact.&quot; She urged other day care centers to follow KinderCare's lead.</p>
+<p>Alan Altschuler of the American Diabetes Association said many diabetic children could test themselves by the time they started school. He said the test took less than a minute.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

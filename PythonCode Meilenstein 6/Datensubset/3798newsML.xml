@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3798" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Sprint Spectrum sets two-part debt deal.</title>
+<headline>Sprint Spectrum sets two-part debt deal.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>The following two-part debt</p>
+<p>offering was priced on Tuesday, said Merrill Lynch &amp; Co who</p>
+<p>was a joint lead manager on the deal with with Lehman</p>
+<p>Brothers.</p>
+<p>BORROWER: SPRINT SPECTRUM LP</p>
+<p>FIRST TRANCHE:</p>
+<p>AMT $250 MLN		 COUPON 11.00 PCT  MATURITY 08/15/2006</p>
+<p>TYPE SENIOR NOTES	  ISS PRICE 100.00  PAY DATE 08/23/96</p>
+<p>LAST MOODY B2		REOFFER	     PAY FREQ SEMI</p>
+<p>LAST S&amp;P   B-PLUS	  YIELD  11.00	FULL FEES</p>
+<p>INDUSTRY TELECOM	   SPREAD		CALLABLE 05 YEARS</p>
+<p>*THREE-YEAR EQUITY CALL</p>
+<p>SECOND TRANCHE:</p>
+<p>AMT $273.435 MLN (PROCEEDS)COUPON   .	MATURITY 08/15/06</p>
+<p>TYPE SENIOR DISC NOTES   ISS PRICE 54.687  PAY DATE 08/23/96</p>
+<p>LAST MOODY B2		REOFFER	     PAY FREQ SEMI</p>
+<p>LAST S&amp;P   B-PLUS	  YIELD  12.50	FULL FEES</p>
+<p>INDUSTRY TELECOM	   SPREAD		CALLABLE 05 YEARS</p>
+<p>*ISSUE HAS FIVE-YEAR ZERO COUPON *THREE-YEAR EQUITY CALL</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4861" id="root" date="1996-08-20" xml:lang="en">
+<title>SPAIN: PRESS DIGEST - Spain - Aug 20.</title>
+<headline>PRESS DIGEST - Spain - Aug 20.</headline>
+<text>
+<p>Headlines from major national newspapers. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>EL PAIS</p>
+<p>- San Sebastian court finds evidence against general Enrique Rodriguez Galindo</p>
+<p>EL MUNDO</p>
+<p>- British Queen draws up plan to adapt monarchy for 21st century</p>
+<p>DIARIO 16</p>
+<p>- Confusion over possible killing of 63 civilians in Algeria</p>
+<p>ABC</p>
+<p>- Tourism rides the crest of a wave</p>
+<p>LA VANGUARDIA</p>
+<p>- Mayor of Barcelona Pascual Maragall defends Popular Party's leader in Catalonia, Aleix Vidal-Quadras, for speaking his mind</p>
+<p>CINCO DIAS</p>
+<p>- Anti-Castro politician Jorge Mas Canosa involved in further business with Telefonica</p>
+<p>EXPANSION</p>
+<p>- Cajamadrid investigates irregularities in debt recovery</p>
+<p>GACETA DE LOS NEGOCIOS</p>
+<p>- Riofisa will invest eight billion pesetas in commercial park near Madrid</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

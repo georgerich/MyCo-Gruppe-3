@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7340" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: S&amp;P assigns AA- to Korean bank's dual samurais.</title>
+<headline>S&amp;P assigns AA- to Korean bank's dual samurais.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Standard &amp; Poor's Corp said on Wednesday it had assigned a double A minus rating to 30 billion yen worth of 6.3 percent yen/Australian dollar dual-currency bonds due August 30, 1999, to be issued by the Korea Development Bank.</p>
+<p>The rating outook is stable, S&amp;P said.</p>
+<p>The rating agency did not give further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

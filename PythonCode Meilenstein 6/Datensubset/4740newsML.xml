@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4740" id="root" date="1996-08-20" xml:lang="en">
+<title>THAILAND: Thai opposition submits censure motion against PM.</title>
+<headline>Thai opposition submits censure motion against PM.</headline>
+<dateline>BANGKOK 1996-08-20</dateline>
+<text>
+<p>Thailand's opposition parties submitted on Tuesday a no-confidence motion against Prime Minister Banharn Silpa-archa accusing him of damaging the country through mismanagement and inefficiency.</p>
+<p>&quot;Prime Minister Banharn is inefficient and shows a lack of leadership... He has abused his duty and turned a blind eye to rampant corruption...all of which has caused damage to the country...,&quot; the opposition said in the motion submitted to the president of parliament.  </p>
+<p>The president of the parliament has set September 11 as the date when the debate will begin, an opposition member of parliament (MP) told Reuters.</p>
+<p>Opposition MPs have said they are confident they will be able to bring about an end to the six-party coalition government.</p>
+<p>&quot;The public will be shocked with the evidence we have,&quot; Democrat MP Chamni Sakdiseth told reporters after the motion was tabled.</p>
+<p>Banharn has said he is ready to face the accusations in parliament and has no plans to dissolve the house.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

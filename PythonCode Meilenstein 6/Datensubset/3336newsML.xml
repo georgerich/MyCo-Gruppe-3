@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3336" id="root" date="1996-08-20" xml:lang="en">
+<title>MEXICO: Mexico's Pemex to invest 17.862 bln pesos in 1996.</title>
+<headline>Mexico's Pemex to invest 17.862 bln pesos in 1996.</headline>
+<dateline>MEXICO CITY 1996-08-20</dateline>
+<text>
+<p>Mexico's state-owned oil monopoly Petroleos Mexicanos (Pemex) said Tuesday that its investment in exploration and production in 1996 will total 17.682 billion pesos, an increase of 53 percent over the amount invested in 1995.  </p>
+<p>In a statement, Pemex said in the first half of the year investment totaled 5.504 billion pesos in the fields of exploration and output and was as budgeted.</p>
+<p>Pemex said that of the total annual investment planned 5.252 billion pesos was designated to projects to develop new fields, 3.866 billion to maintenance programs for wells and installations and 1.74 billion pesos in exploration and 1.94 billion pesos in the construction and repairing of pipelines.</p>
+<p>In the first half of the year, Pemex said one of the highlights was the operation of 37 well drilling units, six more than in the same period a year ago.</p>
+<p>Of these drilling units, 29 have concentrated on developing existing fields and eight have looked at exploring new wells, Pemex said.</p>
+<p>The company said it drilled 53 wells in the first six months of the year, 14 more than in the first half of 1995. It gave no details of success rates.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

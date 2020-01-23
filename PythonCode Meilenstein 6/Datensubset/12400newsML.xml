@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12400" id="root" date="1996-08-23" xml:lang="en">
+<title>INDONESIA: Indonesia to announce details on trawler imports.</title>
+<headline>Indonesia to announce details on trawler imports.</headline>
+<dateline>JAKARTA 1996-08-23</dateline>
+<text>
+<p>Indonesia will soon announce details on the permitted ratio of imported and domestic-made vessels to be owned by fishing companies, Neraca Ekonomi newspaper reported on Friday.</p>
+<p>The daily quoted the director general of the fisheries department, F.X. Murdjijo, as saying the ratio would be announced next month.</p>
+<p>In July, the government unveiled new regulations which allowed domestic fishing companies to import ships. But it has said fishing fleets must retain a mix of imported and domestic vessels.</p>
+<p>--- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

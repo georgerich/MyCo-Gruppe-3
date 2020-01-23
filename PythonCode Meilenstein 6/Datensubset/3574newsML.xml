@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3574" id="root" date="1996-08-20" xml:lang="en">
+<title>SINGAPORE: Robinson &amp; Co 1995/96 net falls 10.8 pct.</title>
+<headline>Robinson &amp; Co 1995/96 net falls 10.8 pct.</headline>
+<dateline>SINGAPORE 1996-08-20</dateline>
+<text>
+<p>Year to June 30, 1996</p>
+<p>		   (in millions of S$ unless stated)</p>
+<p>    Net profit			   25.34  vs  28.39</p>
+<p>    Final dividend		     15.00  vs  14.00</p>
+<p>    Group shr (cts)		    42.5   vs  47.6</p>
+<p>    Turnover			    224.51  vs 215.48</p>
+<p>    Operating profit		   25.29  vs  27.31</p>
+<p>    Other income			  9.20  vs  11.09</p>
+<p>    Depreciation (expense)	    2.35  vs   2.01</p>
+<p>    Pre-tax profit		     34.49  vs  38.40</p>
+<p>    Tax				     9.11  vs   9.95</p>
+<p>    Minorities		  (loss)  0.04  vs   0.05 (loss)</p>
+<p>    Extraordinaries	   (gain)  0.14  vs   0.19 (loss)</p>
+<p>    Dividend pay date:	 October 15, 1996</p>
+<p>    Last day books open:     October 1, 1996</p>
+<p>Note - Robinson &amp; Co Ltd runs a chain of department stores.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

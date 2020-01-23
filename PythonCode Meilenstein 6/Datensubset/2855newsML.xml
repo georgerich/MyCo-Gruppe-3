@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2855" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Shaw group raises Reynolds Metals stake.</title>
+<headline>Shaw group raises Reynolds Metals stake.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>A group led by David E. Shaw and Co Inc said Tuesday it raised its stake in Reynolds Metals Co to 683,500 shares of seven percent PRIDES, Convertible Preferred Stock or 6.2 percent from 5.2 percent.</p>
+<p>In a filing with the Securities and Exchange Commission, the group said it bought 111,700 additional PRIDE shares from July 30 to August 13 at prices ranging from $45.0625 to $46.205 per share.</p>
+<p>The group said it acquired the shares for investment purposes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

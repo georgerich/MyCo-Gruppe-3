@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3687" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Has Clinton really shed 15 to 20 pounds?.</title>
+<headline>Has Clinton really shed 15 to 20 pounds?.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>White House press secretary Mike McCurry poked some fun at his boss on Tuesday saying he was not so sure about President Bill Clinton's claim to have dropped 15 to 20 pounds (7-9 kilograms).</p>
+<p>&quot;He may have lost 15 to 20. I thought that sounded like an inflation factor to me,&quot; McCurry said.</p>
+<p>When reporters noticed Clinton looked slimmer on his Wyoming vacation last week, the president boasted that he had &quot;dropped 15 to 20 pounds, I guess.&quot;</p>
+<p>But McCurry said it was unclear what baseline Clinton was using. His last physical at few months ago put him at 215 pounds (97 kilos).</p>
+<p>&quot;You'd have to know what the baseline was you're measuring against on that. But he cares about his health and eating habits and his exercise regime, and he follows the advice of his doctors on those and other specific health concerns. And as the president's doctor reported, he's in excellent health,&quot; McCurry said.</p>
+<p>As for whether Clinton will sample some of Chicago's famous pizza during the Democratic nominating convention next week, McCurry said: &quot;There will probably be many temptations in Chicago of a culinary sort that he will find irresistible.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

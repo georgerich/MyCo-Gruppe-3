@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3664" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Computer executives back Clinton for re-election.</title>
+<headline>Computer executives back Clinton for re-election.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>Seventy-five leaders of the U.S. high tech industry Tuesday endorsed President Clinton for re-election, saying Clinton's economic policies merited a second term.</p>
+<p>&quot;I've lived in (California's) Silicon Valley since I was five years old, and the past four years have been the best Silicon Valley has ever had in terms of growth in revenue, jobs, international market share and just sheer momentum,&quot; said Steve Jobs, founder of Apple Computer.</p>
+<p>Jobs spoke during a telephone conference call with Clinton and Vice President Al Gore in which the endorsement was announced. The call was broadcast on loudspeakers in the White House press room.</p>
+<p>Clinton responded to the pat on the back from the high tech leaders with a new warning against the $548 billion across-the-board tax cut proposed by Republican presidential candidate Bob Dole.</p>
+<p>&quot;People need to understand that if you have to borrow money to get a tax cut today, that just means higher interest rates immediately, and that means fewer jobs, fewer new companies and higher home mortgage payments and car payments and credit card payments,&quot; Clinton said.</p>
+<p>Meantime, the Clinton campaign took aim at Dole's promise in a speech at the Veterans of Foreign Wars convention Tuesday to spare veterans health benefits from spending cuts.</p>
+<p>&quot;Today Bob Dole added more ornaments on his Christmas in August campaign -- listing more programmes that he will not cut to fund his massive, election year $550 billion tax cut scheme,&quot; Clinton campaign spokesman Joe Lockhart said in a statement.</p>
+<p>Lockhart said Dole was campaigning on an economic plan &quot;that would inevitably lead to cuts in education, environmental enforcement and law enforcement even more drastic&quot; than those called for by the highly unpopular 1995 Republican congressional budget, which Clinton vetoed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

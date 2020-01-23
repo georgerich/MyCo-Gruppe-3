@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8856" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Times-Mirror July advertising revenues up.</title>
+<headline>Times-Mirror July advertising revenues up.</headline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>Times Mirror Co said Thursday that advertising revenues for its Newspaper Publishing Group for the five weeks ended August 4 rose 4.3 percent from a year earlier, to $137.5 million from $131.9 million.</p>
+<p>For the 31 weeks of the year to date, advertising revenues rose 0.9 percent from a year earlier, to $898.8 million from $890.6 million.</p>
+<p>Times Mirror said year-to-date results for 1996 contained six more days than the comparable 1995 results.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11294" id="root" date="1996-08-23" xml:lang="en">
+<title>CHINA: Joint ventures in Guangdong record more business.</title>
+<headline>Joint ventures in Guangdong record more business.</headline>
+<dateline>BEIJING 1996-08-23</dateline>
+<text>
+<p>Imports and exports of Sino-foreign joint ventures in the booming southern Chinese province of Guangdong rose to $26.4 billion in the first six months of 1996, up 12.4 percent from the corresponding period last year, Xinhua news agency said on Friday.</p>
+<p>The figure accounted for 52.9 percent of Guangdong's total imports and exports, the agency said.</p>
+<p>Imports by Sino-foreign joint ventures in the province climbed 28.5 percent to $470 million between January and June after import tariffs were reduced in April, Xinhua said.</p>
+<p>It gave no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

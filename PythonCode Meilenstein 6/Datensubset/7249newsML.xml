@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7249" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia base metal producer prices - Aug 21.</title>
+<headline>RTRS-Australia base metal producer prices - Aug 21.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Australian base metal producer</p>
+<p>prices:					(A$ per tonne)</p>
+<p>COPPER</p>
+<p>MIM Holdings Ltd - changes effective August 9</p>
+<p>    Cathode				  2,800   vs  2,750</p>
+<p>    Standard rod			   3,081   vs  3,031</p>
+<p>						  Aug 21	Aug 20</p>
+<p>Australian Copper Scrap Base Price</p>
+<p>    Copper				  2,469   vs    2,428</p>
+<p>LEAD</p>
+<p>    Pasminco, Port Pirie	    1,068.00  vs  1,068.00</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

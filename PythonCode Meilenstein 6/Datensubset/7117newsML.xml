@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7117" id="root" date="1996-08-21" xml:lang="en">
+<title>DENMARK: Danish Nykredit six-month 1996 profit climbs.</title>
+<headline>Danish Nykredit six-month 1996 profit climbs.</headline>
+<dateline>COPENHAGEN 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>					  (million crowns unless stated)</p>
+<p> Group net result			886 vs  839</p>
+<p> Group pre-tax result		1,326 vs  1,287</p>
+<p> Net interest and fees income    2,072 vs  1,802</p>
+<p> Securities and forex results	-26 vs  236</p>
+<p> Balance end-June 1996	   410,819 vs  398,682 end-June 1995</p>
+<p>NOTE - Full name of biggest Danish mortgage credit group is Nykredit A/S. It forecast in a statement full year 1996 operating profit before tax, extraordinary items and portfolio/ currency results of up to DKK 2.2 billion. +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

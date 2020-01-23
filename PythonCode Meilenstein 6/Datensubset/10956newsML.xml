@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10956" id="root" date="1996-08-23" xml:lang="en">
+<title>ETHIOPIA: Ethiopian river floods sugar cane fields, homes.</title>
+<headline>Ethiopian river floods sugar cane fields, homes.</headline>
+<dateline>ADDIS ABABA 1996-08-23</dateline>
+<text>
+<p>Ethiopia's Awash river burst its banks on Friday and flooded more than 2,000 hectares (5,000 acres) of sugar cane fields and workers' homes, the state-run Ethiopian News Agency said.</p>
+<p>It said thousands of plantation workers' homes were flooded in the area about 100 km (60 miles) east of Addis Ababa and the workers were moved to the nearby town of Nazarthe.</p>
+<p>More than 2,000 hectares of the Wonji and Shoa sugar estates on the banks of the Awash were inundated, the agency said.</p>
+<p>Water Resources Minister Shiferaw Jarso said the flooding followed the release of 300 cubic metres of water per second into the river from nearby Koka Dam which was holding dangerous levels.</p>
+<p>Shiferaw warned residents of the area to move to emergency shelters prepared by the government as staying could be hazardous. Ethiopian authorities say shelters stocked with food, blankets and medicine for up to 150,000 in the area were ready.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADDIS ABABA"/>
+<dc element="dc.creator.location.country.name" value="ETHIOPIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

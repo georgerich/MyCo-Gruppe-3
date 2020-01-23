@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12389" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: China EB-IHD year net returns to profit.</title>
+<headline>China EB-IHD year net returns to profit.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	  1.1 gain    vs 1.3 loss</p>
+<p>    Dividend (H.K. cents)   nil	   vs nil</p>
+<p>    Exceptional items	 34.84 gain  vs 20.89 gain</p>
+<p>    Net			   7.43 profit vs 7.86 loss</p>
+<p>    Turnover		    1,537.22    vs 1,420.41</p>
+<p>    Company name		China Everbright-IHD Pacific Ltd</p>
+<p>    Books close		 September 19-27</p>
+<p>    Dividend payable	  N/A</p>
+<p>NOTE - China Everbright-IHD Pacific is involved in property development, operation of department stores and supermarkets.</p>
+<p>Net is after an exceptional gain mainly on disposal of other investments.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong News Room (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

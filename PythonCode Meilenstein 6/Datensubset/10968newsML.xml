@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10968" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH AFRICA: Six arrested for S.Africa's biggest armed robbery.</title>
+<headline>Six arrested for S.Africa's biggest armed robbery.</headline>
+<dateline>DURBAN, South Africa 1996-08-23</dateline>
+<text>
+<p>Police said on Friday they had arrested a family of four and two other people for South Africa's biggest armed robbery of some 31 million rand ($6.8 million) early this month.</p>
+<p>Mounds of banknotes were found when a couple and their two adult children were arrested late on Thursday outside the Indian Ocean port of Durban.</p>
+<p>&quot;Detectives recovered six refuse bags and one sports bag containing a substantial amount of cash in their house. A count for the total amount seized is still taking place, it is obviously millions,&quot; a spokesman told a news conference.</p>
+<p>The family was being held for questioning and had not been charged, he said.</p>
+<p>Two other men in their early 20s were later arrested near Pinetown, the area west of Durban where five gunmen had raided a security firm's cash depot on August 6.</p>
+<p>($=4.52 rand)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURBAN, South Africa"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3680" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: New York State to buy $2 mln of Utica's notes.</title>
+<headline>New York State to buy $2 mln of Utica's notes.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>New York State, which had hoped that debt-ridden Utica, would solve its own problems, on Tuesday stepped in, signalling it would buy about $2 million of notes the city was struggling to sell.</p>
+<p>An industry source, who spoke on condition of anonymity, said &quot;(It) will probably end up purchasing a moderate amount -- $2 million.&quot;</p>
+<p>A spokesman for the comptroller said only: &quot;Discussions are still ongoing.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8853" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: UAW says decision won't affect Canadian auto union.</title>
+<headline>UAW says decision won't affect Canadian auto union.</headline>
+<dateline>DETROIT 1996-08-22</dateline>
+<text>
+<p>United Auto Workers President Stephen Yokich said the union's stunning decision not to select a strike target Thursday should not affect the Canadian Auto Workers union's choice of a target company for its contract bargaining.</p>
+<p>At a news conference, following an announcement of the strategy to 500 UAW leaders here, Yokich said he would discuss the decision with CAW President Basil &quot;Buzz&quot; Hargrove sometime Thursday.  </p>
+<p>Although the UAW believes it is making strong progress with General Motors Corp, Ford Motor Co and Chrysler Corp and will pursue talks with all three for the time being, Yokich said Hargrove is free to set his own bargaining and strike strategy.</p>
+<p>&quot;He's the president of that union, and he has the right to strike,&quot; Yokich said. &quot;I'm not going to talk with Buzz and say you can't do this and you can't do that. Buzz has to run his show. I expect him to do that.&quot;</p>
+<p>Yokich said the two unions, however, will continue to exchange information and work together on issues during the bargaining season. Contracts with the Big Three for both unions expire September 14.</p>
+<p>Hargrove has said the CAW plans to select a target company ahead of the Labor Day weekend, which starts Friday, August 30. But the union may hit GM with strikes at individual plants even if it selects Ford or Chrysler as its national target, he said Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

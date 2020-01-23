@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10100" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Toshiba aims to quadruple Asian production.</title>
+<headline>Toshiba aims to quadruple Asian production.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Toshiba Corp said on Thursday it plans to quadruple output in Asia outside Japan in the next three years by moving production of consumer appliances, information equipment and heavy electronic equipment from Japan.</p>
+<p>It aims to boost such Asian production to 760 billion yen in the year to the end of March 1999, from 184.3 billion yen in 1995/96, vice president Yasuo Morimoto told a news conference.</p>
+<p>Asian production outside Japan would then account for 51 percent of Toshiba's global production, Morimoto said.</p>
+<p>&quot;Asia is the most important strategic area for us,&quot; he said. &quot;The region is expected to become the biggest market in the world in the medium term.&quot;</p>
+<p>Toshiba plans to invest 50 billion yen between by 1998/99 to transfer production, he said. Investment will be focused in countries with large growth potential, such as China, Indonesia, the Philippines and Vietnam, he said.</p>
+<p>Investment in China will account for 26 billion yen.</p>
+<p>Toshiba expects its sales in Asian countries other than Japan to rise to 800 billion yen in 1998/99 from 550 billion yen in 1995/96.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8219" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Ford completes USL Capital sale.</title>
+<headline>Ford completes USL Capital sale.</headline>
+<dateline>DEARBORN, Mich. 1996-08-22</dateline>
+<text>
+<p>Ford Motor Co said Thursday it has sold all of USL Capital's Real Estate Financing (REF) mortgages to Bankers Trust Co for about $575 million.</p>
+<p>This sale of the majority of REF's assets essentially completes Ford's sale of USL Capital's six business units. Ford said that it expects to receive cash proceeds after taxes of more than $1 billion from the USL Capital sales.</p>
+<p>USL Capital, a commercial financing and leasing company headquartered in San Francisco, has been part of Ford's Financial Services Group.  </p>
+<p>Proceeds from the sales will be used to reduce the Financial Services Group debt, Ford said in a statement.</p>
+<p>Results of the sales will be reported with Ford's third or fourth quarter financial statements, depending on when the separate business unit sales are closed.</p>
+<p>The sales of USL Capital's Rail Services and Fleet Services business units closed in July.</p>
+<p>The sale of the Transportation and Industrial financing unit was announced July 26 and the sale of the Business Equipment Financing unit on August 6 both are expected to close in the third quarter.</p>
+<p>Nearly all of the corporate and municipal financing portfolios have now been sold or have sales arrangements in place.</p>
+<p>Ford purchased USL Capital, then known as U.S. Leasing, in 1987 for $512 million. USL Capital had owned or managed assets of $9.7 billion, 640 employees, 70 U.S. branches and pre-tax earnings of $300 million at year-end 1995.</p>
+<p>About 60 percent of USL Capital employees have been offered employment by the acquiring companies.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

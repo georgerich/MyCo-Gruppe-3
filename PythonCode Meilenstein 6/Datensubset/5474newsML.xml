@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5474" id="root" date="1996-08-21" xml:lang="en">
+<title>GREECE: COMMERCIAL BANK STILL NEGOTIATING BANK OF ATTICA SALE.</title>
+<headline>COMMERCIAL BANK STILL NEGOTIATING BANK OF ATTICA SALE.</headline>
+<dateline>ATHENS 1996-08-21</dateline>
+<text>
+<p>State Commercial Bank of Greece dismissed press reports regarding the partial sale of its subsidiary Bank of Attica and underlined that negotiations with the interested parties were continuing.</p>
+<p>&quot;As regards several press reports on the sale by Commercial Bank of a stake in Bank of Attica, it is clarified that the pertinent negotiations are still going on and have not been finalised,&quot; the bank said in a statement.</p>
+<p>--George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

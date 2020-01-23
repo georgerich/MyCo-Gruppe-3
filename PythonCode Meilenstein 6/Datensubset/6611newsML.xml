@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6611" id="root" date="1996-08-21" xml:lang="en">
+<title>SRI LANKA: Low-grown tea prices recover at Colombo auction.</title>
+<headline>Low-grown tea prices recover at Colombo auction.</headline>
+<dateline>COLOMBO 1996-08-21</dateline>
+<text>
+<p>Prices for Sri Lanka's distinct low-grown teas picked up at the Colombo auction for the first time in more than a month while good demand for high and mid-growns kept the market buoyant, brokers said on Wednesday.</p>
+<p>&quot;Most highs and mid-growns picked up on good general demand,&quot; a broker at Forbes &amp; Walker said. &quot;The quality season is upon us now and that will have an impact on the overall market.&quot;  </p>
+<p>Prices of low-growns, which eased over the past month, picked up on improved demand from Turkey, the Commonwealth of Independent States, the Middle East and Germany, the broker said.</p>
+<p>The anticipated auction average price for the 4.7 million kg on offer was 107 rupees ($1.92) per kg, compared to 105.08 rupees last week.</p>
+<p>The next auction is on August 26-27 when 4.3 million kg will be on offer. ($1 = 55.79 rupees)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

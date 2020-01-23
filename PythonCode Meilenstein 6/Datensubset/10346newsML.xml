@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10346" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Fortei interim net returns to profit.</title>
+<headline>Fortei interim net returns to profit.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   2.51 gain    vs 0.59 loss</p>
+<p>    Dividend (H.K. cents)    1.0	    vs nil</p>
+<p>    Exceptional items	  nil	    vs nil</p>
+<p>    Net			    10.03 profit vs 2.37 loss</p>
+<p>    Turnover		     142.90	 vs 107.25</p>
+<p>    Company name		 Fortei Holdings Ltd</p>
+<p>    Books close		  September 16-20</p>
+<p>    Dividend payable	   September 25</p>
+<p>NOTE - Fortei Holdings is a shoe company.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

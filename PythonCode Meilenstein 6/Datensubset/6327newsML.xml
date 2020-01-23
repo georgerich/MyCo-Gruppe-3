@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6327" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: U.S. Army private faces spying, computer charges.</title>
+<headline>U.S. Army private faces spying, computer charges.</headline>
+<byline>Jim Wolf</byline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The U.S. Army said on Wednesday it had charged a 20-year-old computer specialist with espionage and computer crimes in a case that the soldier's parents said involved a Chinese national.</p>
+<p>Pfc. Eric Jenott of the 50th Signal Battalion at Fort Bragg, North Carolina, was formally charged on June 28 and is in a Marine Corps jail in Camp Lejeune, North Carolina, awaiting court-martial, the army said.</p>
+<p>&quot;The case involves classified information and matters pertaining to national security,&quot; a three-paragraph statement from Fort Bragg, home of the Army's 18th Airborne Corps, said. It said many of the case's details were too sensitive to disclose.</p>
+<p>Jenott has been charged with giving &quot;secret computer passwords relating to the national defense&quot; to a Mr. Lee, &quot;a citizen of a foreign nation,&quot; his lawyer said, reading from the charge sheet. He also faces charges of destruction of government property and larceny.</p>
+<p>The charge sheet alleged Jenott disclosed the passwords between April and June &quot;with the intent or reason to believe it would be used to the injury of the United States or to the advantage of a foreign nation.&quot;</p>
+<p>It said the passwords &quot;directly concerned communications intelligence,&quot; among the most closely guarded U.S. secrets.</p>
+<p>Jenott is facing a general court-martial, the most serious kind, and a possible life sentence if convicted, his lawyer, Timothy Dunn, of Fayetteville, North Carolina, said in a telephone interview.</p>
+<p>He said his client was &quot;not a criminal&quot; but had broken into a supposedly impenetrable system after advising his superiors of defects in the security system. Dunn declined to discuss the system because of what he called the case's sensitive nature and national security implications.</p>
+<p>John Jenott said his son, a fluent Chinese speaker whom he described as a &quot;computer genius&quot; with a longstanding interest in China, had given a young Chinese friend what the son described as an unclassified computer code.</p>
+<p>He said his son knew the person to whom he gave the code from one of several trips he had made to China. His son, &quot;not your average kid-out-on-a-skateboard-type guy,&quot; could read and write Chinese and lived with a Chinese family in Vancouver, Canada, for about a year when he was in high school, the father added.</p>
+<p>He said his son told him that before giving away the code, he had been trying to show his superiors a security flaw in a sensitive communication system and eventually demonstrated he could get secret data without authorization.</p>
+<p>&quot;He was trying to say we have a weakness,&quot; John Jenott said in a telephone interview from his home in Graham, Washington. &quot;This stuff about being a spy -- it's ridiculous.&quot; His stepmother, Kelly Jenott, said, &quot;They're blowing this way out of proportion.&quot;</p>
+<p>His father said an Army major at Fort Bragg, whom he declined to name, had urged him to persuade his son to sign a confession, so prosecutors would not seek the death penalty.</p>
+<p>Jenott said his son had told him, &quot;Dad, I'd rather die than sign that.&quot;</p>
+<p>&quot;He said it's not true. He said, 'I'm not a spy. I didn't commit espionage. And I'm not going to sign something that says I did,'&quot; Jenott said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

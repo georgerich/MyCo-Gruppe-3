@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6659" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: U.K. July oil output rises to 2.51 mln bpd - APR.</title>
+<headline>U.K. July oil output rises to 2.51 mln bpd - APR.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>U.K. oil production averaged 2.51 million barrels per day (bpd) in July, up from 2.45 million in June and the highest level since March, the Aberdeeen Petroleum Report said on Wednesday.</p>
+<p>The newsletter said summer maintenance work had a &quot;minimum effect&quot; and was offset by higher output at several smaller fields.</p>
+<p>Output was also boosted by the first full month of production from the Andrew field which averaged 16,402 bpd in July after starting up in June.</p>
+<p>-- London newsroom + 44 171 542 6280</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7346" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Fuji Photo, Nikon to cut price of digital camera.</title>
+<headline>Fuji Photo, Nikon to cut price of digital camera.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Fuji Photo Film Co Ltd and Nikon Corp said on Wednesday that they would launch a new model of their digital camera on September 2 at a much lower price than the existing version.</p>
+<p>The new version, which is also aimed at the professional market, will cost 890,000 yen, compared with 1.1 million yen for the previous model introduced in February 1995.</p>
+<p>A Fuji spokesman said the price cut was a result of mass production.</p>
+<p>The new model will also be twice as fast was the old version, the spokesman said.</p>
+<p>About 3,000 of the cameras were sold in the last year, and the spokesman said sales of the new version were expected to be higher.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

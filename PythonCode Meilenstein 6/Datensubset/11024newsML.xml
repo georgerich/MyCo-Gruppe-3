@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11024" id="root" date="1996-08-23" xml:lang="en">
+<title>CROATIA: Orthodox church blown up in southern Croatia.</title>
+<headline>Orthodox church blown up in southern Croatia.</headline>
+<dateline>ZAGREB 1996-08-23</dateline>
+<text>
+<p>Saboteurs blew up a Serb orthodox church in southern Croatia on Friday with a blast which also damaged four nearby homes, the state news agency Hina reported.</p>
+<p>HINA said the church in the small village of Karin Gornji, 30 km (19 miles) north of Zadar, was destroyed by the morning attack. It did not report any casualties.</p>
+<p>Zadar police said in a statement they had launched an investigation and were doing their best to find the perpetrators.</p>
+<p>HINA said it was the first time an orthodox church had been blown up in the Zadar hinterland, where a large number of Serbs lived before the 1991 war over Croatia's independence from the Yugoslav federation.</p>
+<p>The area was part of the self-styled state of Krajina proclaimed by minority Serbs in 1991 and recaptured by the Croatian army last year.</p>
+<p>Up to 200,000 Serbs fled to Bosnia and Yugoslavia, leaving Krajina vacant and depopulated.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

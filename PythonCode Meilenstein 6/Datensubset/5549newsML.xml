@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5549" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Cracker Barrel to post $9 mln Q4 charge.</title>
+<headline>Cracker Barrel to post $9 mln Q4 charge.</headline>
+<dateline>LEBANON, Tenn. 1996-08-21</dateline>
+<text>
+<p>Cracker Barrel Old Country Store Inc said it will post a fourth quarter charge of $9 million, or $0.15 per share, due to store closings.</p>
+<p>Fourth quarter earnings per share, before the one-time, after-tax charge, will be in the range of $0.43 to $0.45, the company said.  </p>
+<p>In the fourth quarter, comparable 13-week same store restaurant sales increased 1.9 percent and same store retail sales were up 7.3 percent, the company said.</p>
+<p>With the closing of three stores, Cracker Barrel said it will have 257 stores. The company plans to open 50 new stores in fiscal 1997.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEBANON, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

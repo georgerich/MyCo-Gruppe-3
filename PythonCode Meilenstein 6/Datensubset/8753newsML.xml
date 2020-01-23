@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8753" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. July natgas stocks continue seasonal climb.</title>
+<headline>U.S. July natgas stocks continue seasonal climb.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>U.S. natgas storage levels in July rose 12 percentage points to 54 percent of capacity, as more mild weather and cheaper gas prices in the second half of the month encouraged operators to step up injections.</p>
+<p>The Reuter survey of 27 firms with working gas capacity of 2.11 trillion cubic feet (tcf) showed stocks of 1143.0 billion cubic feet were still 11 points, or 16 percent, below 1995.</p>
+<p>&quot;For the Northeast and Midwest, stocks are pretty much on target, but (overall), it's not like storage is full. We still need healthy injections to keep it on target,&quot; said Susan Bertsch, analyst at Bonner and Moore in Houston.  </p>
+<p>But Bertsch said southern storage was still seriously lagging. While Midwest and Northeast stocks were just seven to nine points below last year, she noted stocks in the South were about 30 points behind.</p>
+<p>&quot;The South really has to make up some ground, but there's no way they will catch up,&quot; she said.</p>
+<p>Bertsch said after last year's cold winter forced stocks down to critical levels, operators this year were likely to be more cautious about withdrawals early in the winter season. &quot;I don't expect heavy withdrawals early, which should keep spot prices firm (in November and December),&quot; she said.</p>
+<p>--J Silha, New York Energy Desk 212-859-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

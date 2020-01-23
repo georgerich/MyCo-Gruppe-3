@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8726" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: UAL, Airbus say United orders Airbus jets.</title>
+<headline>UAL, Airbus say United orders Airbus jets.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>UAL Corp's United Airlines unit and Airbus Industrie said United has purchased 24 Airbus A319 aircraft valued at $900 million.</p>
+<p>United is the first U.S. airline to order the A319, Airbus Industrie's latest model, they said.</p>
+<p>Deliveries are scheduled to begin in June 1997 and end by mid-1999. The A319s will be used to replace older Boeing Co 737-200s in United's fleet, the companies said.  </p>
+<p>The new planes will be powered by International Aero Engines V2500 engines and configured to seat 126 passengers, eight in first class and 118 in economy, they said.</p>
+<p>The A319 is a smaller derivative of the Airbus A320. United already operates a fleet of 34 A320s and will take delivery of 16 more by the end of 1998, they said. United joins Deutsche Lufthansa AG as the largest airline customers for the A320 family, each with 74 planes.</p>
+<p>The A319 program was launched in 1993 and has earned 120 firm orders, the companies said.  </p>
+<p>A UAL spokesman said United chose the Airbus planes over competing Boeing 737-700s and 737-300s after evaluating both.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3640002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

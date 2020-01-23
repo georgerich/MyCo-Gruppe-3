@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7991" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: OPEC ECB to meet on Sept 9 in Vienna - sources.</title>
+<headline>OPEC ECB to meet on Sept 9 in Vienna - sources.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>OPEC's economic commission board (ECB) is scheduled to meet on September 9 at OPEC Secretariat headquarters in Vienna, OPEC sources said on Thursday.</p>
+<p>They said the ECB, which is made up of senior OPEC delegates from all 11 member countries, will examine the methods used by the Secretariat in devising its supply-demand forecasts.</p>
+<p>&quot;We are looking at the methodology behind the Secretariat report presented to the ministers. Perhaps we will revamp it,&quot; one OPEC delegate said.</p>
+<p>The meeting will not discuss ways to define or set OPEC production quotas, the sources said.</p>
+<p>In recent months, some OPEC members have raised the possibility of revamping the OPEC quota system to reflect wellhead production rather than the current system of assigning quotas according to supply to the market.</p>
+<p>But OPEC heavyweight Saudi Arabia and other Gulf members are said to be against changing the current quota system, the sources said.</p>
+<p>Supply-demand forecasts compiled by OPEC's permanent secretariat and the ECB are studied by OPEC ministers when they set production levels at their twice-yearly meetings.</p>
+<p>OPEC last met in June when it increased its ceiling to 25.033 million barrels per day for the rest of 1996. It next meets on November 28 in Vienna to look at 1997 production policy.</p>
+<p>During the September ECB meeting, the group will also hold a workshop on ways OPEC can use the Internet. One OPEC source said OPEC members may set up a system to communicate with each other and with the Secretariat using the Internet.</p>
+<p>--Karen Matusic, London newsroom, +44 171 542 6280.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="OPEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

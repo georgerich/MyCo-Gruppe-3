@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9897" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian wool indicator steady on 614 c/kg.</title>
+<headline>RTRS-Australian wool indicator steady on 614 c/kg.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>The Australian wool market's eastern indicator closed unchanged at 614 cents a kg clean at auctions in Sydney and Adelaide on Thursday, Wool International (WI) said.</p>
+<p>In merino fleece, 19/20 micron were unchanged, 21/24/25m slightly dearer, 22/23m up to 0.5 percent cheaper and 26m 0.5 percent dearer, it said.</p>
+<p>Merino skirtings were up to 1.0 percent dearer.</p>
+<p>In crossbreds, 27/29/30/31m were unchanged, while 28m was slightly dearer.  </p>
+<p>In cardings, lambs were fully firm, locks up to 1.0 percent dearer and crutchings unchanged.</p>
+<p>There was good general competition with most sectors of the trade active, WI said.</p>
+<p>Of the 22,338 bales offered in Sydney and Adelaide, 9.3 percent were passed in.</p>
+<p>Sales continue next week in Sydney and Melbourne with about 57,000 bales on offer.</p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

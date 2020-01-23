@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7120" id="root" date="1996-08-21" xml:lang="en">
+<title>NETHERLANDS: Nedlloyd gains offset shipping losses.</title>
+<headline>Nedlloyd gains offset shipping losses.</headline>
+<dateline>ROTTERDAM 1996-08-21</dateline>
+<text>
+<p>Nedlloyd NV said a small rise in second quarter net profit from ordinary operations to 21 million guilders from 18 million was achieved despite deteriorating ocean shipping rates.</p>
+<p>Nedlloyd said its European Transport and Distribution sector, offshore drilling unit Neddrill and other activities all performed better than in the second quarter of 1995.</p>
+<p>Ocean Shipping profits fell two million guilders to 22 million in the second quarter, despite a 16 million guilder profit on the sale of vessels. Freight rates slipped and currency movements cost the company 10 million guilders.  </p>
+<p>However, Nedlloyd said ocean shipping results had improved compared with the first quarter as a result of cost cuts, a slight increase in volumes and a more profitable cargo mix.</p>
+<p>Second quarter profits from European Transport and Distribution -- which groups road transport and non-ocean shipping units -- rose two million guilders to 10 million.</p>
+<p>Nedlloyd's German joint venture road transport unit, Unitrans, posted improved results as did North Sea Ferries.</p>
+<p>However, the performance of the Benelux distribution service Van Gend &amp; Loos and pan-European road transporter unit Nedlloyd Road Cargo FTL/Specials declined.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROTTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

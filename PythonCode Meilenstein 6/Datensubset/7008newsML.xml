@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7008" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Analysts' estimates for USDA Cattle on Feed Report.</title>
+<headline>Analysts' estimates for USDA Cattle on Feed Report.</headline>
+<dateline>CHICAGO 1996-08-21</dateline>
+<text>
+<p>The following are analysts' estimates for the monthly U.S. Agriculture Department Cattle on Feed report to be issued 1400 CDT Friday. (in percent of a year ago)</p>
+<p>  Seven-state 1,000 or more head   Avg	 Ranges</p>
+<p> On feed August 1			86.2     84.0- 88.0</p>
+<p> July placements			110.5    100.0-116.0</p>
+<p> July marketings			102.4    100.5-106.0</p>
+<p> Analysts			     on-feed  placements marketings</p>
+<p> A and A Inc.			    87.0	111.0     100.5</p>
+<p> AG Edwards				84.0	100.0     102.0</p>
+<p> Alaron Trading Corp		   86.7	114.0     101.6</p>
+<p> Allendale Inc			   87.0	113.0     104.0</p>
+<p> Cargill Investor Services	   85.5	108.5     101.5</p>
+<p> Dean Witter Reynolds		  85.0	103.0     103.0</p>
+<p> Frontier Risk Management	    86.0	109.7     101.2</p>
+<p> Hightower Report			87.0	114.0     102.0</p>
+<p> Joe Kropf &amp; Sid Love Consulting   84.0	105.0     106.0</p>
+<p> LFG					 86.6	116.0     103.5</p>
+<p>Livestock Marketing</p>
+<p>  Information Center		   86.6	112.2     101.0</p>
+<p> Pioneer Hi-Bred			 88.0	115.0     101.0</p>
+<p> Professional Cattle Consultants   86.3	111.3     101.2</p>
+<p> Rosenthal Collins		     87.0	114.0     102.0</p>
+<p> Securities Corp of Iowa	     86.0	109.0     105.0</p>
+<p> U.S. Commodities Inc		  86.0	112.0     102.2</p>
+<p>--Jerry Bieszk 312-408-8725</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

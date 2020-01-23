@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3000" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Hungarian Telephone Q2 shr loss rises.</title>
+<headline>Hungarian Telephone Q2 shr loss rises.</headline>
+<dateline>STAMFORD, Conn 1996-08-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $3.70     loss	 $2.17</p>
+<p> Net loss		  15,600     loss	 6,200</p>
+<p> Revs			 4,600			832</p>
+<p>	  6   MONTHS</p>
+<p> Shr loss		   $5.15     loss	 $2.65</p>
+<p> Net loss		  21,400     loss	 7,400</p>
+<p> Revs			 9,700		    1,300</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

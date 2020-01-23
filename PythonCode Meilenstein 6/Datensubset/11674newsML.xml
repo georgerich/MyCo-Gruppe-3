@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11674" id="root" date="1996-08-23" xml:lang="en">
+<title>TURKEY: Turkish money/forex/bond closing report.</title>
+<headline>Turkish money/forex/bond closing report.</headline>
+<dateline>ISTANBUL 1996-08-23</dateline>
+<text>
+<p>The Turkish central bank funded banks with 28.7 trillion lira overnight cash at 75 percent on Friday when the market was squeezed for fresh cash ahead of the weekend.</p>
+<p>Overnight money rates kept at 74.75-75 percent during the day as banks raised cash demands ahead of the weekend.</p>
+<p>The lira firmed to 86,250 per dollar from 86,400 Thursday close due to cash shortage and lower dollar/mark parity.</p>
+<p>The central bank lowered its dollar rate for banks' compulsory currency transfers twice due to parity movements and closed it at 86,300 lira, down 100 lira from opening.  </p>
+<p>T-bill yields were slightly higher due to cash demand but volume remained thin.</p>
+<p>The most active December 4 paper yield firmed to 117.72 percent from 116.40 percent.</p>
+<p>The second active one was February 26 paper. Its yield rose to 129.48 percent from 129.15 Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

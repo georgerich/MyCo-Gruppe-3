@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4031" id="root" date="1996-08-20" xml:lang="en">
+<title>ISRAEL: Israel gets first transit shipment for Jordan.</title>
+<headline>Israel gets first transit shipment for Jordan.</headline>
+<dateline>TEL AVIV 1996-08-20</dateline>
+<text>
+<p>The first shipment of goods for Jordan via Israel has reached the northern port of Haifa, Israel's customs authority said on Tuesday.</p>
+<p>The shipment follows a peace treaty signed between the two countries in 1994 and a series of agreements governing trade and transport.</p>
+<p>An Israeli customs spokeswoman said the shipment of lumber will be loaded onto a Jordanian truck which crossed the border into Israel earlier on Tuesday. Israeli customs officials accompanied the truck from the border to the port and will accompany it back to the crossing.</p>
+<p>The spokeswoman said many more such shipments were expected and the stringent customs and security measures were likely to be relaxed with time.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

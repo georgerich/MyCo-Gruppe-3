@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6505" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRIA: Austria police nab alleged heroin smugglers.</title>
+<headline>Austria police nab alleged heroin smugglers.</headline>
+<dateline>VIENNA 1996-08-21</dateline>
+<text>
+<p>Austrian narcotics officials arrested a husband and wife suspected of smuggling 200 kg (440 lb) of heroin across Europe over the past three years, police said on Wednesday.</p>
+<p>The two suspects, who have Austrian citizenship but originally came from Yugoslavia, were arrested with an alleged courier in Vienna on July 7, a police spokesman said.</p>
+<p>It was not immediately clear why news of the arrests was not released until Wednesday.</p>
+<p>Police seized 20 kg (44 lb) of heroin worth an estimated $4.5 million.</p>
+<p>&quot;We were able to prove that the group smuggled a total of 193 kg (424 lb) of heroin over the past three years,&quot; a police statement said. &quot;The bulk of the narcotics originated in Turkey and were transported via the Balkan route to Hungary, and passed on to Italy via Budapest and Vienna.&quot;</p>
+<p>Police identified the three only as husband Milaim I., 48, wife Katarina I., 45, and the alleged courier as Bogosav T., 49.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

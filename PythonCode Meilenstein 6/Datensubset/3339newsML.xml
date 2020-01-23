@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3339" id="root" date="1996-08-20" xml:lang="en">
+<title>ARGENTINA: Argentine export grain prices - August 20.</title>
+<headline>Argentine export grain prices - August 20.</headline>
+<dateline>BUENOS AIRES 1996-08-20</dateline>
+<text>
+<p>Export offer/bid prices in U.S. dollars per tonne, or basis CBOT, FOB:</p>
+<p> WHEAT Bahia Blanca    Jan-Mar '97		165/160</p>
+<p> MAIZE Upriver	   Aug/Sep		    ---/174</p>
+<p> MAIZE Upriver	   Apr '97		    178/172</p>
+<p> SORGHUM Upriver	 Apr/May		   ---/-20K</p>
+<p> SOYBEAN Parana	  May/Jul '97	  ---/-25 Jul</p>
+<p> SUNSEED Parana	  Mar '97		    275/255</p>
+<p>-- Buenos Aires Newsroom +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

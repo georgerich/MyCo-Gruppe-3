@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10659" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Golden Knight announces Ghana mine plan.</title>
+<headline>Golden Knight announces Ghana mine plan.</headline>
+<dateline>VANCOUVER 1996-08-23</dateline>
+<text>
+<p>A feasibility study has confirmed the viability of open pit gold mining at the Tarkwa concession in Ghana, part owner Golden Knight Resources Inc said Friday.</p>
+<p>The mine is expected initially to produce 230,000 ounces of gold a year for the first five years at a cost of US$210 an ounce and a capital cost of US$125 million, Golden Knight said in a statement quoting Gold Fields of South Africa.</p>
+<p>Gold Fields of South Africa Ltd holds 70 percent of Gold Fields Ghana Ltd which holds rights to the concession.  </p>
+<p>Golden Knight currently holds a five percent interest in Gold Fields Ghana but has made arrangements to spend US$47 million to increase its holdings to 17.5 percent.</p>
+<p>Timing of the mine depends on negotiations with the remaining owners of the property and government officials, the statement said.</p>
+<p>As of last December, measured gold resources at Tarkwa totalled 324.2 million tonnes of ore grading 0.040 ounces of gold per tonne, or 13 million ounces of gold.</p>
+<p>The feasibility study was based on an annual mining rate of four million tonnes, later increasing to eight million tonnes in three of five areas explored.</p>
+<p>-- Reuters Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

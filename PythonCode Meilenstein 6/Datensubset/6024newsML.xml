@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6024" id="root" date="1996-08-21" xml:lang="en">
+<title>POLAND: Polish broad money rises 1.1 pct in August 1-10.</title>
+<headline>Polish broad money rises 1.1 pct in August 1-10.</headline>
+<dateline>WARSAW 1996-08-21</dateline>
+<text>
+<p>Poland's broad money rose by 1.31 billion zlotys, or 1.1 percent, in August 1-10 to 120.92 billion after a 2.3 percent rise in the whole of July, preliminary central bank figures showed.</p>
+<p>Broad money supply grew 16.0 percent in the January-August</p>
+<p>10 period.</p>
+<p> BROAD POLISH MONEY		    August 10   July</p>
+<p> change (pct)				 1.1	 2.3</p>
+<p> Money in bln zlotys		    120.92    119.61</p>
+<p> Foreign currency (in bln zlotys)    22.08     21.97</p>
+<p>  National currency			98.84     97.64</p>
+<p>  Cash in circulation		    22.91     22.49</p>
+<p>  Lending to non-financial sector    65.56     65.18</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

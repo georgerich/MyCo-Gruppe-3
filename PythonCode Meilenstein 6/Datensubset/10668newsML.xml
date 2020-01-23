@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10668" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Nigerian terms jeopardize Commonwealth trip-Canada.</title>
+<headline>Nigerian terms jeopardize Commonwealth trip-Canada.</headline>
+<dateline>OTTAWA 1996-08-23</dateline>
+<text>
+<p>Commonwealth ministers concerned about human rights in Nigeria may cancel a planned trip there because of government restrictions on their mission, Canadian Foreign Minister Lloyd Axworthy said on Friday.</p>
+<p>&quot;The reaction of the regime there is such that many of us feel that the mission under the present circumstances shouldn't go ahead,&quot; Axworthy said. Commonwealth foreign ministers will meet in London on Wednesday to discuss what to do, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

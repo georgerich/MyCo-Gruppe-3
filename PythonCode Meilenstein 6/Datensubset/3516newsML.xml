@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3516" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: Australia's Blair Athol miners to end strike.</title>
+<headline>Australia's Blair Athol miners to end strike.</headline>
+<dateline>BRISBANE 1996-08-20</dateline>
+<text>
+<p>Miners at RTZ Corp Plc-CRA Ltd's Blair Athol coal mine in central Queensland have voted to end their five-and-a-half week strike and return to work at 2100 GMT Tuesday (7 a.m. Wednesday), a Blair Athol Coal spokesman said.</p>
+<p>&quot;A meeting of miners this afternoon accepted a union recommendation for a return to work and will be back at seven in the morning,&quot; Blair Athol's general manager, operations, Rod Bates told Reuters.  </p>
+<p>Bates said the matter of training on a new drill which caused the miners to strike last month would be put to arbitration.</p>
+<p>Union officials were not available for comment.</p>
+<p>The strike at Blair Athol, Australia's biggest thermal coal mine, has cost nearly A$60 million in lost production, Bates said.</p>
+<p>Blair Athol produces 10 million tonnes of coal annually with the bulk of output shipped to Japanese customers.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

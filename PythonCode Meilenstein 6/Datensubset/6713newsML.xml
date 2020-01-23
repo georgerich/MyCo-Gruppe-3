@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6713" id="root" date="1996-08-21" xml:lang="en">
+<title>UK: BT introduces new prices for digital system.</title>
+<headline>BT introduces new prices for digital system.</headline>
+<dateline>LONDON 1996-08-21</dateline>
+<text>
+<p>British Telecommunications Plc said it will introduce new pricing systems for digital communications systems aimed at small to medium-sized operations based on customer use and cash flow from September 23.</p>
+<p>It said the new pricing for ISDN-2 would allow the cost to be spread over two years, reducing initial costs of joining.</p>
+<p>Start Up targets first-time users with a lower connection fee of 199 stg and higher rental.</p>
+<p>It gives a yearly call allowance of 90 stg for two years and 210 stg after. Businesses could save up to 14.5 percent in the first year on previous ISDN-2 levels, BT said.  </p>
+<p>The second option, Fast Start, is aimed at customers who have used ISDN and know usage rates.</p>
+<p>The connection fee is 680 stg and rental 130 stg a quarter afterwards, with a call allowance of 650 stg in the first year and 210 stg thereafter.</p>
+<p>BT said that was a 25 percent saving on previous ISDN-2 prices in the first year.</p>
+<p>Low Start targets low users or customers using ISDN to provide back-up for private circuit services.</p>
+<p>The connection charge is unchanged but rental is increased with a call allowance of 210 stg per annum, saving over eight percent on previous ISDN-2 prices.</p>
+<p>&quot;The introduction of call allowances will make it easier for businesses to try out new and innovative applications,&quot; said June Campbell, BT marketing manager of ISDN services.</p>
+<p>The previous rate for ISDN-2 for all users was a 400 stg connection charge with 84 stg a quarter rental and no call allowance, giving a total cost of 736 stg.</p>
+<p>Rental charges for customers who do not select one of the new options will go up to 88 stg a quarter from October 1, BT said.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

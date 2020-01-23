@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2331" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: Halifax profits rise as IPO looms.</title>
+<headline>Halifax profits rise as IPO looms.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Halifax Building Society, Britain's largest mortgage lender, reported half-year profits of 649 million pounds ($1 billion) Tuesday.</p>
+<p>However, the society said its share of Britain's reviving housing market slipped to a 7.2 percent share of net mortage lending and 15.2 percent of gross mortgage lending.</p>
+<p>Spokesman Gary Marsh said in an interview that these levels were below the firm's normal market share of about 20 percent because it had shied away from re-mortgaging, which accounted for 30 percent of the total mortgage market.</p>
+<p>The size of the re-mortgage market reflects the low level of transactions from home buyers, Marsh said.</p>
+<p>One analyst said the slip reflected the society's pursuit of profits as it prepared for a public stock offering.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

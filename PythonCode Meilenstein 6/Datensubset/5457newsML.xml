@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5457" id="root" date="1996-08-21" xml:lang="en">
+<title>BULGARIA: REPO TURNOVER FALLS ON BULGARIA BOURSE.</title>
+<headline>REPO TURNOVER FALLS ON BULGARIA BOURSE.</headline>
+<dateline>SOFIA 1996-08-21</dateline>
+<text>
+<p>Only one repo deal in treasury paper worth of 1.225 million levs was struck on the Sofia Stock Exchange (SSE), down from Tuesday's turnover of 1.329 million levs, brokers said.</p>
+<p>The paper yields 1.90 percent until repurchase.</p>
+<p>No corporate stocks traded on the SSE for a thirteenth day in a row and the RABSI (Reuter All Bulgaria Stock Index) was unchanged from Tuesday's 41.31 points.</p>
+<p>The other local bourse, the Bulgarian Stock Exchange (BSE) has been in a summer recess since August 5 and will resume trading on September 2. -- Sofia Newsroom, (++359-2) 981 8569</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

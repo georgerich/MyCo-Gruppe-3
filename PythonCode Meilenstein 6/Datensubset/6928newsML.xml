@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6928" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: BEFORE THE BELL - Kmart firms, Oracle off.</title>
+<headline>BEFORE THE BELL - Kmart firms, Oracle off.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Kmart Corp shares traded up preceding Wednesday's market open on news of quarterly operating earnings that met Wall Street expectations.</p>
+<p>Kmart stock was active at 10-7/8 early Wednesday, up 3/8 from Tuesday's New York Stock Exchange close.</p>
+<p>The retailer said operating earnings for the second quarter ended July 31 were $0.07 per share, up from $0.05 in the year-ago period.</p>
+<p>Revenues for the period slipped to $8.31 billion from $8.44 billion.  </p>
+<p>Oracle Corp fell in pre-open trade as investors heeded Goldman Sachs's bearish remarks about the database management software company.</p>
+<p>The stock fell to 37-1/4 from 39 after Goldman removed the issue from its priority list, though it remains on the recommended list, according to traders and a Goldman source.  </p>
+<p>Rexene Corp extended a decline that began after yesterday's NYSE close when privately held Huntsman Corp dropped a $15 per share unsolicited bid for the company.</p>
+<p>Without the bid, which totaled $460 million and had been sweetened from $14 a share, Rexene fell to 10-1/2, off from 12-3/4 at Tuesday's NYSE close and 1/8 under last night's after-hours decline, according to traders.</p>
+<p>Intel Corp shares also weakened, slipping 1/2 to 79 on reports that company insiders were selling shares, traders said.</p>
+<p>-- Brendan Intindola, Wall Street Desk, 212-859-1734.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

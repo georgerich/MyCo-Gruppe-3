@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11543" id="root" date="1996-08-23" xml:lang="en">
+<title>INDIA: India rupee dips on dlr demand from state-run bank.</title>
+<headline>India rupee dips on dlr demand from state-run bank.</headline>
+<dateline>BOMBAY 1996-08-23</dateline>
+<text>
+<p>The Indian rupee weakened on dollar demand from a large state-run bank in afternoon trade on Friday to touch 35.71/72 per dollar, dealers said.</p>
+<p>The rupee traded at a high of 35.65 and a low of 35.72 per dollar, they said. &quot;The rupee was in a 35.65/67 band for much of the morning,&quot; a dealer at a foreign bank said. &quot;Late demand from a state-run bank weakened it to 35.71/72.&quot;</p>
+<p>Forward premia fell initially on reports of a cut in cash reserve requirements but moved back on paying pressure to close at the previous day's levels, dealers said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

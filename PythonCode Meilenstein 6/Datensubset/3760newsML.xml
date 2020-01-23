@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3760" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Clinton passport case official awarded legal fees.</title>
+<headline>Clinton passport case official awarded legal fees.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>Former State Department official Steven Berry was awarded $216,377 by a federal court on Tuesday for legal fees he incurred during an investigation into President Bill Clinton's passport records.</p>
+<p>The case stemmed from a State Department review of Clinton's passport file during the 1992 presidential election campaign in response to rumours Clinton might have written a letter renouncing his U.S. citizenship to avoid the draft during the Vietnam War.</p>
+<p>No such letter was found and an independent counsel was appointed after the election to investigate whether Clinton's records had been improperly searched for political reasons. Berry, then assistant secretary of state for legislative affairs, was told by Independent Counsel Joseph diGenova he was one of those being investigated.</p>
+<p>In 1995, diGenova issued a report that said there was no evidence to warrant the prosecution of anyone for their conduct in connection with the passport files search. As Berry was a subject of the investigation but was not charged, he was entitled by law to be reimbursed by the federal government for reasonable legal fees and expenses.</p>
+<p>Berry, now a member of a Washington law firm, asked for $256,145 in attorney's fees but the U.S. Court of Appeals for the District of Columbia deducted $45,837 it said was not allowable. The court also approved $6,069 in expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

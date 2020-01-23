@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6918" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Microsoft, Security Dynamics in pacts.</title>
+<headline>Microsoft, Security Dynamics in pacts.</headline>
+<dateline>REDMOND, Wash. 1996-08-21</dateline>
+<text>
+<p>Microsoft Corp and Security Dynamics Technologies Inc said on Wednesday that they signed a number of cross-licensing agreements on security technology.</p>
+<p>The pacts grant Microsoft greater access to encryption and authentication token technology developed by Security Dynamics and its RSA Data Security Inc subsidiary, including new licensing rights to software for supporting Security Dynamics' SecurID token technology in future Microsoft products.  </p>
+<p>The pacts would let corporate users increase security through the addition of SecurID token authentication to the Windows NT Server network operating system and Microsoft Internet Information Server.</p>
+<p>The agreements also make developers' toolkits from RSA available which feature Microsoft's cryptographic programming interfaces, CryptoAPI, allowing the addition of secure features to software products in development.</p>
+<p>RSA will receive an ongoing revenue stream from Microsoft based on the use of patented RSA technology.</p>
+<p>Microsoft will license CryptoAPI to RSA, including rights to incorporate CryptoAPI into RSA's BSAFE and other security toolkit products, to port CryptoAPI to new platforms, and to build on Microsoft's base set of cryptography services.</p>
+<p>Similar agreements were struck convering Security Dynamics software.</p>
+<p>--New York Newsdesk, 212/859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

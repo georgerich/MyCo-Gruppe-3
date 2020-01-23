@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7480" id="root" date="1996-08-21" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Bahrain - Aug 21.</title>
+<headline>PRESS DIGEST - Bahrain - Aug 21.</headline>
+<dateline>MANAMA 1996-08-21</dateline>
+<text>
+<p>These are some of the leading stories in the Bahraini press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-AYAM</p>
+<p>- Health minister inspects a new health centre in Arad, to be inaugurated late in September.</p>
+<p>AKHBAR AL-KHALEEJ</p>
+<p>- Video and electronic shops closed for violating laws.</p>
+<p>- Plan to develop training centre at the Electricity and Water Ministry in Sitra.</p>
+<p>GULF DAILY NEWS</p>
+<p>- Tough new green law comes into force to protect Bahrain's environment. It ensures better monitoring and control of pollution.</p>
+<p>- Setting up a skin bank in the Gulf will be among issues to be discussed by plastic surgeons in Bahrain next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

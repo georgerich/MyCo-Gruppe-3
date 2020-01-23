@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11698" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Kansas feedlot cattle market very slow - USDA.</title>
+<headline>Kansas feedlot cattle market very slow - USDA.</headline>
+<dateline>DODGE CITY 1996-08-22</dateline>
+<text>
+<p>Trade very slow. Few sales slaughter steers and heifers steady. Inquiry and demand rather light. Sales confirmed on 600 slaughter steers and 300 slaughter heifers Thursday.</p>
+<p>For the week to date 131,300 head confirmed including 22300 head or about 17 percent previously contracted or formulated cattle and CME delivery cattle. Sales FOB feedlot net weights after 4 percent shrink.</p>
+<p>Slaughter steers - Select and Choice 2-3 1200-1250 lbs 68.00, pen Select to mostly Choice 1310 lbs 68.00.</p>
+<p>Slaughter heifers - Few Select and Choice 2-3 1050-1100 lbs 68.00.</p>
+<p>Confirmed -	900 last week -    200  last year -  3,900</p>
+<p>Wk to date - 131,300 last week - 33,500  last year - 75,200</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

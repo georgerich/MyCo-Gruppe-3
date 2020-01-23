@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11801" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Hurricane warning for SW Mexico as Dolly nears.</title>
+<headline>Hurricane warning for SW Mexico as Dolly nears.</headline>
+<dateline>LEXINGTON, MASS. 1996-08-23</dateline>
+<text>
+<p>Hurricane Dolly is a significant threat to shipping in the southwestern Gulf of Mexico, centred 180 miles east southeast of Tampico, moving west northwest at about 10 mph, Weather Services Corp said.</p>
+<p>Top winds continue at 75 mph. A hurricane warning is up for Mexico from Veracruz to La Pesca. Dolly is expected to make landfall in 6-12 hours with top winds of 80 mph.</p>
+<p>Heavy rains of 6-12 inches and locally heavier are expected likely, causing flooding and mudslides. Storm surge flooding of three to five feet above noraml tide levels is likely at and around the point of landfall, WSC added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, MASS."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

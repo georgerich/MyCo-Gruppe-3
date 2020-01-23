@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10816" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. spot natgas erodes further ahead of weekend.</title>
+<headline>U.S. spot natgas erodes further ahead of weekend.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>U.S. spot natgas prices for the weekend extended their losses Friday as forecasters called for below-normal temperatures in the East and in Texas, industry sources said.</p>
+<p>Louisiana Gulf Coast swing prices fell by another five cents to the $1.90-1.95 per million British thermal units area due to the normal drop in weekend demand coupled with cooler temperatures in both the production and market areas.</p>
+<p>Early swing values at Henry Hub, La., were in the high-$1.90s, but then eased into the $1.93-1.95 range as the end of the nomination period neared.  </p>
+<p>Traders said cloud cover in Texas from Hurricane Dolly resulted in a weaker demand and thereby put downward pressure on prices. Traders reported closing most deals in the mid-to-high $1.80s, down more than five cents.</p>
+<p>In the Midcontinent, prices slipped into the low-to-mid $1.70s, down about five to six cents from Thursday's levels.</p>
+<p>The languishing Texas demand also pressured Permian prices lower into the mid-to-high $1.60s. However, southern California border values gained about two cents because of the impending above-normal temperatures to the West Coast.</p>
+<p>Forecasters said the storm brewing in the Atlantic Ocean, named Edouard, may be upgraded to a hurricane later today as it heads toward land.</p>
+<p>--H McCulloch, New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

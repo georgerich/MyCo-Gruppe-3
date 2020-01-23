@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8177" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Mexican leaves Death Row, gets new trial in Texas.</title>
+<headline>Mexican leaves Death Row, gets new trial in Texas.</headline>
+<dateline>HOUSTON 1996-08-21</dateline>
+<text>
+<p>A Mexican immigrant convicted of killing a Houston police officer 14 years ago has left death row for a county jail and is awaiting a new trial after his conviction was thrown out, his lawyer said on Wednesday.</p>
+<p>Attorney Scott Atlas said Ricardo Aldape Guerra had pleaded not guilty to the charge that he shot officer James Harris in 1982 when Harris stopped the car in which he was riding for speeding.</p>
+<p>Aldape was moved to Harris County Jail on Wednesday when an order to hold a new trial from the Fifth Circuit Court of Appeals in New Orleans became official. A new trial date has been set for Dec. 2, but prosecutors have not said if they will retry the case.</p>
+<p>The court upheld last month a 1994 ruling by U.S. District Judge Kenneth Hoyt that Aldape's conviction should be overturned.</p>
+<p>Aldape, for his part, remains a suspect and is still charged with the crime. The judge has not set bond and Atlas said he was unlikely to do so amid fears that the Mexican would skip bail and flee across the border.</p>
+<p>Hoyt said police and prosecutors manipulated evidence and intimidated witnesses to get a conviction without regard for the facts. He said they became &quot;merchants of chaos.&quot;</p>
+<p>Aldape has said from the beginning that Harris was gunned down by Roberto Carrasco Flores, who was in the car with him. Evidence at the scene appeared to support Aldape's story, but he was convicted and sentenced to death.</p>
+<p>Carrasco died in a shootout with police.</p>
+<p>Aldape became a cause celebre in Mexico where the government lobbied on his behalf and books, songs and movies chronicled his story.</p>
+<p>Aldape, now 34, is from Monterrey, Mexico, but came to the United States illegally to find work before he ran afoul of the law.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

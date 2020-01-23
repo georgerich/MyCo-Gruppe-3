@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2480" id="root" date="1996-08-20" xml:lang="en">
+<title>DUBAI: Saudi king stresses agriculture's role in economy.</title>
+<headline>Saudi king stresses agriculture's role in economy.</headline>
+<dateline>DUBAI 1996-08-20</dateline>
+<text>
+<p>Saudi Arabia's King Fahd said the agriculture sector played a vital role in the oil-dominated economy and the kingdom was encouraging private sector investment in agriculture, Saudi Press Agency said on Tuesday.</p>
+<p>&quot;This sector will continue to play a vital role in the country's economic diversification drive by expanding its links with other sectors,&quot; he told a cabinet meeting on Monday.</p>
+<p>He said the private sector would continue to play a leading role in agricultural development and the government would support those efforts by providing research and facilities.</p>
+<p>The king said the sector was an &quot;indivisible part&quot; of Saudi Arabia's overall security. It provides jobs and revenue.</p>
+<p>The Gulf Arab state is the world's biggest oil exporter. But it has been working to diversify its oil-dominated economy to lessen reliance on its main source of revenue.</p>
+<p>Saudi Arabia produces wheat, potatoes and other goods.</p>
+<p>Agricultural output contributes about 11 percent of the non-oil gross domestic product.</p>
+<p>In the kingdom's 1995-2000 development plan, agriculture is expected to grow 3.1 percent annually, lower than previous targets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

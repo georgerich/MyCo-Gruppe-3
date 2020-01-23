@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5643" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: U.S. has no comment on ValuJet re-certification.</title>
+<headline>U.S. has no comment on ValuJet re-certification.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The Transportation Department on Wednesday had no comment on when ValuJet Inc might be judged fit to fly again and whether a petition by its flight attendants would slow the review of ValuJet's fitness.</p>
+<p>The carrier's flight attendants union asked the department last month to remove ValuJet's top officers because they are either unwilling or incapable of operating a safe airline.</p>
+<p>It was grounded on June 11, with the Federal Aviation Administration citing a series safety violations.</p>
+<p>Earlier, Valujet said it would not be able to resume operations by its target date of Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

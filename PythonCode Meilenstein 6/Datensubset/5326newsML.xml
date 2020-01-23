@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5326" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: Pathe H1 sales 898 million Ffr.</title>
+<headline>Pathe H1 sales 898 million Ffr.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996.</p>
+<p>(All figures in millions of French francs)</p>
+<p>    Turnover			     898    vs	proforma 440</p>
+<p>	- second quarter		 440    vs	proforma 130</p>
+<p>Quarterly breakdown by activity</p>
+<p>First quarter</p>
+<p>	- Production/distribution    557    vs	proforma 111</p>
+<p>	- Cinema halls		   341    vs	proforma 185</p>
+<p>Second quarter</p>
+<p>	- Production/distribution    289    vs	proforma  50</p>
+<p>	- Cinema halls		   151    vs	proforma  80</p>
+<p>NOTE - Pathe, which has stakes in BSkyB, Canalsatellite and other media interests, was set up from the split of diversified conglomerate Chargeurs  CHGP.PA SA into two quoted companies in June. Pathe said in a note in the BALO legal bulletin that the rise in second-quarter sales was due mainly to Renn Productions and AMLF, fully consolidated in January 1996, and Pathe Holland, purchased at the end of 1995.</p>
+<p>It said the 1995 proforma comparisons had been reconstructed from the published accounts of Chargeurs SA.</p>
+<p>-- Paris newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

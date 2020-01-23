@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6335" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: BALANCE - Unified School District 400, Kan..</title>
+<headline>BALANCE - Unified School District 400, Kan..</headline>
+<text>
+<p>UNIFIED SCHOOL DISTRICT 400</p>
+<p>RE: $5,447,000</p>
+<p>MCPHERSON CO., KANSAS (SMOKY VALLEY)</p>
+<p>G.O. SCHOOL BUILDING BONDS, SERIES 1996</p>
+<p>UNLIMITED TAX</p>
+<p>    MOODY'S: NAF		   S&amp;P: AAA</p>
+<p>Delivery Date: 09/11/1996 (FIRM)</p>
+<p>FGIC INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>12/01/2004		15M    6.00	  4.70</p>
+<p>12/01/2013		50M    5.30	  5.40</p>
+<p>  Total:		  65M</p>
+<p>A.G. Edwards &amp; Sons, Inc.</p>
+<p>Dean Witter Reynolds, Inc.</p>
+<p>Chiles Heider Division of Smith Barney Inc.</p>
+<p>Piper, Jaffray Inc.</p>
+<p>B.C. Christopher</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

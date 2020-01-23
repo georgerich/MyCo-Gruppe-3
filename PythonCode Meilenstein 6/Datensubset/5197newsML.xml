@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5197" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Caterpillar confirms Big Smith court ruling.</title>
+<headline>Caterpillar confirms Big Smith court ruling.</headline>
+<dateline>PEORIA, Ill. 1996-08-21</dateline>
+<text>
+<p>Caterpillar Inc confirmed Wednesday that the U.S. District Court in Peoria ruled that it had properly terminated a licensing agreement with Big Smith Brands Inc.</p>
+<p>Caterpillar, a heavy-equipment maker, claimed that Big Smith, which makes specialty apparel such as overalls, jeans and jackets, breached its licensing agreement.</p>
+<p>The dispute stemmed from Caterpillar's requirement that trademark licensees obtain manufacturer's agreements so that Caterpillar can maintain quality control standards over third-party manufacturers, the company said.</p>
+<p>Earlier, Big Smith said the court ruled in favor of Caterpillar and dismissed Big Smith's motion for a preliminary injunction against Caterpillar.</p>
+<p>Big Smith said it was holding talks with Caterpillar to try to resolve remaining issues amicably.</p>
+<p>Caterpillar has licensed merchandise for sale under its trademark for more than 40 years, it said.</p>
+<p>-- Reuters Chicago Newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PEORIA, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

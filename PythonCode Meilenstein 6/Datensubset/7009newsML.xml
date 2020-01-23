@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7009" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Jewell polygraph expert once cleared guilty man.</title>
+<headline>Jewell polygraph expert once cleared guilty man.</headline>
+<dateline>ATLANTA 1996-08-21</dateline>
+<text>
+<p>A polygraph expert who declared Richard Jewell innocent of the Olympic park bombing once used a lie detector to defend a man later convicted of ordering his wife's murder, an Atlanta newspaper said on Wednesday.</p>
+<p>Richard Rackleff, a former FBI agent, told a news conference on Tuesday that Jewell had passed a lie detector test in which he denied any involvement in the bomb attack on the Centennial Olympic Games. The polygrapher was hired by Jewell attorneys as part of a public campaign to clear the security guard's name of suspicion.</p>
+<p>The Atlanta Journal-Constitution said Rackleff in 1992 gave a similar lie detector test to a prominent lawyer accused of murdering his wife and said he was convinced of the man's innocence. But the lawyer was later convicted of racketeering for hiring a business associate to carry out the murder.</p>
+<p>The newspaper said Rackleff also used a polygraph test to defend a man who later admitted to being a child molester. Rackleff, a retired 27-year FBI veteran, was not immediately available for comment.</p>
+<p>Two people died and more than 100 were injured on July 27 when a homemade pipe bomb exploded at an outdoor concert in Atlanta's Centennial Olympic Park. Jewell, 33, a security guard at a nearby pavilion, was initially hailed as a hero for finding the green knapsack that carried the bomb and helping to clear crowds from the area.</p>
+<p>But days later he became the only named suspect in a federal investigation and has remained under FBI and media surveillance, although he has not been charged with any crime.</p>
+<p>Jewell has steadfastly maintained his innocence. Using the polygraph results provided by Rackleff, his lawyers have demanded that the FBI either arrest him or apologise to him.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

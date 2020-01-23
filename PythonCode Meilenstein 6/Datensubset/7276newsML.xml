@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7276" id="root" date="1996-08-21" xml:lang="en">
+<title>THAILAND: Ital-Thai seeks more projects in Burma.</title>
+<headline>Ital-Thai seeks more projects in Burma.</headline>
+<dateline>BANGKOK 1996-08-21</dateline>
+<text>
+<p>Thai construction firm, Italian-Thai Development is looking for new projects in Burma such as airport and infrastructure projects, the company president said on Wednesday.</p>
+<p>&quot;We're studying the possibility of several projects in Burma. We will be the sole investor in the projects,&quot; company president Premchai Karnasuta told reporters.</p>
+<p>He declined to elaborate.</p>
+<p>Italian-Thai Development is currently building an international airport at Mandalay, 560 km (350 miles) north of Rangoon with investment of $149 million. It is due to be finished by 1999.</p>
+<p>&quot;The (Burmese) government is satisfied with our performance on the existing project. There is a high possibility that we will be awarded more projects,&quot; Premchai said.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

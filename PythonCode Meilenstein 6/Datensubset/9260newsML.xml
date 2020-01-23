@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9260" id="root" date="1996-08-22" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar ends firm on CenBnk intervention.</title>
+<headline>Venezuela bolivar ends firm on CenBnk intervention.</headline>
+<dateline>CARACAS 1996-08-22</dateline>
+<text>
+<p>The Venezuelan bolivar firmed to end the day at 473.75/475.00 per dollar, buoyed by Central Bank dollar sales, traders said.</p>
+<p>On Wednesday, the unit closed at 474.25/475.25 per dollar.</p>
+<p>&quot;It was a quiet day, with little demand,&quot; said one trader.</p>
+<p>&quot;The Bank was quiet in the morning, but came in strong in the afternoon, firming the exchange rate to where it closed,&quot; he added.</p>
+<p>While dealers saw busier trade, they agreed on the Bank's participation. &quot;There was plenty of demand for the dollars which the Bank supplied as necessary,&quot; said one.</p>
+<p>-- Ana Isabel Martinez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

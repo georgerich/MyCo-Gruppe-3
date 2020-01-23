@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4238" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Italian Oven Inc Q2 net loss widens.</title>
+<headline>Italian Oven Inc Q2 net loss widens.</headline>
+<dateline>LATROBE, Pa. 1996-08-19</dateline>
+<text>
+<p>3 Mos ended 6/30     6 Mos ended 6/30</p>
+<p>				1996	1995	 1996     1995</p>
+<p>Restaurant sales $4,752,965 $2,430,101 $7,848,484 $4,869,309</p>
+<p>Franchise, development fees</p>
+<p>			    237,000    232,832    756,125    883,832</p>
+<p>  Royalty fees	  684,339    693,742  1,388,309  1,321,988</p>
+<p>    Total revenue   5,674,304  3,356,675  9,992,918  7,075,129</p>
+<p>  Net loss	   (3,684,131)  (442,599)(3,822,824) (655,247)</p>
+<p>  Net after pfd divs(3,684,131) (496,959)(3,822,824) (765,029)</p>
+<p>  Net loss per shr     $(0.85)    $(0.21)    $(0.88)   $(0.32)</p>
+<p>   Shrs		  4,351,991   2,067,168 4,339,991 2,067,166</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LATROBE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

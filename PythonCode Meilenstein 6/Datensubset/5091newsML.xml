@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5091" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Fairfax shares top turnover.</title>
+<headline>RTRS-Fairfax shares top turnover.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Shares in media group John Fairfax Holdings Ltd topped turnover in afternoon trade on Wednesday as 7.77 million changed hands.</p>
+<p>The bulk of the trade was specialled in three lines, two lines of 1.5 million and 445,00 shares through Barcalys de Zoete Wedd and one line of 5.0 million through County Natwest.</p>
+<p>All three lines were at a price of A$2.70 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

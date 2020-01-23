@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9470" id="root" date="1996-08-22" xml:lang="en">
+<title>TURKEY: Istanbul gold ends mixed in dormant trade.</title>
+<headline>Istanbul gold ends mixed in dormant trade.</headline>
+<dateline>ISTANBUL 1996-08-22</dateline>
+<text>
+<p>Istanbul gold prices ended mixed on Thursday and trade was lacklustre due to meagre demand from the free market, dealers said.</p>
+<p>Gold lost $0.65 to end at $387.60 per ounce, but gained 1,200 lira to 1,076,000 lira per gram. Volume dropped by 43 percent to 1,020 kg.</p>
+<p>Dealers said trade had been dull on the Istanbul Gold Exchange as demand from the free market had dropped, with most free market dealers having filled their bullion needs yesterday.</p>
+<p>There was 865 kg of trade in the morning and 155 kg in the afternoon. Of the total trade, 64 percent was in dollar terms.</p>
+<p>--Istanbul Newsroom, +90-212-275 0875 SA</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

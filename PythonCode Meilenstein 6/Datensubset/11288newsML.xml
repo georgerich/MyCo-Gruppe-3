@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11288" id="root" date="1996-08-23" xml:lang="en">
+<title>SINGAPORE: ST Computer 1st-half net up 11.1 pct.</title>
+<headline>ST Computer 1st-half net up 11.1 pct.</headline>
+<dateline>SINGAPORE 1996-08-23</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>(millions of Singapore dollars unless specified)</p>
+<p>    Net profit		     3.14  vs   2.83</p>
+<p>    Group share (cents)	  3.14  vs   2.83</p>
+<p>    Turnover		     154.10  vs 137.26</p>
+<p>    Interest income		0.35  vs   0.24</p>
+<p>    Operating profit	    10.12  vs  10.00</p>
+<p>    Interest expense	     1.38  vs   1.21</p>
+<p>    Depreciation/amortization  3.53  vs   3.63</p>
+<p>    Loss from associates	 0.09  vs   0.06</p>
+<p>    Pre-tax profit		 5.12  vs   5.10</p>
+<p>    Tax				1.74  vs   1.88</p>
+<p>    Minorities	   (loss)  0.24  vs   0.40</p>
+<p>Note - ST Computer Systems &amp; Services Ltd is an associate company of Singapore Technologies Industrial Corp.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

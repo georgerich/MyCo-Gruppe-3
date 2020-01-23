@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8377" id="root" date="1996-08-22" xml:lang="en">
+<title>SPAIN: Iberia July load factor rises to 73 pct.</title>
+<headline>Iberia July load factor rises to 73 pct.</headline>
+<dateline>MADRID 1996-08-22</dateline>
+<text>
+<p>Iberia's passenger load factor rose to 73.08 percent in July from 70.46 percent in June, the airline said.</p>
+<p>It carried 1.36 million passengers in the month, taking the total so far this year to 8.31 million, and flew 2.55 billion revenue passenger kms (14.38 billion January to end July).</p>
+<p>Freight traffic rose seven percent in the month to 59.73 million freight tonne kms, taking the accumulated total to 416.28 tonne kms, 10.1 percent more than in the same period last year.</p>
+<p>-- Madrid newsroom + 34 1 585 2151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4880" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: Bundesbank details M3 developments in July.</title>
+<headline>Bundesbank details M3 developments in July.</headline>
+<dateline>FRANKFURT 1996-08-20</dateline>
+<text>
+<p>The Bundesbank published the following data relating to M3 money supply in July.</p>
+<p> AGGREGATE (in bln marks)	    Jul96   Jun96  Jul95  End Jul</p>
+<p>									    Level</p>
+<p>1) BANK LENDING TO DOMESTIC</p>
+<p>    NON-BANKS (total)		  +11.5   +15.6  +19.8  4,599.7</p>
+<p>    Lending by Bundesbank	   +/-0.0 +/- 0.0  - 0.2	8.7</p>
+<p>    Lending by banks		   +11.5   +15.6  +20.0  4,591.0</p>
+<p>    To firms and individuals	 +10.3   +15.9  + 7.2  3,470.8</p>
+<p>of which</p>
+<p>    short term lending		 -13.5   +14.5  - 6.7    582.7</p>
+<p>    To public authorities	    + 1.2   - 0,3  +12.7  1,120.2</p>
+<p>2) NET EXTERNAL ASSETS</p>
+<p>OF CREDIT INSTITUTIONS</p>
+<p>    AND THE BUNDESBANK		 + 2.4   +21.1  - 5.5    274.3</p>
+<p>3) MONETARY CAPITAL FORMATION</p>
+<p>    FROM DOMESTIC SOURCES, TOTAL   + 6.7   +10.1  +16.4  2,671.7</p>
+<p>of which</p>
+<p>Time deposits</p>
+<p>    4 yrs and more		     + 7.4   + 5.0  + 6.6    773.2</p>
+<p>Savings deposits over 3 mths</p>
+<p>    notice, savings certificates   - 2.1   - 2.6  + 0.6    500.6</p>
+<p>Bank debt securities</p>
+<p>    in circulation		     - 0.0   + 4.1  + 8.1  1,070.3</p>
+<p>4) DEPOSITS OF FED. GOVT.</p>
+<p>    IN BANKING SYSTEM		  - 0.0   + 0.2  - 4.4	0.3</p>
+<p>5) OTHER FACTORS			 + 7.4   +21.2  + 2.1    181.8</p>
+<p>6) MONEY STOCK M3			- 0.2   + 5.2  + 0.2  2,020.3</p>
+<p>    Currency in circulation	  + 0.7   - 0.1  + 0.1    239.2</p>
+<p>    Sight deposits		     - 3.0   +12.0  + 0.9    554.5</p>
+<p>    Time deposits up to 4 yrs	- 1.6   -10.8  - 6.9    414.3</p>
+<p>Savings deposits at</p>
+<p>    three months notice		+ 3.8   + 4.1  + 6.2    812.3</p>
+<p>SEASONALLY ADJUSTED DATA</p>
+<p>Money M3, monthly average</p>
+<p> annual change from Q4 1995 (%)    + 8.6    + 9.6   n/a  2,014.8</p>
+<p>Annual change over past</p>
+<p>six months (%)</p>
+<p>    M3 aggregate			 + 8.7    + 9.6   n/a	n/a</p>
+<p>    M2 aggregate			 + 2.2    + 3.3   n/a  1,225.9</p>
+<p>    M1 aggregate			 +10.7    +11.4   n/a    808.7</p>
+<p>    M3 extended			    n/a    + 7.8   n/a	n/a</p>
+<p>Lending to firms</p>
+<p>    and individuals		    + 7.1    + 7.3   n/a  3,477.8</p>
+<p>    Monetary capital formation     + 5.0    + 4.5   n/a  2,671.2</p>
+<p>--Melanie Massier, Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

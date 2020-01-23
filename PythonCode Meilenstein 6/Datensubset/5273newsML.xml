@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5273" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRIA: Austrians' thirst for energy tops Europe-magazine.</title>
+<headline>Austrians' thirst for energy tops Europe-magazine.</headline>
+<dateline>VIENNA 1996-08-21</dateline>
+<text>
+<p>Red Bull, Blue Sow, Dark Dog, Flying Horse.</p>
+<p>These are just a few of the flood of energy drinks keeping Austrians active and, according to the business magazine WirtschaftsWoche, they make this small Alpine nation by far Europe's biggest per capita consumer of the fadish beverages.</p>
+<p>Austria, whose eight million citizens are often portrayed as lethargic and chronic hypochondriacs, last year downed 15 million litres (3.3 million gallons), or 60 million cans, of the caffeine-laden thirst-quenchers, the magazine said.</p>
+<p>Austria also dominates production -- one third of all energy drink producers are located here.</p>
+<p>There are at present about 30 domestic manufacturers, with Red Bull heading the stampede. Last year, the Salzburg-based company sold 150 million cans, a third of them in Austria.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

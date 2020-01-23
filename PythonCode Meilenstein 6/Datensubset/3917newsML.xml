@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3917" id="root" date="1996-08-20" xml:lang="en">
+<title>BANGLADESH: Bangladesh to get 10.9 bln yen Japanese credit.</title>
+<headline>Bangladesh to get 10.9 bln yen Japanese credit.</headline>
+<dateline>DHAKA 1996-08-20</dateline>
+<text>
+<p>Japan will provide Bangladesh a credit worth 10.943 billion yen to finance modernisation of the country's southern Chittagong airport, the official BSS news agency on Tuesday.</p>
+<p>It said an agreement for the loan, which carries one percent interest and is repayable in 30 years, was signed in Tokyo on Tuesday.</p>
+<p>Bangladesh is developing Chittagong into an international airport to cater to increased traffic resulting from inflow of foreign investments into the Chittagong Export Processing Zone, the agency said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

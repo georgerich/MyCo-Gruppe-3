@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2886" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Nasdaq down on profit-taking in techs.</title>
+<headline>Nasdaq down on profit-taking in techs.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Nasdaq stocks closed lower on continued profit-taking in high technology issues and some analysts say the correction is drawing to a close.</p>
+<p>The Nasdaq Composite Index was down 6.24 points, or 0.55 percent at 1124.67. Declines led advances 2053 to 1923 on volume of about 413 million shares.</p>
+<p>&quot;The Nasdaq market is still being weighed down by profit-taking in the high technologies,&quot; said Chris Callies, chief investment strategist at CS First Boston.  </p>
+<p>&quot;The profit-taking seems to be focusing on the larger cap stocks, which is an indication that it has gotten a bit long in the tooth and that the correction is getting pretty old.&quot;</p>
+<p>HBO &amp; Co shares slumped 5-1/4 to 56-1/2 after Morgan Keegan started coverage of the stock with underperform.</p>
+<p>Viking Office Products Inc shares rose one to 24-1/8 after the company reported quarterly results in line with First Call estimates. Stewart &amp; Stevenson Services Inc was down 1-5/16 at 20-1/16 after the company reported second quarter earnings of $0.16 per share before charges. The First Call estimate was for net of $0.34 per share.</p>
+<p>-- Andrej Gustincic Wall Street desk 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10349" id="root" date="1996-08-23" xml:lang="en">
+<title>VIETNAM: Hanoi to speed foreign commercial debt settlement.</title>
+<headline>Hanoi to speed foreign commercial debt settlement.</headline>
+<dateline>HANOI 1996-08-23</dateline>
+<text>
+<p>Vietnam said on Friday that it was planning to complete legal procedures by early 1997 for the early settlement of the country's foreign commercial debt.</p>
+<p>Deputy State Bank Governor Le Van Chau was quoted by the official Vietnam News Agency as saying Hanoi's debt, most of which is from bank loans made in the 1970s, stands at $398 million in principal and $509 million in interest.</p>
+<p>The report gave no other details.</p>
+<p>Vietnam reached agreement in principle in May with its creditors, most of whom are Japanese banks, giving Hanoi the possibility of 50-percent forgiveness on its debts.</p>
+<p>Under the deal, Hanoi would issue 30-year bonds backed by U.S. treasury zero coupon bonds for the debt not written off.</p>
+<p>Lenders have several options to recover their money including a cash buyback, discount bonds and par bonds, which replace old debt at the same value.</p>
+<p>VNA said the cost of the principal debt and the amount to be written off were still under discussion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

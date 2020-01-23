@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12150" id="root" date="1996-08-23" xml:lang="en">
+<title>NEW ZEALAND: N.Leeming s/holders approve acquisition.</title>
+<headline>N.Leeming s/holders approve acquisition.</headline>
+<dateline>WELLINGTON 1996-08-23</dateline>
+<text>
+<p>Shareholders in New Zealand appliance retailer Noel Leeming Ltd on Friday approved the acquisition of Bond and Bond, the New Zealand Stock Exchange said.  </p>
+<p>The annual meeting approved the acquisition from Murray International, which will be issued with 17.58 million Noel Leeming shares. Settlement date is September 1.</p>
+<p>Noel Leeming closed on Friday at $1.49.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

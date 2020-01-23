@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4413" id="root" date="1996-08-20" xml:lang="en">
+<title>SWITZERLAND: U.S. reacts angrily to Indian nuclear veto.</title>
+<headline>U.S. reacts angrily to Indian nuclear veto.</headline>
+<dateline>GENEVA 1996-08-20</dateline>
+<text>
+<p>The United States reacted angrily on Tuesday to India's formal veto of a nuclear test ban treaty and said it would work to bypass New Delhi's opposition and have the treaty adopted and signed anyway.</p>
+<p>After a meeting at which India confirmed its veto, U.S. disarmament ambassador Stephen Ledogar accused it of being &quot;insincere&quot; in its arguments against the test ban, telling reporters: &quot;The real reason is that the current government in New Delhi wants to maintain the nuclear weapon option.&quot;  </p>
+<p>Earlier, India's Arundhati Ghose told the international Conference on Disarmament that her country could still not accept the treaty text, which it first vetoed in a negotiating committee last week.</p>
+<p>India, one of three nuclear &quot;threshold states&quot;, says that the treaty should include a time-bound commitment by the five declared nuclear powers for total nuclear disarmament.</p>
+<p>Ledogar said the Comprehensive Test Ban Treaty was never meant to be a nuclear disarmament pact until India decided last year that it should be so.</p>
+<p>He said the United States and other supporters of the treaty would act &quot;in the next few days&quot; to either have the draft treaty introduced to the U.N. General Assembly for signature late next month or would convene an international signature conference outside U.N. auspices.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENEVA"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

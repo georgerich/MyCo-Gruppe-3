@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4301" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Lasergate Systems Inc Q2 loss widens.</title>
+<headline>Lasergate Systems Inc Q2 loss widens.</headline>
+<dateline>CLEARWATER, Fla. 1996-08-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	   loss	 $0.60     loss	 $0.21</p>
+<p> Net	   loss	 2,989     loss	   643</p>
+<p> Revs			 1,104			872</p>
+<p> Avg shrs		   4,972		    3,023</p>
+<p>	  SIX MONTHS</p>
+<p> Shr	   loss     $  0.67     loss	$ 0.57</p>
+<p> Net	   loss	 3,153     loss	 1,711</p>
+<p> Revs			 2,570		    1,490</p>
+<p> Avg shrs		   4,738		    3,023</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: The 1996 second-quarter results include a one-time charge of $1.1 million for writedown of capitalized softdown.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEARWATER, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

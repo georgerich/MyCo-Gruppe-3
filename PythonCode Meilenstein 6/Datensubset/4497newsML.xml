@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4497" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia/U.S. bond spread narrows pre-budget.</title>
+<headline>RTRS-Australia/U.S. bond spread narrows pre-budget.</headline>
+<dateline>SYDNEY 1996-08-20</dateline>
+<text>
+<p>---------------------------------------------------------  AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 86 (- 11)   132 (- 08) * FUTURES   76   (+ 02)</p>
+<p> CAD	119 (- 03)    63 (- 06) * CASH	89   (+ 01)</p>
+<p> NZD     -115 (+ 03)   -21 (+ 05) *</p>
+<p>---------------------------------------------------------</p>
+<p>The Australian/U.S. 10-year bond yield spread narrowed to its lowest level in over two years, but met resistance in pushing through 130 basis points this side of the Federal budget, due at 7.30 p.m. (0930 GMT).</p>
+<p>The domestic bond market topped up Monday's rally, pushing down yields to their lowest level since March 1994, as the market continued to price in a tough fiscal statement by Treasurer Peter Costello.</p>
+<p>Meanwhile, U.S. Treasuries softened on Monday ahead of today's U.S. Federal Open Market Committee meeting, although policy is widely expected to remain unchanged.</p>
+<p>The local market also outperformed the Canadian bond market, which was dragged lower by the U.S.</p>
+<p>However, the New Zealand/Australia spread narrowed slightly after N.Z. debt rallied strongly after the N.Z. government confirmed it was selling the state-owned Forestry Corporation from which its net proceeds will total NZ$1.6 billion with which to repay debt.</p>
+<p>-- Colin Brinsden 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

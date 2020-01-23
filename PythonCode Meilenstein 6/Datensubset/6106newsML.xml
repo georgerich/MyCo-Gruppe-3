@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6106" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexico stocks close higher despite protests.</title>
+<headline>Mexico stocks close higher despite protests.</headline>
+<dateline>MEXICO CITY 1996-08-21</dateline>
+<text>
+<p>Despite a rowdy protest that shut down floor trading for three hours, Mexican stocks closed at historic new highs on Wednesday as the combination of low interest rates, a strong peso and rosy economic sentiment continued to work their magic, traders said.</p>
+<p>The IPC index of leading stocks closed 0.31 percent or 10.58 points higher to 3,412.37 points, snapping Tuesday's record closing high of 3,401.79 points.</p>
+<p>&quot;It was a big success, really,&quot; one trader said. &quot;It's a shame we had this problem. Who knows would have happened otherwise?&quot;  </p>
+<p>About 200 student protesters and parents blocked the main entrances to the stock exchange building, scaring off traders and bolsa officials before the opening bell at 0830 local time/0930 EDT/1330 GMT. But then about 30 or 40 riot police cleared the way to a back door, allowing personnel to enter.</p>
+<p>Electronic trading began on time, but with barely any volume. When floor trading by open outcry finally began at 1130 local time/1230 EDT, stock prices soared.</p>
+<p>Within minutes, the IPC index peaked at 3,432.13 points, setting a new intraday standard, before gradually winding down in the afternoon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12435" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Mikuni assigns preliminary bond credit ratings.</title>
+<headline>Mikuni assigns preliminary bond credit ratings.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Mikuni and Co Ltd said on Friday it had assigned the following preliminary ratings to planned bond issues:</p>
+<p>-A-</p>
+<p>Toho Gas Co Ltd, 10 billion yen unsecured due 2001, 10 billion yen unsecured due 2006.</p>
+<p>-BB-</p>
+<p>CMK Corp, 15 billion yen unsecured convertible due 2005.</p>
+<p>Hankyu Corp, 10 billion yen unsecured due 2006.  </p>
+<p>-BB-</p>
+<p>Itochu Corp, 20 billion yen unsecured due 2001, 20 billion yen unsecured due 2003.</p>
+<p>Mizuno Corp, 20 billion yen unsecured convertible due 2001.</p>
+<p>Suntory Ltd, 10 billion yen unsecured due 2001.</p>
+<p>-B-</p>
+<p>Daidoh Ltd, seven billion yen unsecured convertible due 2005.  </p>
+<p>-CCC-</p>
+<p>Ube Industries Ltd, 20 billion yen unsecured convertible due 2005.</p>
+<p>20 billion yen convertible due 2008.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I49420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

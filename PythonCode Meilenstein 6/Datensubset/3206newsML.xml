@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3206" id="root" date="1996-08-20" xml:lang="en">
+<title>LITHUANIA: Yields slide further at Lithuania 91-day bill sale.</title>
+<headline>Yields slide further at Lithuania 91-day bill sale.</headline>
+<dateline>VILNIUS 1996-08-20</dateline>
+<text>
+<p>The average yield on 91-day Treasury bills in the Baltic state of Lithuania fell further at auction on Tuesday and demand remained high, the central bank said.</p>
+<p>Amounts are in millions of litas unless otherwise stated.</p>
+<p>  MATURITY   AV YLD (PCT)  (LAST WEEK)  MIN/MAX  ISSUE   BID</p>
+<p>  91-day	13.36	    18.24     11.5/14.5  55    131.14</p>
+<p>Settlement date for today's auction is August 23 and the bills mature on November 22.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VILNIUS"/>
+<dc element="dc.creator.location.country.name" value="LITHUANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10207" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: UPS to start five French feeder flights.</title>
+<headline>UPS to start five French feeder flights.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>United Parcel Service Inc of America, (UPS) said it will launch five, weekday feeder flights in France from September 10.</p>
+<p>&quot;Two of the flights will operate between our French hub at Paris-Charles de Gaulle Airport and Nantes and Strasbourg while the other three will operate between Lyon-Satolas Airport and Bordeaux, Toulouse and Nice,&quot; UPS International Engineering manager for France, Owen Phillips, told Reuters.</p>
+<p>Five two-tonne cargo capacity Beechcraft 1900 aircraft will operate on the new feeder routes, Phillips said.</p>
+<p>The aircraft are being leased from a French airline  whose identity UPS was not prepared to disclose, he added.</p>
+<p>&quot;Upgrading our airborne activities in France forms part of UPS' global strategy to meet the demands of overall growth of about 30 percent annually  in its international traffic in recent years.&quot;</p>
+<p>The five feeder flights will allow for later cut-off times in the five French conurbations in question  for export traffic and earlier deliveries for inbound shipments, he added.</p>
+<p>UPS currently serves Nantes, Strasbourg, Nice, Toulouse and Bordeaux by truck and also transports documents and small parcels on scheduled passenger flights operated by Air France Europe to these cities.</p>
+<p>The Beechcraft flights will leave the five provincial cities between 2030 and 2100 local time and feed into UPS' overnight Boeing 727 freighter services between CDG and its main European hub at Cologne and Lyon-Satolas and Cologne, Phillips said.</p>
+<p>On the return legs, the flights will leave CDG for Nantes and Strasbourg and Lyon for Bordeaux, Toulouse and Nice at approximately 0600 to 0620 local. --Air Cargo Newsroom Tel +44-171-542-7706 Fax +44=171-542-5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

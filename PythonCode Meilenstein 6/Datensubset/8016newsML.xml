@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8016" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: UK Q2 engineering turnover rose 0.6 pct.</title>
+<headline>UK Q2 engineering turnover rose 0.6 pct.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Total turnover of the UK's engineering industries in the second quarter of 1996 rose by 0.6 percent compared with the previous three months, the Office for National Statistics (ONS) said on Thursday.</p>
+<p>This was a result of a 2.9 percent increase in export turnover which more than offset a fall of 1.1 percent in home turnover. Compared to the same period a year ago, total turnover increased by 4.7 percent.</p>
+<p>Total orders on hand at the end of June fell by 2.0 percent compared with the end of Q1 and were 4.2 percent down on June 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

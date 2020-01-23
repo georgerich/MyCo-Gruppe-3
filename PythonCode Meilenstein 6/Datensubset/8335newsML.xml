@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8335" id="root" date="1996-08-22" xml:lang="en">
+<title>SWITZERLAND: PRESS DIGEST - Switzerland - August 22.</title>
+<headline>PRESS DIGEST - Switzerland - August 22.</headline>
+<text>
+<p>NEUE ZUERCHER ZEITUNG</p>
+<p>- The Swiss Federal Council supports the Swiss Federal Railway's management in its plan to cut employee's wages by 1.5 percent. If approved in Parliament, the cuts will be limited to three years and will not affect the four lowest wage groups.</p>
+<p>- Switzerland's &quot;Big Three&quot; banks - Union Bank of Switzerland, Swiss Bank Corporation and CS Holding posted profit rises of between 20 and 30 percent in the first six months of 1996.</p>
+<p>- The six-member Holocaust Commission, created to track down funds of Holocaust victims in Swiss banks, had their first meeting last week.</p>
+<p>- Stratec Holding, a medicine technology firm, posted a group profit of 41 percent to 18.3 million Swiss francs in the first-half of the year.</p>
+<p>TAGES ANZEIGER</p>
+<p>- Bobst Group boosted first-half turnover by 4.6 percent to 524 million Swiss francs.</p>
+<p>- UTC International AG in Basel intends to sell its majority stake in Jelmoli Holding AG.</p>
+<p>- Sunstar hotel group registered a loss of 570,000 Swiss francs for the 1995/96 fiscal year ending June, after a profit of 1.24 million francs the year before.</p>
+<p>JOURNAL DE GENEVE</p>
+<p>- The board of directors of Banque Piguet &amp; Cie appointed three new directors. The bank was taken over by Banque Cantonale Vaudoise at the start of the month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

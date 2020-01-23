@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5551" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Wind River Systems Inc Q2 full results.</title>
+<headline>Wind River Systems Inc Q2 full results.</headline>
+<dateline>ALAMEDA, Calif. 1996-08-21</dateline>
+<text>
+<p>WIND RIVER SYSTEMS, INC.</p>
+<p>			 CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>				(Unaudited)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					   July 31,	  July 31,</p>
+<p>					1996	1995    1996     1995</p>
+<p>(In thousands, except per share amounts)</p>
+<p>Revenues:</p>
+<p>  Product			 $10,700  $ 7,002$ 19,231 $ 13,034</p>
+<p>  Services			  4,300    3,098   8,369    5,766</p>
+<p>    Total revenues	     15,000   10,100  27,600   18,800</p>
+<p>Costs and expenses:</p>
+<p>  Cost of product		 1,246	749   2,335    1,423</p>
+<p>  Cost of services		1,744    1,233   3,305    2,420</p>
+<p>  Selling and marketing	 5,767    4,234  10,906    8,169</p>
+<p>Product development and</p>
+<p>    engineering		   1,913    1,332   3,508    2,567</p>
+<p>  General and administrative  1,133	819   2,151    1,575</p>
+<p>    Total cost and expenses  11,803    8,367  22,205   16,154</p>
+<p> Operating income		 3,197    1,733   5,395    2,646</p>
+<p>Other income (expense):</p>
+<p>  Interest income		   263	196     464	388</p>
+<p>  Interest expense		  (8)     (11)    (19)     (24)</p>
+<p>Minority interest in</p>
+<p>consolidated subsidiary</p>
+<p>   and other			 (62)	 28    (60)	 11</p>
+<p>    Total other income	    193	213     385	375</p>
+<p> Income before income taxes   3,390    1,946   5,780    3,021</p>
+<p> Provision for income taxes   1,300	739   2,220    1,148</p>
+<p>    Net income		    2,090    1,207   3,560    1,873</p>
+<p> Net income per share	    0.13     0.08    0.22     0.12</p>
+<p>Weighted average common</p>
+<p>and common equivalent shares</p>
+<p>   outstanding		   16,485   15,456  16,239   15,261</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8307" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PhyMatrix buys rest of Physician's Choice.</title>
+<headline>PhyMatrix buys rest of Physician's Choice.</headline>
+<dateline>WEST PALM BEACH, Fla. 1996-08-22</dateline>
+<text>
+<p>PhyMatrix Corp, a physician practice management company, said it had acquired the remaining ownership interest in Physician's Choice Management LLC.</p>
+<p>The company said in a Wednesday statement PhyMatrix had purchased a 43.75 percent interest in Physician's Choice in December 1995. Terms were not disclosed.</p>
+<p>Physician's Choice is the largest physician-run management services organization in Connecticut.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST PALM BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

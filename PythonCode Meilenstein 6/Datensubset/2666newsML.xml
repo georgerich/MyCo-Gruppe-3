@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2666" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: SOCCER-LITTLE GUINGAMP REACH UEFA CUP.</title>
+<headline>SOCCER-LITTLE GUINGAMP REACH UEFA CUP.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>Little Guingamp, who were in the French third division two years ago, reached the UEFA Cup by knocking out Russian side Rotor Volgograd in the Intertoto Cup on Tuesday.</p>
+<p>Guingamp, beaten 2-1 in the first leg of their third and final round tie, won the second leg match 1-0 before their home fans and qualified thanks to the away goal rule.</p>
+<p>Stephane Carnot scored the 75th minute winner direct from a corner kick.</p>
+<p>The match attracted a remarkable 12,000 crowd in Guingamp, a small town in Brittany with a population of only 8,000.</p>
+<p>Guingamp, who were promoted to the first division last season, became the eighth French club to qualify for this season's European club competitions.</p>
+<p>They will join Monaco, Metz, Lens and Montpellier in the UEFA Cup. Auxerre contest the Champions' League while Paris St Germain and Nimes play in the Cup Winners' Cup.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

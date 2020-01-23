@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3017" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Cerprobe revises terms of CompuRoute deal.</title>
+<headline>Cerprobe revises terms of CompuRoute deal.</headline>
+<dateline>TEMPE, Ariz. 1996-08-20</dateline>
+<text>
+<p>Cerprobe Corp said on Tuesday it had revised its letter of intent for the acquisition of CompuRoute Inc after the deal was delayed by the unexpected death of CompuRoute chief executive George Shrime.</p>
+<p>Cerprobe initially agreed to buy CompuRoute for 995,000 shares of Cerprobe common, which was trading on Tuesday up 5/8 at 10-3/8. The deal was to be accounted for as a pooling of interests.</p>
+<p>Under the revised terms, Cerprobe will buy CompuRoute for about $5.8 million cash, 400,000 shares of Cerprobe, and the assumption of $1 million in long-term debt.  </p>
+<p>Cerprobe said the deal will be accounted for as a purchase and is valued at about $11 million.</p>
+<p>It said it anticipates that the transaction will be completed in the fourth quarter.</p>
+<p>Cerprobe said, &quot;We expect CompuRoute product sales could increase our annual sales by approximately 25-30 percent.&quot;</p>
+<p>Cerprobe develops and manufactures products for testing integrated circuits and microelectronics components. CompuRoute designs and fabricates printed circuit boards and assemblies used in testing semiconductors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEMPE, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

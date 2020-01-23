@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11340" id="root" date="1996-08-23" xml:lang="en">
+<title>TURKEY: Turkey says killed 17 Kurd rebels in clashes.</title>
+<headline>Turkey says killed 17 Kurd rebels in clashes.</headline>
+<dateline>ANKARA 1996-08-23</dateline>
+<text>
+<p>Turkish troops have killed 17 Kurdish rebels in recent clashes in the southeast of the country, the state-run Anatolian news agency said on Friday.</p>
+<p>Two security officials and two state-paid village guards were killed in the fighting with Kurdistan Workers Party (PKK) guerrillas, the agency quoted the emergency rule governor's office as saying.</p>
+<p>Eight of the rebels were killed in Van province, five in Sirnak and four in Hakkari. The agency did not say when the clashes took place.</p>
+<p>More than 20,000 people have died in the PKK's 12-year-old fight for independence or autonomy in southeastern Turkey.</p>
+<p>Three people, including two village guards, died when a mine planted by PKK rebels exploded on a road in the southeast, Anatolian reported earlier.</p>
+<p>It said a taxi carrying the guards, members of a mostly Kurdish militia which fights the PKK, hit the mine in the province of Diyarbakir.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

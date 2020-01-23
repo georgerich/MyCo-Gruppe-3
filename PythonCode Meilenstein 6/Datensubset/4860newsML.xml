@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4860" id="root" date="1996-08-20" xml:lang="en">
+<title>SWITZERLAND: PRESS DIGEST - Switzerland - Aug 20.</title>
+<headline>PRESS DIGEST - Switzerland - Aug 20.</headline>
+<text>
+<p>NEUE ZUERCHER ZEITUNG</p>
+<p>- WWF Switzerland presented a report on the quality of the soil in Switzerland. The study said 12,000 square kilometers, about 30 percent of the total Swiss ground, was negatively affected by human civilisation.</p>
+<p>- Average annual working hours in Switzerland per employee were 1,633 hours in 1993. Compared with other OECD countries, Switzerland has the fourth lowest working hours, only beaten by Germany, Norway, and Sweden.</p>
+<p>- Swiss technology group Gurit-Heberlein said it raised turnover by nine percent to 304.6 million Swiss francs in the 1996 first half. Cash-flow rose 18 percent 27.8 million francs.</p>
+<p>- A study of the Federal Institute of Technology said that some 42,000 jobs will be directly or indirectly depending on gene technology in Switzerland by the year 2005.</p>
+<p>TAGES ANZEIGER</p>
+<p>- Swiss watch manufacturer SMH -- Swatch, Omega etc -- reported a seven percent rise in turnover in the 1996 first half.</p>
+<p>Chairman N. Hayek said in an interview that he expected an 18 percent increase in net profit for 1996.</p>
+<p>- Swiss group Biber sold British paper group John Dickinson to the British group David S. Smith.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

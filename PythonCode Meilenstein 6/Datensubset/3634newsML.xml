@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3634" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Canandaigua City SD, N.Y. Canandaigua Ntl Bank.</title>
+<headline>Canandaigua City SD, N.Y. Canandaigua Ntl Bank.</headline>
+<text>
+<p>AMT: 1,180,000	DATE: 08/20/96	NYC Time: 1400	CUSIP: 137177</p>
+<p>ISSUER: Canandaigua City School District			  ST: NY</p>
+<p>ISSUE: School district serial 1996				 TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 08/30/96							     SURE BID: N</p>
+<p>DUE: 6/15/97-98					     SR MGR: Canandaigua Ntl Bk.</p>
+<p>1ST CPN: 06/15/97					   DOLLAR BID: NA</p>
+<p>CALL: Non-Callable					  CPN 4.09</p>
+<p>DELIVERY: 8/30/96 approx				  ORDERS: NA</p>
+<p>PAYING AGENT: School District Treasurer's Office, Canandaigua</p>
+<p>L.O.: Willkie Farr &amp; Gallagher, NYC</p>
+<p>F.A.: David E. Allardice, Canandaigua</p>
+<p>LAST SALE: $1,445,000 8/24/93 @ 4.1760% NIC; 5yrs 10mos avg; BBI- 5.40%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    590,000     4.090	 NRO		  NRO</p>
+<p>1998		    590,000     4.090	 NRO		  NRO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

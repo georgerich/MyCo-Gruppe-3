@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11878" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Powell Industries Q3 loss vs profits.</title>
+<headline>Powell Industries Q3 loss vs profits.</headline>
+<dateline>HOUSTON 1996-08-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.23   profit	 $0.14</p>
+<p> Net loss		   2,460   profit	 1,438</p>
+<p> Revs			45,838		   34,587</p>
+<p> Avg shrs		  10,759		   10,543</p>
+<p>	  9  MONTHS</p>
+<p> Shr			  $0.17		    $0.35</p>
+<p> Net			  1,866		    3,699</p>
+<p> Revs		     128,320		   97,464</p>
+<p> Avg shrs		  10,747		   10,532</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

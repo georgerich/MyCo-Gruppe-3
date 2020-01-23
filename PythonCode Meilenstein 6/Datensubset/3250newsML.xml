@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3250" id="root" date="1996-08-20" xml:lang="en">
+<title>ROMANIA: Bucharest shares higher, turnover slips.</title>
+<headline>Bucharest shares higher, turnover slips.</headline>
+<dateline>BUCHAREST 1996-08-20</dateline>
+<text>
+<p>Strong demand took most Bucharest share prices higher at the week's first trading session on Tuesday, brokers said.</p>
+<p>However, overall turnover fell to 98.4 million lei from 124.8 million previously.</p>
+<p>&quot;We forecast a turnover figure close to the previous level, expecting Azomures to trade heavily on the back of its fine half-year economic results but for some reason bigger investors stayed away,&quot; said a trader.</p>
+<p>Azomures SA state fertiliser maker took 70 percent of total turnover, but the number of shares which changed hands dropped to 5,508 from 7,679. It closed 900 lei weaker at 12,300.</p>
+<p>&quot;Considering the number of shares traded, Artrom did better than Azomures today, but turnover from Artrom trading remains low, due to the low price of its shares,&quot; another trader said.</p>
+<p>State engineering company Artrom SA had 5,757 shares traded on Tuesday, when it closed slightly higher at 2,650 lei.</p>
+<p>The unofficial VAB Index -- a value-weighted index of all stocks computed by  Vanguard SA securities -- was 1.28 percent higher than the previous session, closing at 362.8 points. Its base was 1,000 points when it was created last November.</p>
+<p>	    Aug 20   Aug 15   Week's change  1996 high  1996 low</p>
+<p>VAB-Index 362.8    358.23     +9.9	    879.29     297.12</p>
+<p>($1=3,156 lei)</p>
+<p>-- Luli Popescu, Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

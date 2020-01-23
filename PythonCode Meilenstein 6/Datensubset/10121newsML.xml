@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10121" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Manila to sell less one-year Treasury bills.</title>
+<headline>Manila to sell less one-year Treasury bills.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>The Philippine Bureau of Treasury said on Thursday it will reduced the amount of one-year Treasury bills it offers at its regular Monday auctions.</p>
+<p>It said in a statement that from Monday August 26 it will reduce its one-year offering to 2.5 billion pesos from 3.5 billion.</p>
+<p>The total weekly offering will remain at 6.0 billion pesos, however. The amount of three-month bills will be increased to 1.5 billion pesos from 1.0 billion and the six-month bills will go to 2.0 billion pesos from 1.5 billion.</p>
+<p>The statement gave no explanation for the move and Treasury officials were not immediately available for comment.</p>
+<p>--Manila newsroom (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

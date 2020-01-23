@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4833" id="root" date="1996-08-20" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Aug 20.</title>
+<headline>PRESS DIGEST - Morocco - Aug 20.</headline>
+<dateline>RABAT 1996-08-20</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- King Hassan to deliver speech on 43rd anniversary of the revolution of the king and the people marking Morocco's fight against French protectorate.</p>
+<p>- Tunisian Prime Minister expected in Morocco soon.</p>
+<p>LE QUOTIDIEN DU MAROC</p>
+<p>- Referendum over split of parliament into two chambers might be held mid-September.</p>
+<p>BAYANE-AL-YOUM</p>
+<p>- What is the point of arresting and sentencing drug traffickers in absence of global strategy?.</p>
+<p>AL-ANBAA</p>
+<p>- King Hassans pardons 570 prisoners and commutes sentences of 22 others, on day marking the 43rd anniversary of the revolution of the king and the people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

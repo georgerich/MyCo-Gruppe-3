@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3756" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: NYS unemployment rate rises to 6.6 pct in July.</title>
+<headline>NYS unemployment rate rises to 6.6 pct in July.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>New York State on Tuesday said its unemployment rate rose to 6.6 percent in July, up 0.5 percentage point from June, but the increase, as well as a drop in jobs, were attributed to the usual seasonal decline.</p>
+<p>&quot;Each year, the job count declines in July because of huge summer staff reductions at public and private schools,&quot; said Thomas Rodick, director of the Division of Research and Statistics at the state Labor Department.</p>
+<p>He added that the unemployment rate in turn was pushed higher by students seeking jobs. The year-ago unemployment rate for the state was slightly lower at 6.4 percent.</p>
+<p>New York State continues to lag the nation, which had a lower overall unemployment rate of 5.6 percent in July.</p>
+<p>In July 1996, the state's total number of nonfarm jobs fell 95,000 to 7,929 million. This was in line with similar decreases seen during this period for the past 10 years. In the private sector, the jobs total dropped 39,600.</p>
+<p>Unemployment in New York City shot up 0.6 percentage point to 9.1 percent in July, exceeding the year-ago level of 8.4 percent.</p>
+<p>And the eight counties in the New York area also underpeformed the rest of the state in July, as the unemployment rate rose 0.6 percentage point to 8.4 percent, while shedding 35,100 jobs.</p>
+<p>Rochester had the lowest unemployment rate in the state at 4.3 percent, a 0.3 percentage point increase from June, while jobs fell by 10,500.  </p>
+<p>The Labor Department offered the following breakdown of the industries that achieved gains in jobs and those with losses.</p>
+<p>GAINS</p>
+<p>--Services, up 71,300</p>
+<p>--Retail trade, up 17,300</p>
+<p>--Construction, up 7,400</p>
+<p>--Wholesale trade, up 5,000</p>
+<p>--Transportation and public utilities, up 1,700</p>
+<p>LOSSES</p>
+<p>--Mining, down 500</p>
+<p>--Durable goods manufacturing, down 600</p>
+<p>--Finance, insurance and real estate, down 1,300</p>
+<p>--Nondurable goods manufacturing, down 10,000</p>
+<p>--Government, down 26,000</p>
+<p>Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2615" id="root" date="1996-08-20" xml:lang="en">
+<title>SWEDEN: Saab says Chile mulling JAS fighter.</title>
+<headline>Saab says Chile mulling JAS fighter.</headline>
+<dateline>STOCKHOLM 1996-08-20</dateline>
+<text>
+<p>Saab Military Aircraft, part of the Investor-owned Saab group, said on Tuesday that Chile had requested information on its JAS 39 Gripen fighter as a prelude to a possible tender procedure.</p>
+<p>&quot;The request for information is the first stage in a selection procedure among possible aircraft,&quot; Saab Military Aircraft spokeswoman Pia Fores told Reuters.</p>
+<p>Other possible choices are likely to be the American F-16 and F-18, the French Mirage 2000/5 and possibly a Russian aircraft, the Mig-29, Fores said.</p>
+<p>The next step in the process would be a Chilean request for tenders from the manufacturer it selects, she added.</p>
+<p>&quot;Some time in 1998, Chile will decide whether the country is to buy new fighters, and if so, which. It could be a matter of around 15 planes in the first round,&quot; Fores said.</p>
+<p>She added it was too early to comment on how the financing of the purchase would be structured.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

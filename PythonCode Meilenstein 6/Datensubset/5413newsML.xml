@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5413" id="root" date="1996-08-21" xml:lang="en">
+<title>NETHERLANDS: SOCCER-MUSAMPA BECOMES FIRST AJAX PLAYER TO SCORE AT NEW HOME.</title>
+<headline>SOCCER-MUSAMPA BECOMES FIRST AJAX PLAYER TO SCORE AT NEW HOME.</headline>
+<dateline>AMSTERDAM 1996-08-21</dateline>
+<text>
+<p>Kiki Musampa went down in history as the first man to score for Ajax in the team's new stadium on Wednesday.</p>
+<p>Ajax, playing in the new, 51,000-seater Amsterdam Arena, started the league season well with a 1-0 win over NAC Breda, thanks to Musampa's goal in the 82nd minute, from a pass from Nordin Wooter.</p>
+<p>The Amsterdam side had played two just friendlies in the new stadium before the season opened but lost 3-0 both times, to AC Milan and PSV Eindhoven.</p>
+<p>Pre-season injuries had depleted Ajax, with strikers Jari Litmanen and Marc Overmars and defenders Marcio Santos and Winston Bogarde unable to play.</p>
+<p>Striker Patrick Kluivert was back after injury but he lacked match fitness and missed several chances.</p>
+<p>In the final minute NAC came close to equalising but a Graham Arnold header just missed the Ajax goal.</p>
+<p>Ajax's main rivals PSV play on Thursday against NEC Nijmegen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

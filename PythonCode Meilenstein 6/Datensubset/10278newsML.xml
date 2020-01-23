@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10278" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH AFRICA: S.African shares end firmer after upbeat trade.</title>
+<headline>S.African shares end firmer after upbeat trade.</headline>
+<dateline>JOHANNESBURG 1996-08-23</dateline>
+<text>
+<p>Improved market sentiment helped South African shares shake off some of the gloom seen earlier in the week but dealers cautioned that it was too early to talk about a turn in sentiment.</p>
+<p>Shares across-the-board ended firmer on a combination of futures-related activity and institutional &quot;nibbling,&quot; traders said, but institutions had not been involved in any big buying programmes.</p>
+<p>The industrial index ended 52.2 points higher at 7.733.8, the gold index lifted 36.4 points to 1,740.2 and the all share index was up 85.2 points at 6,564.2.</p>
+<p>Traders said industrials had been buoyed by a stronger rand and perceptions that Reserve Bank governor Chris Stals was now unlikely to move on hiking interest rates after spectulators failed to push the rand above the 4.58 level on the dollar this week.</p>
+<p>The better mood also filtered through to the gold board after steady declines during the week, dealers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

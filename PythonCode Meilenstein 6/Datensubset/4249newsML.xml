@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4249" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Pioneer Financial redeems 8 pct debentures.</title>
+<headline>Pioneer Financial redeems 8 pct debentures.</headline>
+<dateline>SCHAUMBURG, Ill. 1996-08-20</dateline>
+<text>
+<p>Pioneer Financial Services Inc, a national health and life insurer, said Tuesday it completed redemption of all of its outstanding eight percent convertible subordinated debentures due 2000.</p>
+<p>More than $9 million of the $9.125 million outstanding debentures were converted to Pioneer Financial Services common stock.</p>
+<p>Conversions of the debentures to Pioneer Financial Services common stock will not be dilutive to the company's fully diluted earnings per share since they have already been included in the company's calculation, it said in a statement.</p>
+<p>	  Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCHAUMBURG, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

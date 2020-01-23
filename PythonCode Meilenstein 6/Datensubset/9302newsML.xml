@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9302" id="root" date="1996-08-22" xml:lang="en">
+<title>ARGENTINA: Argentine bonds slip on impatience with measures.</title>
+<headline>Argentine bonds slip on impatience with measures.</headline>
+<dateline>BUENOS AIRES 1996-08-22</dateline>
+<text>
+<p>Argentine bonds slipped further Thursday on increasing impatience with political inaction over the budget deficit.</p>
+<p>&quot;The market wants action, not words,&quot; said a bond analyst at a large foreign bank in Buenos Aires.</p>
+<p>The 5.5 percent dollar-denominated Bocon Previsional 2 due 2001 fell $0.25 to 114.25. Argentina's FRB due 2005 was unchanged at 76-5/8.</p>
+<p>The market's growing concern is that the austerity measures including tax increases unveiled a couple of weeks ago will not be passed in full by Congress.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

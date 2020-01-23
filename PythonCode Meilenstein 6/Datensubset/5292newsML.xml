@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5292" id="root" date="1996-08-21" xml:lang="en">
+<title>DENMARK: Danish Aarhus Olie H1 '96 profit declines.</title>
+<headline>Danish Aarhus Olie H1 '96 profit declines.</headline>
+<dateline>COPENHAGEN 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>					  (million crowns unless stated)</p>
+<p> Net result after minorities	 26  vs  36</p>
+<p> Group pre-tax result		  42  vs  48</p>
+<p> Group net turnover     1.838 billion  vs  1.751 billion</p>
+<p>NOTE - Full name of Danish producer of vegetable oils and ingredients for margarine, chocolate, cosmetics, pharmaceutical products and soap is Aarhus Oliefabrik A/S. It said in a statement that it expected a full year 1996 result at the same level or slightly lower than 1995's net profit of 89 million crowns.</p>
+<p>--Chris Follett, Copenhagen newsroom, 45-33-969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

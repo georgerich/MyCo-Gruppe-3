@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10144" id="root" date="1996-08-22" xml:lang="en">
+<title>THAILAND: TRIS lowers Int'l Engineering rating.</title>
+<headline>TRIS lowers Int'l Engineering rating.</headline>
+<dateline>BANGKOK 1996-08-22</dateline>
+<text>
+<p>Thai Ratings and Information Services (TRIS) said on Thursday it had downgraded to BBB from BBB+ its rating for International Engineering Plc's 1.2 billion baht in convertible debentures, reflecting lower cash flow.</p>
+<p>&quot;The new rating reflects IEC's lower-than-expected cash inflow resulting in a distressed financial profile,&quot; TRIS said.</p>
+<p>IEC has recently suffered some financial difficulty as a digital mobil phone system service provider of Total Access Communication Plc. IEC recorded a significant loss due to a slower-than-expected digital market, TRIS said.</p>
+<p>TRIS said the firm's rating was likely to improve after it reorganises and sets up a subsidiary Wirelss Communications Service Co Ltd, in which it will initially hold 55 percent.</p>
+<p>IEC will concentrate on trading cellular telephone hand sets and customer service while leaving network operations to Wireless Communications Service.</p>
+<p>&quot;IEC stands to benefit from this because it will share a certain percentage of airtime revenue from (Wireless Comminications) without the investment burden. This eases its financial position and ensures its future earnings,&quot; TRIS said.</p>
+<p>TRIS said it expected IEC's financial position to improve from 1998 onwards.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

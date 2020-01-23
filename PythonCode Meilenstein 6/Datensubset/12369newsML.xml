@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12369" id="root" date="1996-08-23" xml:lang="en">
+<title>BURMA: Burma raids heroin refineries, seizes chemicals.</title>
+<headline>Burma raids heroin refineries, seizes chemicals.</headline>
+<dateline>RANGOON 1996-08-23</dateline>
+<text>
+<p>Burmese officials have uncovered four heroin refineries and seized a large amount of chemicals used to produce drugs on the nation's border with China, official media reported on Friday.</p>
+<p>&quot;A combined anti-drug enforcement team comprising army members, Defence Services Intelligence agents and police seized chemicals used for refining heroin,&quot; state-run newspapers said.</p>
+<p>The reports said authorities, acting on a tip-off, raided refineries in a ravine near Shao Phan Village in Kutkai Township, about 1,045 km (650 miles) northeast of Rangoon.</p>
+<p>The combined forces launched the operation on August 7 and seized four refineries, 39 huts and a large amount of chemicals used to convert opium into heroin, as well as 20 gallons of raw opium liquid.</p>
+<p>The seized chemicals were destroyed, the newspapers said.</p>
+<p>Burma is the world's largest source of illegal opium and its more refined derivative, heroin.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANGOON"/>
+<dc element="dc.creator.location.country.name" value="BURMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

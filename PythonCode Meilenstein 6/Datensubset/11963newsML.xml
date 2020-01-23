@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11963" id="root" date="1996-08-23" xml:lang="en">
+<title>ITALY: Italians smoke less and shun fast food.</title>
+<headline>Italians smoke less and shun fast food.</headline>
+<dateline>ROME 1996-08-23</dateline>
+<text>
+<p>Italians prefer home cooking to hamburgers and, despite a national love of tobacco and wine, are smoking and drinking less than ever before, the national statistics institute Istat said in a report on Friday.</p>
+<p>Its survey, carried out among 20,000 families, said 12 million Italians over the age of 14, equivalent to 25.1 percent of the population, were regular cigarette smokers against 13 million in 1991 and 14.5 million in 1983.</p>
+<p>Wine consumption was declining with 57.1 percent drinking it against 59.7 percent in 1983. Nearly a third of people in a land that produces wines like Barolo and Chianti said they never touched alcohol.</p>
+<p>Italians prefer old-fashioned home cooking to fast food, with 84 percent returning home for lunch, their main meal of the day. Just over 90 percent said they ate bread, pasta or rice every day while 83.3 percent had fruit.</p>
+<p>Almost half of those polled said they felt &quot;in excellent condition.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

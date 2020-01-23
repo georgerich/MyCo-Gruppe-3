@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10085" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Unico Leasing -6mth parent results.</title>
+<headline>Unico Leasing -6mth parent results.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 15.06		vs	   13.95</p>
+<p> Operating	  469    million    vs	  450    million</p>
+<p> Current	    453    million    vs	  394    million</p>
+<p> Net		  204    million    vs	  166    million</p>
+<p> EPS		   32.03 yen	  vs	   30.11 yen</p>
+<p> Shares		7 million	  vs	   6 million</p>
+<p> Interim div	  3.00 yen	  vs	     nil</p>
+<p>NOTE - Unico Leasing Co Ltd is the full company name.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

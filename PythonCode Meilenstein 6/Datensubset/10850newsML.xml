@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10850" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Bollinger Industries Inc Q1 loss.</title>
+<headline>Bollinger Industries Inc Q1 loss.</headline>
+<dateline>DALLAS 1996-08-23</dateline>
+<text>
+<p>Period ended June 30.</p>
+<p>		    in thousands except per share amounts</p>
+<p>						    1996		1995</p>
+<p> NET SALES				   $ 22,434	  $ 12,762</p>
+<p> LOSS FROM CONTINUING OPERATIONS	  (765)	     (703)</p>
+<p>LOSS FROM DISCONTINUED OPERATIONS</p>
+<p>   (NET OF INCOME TAX EFFECT)		  --	     (292)</p>
+<p> NET LOSS					 (765)	     (995)</p>
+<p>PER SHARE DATA:  LOSS FROM CONTINUING OPERATIONS	 (0.19)	    (0.18)</p>
+<p> NET LOSS					(0.19)	    (0.25)</p>
+<p>WEIGHTED AVERGE COMMON AND COMMON</p>
+<p>   EQUIVALENT SHARES OUTSTANDING	  4,000	     3,971</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

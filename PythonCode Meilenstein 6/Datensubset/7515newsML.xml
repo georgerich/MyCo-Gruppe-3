@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7515" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: Buba revises German June industry orders to +1.8 [CORRECTED 08:55 GMT].</title>
+<headline>Buba revises German June industry orders to +1.8 [CORRECTED 08:55 GMT].</headline>
+<dateline>BONN 1996-08-21</dateline>
+<text>
+<p>The Bundesbank provided the following revised index figures:</p>
+<p> PAN-GERMAN INDUSTRY ORDERS	Jun 96	   May 96</p>
+<p> Month-on-month change(pct)	 +1.8 (+1.2)    -0.7</p>
+<p> Year-on-year (pct)		   +1.9 (+1.3)    -3.4</p>
+<p> Index (base 1991)		    98.3 (97.7)    96.5</p>
+<p>WEST GERMAN INDUSTRY ORDERS</p>
+<p> Month-on-month change(pct)	 +1.6 (+0.9)    -1.5</p>
+<p> Year-on-year (pct)		   +1.0 (+0.4)    -2.5</p>
+<p> Index (base 1991)		    96.3 (95.7)    94.8</p>
+<p>(Corrects figures for West German industry orders).</p>
+<p>EAST GERMAN INDUSTRY ORDERS</p>
+<p> Month-on-month change(pct)	 +5.2 ( +3.9)  +10.9</p>
+<p> Year-on-year (pct)		  +18.0 (+16.5)  -16.7</p>
+<p> Index (base 1991)		   145.6 (143.8)  138.4</p>
+<p>NOTE - Figures are seasonally adjusted. The percentage change figures are calculated by Reuters from the indices.</p>
+<p>Previously announced data in brackets.</p>
+<p>-- Bonn newsroom, 49-228-2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

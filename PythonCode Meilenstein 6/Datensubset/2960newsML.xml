@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2960" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Movie Star settles leasehold obligations.</title>
+<headline>Movie Star settles leasehold obligations.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Movie Star Inc said on Tuesday it has reached a settlement of all outstanding leasehold obligations with the landlord at its New York headquarters.</p>
+<p>The settlement will have no material impact on Movie Star's present financial condition, the company said.</p>
+<p>Movie Star said it agreed to pay the landlord, Madison Accessories Co, $800,000 for past and future rent obligations.</p>
+<p>During the second quarter of fiscal 1996, Movie Star established a $900,000 reserve on its balance sheet to cover costs related to its leasehold obligations, it said. The company said it had also written off $270,000 in leasehold improvements.</p>
+<p>The dispute over rent obligations developed last year after the company consolidated its corporate offices, Movie Star said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

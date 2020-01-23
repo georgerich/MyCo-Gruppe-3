@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9241" id="root" date="1996-08-22" xml:lang="en">
+<title>ROMANIA: Romania launches 500 bln lei treasury-bill issue.</title>
+<headline>Romania launches 500 bln lei treasury-bill issue.</headline>
+<dateline>BUCHAREST 1996-08-22</dateline>
+<text>
+<p>Romania's finance ministry said it would launch 500 billion lei worth of 91-day treasury bills to finance and refinance a part of 1995's budget deficit.</p>
+<p>It said the T-bills' annual yield will equal the three-month Bucharest Interbank Bid Rate (BUBID) set five days ahead of the public subscriptions scheduled for August 29, September 12, October 10 and October 24.</p>
+<p>Three-month BUBID rate was 50.11 percent on Thursday.</p>
+<p>The T-bills will be placed by the central bank and can be bought by banks and their corporate clients. -- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

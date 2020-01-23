@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4865" id="root" date="1996-08-20" xml:lang="en">
+<title>FRANCE: Aerospatiale reaffirms Dassault merger timetable.</title>
+<headline>Aerospatiale reaffirms Dassault merger timetable.</headline>
+<dateline>PARIS 1996-08-20</dateline>
+<text>
+<p>State-owned aerospace group SNI Aerospatiale reaffirmed on Tuesday it aimed to agree merger terms with warplane maker Dassault Aviation by the end of this year, as announced.</p>
+<p>An Aerospatiale spokeswoman, responding to an article in business daily La Tribune Desfosses, said, &quot;There is no question of doubting the timetable set by the government. The details will be agreed at the latest by December 31.&quot;</p>
+<p>The newspaper quoted Aerospatiale chairman Yves Michot as saying the new merged company could start life by mid-1997 at the earliest, after legal formalities were completed.</p>
+<p>A statement from Prime Minister Alain Juppe said on July 1 that the technical, financial and industrial aspects of the Aerospatiale-Dassault merger should be completed by January 1, 1997.</p>
+<p>The merger is aimed at creating a French national champion in defence and civilian aerospace with annual sales of 60 billion francs and paving the way for a European industrial consolidation.</p>
+<p>-- Paris newsrooom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

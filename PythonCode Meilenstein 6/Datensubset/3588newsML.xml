@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3588" id="root" date="1996-08-20" xml:lang="en">
+<title>MALAYSIA: Maybank says exposure to ailing firms &quot;very small&quot;.</title>
+<headline>Maybank says exposure to ailing firms &quot;very small&quot;.</headline>
+<dateline>KUALA LUMPUR 1996-08-20</dateline>
+<text>
+<p>Malayan Banking Bhd (Maybank), Malaysia's largest bank, said on Tuesday its exposure to troubled steel company Perwaja Steel and ailing Singapore property and trading company Amcol Holdings Ltd was insignificant.</p>
+<p>&quot;Yes, we have provided for Amcol and Perwaja (but) it is very small, insignificant compared to our profit,&quot; Maybank managing director Amirsham Abdul Aziz said.  </p>
+<p>&quot;We adopt a very conservative approach in our provisioning,&quot; he said, but declined to give details of the bank's loan provisions.</p>
+<p>Amirsham told a press conference to review Maybank's full-year financial results that he was confident Amcol and Perwaja would turn around.</p>
+<p>&quot;The provisions we make today...we may be able to take back as income later,&quot; he said.</p>
+<p>Earlier, Maybank reported a group net profit for the year ended June 30, 1996 of 1.07 billion ringgit, against 863.53 million ringgit in the previous year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

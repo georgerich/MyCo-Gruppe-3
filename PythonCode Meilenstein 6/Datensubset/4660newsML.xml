@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4660" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Tokyo naphtha up a touch reflecting crude rise.</title>
+<headline>Tokyo naphtha up a touch reflecting crude rise.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Naphtha prices rose a touch on Tuesday on the heels of gains in crude oil on the overnight market, traders said.</p>
+<p>First-half October open-spec naphtha was assessed bid at $196.50 and offered at $197.50, while second-half October was assessed bid and offered about one dollar lower.</p>
+<p>At least two naphtha deals were confirmed done overnight. A first-half October was traded at $196, while a first-half November exchanged hands at $193.50.</p>
+<p>Market indication for end-users was assessed at about MOPJ plus two to three dollars for second-half September.  </p>
+<p>The market was likely to absorb the roughly 4.0 million barrels of LSWR that Indonesia is believed to have allocated in August, although some of the barrels might be shifted for loading in September, traders said.</p>
+<p>Indonesia is expected to announce its LSWR allocation for September later this week.</p>
+<p>Taiwan's state-owned Chinese Petroleum Corp (CPC) has issued a tender to sell 225,000 to 250,000 barrels of 0.3 percent sulphur diesel for September 23-30 lifting. The tender closes on August 26.</p>
+<p>--Tokyo Commodities (81-3 5473-3706)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

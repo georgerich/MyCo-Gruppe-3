@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8761" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: NYMEX electricity ends mostly up with physicals.</title>
+<headline>NYMEX electricity ends mostly up with physicals.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>NYMEX electricity futures settled mostly higher, pushed upwards by higher physicals prices and a forecast for above-normal temperatures in the West, industry sources said.</p>
+<p>&quot;The over-the-counter and cash prices did have some effect,&quot; one futures broker said.</p>
+<p>September California-Oregon Border (COB) settled up 61 cents at $18.86 from trade in a range of $18.45-19.00, while October finished the day up 65 cents at $16.80 after trade in a range of $16.60-17.00 per megawatt hour (MWh).</p>
+<p>Remaining COB deferreds finished up between 10 and 55 cents.</p>
+<p>September Palo Verde (PV) was down nine cents to $20.95 after trade in a range of $20.30-21.18.</p>
+<p>Traders said the September dip may have been the result of weak natural gas prices in the Southwest.</p>
+<p>October PV ended 55 cents higher at $16.75, with most remaining PV deferreds ending up 20 cents.</p>
+<p>NYMEX said an estimated 223 COB contracts and 58 PV contracts traded.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

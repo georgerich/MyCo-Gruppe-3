@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6600" id="root" date="1996-08-21" xml:lang="en">
+<title>SRI LANKA: Sri Lanka rupee closes firmer vs dollar.</title>
+<headline>Sri Lanka rupee closes firmer vs dollar.</headline>
+<dateline>COLOMBO 1996-08-21</dateline>
+<text>
+<p>The Sri Lanka rupee closed firmer at 55.74 to the dollar on Wednesday after opening at 55.78, dealers said.</p>
+<p>&quot;There was no import covering,&quot; said a foreign bank dealer. &quot;It was mostly speculation.&quot;</p>
+<p>The central bank left the exchange rate unchanged with buying and selling prices at 55.3336 and 56.4514 despite slight overseas gains by the currency against the yen, they said.</p>
+<p>Overnight call money was at 14 percent after opening at 13.5, they said.</p>
+<p>--Colombo newsroom tel 941-434319</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3801" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Paracelsus sets rights plan.</title>
+<headline>Paracelsus sets rights plan.</headline>
+<dateline>HOUSTON 1996-08-20</dateline>
+<text>
+<p>Paracelsus Healthcare Corp and Champion Healthcare Corp, which recently merged, said on Tuesday in a joint statement that Paracelsus set up a rights plan assure minority shareholders are protected from unfair takeover tactics.</p>
+<p>The company issued shareholder rights that would make it expensive for a company to make a bid or a partial tender offer without negotiating with the board, Paracelsus said.</p>
+<p>The rights, which were issued in the form of a dividend on August 16, 1996, go into effect if 25 percent or more of the voting control of the company changes hands without board approval, Paracelsus treasurer Deborah Frankovich said.</p>
+<p>Paracelsus said it has entered a standstill agreement with Park Hospital GmbH, a corporation owned by Paracelsus chairman Dr. Manfred George Krukemeyer, that sets transfer restrictions on Paracelsus voting securities and an obligation for Park Hospital to support certain acquisition proposals involving Paracelsus.</p>
+<p>Park Hospital has the right to designate four of nine nominees to the Paracelsus Board and a right of first refusal in connection with certain acquisition proposals, Paracelsus said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

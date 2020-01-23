@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10708" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Dirty tanker fixtures and enquiries - 2211 GMT.</title>
+<headline>Dirty tanker fixtures and enquiries - 2211 GMT.</headline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>FIXTURES -</p>
+<p>- MIDEAST/RED SEA</p>
+<p>Crown Jewel 255 11/9 Mideast/east W61 Texaco.</p>
+<p>- WESTERN HEMISPHERE</p>
+<p>Mint Prosperity 70 2/9 Covenas/Trinidad $255,000 Petrolea.</p>
+<p>United Will 50 fuel oil 30/8 Amuey/Brazil W160 Petrobras. (update rate)</p>
+<p>Almanama 76 7/9 PLC/USG rnr Clark.</p>
+<p>- WEST AFRICA</p>
+<p>Sunda 130 9/10 WAF/Spain W92.5 Cepsa.</p>
+<p>- UK/CONT</p>
+<p>Sea Lion I 55 5/9 Slagen/Milazzo W127.5 Exxon.</p>
+<p>-- New York Commodity Desk, 212 859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

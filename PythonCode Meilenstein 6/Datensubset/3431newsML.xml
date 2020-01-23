@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3431" id="root" date="1996-08-20" xml:lang="en">
+<title>NICARAGUA: Nicaraguan parliament rejects election postponement.</title>
+<headline>Nicaraguan parliament rejects election postponement.</headline>
+<dateline>MANAGUA, Nicaragua 1996-08-19</dateline>
+<text>
+<p>Nicaragua's National Assembly on Monday rejected a proposed election reform that would have postponed the Oct. 20 presidential elections by two weeks.</p>
+<p>In a letter sent to legislators, Vice-Secretary of the National Assembly Jaime Bonilla said under the constitution the reform could not be passed by the current parliament, and needed to wait until the next legislature is formed.</p>
+<p>The rejected bill contained six election reforms, including the postponement of the election till Nov. 3, 1996.</p>
+<p>A group of presidential candidates for small parties, led by Alfredo Cesar of the UNO '96 Alliance, had proposed postponing the elections after the government failed to give the parties their campaign funding by the legal deadline.</p>
+<p>The parties received the first instalment of their campaign money two weeks after the start of the election campaign.</p>
+<p>The smaller parties argued the delay put them at a disadvantage, and had been engineered by the Liberal Alliance, the right-wing party headed by Arnoldo Aleman that is ahead in the polls.</p>
+<p>&quot;This was a political game. Here are the interests of the Liberal Alliance who don't want anyone else to be able to lift their head to threaten them,&quot; one of the bill's sponsors, conservative presidential candidate Miriam Arguello, told reporters.</p>
+<p>But the reforms were opposed by powerful groups in Nicaragua, including President Violeta Chamorro, the two leading political parties, the Catholic Church and most international observer groups, who argued postponing the election date would hurt the vote's credibility.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NICG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAGUA, Nicaragua"/>
+<dc element="dc.creator.location.country.name" value="NICARAGUA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

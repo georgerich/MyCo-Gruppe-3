@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6284" id="root" date="1996-08-21" xml:lang="en">
+<title>CHINA: Shanghai copper ends down on high output.</title>
+<headline>Shanghai copper ends down on high output.</headline>
+<dateline>SHANGHAI 1996-08-21</dateline>
+<text>
+<p>Shanghai copper futures ended down in active trading on Wednesday, on expectations of higher copper output and imports and overnight losses on the London Metal Exchange, traders said.</p>
+<p>The most active December 1996 contract ended at 20,500 yuan ($2,468) per tonne, down 140 yuan. It opened at 20,520 yuan, hitting an intra-day high of 20,550 and a low of 20,450.</p>
+<p>September fell 80 to 21,000 yuan, October 110 to 20,740, November 50 to 20,550, the January 1997 contract 150 to 20,490 and February 160 to 20,500.</p>
+<p>Combined volume rose sharply to 24,345 tonnes from 6,095.  </p>
+<p>&quot;Some institutions supported copper at around the 20,500 level today but will be helpless if copper on the LME stays at the $1,900 level,&quot; he added. Analysts said the technical rebound of the past few weeks was not strong enough to push contracts above 21,000 yuan.</p>
+<p>&quot;Fundamentals and technical charts show that copper has more room to fall than to rise,&quot; a analyst said.</p>
+<p>Aluminium ended little changed. September closed unchanged at 14,650 yuan, October rose 100 to 14,400 and November unchanged at 14,350.</p>
+<p>Combined volume rose to 220 tonnes from 75.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

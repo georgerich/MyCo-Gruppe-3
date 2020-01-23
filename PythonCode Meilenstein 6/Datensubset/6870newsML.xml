@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6870" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Hurco Cos Inc Q3 July 31 net rises.</title>
+<headline>Hurco Cos Inc Q3 July 31 net rises.</headline>
+<dateline>INDIANAPOLIS 1996-08-21</dateline>
+<text>
+<p>Three Months	 Nine Months</p>
+<p>					 1996     1995     1996    1995</p>
+<p> Sales			     $23,039 $22,764  $72,358 $62,323</p>
+<p>Operating income (loss)</p>
+<p>   before interest		 1,765   1,428    5,059   2,613</p>
+<p>Interest and other non-</p>
+<p>   operating items, net	    758   1,000    2,422   2,897</p>
+<p> Net income (loss)		   957     428    2,554   (284)</p>
+<p>Earnings (loss) per common</p>
+<p>   share				 .16     .08	.45   (.05)</p>
+<p>Weighted average common</p>
+<p>   shares outstanding	    5,920   5,518    5,679   5,417</p>
+<p>		   (in thousands, except per-share data)</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

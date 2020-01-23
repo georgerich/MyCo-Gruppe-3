@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9721" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: French robbers grab $4 million jewels from Saudis.</title>
+<headline>French robbers grab $4 million jewels from Saudis.</headline>
+<dateline>NICE, France 1996-08-22</dateline>
+<text>
+<p>Robbers grabbed jewels worth 20 million francs ($4 million) from a car taking three Saudi women to the French Riviera resort of Antibes, police said on Thursday.</p>
+<p>The robbers drove across the path of the women's car, forcing it to a stop. One of them snatched the ignition keys while another grabbed a small suitcase containing the jewels from the back seat.</p>
+<p>The ambush, on Wednesday night, occurred shortly after the Saudis had landed at Nice from London and as they were nearing their villa in the exclusive Cap d'Antibes resort.</p>
+<p>Investigators believe the robbers followed the women from the airport.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

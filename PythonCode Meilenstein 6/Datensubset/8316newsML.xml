@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8316" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Farah Q3 shr profit $0.67 vs loss $0.50.</title>
+<headline>Farah Q3 shr profit $0.67 vs loss $0.50.</headline>
+<dateline>EL PASO, Texas 1996-08-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	 profit     $  0.67     loss	$ 0.50</p>
+<p> Net	 profit	 6,887     loss	 5,115</p>
+<p> Revs			55,973		   60,865</p>
+<p> Avg shrs		  10,235		   10,131</p>
+<p>	  NINE MONTHS</p>
+<p> Shr	 profit     $  0.56     loss     $  1.01</p>
+<p> Net	 profit	 5,722     loss	10,202</p>
+<p> Revs		     171,541		  167,596</p>
+<p> Avg shrs		  10,182		   10,117</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: Farah Inc recorded a pre-tax gain of $9.3 million in 1996 net income from sale of a plant. Without the gain, the company would have reported pre-tax income of $103,000 for 1996's third quarter and a pre-tax loss of $693,000 for the nine-month period in 1996. Periods ended on Aug 4.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL PASO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

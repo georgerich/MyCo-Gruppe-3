@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12031" id="root" date="1996-08-23" xml:lang="en">
+<title>SPAIN: Spanish June retail sales rose 5.92 pct yr/yr -INE.</title>
+<headline>Spanish June retail sales rose 5.92 pct yr/yr -INE.</headline>
+<dateline>MADRID 1996-08-23</dateline>
+<text>
+<p>Spanish retail sales data for June, according to the National Statistics Institute INE.</p>
+<p>				JUN 96	 VS MAY 96    VS JUN 95</p>
+<p> General index	    102.83	 up 0.92 pct  up 5.92 pct</p>
+<p> Food			 105.75	    0.39	   4.08</p>
+<p> Personal goods	   102.68	   -1.94	  10.58</p>
+<p> Household goods	  100.36	    5.09	   5.01</p>
+<p> Other consumer goods    95.11	    1.80	   7.80</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

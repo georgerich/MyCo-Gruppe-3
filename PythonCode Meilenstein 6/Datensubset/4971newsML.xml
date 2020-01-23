@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4971" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Mexican stocks trade despite protest.</title>
+<headline>Mexican stocks trade despite protest.</headline>
+<byline>Karina Balderas</byline>
+<dateline>MEXICO CITY</dateline>
+<text>
+<p>About 200 people blocked the main entrance to the Mexican Stock Exchange Wednesday to protest the country's education policies, slowing but not halting trading at Latin America's second-biggest exchange.</p>
+<p>The action was the latest in a string of protests by parents of students seeking to continue their education beyond the high school level. The demonstrations have snarled traffic, blocked streets and caused other disruptions in this city of 20 million people.</p>
+<p>The demonstrators gathered outside the exchange on the central boulevard of Reforma early in the morning, halting traffic and blocking traders from entering the exchange, witnesses said.</p>
+<p>But the traders, with the market running near record levels, managed to sneak in through underground parking lots and emergency exits.</p>
+<p>&quot;About 30 of us went in, in a kind of buffalo charge, through the parking lot after the police opened a barrier for us,&quot; one trader with brokerage Santander told Reuters. &quot;Some others got in through the emergency exit door.&quot;</p>
+<p>An exchange spokeswoman confirmed that traders had entered through the parking lot and fire doors.</p>
+<p>The protest delayed the start of traditional &quot;open outcry&quot; trading on the floor of the exchange by about three hours. Market sources said electronic trading was open all morning but traders said few if any transactions took place.</p>
+<p>Students and parents have been protesting against Mexico's examination system, which they say limits the career options for students in lower-income households. They also said the way schools are allocated would oblige some students to travel up to four hours a day each way from their homes.</p>
+<p>Traders said that in an unusual show of altruism at the exchange, about 30 brokerages loaned traders to one another in order to operate.</p>
+<p>In afternoon trading, the market's main IPC index was up 23 points at 3,424.69, fired by recent positive economic data released by the government.</p>
+<p>Demonstrators remained outside the market later in the day but were no longer blocking traffic, witnesses said.</p>
+<p>The protest did not rattle many nerves on Wall Street, where major brokerages do a lot of trading on Mexico's exchange.</p>
+<p>&quot;It was a short term inconveniece,&quot; said Eduardo Cabrera, chief Latin America strategist at Merrill Lynch. &quot;From a fundamental market point of view this was a minor issue.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

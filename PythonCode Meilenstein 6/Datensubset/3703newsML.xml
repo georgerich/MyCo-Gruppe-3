@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3703" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: MGE spring wheat closes mixed in quiet conditions.</title>
+<headline>MGE spring wheat closes mixed in quiet conditions.</headline>
+<dateline>MINNEAPOLIS 1996-08-20</dateline>
+<text>
+<p>MGE spring wheat futures closed narrowly mixed in quiet conditions as the market attempted to consolidate Monday's gains, traders said.</p>
+<p>Dealers noted diminished concern about a possible frost in Canada next week was mildly bearish while Monday's state crop progress reports, which showed a slight decline in spring wheat condition, may have had a minor supportive impact.</p>
+<p>&quot;The (spring wheat) harvest is progressing fairly well although rain has slowed it down slightly,&quot; one trader said.</p>
+<p>September closed unchanged at $4.65 a bushel with other months off 2-1/4 cents to up 1-1/2 cents.</p>
+<p>Feed barley futures were unchanged to slightly higher in thin conditions. Dealers noted there was light hedge selling with the U.S. harvest underway but end-user participation remained light.</p>
+<p>September barley closed $0.03 per cwt higher at $7.75 with other positions steady to $0.01 up.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

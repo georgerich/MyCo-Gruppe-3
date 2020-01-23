@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5669" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Continental Airlines adds on-line service.</title>
+<headline>Continental Airlines adds on-line service.</headline>
+<dateline>HOUSTON, Texas 1996-08-21</dateline>
+<text>
+<p>Continental Airlines said Wednesday it had launched a service on the Internet offering travelers information on fare discounts and other promotions.</p>
+<p>Continental said the electronic mail service would give subscribers weekly updates on the special deals.</p>
+<p>It said it would not charge a user fee for the service, called &quot;Continental On Line Travel Specials&quot;.</p>
+<p>Continental said customers could subscribe to the service through the table of contents at its web site www.flycontinental.com or in the third quadrant of its web site entitled &quot;Flying the Net&quot;.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

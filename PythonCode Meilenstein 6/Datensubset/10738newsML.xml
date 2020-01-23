@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10738" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Sunrise Preschools makes acquisitions.</title>
+<headline>Sunrise Preschools makes acquisitions.</headline>
+<dateline>SCOTTSDALE, Ariz. 1996-08-23</dateline>
+<text>
+<p>Sunrise Preschools Inc said Friday said it made multiple acquisitions which would boost annual revenues by about $3.0 million.</p>
+<p>Terms of the acquisitions were not disclosed.</p>
+<p>Sunrise said it made acquisitions in Arizona to build its profile in that market while another acquisition in Texas is the company's first foray in that state. The company said it is actively engaged in discussions with other acquisition candidates.</p>
+<p>Sunrise said it plans to selectively move into primary education by adding first grade classes in three of its Arizona centers later this year and may expand the program in the pilot schools in the following two years by adding grades two and three.</p>
+<p>Shares of Sunrise closed 1/16 lower at 1-7/16 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTSDALE, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

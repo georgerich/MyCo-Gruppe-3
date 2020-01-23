@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7767" id="root" date="1996-08-22" xml:lang="en">
+<title>ISRAEL: Israel, Palestinian economy ministers to meet.</title>
+<headline>Israel, Palestinian economy ministers to meet.</headline>
+<dateline>TEL AVIV 1996-08-22</dateline>
+<text>
+<p>Israeli Finance Minister Dan Meridor and Palestinian Minister of Economy and Trade Maher al-Masri will meet on Tuesday in Jerusalem, the Israeli ministry said.</p>
+<p>This will be Meridor's first meeting with a Palestinian minister since he took office in June. Meridor is a key member of the right-wing Likud party led by Prime Minister Benjamin Netanyahu.</p>
+<p>The Treasury said the purpose of the meeting was to decide on ways to cooperate as well as to establish a framework for further discussions on various economic issues.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

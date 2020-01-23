@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8938" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: Calcium-channel blockers linked to cancer - study.</title>
+<headline>Calcium-channel blockers linked to cancer - study.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Calcium-channel blockers, drugs commonly used to treat high blood pressure and heart disease, may increase the risk of cancer, U.S. and Italian doctors reported on Friday.</p>
+<p>The research, published in the Lancet medical journal, adds to growing evidence that the popular drugs may be dangerous to some people.</p>
+<p>Dr Marco Pahor of the University of Tennessee in Memphis and colleagues looked at the health records of more than 5,000 men and women over the age of 70 in the United States. Of them, 451 had been using calcium-channel blockers (CCBs).</p>
+<p>Those who used CCBs were 70 percent more likely to develop cancer. The more of the drugs they took, the higher their risk. &quot;No association with cancer was found for other cardiovascular medications,&quot; Pahor's group wrote in the Lancet.</p>
+<p>Those cancers that stood out most were cancer of the uterus and of the lymph and blood systems.</p>
+<p>But Pahor said people should not stop taking the drugs. &quot;The evidence provided by this single study is not sufficient to recommend withdrawal of treatment from current users,&quot; they wrote. &quot;Whether calcium-channel blockers truly promote cancer needs to be confirmed in long-term clinical trials.&quot;</p>
+<p>CCBs help lower blood pressure and ease the heart's workload by stopping calcium from accumulating in the muscle cells of the heart and blood vessels. Calcium is important in cell function.</p>
+<p>It has an important role in apoptosis, or programmed cell death. Apoptosis allows damaged cells to remove themselves from the system -- and many doctors believe cancer can be caused when cells fail to destroy themselves.</p>
+<p>Pahor's group pointed out that CCBs can inhibit apoptosis.</p>
+<p>Henry Dargie, a cardiologist at the University of Glasgow, said that might be the case, but he said many unknown factors would have been involved and commented that the controversy was &quot;in danger of developing into a witch-hunt&quot;.</p>
+<p>Other studies have linked CCBs with cancer, and the older, faster-acting CCBs have been associated with heart attacks.</p>
+<p>The reports have been heavily criticised because they rely on general observation of patients, rather than on targeted study of the drugs and their effects.</p>
+<p>Researchers working in Israel released their own study on Friday showing that CCBs caused no increase in cancer deaths over four years among 11,500 patients.</p>
+<p>&quot;These results should end the CCB &quot;scare' brought on by sensationalised media reports, so that appropriate patients can continue to benefit from these safe and effective drugs,&quot; said Henrietta Rechier-Reiss of the Tel Aviv Medical Centre.</p>
+<p>In a commentary the Lancet said there had been a &quot;steady flow of data indicting this drug class&quot; and said randomised trials should be organised immediately.</p>
+<p>&quot;Industry is likely to baulk at this suggestion on grounds of cost. The twin costs to calcium-channel blocker manufacturers of declining sales and diminished consumer confidence should convince them otherwise,&quot; it said.</p>
+<p>The reports have already hit some pharmaceuticals stocks.</p>
+<p>Sellers of calcium channel blockers include Pfizer Inc, Bayer AG, Hoechst Marion Roussel Inc., a unit of Hoechst AG, and Astra Merck Inc., a joint venture of Merck &amp; Co and Sweden's Astra AB.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

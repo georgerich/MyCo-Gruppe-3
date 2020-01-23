@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2670" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: SOCCER-RESULTS OF GERMAN FIRST DIVISION MATCHES.</title>
+<headline>SOCCER-RESULTS OF GERMAN FIRST DIVISION MATCHES.</headline>
+<dateline>BONN 1996-08-20</dateline>
+<text>
+<p>Results of German first division</p>
+<p>soccer matches played on Tuesday:</p>
+<p> Arminia Bielefeld  1  St Pauli			 2</p>
+<p> Schalke		0  Borussia Moenchengladbach  0</p>
+<p> Hamburg		5  Freiburg			 1</p>
+<p> Werder Bremen	1  Hansa Rostock		  1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

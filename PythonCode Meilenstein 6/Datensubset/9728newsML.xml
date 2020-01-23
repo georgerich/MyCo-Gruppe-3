@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9728" id="root" date="1996-08-22" xml:lang="en">
+<title>ITALY: Three killed in Italian munitions factory blast.</title>
+<headline>Three killed in Italian munitions factory blast.</headline>
+<dateline>BRESCIA, Italy 1996-08-22</dateline>
+<text>
+<p>Three Italian workmen were killed on Thursday in an explosion at a munitions factory near the northern town of Brescia, police said.</p>
+<p>Police said three other employees at the S.E.I. factory in Ghedi suffered minor injuries. The Italian news agency ANSA said the factory made bombs for Tornado warplanes.</p>
+<p>It was not known what caused the blast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRESCIA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9620" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: ALLTEL wins stay on Georgia rate-cut order.</title>
+<headline>ALLTEL wins stay on Georgia rate-cut order.</headline>
+<dateline>LITTLE ROCK, Ark. 1996-08-22</dateline>
+<text>
+<p>ALLTEL Corp said Thursday a Georgia superior court issued a stay of the Georgia Public Service Commission's order mandating a $24 million reduction in the company's intrastate access charges.</p>
+<p>The commission had issued an order requiring ALLTEL to reduce its intrastate access rates in response the company's plan to change its rate structure, the company said.</p>
+<p>ALLTEL said it considered the commission's order to be unlawful and was appealing the order.</p>
+<p>The court granted ALLTEL's request for a stay pending the outcome of its appeal, the company said.</p>
+<p>-- New York newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LITTLE ROCK, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

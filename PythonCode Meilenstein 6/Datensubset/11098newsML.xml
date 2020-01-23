@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11098" id="root" date="1996-08-23" xml:lang="en">
+<title>POLAND: Polish-Russian business conference next week.</title>
+<headline>Polish-Russian business conference next week.</headline>
+<dateline>WARSAW 1996-08-23</dateline>
+<text>
+<p>More than 200 business executives from Polish and Russian companies will meet on August 28 in Warsaw for a two-day conference to enhance mutual trade, the organiser, the Polish Chamber of Commerce (KIG), said on Friday.</p>
+<p>&quot;These meetings, direct meetings between Polish companies and serious Russian firms, are very significant for bringing more life into our contacts,&quot; KIG president Andrzej Arendarski told a news conference.</p>
+<p>He said firms from the construction, transport, food-processing, chemical, machinery, clothing and banking sectors would attend the Polish-Russian Economic Forum.</p>
+<p>Polish-Russian trade, which slumped after the fall of communism in 1989, is on the rise. Last year, mutual trade turnover increased by 35 percent to $3.2 billion.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

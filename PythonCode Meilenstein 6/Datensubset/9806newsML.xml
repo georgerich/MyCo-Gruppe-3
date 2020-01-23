@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9806" id="root" date="1996-08-22" xml:lang="en">
+<title>SWITZERLAND: Aare-Tessin H1 net up 18.5 percent.</title>
+<headline>Aare-Tessin H1 net up 18.5 percent.</headline>
+<dateline>OLTEN, Switzerland 1996-08-22</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>				    (million Sfr unless stated)</p>
+<p> Net profit		     96		  vs 81</p>
+<p> Net sales			813		 vs 783</p>
+<p> Cash flow			301		 vs 257</p>
+<p>Energy sold</p>
+<p>  (kilowatts, billions)     11.5		vs 10.6</p>
+<p>NOTE - Full name of power generator and supplier is Aare-Tessin</p>
+<p>AG fuer Elektrizitaet (Atel).</p>
+<p>-- Zurich newsroom 41-1-258 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OLTEN, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

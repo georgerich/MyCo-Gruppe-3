@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5594" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: AMEX closing averages.</title>
+<headline>AMEX closing averages.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Prices on the American Stock Exchange closed lower in moderate trading.</p>
+<p>The Amex index closed at 557.68, down 1.61.</p>
+<p>Losers beat gainers 268 to 237.</p>
+<p>The average price per share fell $0.04.</p>
+<p>Preliminary volume was 16,366,470, compared with 22,814,210 Tuesday.</p>
+<p>(Prices official as of 1645 EDT/2045 GMT)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

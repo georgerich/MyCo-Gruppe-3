@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7260" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: NZ Court of Appeal rejects John Barlow's appeal.</title>
+<headline>NZ Court of Appeal rejects John Barlow's appeal.</headline>
+<dateline>WELLINGTON 1996-08-21</dateline>
+<text>
+<p>Hugh Barlow, brother of convicted double murderer John Barlow, said on Wednesday John Barlow is likely to take the case to the Privy Council, after the Court of Appeal rejected an appeal against his convictions.</p>
+<p>Former Wellington businessman John Barlow is serving a life sentence with a minimum non-parole period of 14 years for murdering Eugene and Gene Thomas in February 1994.</p>
+<p>A third court trial following two hung juries found him guilty of killing the father and son in their offices on The Terrace in central Wellington.  </p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

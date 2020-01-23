@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7119" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: KHD details revised 1995 results.</title>
+<headline>KHD details revised 1995 results.</headline>
+<dateline>COLOGNE, Germany 1996-08-21</dateline>
+<text>
+<p>Year to Dec 31 (in millions of marks unless stated otherwise).</p>
+<p>					1995	  1995	 1994</p>
+<p>				    (revised)   (original)</p>
+<p> Group net loss		    1,134	  174	 308</p>
+<p> Group balance sheet loss	  952	  nil	 363</p>
+<p> Group loss carry-forward	  363	  363	  55</p>
+<p> Group sales			 3,285	3,288     2,695</p>
+<p> Group output			3,240	3,781     3,131</p>
+<p> Group other oper costs	  1,221	  791	 772</p>
+<p> Group financial result	     39 loss    39 loss   37 loss</p>
+<p> Group loss ord activities     1,187	  227	 276</p>
+<p> Group extraordinary profit	 61	   61	  24 loss</p>
+<p> Group reserve drawdown	    247	  239	 nil</p>
+<p> Group capital decrease	    298	  298	 nil</p>
+<p> Parent net loss		   1,169	  206	 358</p>
+<p> Parent balance sheet loss	 958	  nil	 358</p>
+<p> Parent loss carry-forward	 358	  358	 nil</p>
+<p> Parent drawdown from reserves   271	  266	 nil</p>
+<p> Parent capital decrease	   298	  298	 nil</p>
+<p> Parent other oper costs	   366	  193	 256</p>
+<p> Parent revenue from minorities   36	   46	  37</p>
+<p> Costs from lost absorption   1,090	   311	 277</p>
+<p> Parent financial result	   20	    20	  34</p>
+<p> Loss from ord. activities    1,236	   273	 331</p>
+<p> Parent extraordinary profit     70	    70	  24 loss</p>
+<p>NOTE - Diesel engine maker Kloeckner-Humboldt-Deutz AG initially reported its 1995 results on April 23, but massive losses that came to light on May 24 led it to make major revisions.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49 228 2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOGNE, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

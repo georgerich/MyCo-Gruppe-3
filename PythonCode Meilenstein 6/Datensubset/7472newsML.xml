@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7472" id="root" date="1996-08-21" xml:lang="en">
+<title>EGYPT: Egypt says June inflation up at 8.3 percent.</title>
+<headline>Egypt says June inflation up at 8.3 percent.</headline>
+<dateline>CAIRO 1996-08-21</dateline>
+<text>
+<p>Egyptian inflation rose to 8.3 percent for the year ending June 1996 from 8.1 percent in May but fell from 9.9 percent in June 1995, the cabinet's information office said on Wednesday.</p>
+<p>Inflation plummeted to a 30-year low of 4.9 percent last November but has been rising steadily since then.</p>
+<p>-- Cairo newsroom +202 578 3290/91</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10298" id="root" date="1996-08-23" xml:lang="en">
+<title>ESTONIA: Estonian Savings Bank okays Bank of Industry deal.</title>
+<headline>Estonian Savings Bank okays Bank of Industry deal.</headline>
+<dateline>TALLINN 1996-08-23</dateline>
+<text>
+<p>Shareholders of one the largest commercial banks in the Baltic state of Estonia on Friday backed a merger with the country's eighth largest bank and an issue of shares to boost its capital, a Savings Bank spokesman said.</p>
+<p>The bank aims to merge with the Bank of Industry and the spokesman said a special shareholders meeting gave overwhelming backing for the move.</p>
+<p>The merger was hit by controversy after leading politicians alleged the Bank of Industry had large, hidden loan losses, although the bank said the losses were lower.</p>
+<p>The merger will boost Savings Bank's assets to more than four billion kroons ($335.4 million).</p>
+<p>Savings Bank made a profit of 22.4 million kroons in the first half of the year.</p>
+<p>The share capital rise will be worth 10 million kroons and will take the capital up to 143 million kroons. It will consist of one million shares with a face value of 10 kroons.</p>
+<p>-- Riga Newsroom +371 7 22 66 93 ($ = 11.92 Estonian Kroons)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

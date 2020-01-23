@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12386" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Zhenhai Refining interim net up 10 pct.</title>
+<headline>Zhenhai Refining interim net up 10 pct.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million yuan unless stated)</p>
+<p>    Shr (Chinese cents)	12.0     vs 11.0</p>
+<p>    Dividend (Chinese cents) 2.0	vs 2.0</p>
+<p>    Exceptional items	  nil	vs nil</p>
+<p>    Net			    282.27   vs 256.53</p>
+<p>    Turnover		     4,267.24 vs 3,088.09</p>
+<p>    Company name		 Zhenhai Refining &amp; Chemical Co Ltd</p>
+<p>    Books close		  September 16-20</p>
+<p>    Dividend payable	   November 11</p>
+<p>NOTE - A producer of petroleum products, intermediate petrochemicals and fertilisers.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

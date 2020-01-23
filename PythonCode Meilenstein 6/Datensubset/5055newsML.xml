@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5055" id="root" date="1996-08-21" xml:lang="en">
+<title>ROMANIA: Romanian Carne-Arad H1 profit plummets.</title>
+<headline>Romanian Carne-Arad H1 profit plummets.</headline>
+<dateline>BUCHAREST 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p>						    (in million lei)</p>
+<p> Gross profit	   5.77	vs	  18.09</p>
+<p> Turnover	   4,279.97	vs     4,123.19</p>
+<p> Total assets    42,447.44	vs    40,089.39</p>
+<p> Debts	     12,124.73	vs     9,772.45</p>
+<p> Share capital   29,810.38</p>
+<p>NOTE - Carne-Arad SA is a state meat processing firm. Data, reported according to Romanian accounting standards, were taken from its report to the Bucharest bourse. Company manager Voicu Ivascu said half-year profit was down due to higher meat purchasing prices and increased spending on energy and fuel.</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

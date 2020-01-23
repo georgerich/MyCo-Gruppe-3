@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3079" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: N. Irish police to reroute march by Protestants.</title>
+<headline>N. Irish police to reroute march by Protestants.</headline>
+<dateline>BELFAST 1996-08-20</dateline>
+<text>
+<p>Police in Northern Ireland said on Tuesday they would prevent Protestants from marching through a Catholic area of Belfast for fear that it could spark off fresh sectarian violence in the troubled city.</p>
+<p>Police said that Sunday's planned march by the Royal Black Preceptory order, a fiercely pro-British organisation, would not be allowed to pass through the staunchly pro-Irish nationalist lower Ormeau Road area of Belfast.</p>
+<p>Catholics feel threatened and insulted by Protestant marchers, many commemorating historical military victories over Catholic forces.</p>
+<p>Protestants who want the province to remain British regard marches as an essential expression of their loyalty to the crown. Police attempts to block a Protestant parade in July provoked the worst riots seen in the province for years.</p>
+<p>A tense weekend of demonstrations two weeks ago ended peacefully when a Protestant march was allowed to pass through a largely Catholic village after a lengthy stand-off.</p>
+<p>Commentators from both sides of the divide said the way in which the incident was handled had revived hopes for multi-party negotiations on the future of the province which resume in September.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

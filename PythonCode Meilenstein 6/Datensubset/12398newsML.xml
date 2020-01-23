@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12398" id="root" date="1996-08-23" xml:lang="en">
+<title>HONG KONG: Cheung Kong, Hutchison down after results.</title>
+<headline>Cheung Kong, Hutchison down after results.</headline>
+<dateline>HONG KONG 1996-08-23</dateline>
+<text>
+<p>Shares of Cheung Kong (Holdings) Ltd and Hutchison Whampoa Ltd fell on proft-taking after the companies announced interim earnings, brokers said.</p>
+<p>&quot;Anticipation of slower earnings growth for both the companies in the second half, especially when Cheung Kong had sold the majority of its development during the first half, triggered profit-taking interest,&quot; said Sean Li, associate director from Amsteel Securities.</p>
+<p>Shares of Cheung Kong fell HK$0.50 to HK$57 in mid-morning and Hutchison was down HK$0.90 to HK$48.40.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

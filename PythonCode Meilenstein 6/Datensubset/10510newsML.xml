@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10510" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: Raisio hits life-high on new invention.</title>
+<headline>Raisio hits life-high on new invention.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>Finnish food and chemicals group Raision Tehtaat Oy's share hit a life-high 337.00 markka on Friday in lively trade fuelled by its announcement this week of a cost saving dairy cattle feed invention, brokers said.</p>
+<p>At 1410/1110 GMT, Raisio traded at 332.00 markka, up 11.00 markka or more than three percent after hitting a new life-high 337.00 markka. Volume was active at 50 million markka.</p>
+<p>There were both domestic and overseas investors buying Raisio, brokers said.</p>
+<p>-- Helsinki newsroom +358-0-6805 0248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

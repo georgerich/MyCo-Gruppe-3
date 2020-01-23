@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9209" id="root" date="1996-08-22" xml:lang="en">
+<title>LATVIA: Latvian share turnover leaps, Unibanka at new high.</title>
+<headline>Latvian share turnover leaps, Unibanka at new high.</headline>
+<dateline>RIGA 1996-08-22</dateline>
+<text>
+<p>Turnover on the Latvian stock exchange jumped on Thursday and leading stock Unibanka also climbed to a new high, the Riga stock exchange said.</p>
+<p>Market turnover was 165,069 lats, compared with 45,226 lats of trade on Tuesday.</p>
+<p>Unibanka accounted for most of the business, notching up turnover of 158,488 lats. Its shares edged up to a new best level of 1.76 lats, two lats higher.</p>
+<p>The shares of Riga Transport Fleet, on the official list with Unibanka, were also well traded at turnover of 4,571 lats. Its shares were unchanged at 60 santimes.</p>
+<p>On the secondary list, fish cannery Kaija was again active. It made turnover of 1,097 lats but its stock price dipped to 31 santimes from 32.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

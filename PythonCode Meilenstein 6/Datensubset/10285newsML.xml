@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10285" id="root" date="1996-08-23" xml:lang="en">
+<title>POLAND: Jutrzenka again seeks main market listing.</title>
+<headline>Jutrzenka again seeks main market listing.</headline>
+<dateline>WARSAW 1996-08-23</dateline>
+<text>
+<p>Polish confectionery maker Jutrzenka SA plans to re-apply to the Warsaw bourse in the second quarter next year to shift its shares to the exchange's main market from the parallel market, the company said.</p>
+<p>Jutrzenka said in a statement on Friday it would re-apply immediately after fulfilling bourse regulations such as publishing verified financial results for 1996.</p>
+<p>On August 21 the bourse's board rejected the firm's transfer because it had not submitted audited financial data for three financial years back.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5104" id="root" date="1996-08-21" xml:lang="en">
+<title>TAIWAN: Taiwan mounts record raid on bootleg software.</title>
+<headline>Taiwan mounts record raid on bootleg software.</headline>
+<dateline>TAIPEI 1996-08-21</dateline>
+<text>
+<p>One thousand government agents seized nearly US$2 billion in counterfeit software and detained more than 70 suspected bootleggers, officials said on Wednesday.</p>
+<p>The island's largest-ever anti-piracy force stormed 126 businesses across the island on Tuesday in coordinated raids, they said.</p>
+<p>&quot;This coordinated effort was intended to eliminate pornographic and pirated compact disc software,&quot; an investigator said. &quot;Sixty-four thousand copies of illegal disks were found with a market value of over T$50 billion (US$1.8 billion).&quot;</p>
+<p>The day's haul included 50,000 bootleg compact discs of computer software from Microsoft, Lotus, Netscape and other top international firms, he said.</p>
+<p>The raids also yielded 11,000 copies of pornographic compact discs and 3,000 data-compressed compact discs (CD-ROMs).</p>
+<p>Such discs can contain hundreds of megabytes of counterfeit software each but sell for as little as T$800 to T$2,000 (US$30-$72) on Taiwan's market, the investigator said.</p>
+<p>Taiwan has waged a largely successful drive against what had been rampant intellectual property theft, but recent cases have brought new cause for alarm.</p>
+<p>The island remains on a U.S. watch list of countries where copyright piracy is a problem.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

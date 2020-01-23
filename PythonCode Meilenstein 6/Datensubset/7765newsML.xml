@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7765" id="root" date="1996-08-22" xml:lang="en">
+<title>TURKEY: Turkish shares shed gains in profit-taking.</title>
+<headline>Turkish shares shed gains in profit-taking.</headline>
+<dateline>ISTANBUL 1996-08-22</dateline>
+<text>
+<p>Turkish shares ended lower on Thursday, shedding gains of earlier in the week amid profit-taking sales, brokers said.</p>
+<p>The IMKB-100  .ISEC lost 0.19 percent or 123.89 points to end at 64,178.78. Gains so far this week have totalled 2.92 percent. Daily volume dropped to 7.2 trillion lira ($83.3 million) from Wednesday's 7.8 trillion lira ($90.7 million).</p>
+<p>&quot;Profit-taking sales in the afternoon showed the latest gains of the index were actually a reaction rise. I expect the market to go as far down as 63,000 tomorrow if sales continue,&quot; said Burcin Mavituna from Interbank.</p>
+<p>Brokers said profit taking sales had come especially as the index approached the 65,000 resistance level.</p>
+<p>They said the index could also rise towards 65,000 if the cheap share prices attracted buyers. The market had its first resistance at 67,000 if it pierced 65,000, they added. SA</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

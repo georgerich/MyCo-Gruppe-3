@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5548" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Arco limits Sept. Line 63 to 46.81 pct.</title>
+<headline>Arco limits Sept. Line 63 to 46.81 pct.</headline>
+<dateline>LOS ANGELES 1996-08-21</dateline>
+<text>
+<p>Arco Pipeline Co set crude oil shipments on California's Line 63 at 46.81 percent of nominations for September, a spokesman said Wednesday.</p>
+<p>The apportionment rises from 41.27 percent of nominations allowed in August, with daily throughput forecast at 110,000 barrels.</p>
+<p>Volumes of light and heavy crude shipments were not immediately available.</p>
+<p>Shipments on the line have been restricted almost every month since a January 1994 earthquake shut a companion line into Los Angeles, causing congestion.</p>
+<p>Arco Pipeline Co is a unit of Atlantic Richfield Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

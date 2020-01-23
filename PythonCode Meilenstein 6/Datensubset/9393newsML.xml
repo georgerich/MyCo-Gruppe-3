@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9393" id="root" date="1996-08-22" xml:lang="en">
+<title>CHINA: China to build 3.0 bln yuan fertiliser plant.</title>
+<headline>China to build 3.0 bln yuan fertiliser plant.</headline>
+<dateline>BEIJING 1996-08-22</dateline>
+<text>
+<p>China will start work soon on a 3.0 billion yuan fertiliser plant in northwestern Xinjiang region, the China News Service said on Thursday.</p>
+<p>The plant would be located in oil-rich Kuqa county and construction work would start soon, the agency said but gave no precise dates.</p>
+<p>The plant was expected to produce 300,000 tonnes of synthetic ammomia and 520,000 tonnes of urea each year after going into operation in 1999, it said.</p>
+<p>Xinjiang region aimed to become one of China's largest nitrogenous fertiliser producers after the plant start production, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

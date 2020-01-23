@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11744" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S., Colombia reach tentative aviation accord.</title>
+<headline>U.S., Colombia reach tentative aviation accord.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Colombia and the United States have almost reached an agreement that will add some U.S. passenger and cargo flights to the South American country but will limit the level of U.S. flights until March 1, the State Department said Thursday.</p>
+<p>The United States has ranked Colombia in Category 2 for oversight of aviation safety standards. Until it improved its oversight, Colombia could not implement more flights to the United States to match the level of U.S. flights to Colombia.</p>
+<p>State Department officials said final details of the accord were being worked out in Miami and could be signed late Thursday or Friday.</p>
+<p>The accord assures the existing services by U.S. carriers, including new passenger flights for Continental Airlines to fly from Newark, N.J., to Bogota, and for flights by American International Aviation, a cargo carrier.</p>
+<p>In addition, American Airlines gained the right to start a daily service between New York and Bogota, using three new weekly flights and moving four of its 21 Miami-Bogota flights, the department said.</p>
+<p>The accord allows the United States to designate additional airlines to provide services to Colombia, beginning in two years.</p>
+<p>Colombia's category 2 rating means it was found not in full compliance with the safety oversight standards of the International Civil Aviation Organisation.</p>
+<p>The U.S. Federal Aviation Administration periodically inspects the aviation safety standards of other nations to assure the safety of travelling Amercians.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

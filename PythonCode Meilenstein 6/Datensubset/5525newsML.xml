@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5525" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Dove Audio Q2 loss vs profit. [CORRECTED 18:52 GMT]</title>
+<headline>Dove Audio Q2 loss vs profit. [CORRECTED 18:52 GMT]</headline>
+<dateline>LOS ANGELES 1996-08-21</dateline>
+<text>
+<p>(Corrects results for all periods)</p>
+<p>	   Dove Audio, Inc. Consolidated Statements of Income</p>
+<p>						 Three Months Ended	 Six Months Ended</p>
+<p>							 June 30		     June 30</p>
+<p>					     1996	  1995	  1996	  1995</p>
+<p>     Publishing Revenue, Net   $2,197,000  $4,190,000  $6,545,000 $6,380,000</p>
+<p>     Film Revenue		    $795,000	   ---  $4,054,000    $28,000</p>
+<p>     Income From Operations   -$3,111,000    $520,000 -$2,457,000   $592,000</p>
+<p>     Income Before Income Taxes-$3,165,000   $523,000 -$2,463,000   $576,000</p>
+<p>     Net Income		   -$2,539,000    $261,000 -$2,168,000   $294,000</p>
+<p>     Net Income Per Share	    -$0.45	 $0.06	-$0.40	$0.06</p>
+<p>Weighted Average Number of</p>
+<p>	Shares Outstanding	  5,630,000   4,672,000   5,464,000  4,672,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47530">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10807" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Microsoft provides fix for browser flaw.</title>
+<headline>Microsoft provides fix for browser flaw.</headline>
+<dateline>SEATTLE 1996-08-23</dateline>
+<text>
+<p>A potentially harmful security flaw has been discovered in Microsoft Corp's new software for browsing the Internet, but the software giant has created a repair for the problem, a company executive said Friday.</p>
+<p>Researchers at Princeton University who study computer security discovered that Microsoft's Internet Explorer version 3.0, released last week, contains a flaw that could allow user's files to be damaged or deleted by Web site authors.</p>
+<p>The Princeton researchers notified Microsoft of the flaw late Tuesday.  </p>
+<p>&quot;Microsoft has received no reports of users encountering this behavior, or of any sites on the Internet that exploit the behavior,&quot; the company said in an Internet message.</p>
+<p>But Bill Koszewski, a Microsoft product manager, said the software giant quickly developed a patch for the browser and posted it on the Internet.</p>
+<p>&quot;Any time we hear about a problem that pertains to security we're very, very concerned,&quot; he said.  </p>
+<p>The flaw is the third to be reported in the free software, Microsoft's bid to surpass the market dominating Navigator from rival Netscape Communications Corp, which released a new version of its browser this week.</p>
+<p>But Koszewski said Microsoft executives are &quot;really pleased in the overall quality of the product.&quot;</p>
+<p>The other flaws were a glitch that required users to enter their passwords repeatedly on about 10 password-protected Web sites and a problem that required extra hard-drive space to install the browser. Both problems have been fixed, Koszewski said.</p>
+<p>The security flaw discovered by Princeton would have allowed Web site authors to &quot;attack&quot; Internet users by including a virus in a downloaded document.</p>
+<p>While Internet Explorer normally warns users that a document might contain a virus, the researchers figured out a way to disable the warning.</p>
+<p>					-- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

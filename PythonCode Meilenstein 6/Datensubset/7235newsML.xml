@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7235" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Pioneer sees 1997 housing recovery.</title>
+<headline>RTRS-Pioneer sees 1997 housing recovery.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Building products and petroleum group Pioneer International Ltd said on Wednesday it expected to see a recovery in Australia's housing in the first half of calendar 1997.</p>
+<p>&quot;My view is we will see a recovery in the first half of 1997,&quot; managing director John Schubert told reporters.  </p>
+<p>Schubert said he expected improving housing affordability, higher employment and wages would aid Australia's ailing housing industry.</p>
+<p>&quot;Most of these factors are going to lead to a recovery in the housing sector,&quot; he said.</p>
+<p>The Australian government's budget changes to superannuation taxation for high income earners could also channel funds into the housing sector, Schubert said.</p>
+<p>&quot;(Housing) becomes one of the last remaining tax shelters,&quot; Schubert said.  </p>
+<p>Schubert said Pioneer's building materials businesses worldwide had experienced a good start to the 1996/97 financial year in contrast to its petroleum refining and marketing joint venture, Ampol which was feeling the negative effects of low refiner margins for petroleum.</p>
+<p>At 1.00 p.m. (300 GMT), Pioneer shares were one cent weaker at A$3.72.</p>
+<p>-- Sydney newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

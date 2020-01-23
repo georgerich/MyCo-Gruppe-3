@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4267" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Consumer semiconductor market hits $24.6 billion.</title>
+<headline>Consumer semiconductor market hits $24.6 billion.</headline>
+<dateline>SAN JOSE, Calif. 1996-08-20</dateline>
+<text>
+<p>A new study by Dataquest, a unit of Gartner Group Inc, shows that the worldwide market for consumer electronics semiconductors reached $24.6 billion in 1995.</p>
+<p>Prior-year figures were not immediately available.</p>
+<p>Dataquest said Toshiba Corp led the market, with nearly $3.3 billion in sale, and a 13.4 percent market share.</p>
+<p>Toshiba was followed by NEC Corp, with $2.7 billion in sales and an 11.0 percent market share, and by Matsushita Electric Industrial Co Ltd with $1.9 billion in sales and a 7.7 percent market shares.</p>
+<p>--New York Newsdesk, 212/859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

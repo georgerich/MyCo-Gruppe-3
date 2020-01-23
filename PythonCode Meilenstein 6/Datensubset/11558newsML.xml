@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11558" id="root" date="1996-08-23" xml:lang="en">
+<title>NEPAL: Nepal man held for keeping child servant in chains.</title>
+<headline>Nepal man held for keeping child servant in chains.</headline>
+<dateline>KATHMANDU 1996-08-23</dateline>
+<text>
+<p>Nepali police said on Friday they arrested a man who allegedly kept a child servant bound in chains so that he would not run away when his employer was out to work.</p>
+<p>Madhusudan Munakarmi was arrested on Thursday after his neighbours informed police about the plight of 12-year old Dhiraj K.C., who told police his employer used to tie him up with iron chains and locks concealed under his clothes.</p>
+<p>The neighbours in Kathmandu called the police when they saw Dheeraj, employed by the man for the past nine months, limping because of the chains.</p>
+<p>&quot;I feared he would flee from work or steal my belongings,&quot; the Kathmandu Post newspaper quoted Munakarmi as saying after his arrest. If convicted, he faces a maximum of three years in jail under Nepal's child protection laws.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NEPAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KATHMANDU"/>
+<dc element="dc.creator.location.country.name" value="NEPAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

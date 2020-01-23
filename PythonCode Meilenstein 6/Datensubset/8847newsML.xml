@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8847" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: General Motors sets price for OnStar system.</title>
+<headline>General Motors sets price for OnStar system.</headline>
+<dateline>TROY, Mich. 1996-08-22</dateline>
+<text>
+<p>General Motors Corp said Thursday the suggested price for its OnStar vehicle technology system will be $895 plus dealer installation and a service fee of $22.50 per month.</p>
+<p>OnStar is available exclusively on 1997 front-wheel-drive Cadillacs. It added that service fee is guaranteed for the next two years.</p>
+<p>The company estimated the daily cost for both the OnStar service and individual cellular phone charges will be under $1.50 or about the equivalent of a gallon of gasoline.</p>
+<p>OnStar integrates on-board advanced vehicle electronic architecture with Global Positioning System Satellite technology and a state-of-the-art cellular phone, General Motors said.</p>
+<p>Onstar's services include automatic notification of front air bag deployment, emergency service, theft detection and vehicle tracking, remote door unlock, roadside assistance with location and route support.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TROY, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

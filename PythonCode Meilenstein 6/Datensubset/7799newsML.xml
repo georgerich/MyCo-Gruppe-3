@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7799" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: WASHINGTON, Aug 22 (Reuter) - Federal regulat.</title>
+<headline>WASHINGTON, Aug 22 (Reuter) - Federal regulat.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Federal regulators are preparing to require changes in the flight controls systems of Boeing Co's 737, one of the world's most widely used airliners, The Wall Street Journal reported on Thursday.</p>
+<p>The Federal Aviation Administration plans to publish a series of new requirements for the airliner. It became the focus of concern following crashes in Colorado and Pennsylvania.</p>
+<p>A USAir 737 crash near Pittsburgh in 1994 killed 132 people and a United Airlines crash in Colorado Springs, Colo. in 1991 killed 25.</p>
+<p>A five-month investigation last year into the control design of the twin-jet found no flaws that could be blamed for the accidents, the FAA said.</p>
+<p>The study produced several recommendations for changes, though none was considered urgent.</p>
+<p>Details of the changes were not immediately available.</p>
+<p>A Transportation Department sources told the newspaper as many as nine notices of proposed rule-making may be announced.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

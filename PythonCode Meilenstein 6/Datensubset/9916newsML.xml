@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9916" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Telstra foreign limit stays - Australia govt.</title>
+<headline>RTRS-Telstra foreign limit stays - Australia govt.</headline>
+<dateline>CANBERRA 1996-08-22</dateline>
+<text>
+<p>Australian Communications Minister Richard Alston on Thursday ruled out raising foreign ownership limits in the government's planned sale of telecommunications carrier Telstra Corp in order to push up the sale price.  </p>
+<p>Asked if he would raise the foreign limit to win a higher price for the planned sale of one-third of Telstra, Alston told Australian Broadcasting Corp television's Lateline: &quot;No.&quot;</p>
+<p>&quot;Indeed, we think it's very important people regard Telstra now as an Australian company, that it remains firmly in Australian hands, that it has its headquarters here, that a majority of its board are Australians and that Australian investors ... have the great opportunity of owning the company.&quot;</p>
+<p>The Liberal-National government wants to sell one third of Telstra, with foreign ownership of that tranche limited to one third. The sell-off would raise an estimated A$8 billion.  </p>
+<p>But the Labor opposition and minor parties which control the balance of power in parliament's upper house, the Senate, have pledged to block the sell-off.</p>
+<p>The government, which needs the backing of at least two non-government senators, remains confident the legislation will pass.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

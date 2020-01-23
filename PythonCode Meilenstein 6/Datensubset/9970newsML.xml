@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9970" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Qantas says wages not included in cuts.</title>
+<headline>RTRS-Qantas says wages not included in cuts.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Qantas Airways Ltd chairman Gary Pemberton said on Thursday the airline's planned A$330 million cost cuts for the 1996/97 year were independent of the current wage negotiations between the airline and unions.</p>
+<p>Asked if the cuts would include the outcome of the current wage talks, Pemberton said: &quot;They are independent of that. We will have to find A$330 million in cost savings anyway.&quot;  </p>
+<p>Pemberton said it was too early to predict the outcome of the current wage talks as the issue was very sensitive to both the airline and the unions.</p>
+<p>The company said earlier on Thursday that its cost cutting target had been raised to A$330 million from A$230 million to deliver profit growth in line with market expectations.</p>
+<p>At 12.40 p.m. (0240 GMT), Qantas shares were one cent firmer at A$2.18.</p>
+<p>Qantas is 25 percent owned by British Airways Plc.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

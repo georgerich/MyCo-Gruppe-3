@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4080" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Mafia boss beaten up in Illinois prison - report.</title>
+<headline>Mafia boss beaten up in Illinois prison - report.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Mafia boss John Gotti, serving a life sentence for murder and racketeering, was beaten up in jail last month by a fellow prisoner, the New York Daily News reported Tuesday.</p>
+<p>The newspaper quoted unidentified federal law enforcement officials as saying the fistfight at the high-security prison in Marion, Illinois, was a racial dispute with a black prisoner. Gotti reportedly told doctors he &quot;fell down,&quot; the newspaper said.</p>
+<p>&quot;It was a racial thing -- John mouthed off to a big black guy,&quot; the Daily News quoted one official as saying. &quot;The next day, the black clocked him. He beat him up pretty bad, his face was all bloody. He needed some kind of medical help.&quot;</p>
+<p>The extent of Gotti's injuries was not known but the Mafia boss was taken to the prison infirmary for treatment after the incident in the facility's indoor recreation area.</p>
+<p>Gotti's lawyer Bruce Cutler denied that his client, once known as the &quot;Dapper Don&quot; for his flamboyant sartorial style, had been beaten in jail, and a spokesman at the Marion prison declined to comment, the newspaper said.</p>
+<p>Authorities believe Gotti still holds the rank of Gambino family boss but his son John Jr. runs day-to-day operations. He has lived alone in his cell since his June 1992 sentencing in New York.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

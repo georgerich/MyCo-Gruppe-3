@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11738" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Oregon weekly muni bond indices - Piper Jaffray.</title>
+<headline>Oregon weekly muni bond indices - Piper Jaffray.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The following Oregon tax-exempt municipal bond indices were compiled by Piper Jaffray Inc for the week ending August 23.</p>
+<p>							  Previous</p>
+<p>					  8/23	    Week     Change</p>
+<p>					  -----------------------------</p>
+<p>5 Year A1-rated Gen'l Oblig.    4.40%	  4.35%	+0.05</p>
+<p>5 Year A1-rated Utilities Rev.  4.45%	  4.40%	+0.05</p>
+<p>10 Year A1-rated Gen'l Oblig.   4.90%	  4.90%	-----</p>
+<p>10 Year A1-rated Utilities Rev. 4.95%	  4.95%	-----</p>
+<p>20 Year A1-rated Gen'l Oblig.   5.60%	  5.50%	+0.10</p>
+<p>20 Year A1-rated Utilities Rev. 5.65%	  5.55%	+0.10</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

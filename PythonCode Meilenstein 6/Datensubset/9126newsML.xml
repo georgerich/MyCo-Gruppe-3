@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9126" id="root" date="1996-08-22" xml:lang="en">
+<title>SLOVENIA: PRESS DIGEST - Slovenia - Aug 22.</title>
+<headline>PRESS DIGEST - Slovenia - Aug 22.</headline>
+<text>
+<p>DELO</p>
+<p>- Slovenian ombudsman of human rights Ivo Bizjak said delays in court procedures in the country were too long, as many cases take more than four years.</p>
+<p>- 80 employees of machine producer Litostroj ended their strike on Wednesday after receiving the delayed part of June salaries.</p>
+<p>DNEVNIK</p>
+<p>- Slovenia's accountancy court will decide whether the planned 16.5 kilometre trunk of a highway between Vransko and Blagovica would have to be changed because of high costs as the route includes five tunnels.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

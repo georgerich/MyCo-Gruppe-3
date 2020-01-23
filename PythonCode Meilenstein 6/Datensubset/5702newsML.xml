@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5702" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: U.S. July budget deficit $27.1 bln.</title>
+<headline>U.S. July budget deficit $27.1 bln.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>The government posted a budget deficit of $27.1 billion in July, the Treasury Department said Wednesday, twice the $13.6 billion deficit posted a year earlier in July 1995.</p>
+<p>By contrast in June this year, the budget was in surplus by $34.1 billion.  </p>
+<p>Total outlays in July were $130.9 billion, up from $117.8 billion in June and up from $106.3 billion in July 1995.</p>
+<p>Receipts fell to $103.8 billion from $151.9 billion in June but were up from $92.7 billion in July 1995.</p>
+<p>During the first 10 months of fiscal 1996 that ends on September 30, the budget deficit was $102.1 billion, down from $137.2 billion in the comparable first 10 months of fiscal 1995.</p>
+<p>The Clinton administration has forecast that the deficit for the full 1996 fiscal year will fall to $117 billion from $163.9 billion for all of fiscal 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

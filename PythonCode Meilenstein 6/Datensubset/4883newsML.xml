@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4883" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRIA: OMV sputters after first half profits.</title>
+<headline>OMV sputters after first half profits.</headline>
+<dateline>VIENNA 1996-08-20</dateline>
+<text>
+<p>Shares in Austria's largest industrial group OMV AG lost ground in Vienna on Tuesday after it reported earnings for the first six months of the year, which came in below bullish analysts' expectations.</p>
+<p>AT 0830 GMT, the oil and chemicals group was down 1.44 percent, or 14.9 schillings to 1,024 and was by far Vienna's most active stock on turnover of more than 32,000 lots.</p>
+<p>&quot;There were several Austrian and international brokers who predicted OMV pre-tax profits of over two billion schillings,&quot; said one trader.</p>
+<p>OMV reported a pre-tax profit of 1.56 billion schillings for the first half.</p>
+<p>&quot;What you're seeing now is short-term disappointment as investors were too focused on the analysts' incorrect predictions of really good results,&quot; he said, adding &quot;it's a buy recommendation at this level.&quot;</p>
+<p>-- Julia Ferguson, Vienna newsroom, +431 531 12274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

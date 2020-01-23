@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11384" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: MGE spring wheat ends firm on CBOT spillover.</title>
+<headline>MGE spring wheat ends firm on CBOT spillover.</headline>
+<dateline>MINNEAPOLIS 1996-08-23</dateline>
+<text>
+<p>MGE spring wheat futures ended firm, pulled higher by spillover strength from CBOT wheat and by short covering amid light volumes, traders said.</p>
+<p>CBOT wheat was boosted by talk that Egypt was looking to buy U.S. wheat. After the close it was confirmed that Egypt was seeking 50,000 tonnes of U.S. wheat.</p>
+<p>&quot;We had more short covering in here today but the volumes were even lighter than yesterday. There was some activity in the December/September spread, but it's hard to say if it was by commissions or commercials,&quot; a trader said.</p>
+<p>&quot;I think another reason we ended up is that the speculative selling has all but disappeared from this market. You're just left with fundamentals, and there hasn't been much of that to go on lately,&quot; the trader said.</p>
+<p>Traders said Wilson Trading had sold 1.1 million December bushels. ADM reportedly bought at least 900,000 Sept bushels, traders said.</p>
+<p>MGE spring wheat closed 1-1/4 cents per bushel lower to 2-1/2 cents higher, with Sept up 2-1/2 cents at $4.66. Dec gained one cent to end at $4.59-1/2.</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

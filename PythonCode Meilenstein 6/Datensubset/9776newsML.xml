@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9776" id="root" date="1996-08-22" xml:lang="en">
+<title>DENMARK: Danish bond prices rise after European rate cuts.</title>
+<headline>Danish bond prices rise after European rate cuts.</headline>
+<dateline>COPENHAGEN 1996-08-22</dateline>
+<text>
+<p>A wave of European rate cuts sent the Danish benchmark bond price 0.45 point higher on Thursday afternoon and left dealers wondering if Denmark would follow suit soon.</p>
+<p>The Bundesbank's high-than-expected 0.30 point repo cut left dealers wondering if there was scope for further trimming and if Denmark would follow suit.</p>
+<p>&quot;That the market was allowed to rise could be taken as an acknowledgement that there could be further German cuts,&quot; a dealer said, adding that he had expected Denmark to follow Germany with a 0.10-0.20 point cut of its own.  </p>
+<p>The benchmark eight percent state bond due 2006 closed at 105.08 point, compared to Wednesday's 104.63 close, after touching 105.12.</p>
+<p>Its September future ended 0.06 up, at 104.80, with 102 contracts traded.</p>
+<p>The yield gap to Germany narrowed two basis points from its morning level, to 94 bp.</p>
+<p>The crown strengthened to 3.8632 per mark from an opening 3.8655, seen as increasing the likelihood of an imminent Danish rate cut. --Steve Weizman, Copenhagen newsroom, 45-33-969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

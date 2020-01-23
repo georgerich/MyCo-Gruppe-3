@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3859" id="root" date="1996-08-20" xml:lang="en">
+<title>SWITZERLAND: Jelmoli H1 sales slip 2.8 percent.</title>
+<headline>Jelmoli H1 sales slip 2.8 percent.</headline>
+<dateline>ZURICH 1996-08-20</dateline>
+<text>
+<p>Swiss retail group Jelmoli Holding AG said sales for the the first six months of 1996 fell 2.8 percent on a comparable basis from the year before.</p>
+<p>But Jelmoli said acquisitions by unit Imholz Travel meant actual sales rose 4.8 percent to 901.0 million Swiss francs.</p>
+<p>&quot;Due to ongoing weakness of the retail consumer market, business during the second half of 1996 is expected to remain difficult,&quot; Jelmoli said in an interim report.</p>
+<p>Jelmoli said the decline in adjusted sales was due mainly to general restraint in consumer spending.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4499" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australia's SFE open late for budget trading.</title>
+<headline>RTRS - Australia's SFE open late for budget trading.</headline>
+<dateline>SYDNEY 1996-08-20</dateline>
+<text>
+<p>The Sydney Futures Exchange (SFE) will remain open late on Tuesday for the 1996/97 (July/June) Federal budget to be released at 7.30 p.m. (0930 GMT).</p>
+<p>The SFE said the trading floor will open between 7.00 p.m. (0900 GMT) and 8.15 p.m. (1015 GMT).</p>
+<p>SFE said following the close of its budget trading session, its overnight screen dealing system, SYCOM, will start trading at 8.30 p.m. (1030 GMT) and continue to 6.00 a.m. (2000 GMT).</p>
+<p>The Australian Stock Exchange said it would operate at normal trading hours of 10.00 a.m (0000 GMT) to 4.00 p.m (0600 GMT) for Tuesday.  </p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

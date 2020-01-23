@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3233" id="root" date="1996-08-20" xml:lang="en">
+<title>BULGARIA: Bulgaria offers 2.0 bln levs 1-yr T-bills Aug 26.</title>
+<headline>Bulgaria offers 2.0 bln levs 1-yr T-bills Aug 26.</headline>
+<dateline>SOFIA 1996-08-20</dateline>
+<text>
+<p>Bulgaria's finance ministry will offer 2.0 billion levs worth of one-year floater coupon T-bills at an auction on Monday, the Bulgarian National Bank (BNB) said.</p>
+<p>The issue will be offered with no minimum acceptable price set in advance by the ministry, a BNB statement said.</p>
+<p>The coupon was set equal to the BNB's central interest rate (CIR) for the period to maturity. The CIR is now set at an annual 108 percent.</p>
+<p>Settlement for the auction would be made on Wednesday at the average accepted price.</p>
+<p>Details of the issue follow:</p>
+<p> Issue number	BG 3015896023</p>
+<p> Par value	   2.0 billion levs</p>
+<p> Auction date	August 26, 1996</p>
+<p> Issue date	  August 28, 1996</p>
+<p> Maturity date     August 27, 1997</p>
+<p> Coupon		equal to the CIR</p>
+<p>-- Sofia Newsroom, (++359-2) 981 8569</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

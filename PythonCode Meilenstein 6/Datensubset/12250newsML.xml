@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12250" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Tokyo naphtha rebounds on overnight crude gains.</title>
+<headline>Tokyo naphtha rebounds on overnight crude gains.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Naphtha bounced up on the back of overnight crude gains in a quiet Friday market, traders said.</p>
+<p>Second-half October open-spec naphtha was notionally assessed bid at $195 and offered at $196, while first-half November was assessed bid and offered at about 50 cents in backwardation.</p>
+<p>First-half October was notionally assessed bid and offered at $196/$197. One trader said that market discussion for first-half October was slowly dwindling to a close.</p>
+<p>The intra-month spread was assessed at about $1/$1.50 for second-half October and second-half November.  </p>
+<p>This was after an overnight deal was done at $1.25 for second-half October and second-half November.</p>
+<p>Market participants continued to assess the jet/kerosene market for a clue to market direction ahead of moves to cover winter requirements, traders said.</p>
+<p>Industry sources said Indonesia's state-owned Pertamina has allocated 3.6 million barrels of LSWR for lifting in September.</p>
+<p>A Japanese trader said the volume was within market expectations, but it was still too early to say how the volume would influence market sentiment.</p>
+<p>-- Tokyo Commodities Desk (81-3 5473 3706)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

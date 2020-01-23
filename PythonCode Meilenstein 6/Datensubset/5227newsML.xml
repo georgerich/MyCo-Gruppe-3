@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5227" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Sun Micro releases Java Workshop tools at $99.</title>
+<headline>Sun Micro releases Java Workshop tools at $99.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-20</dateline>
+<text>
+<p>Sun Microsystems Inc.'s Java WorkShop -- software used to create software incorporating Sun's hot Java technology -- will be available online for $99 starting Friday, the company announced Tuesday.</p>
+<p>In a separate announcement, Sun and International Business Machines Corp. said they agreed to integrate IBM's Taligent technology into Java software to give it a more international accent. The enchacements would allow Java, written by programmers working in American English, to automatically recognise the language differences of individual countries.</p>
+<p>Java is a programming system that allows software designers to transform billboard-like Web pages into dynamic scenes that incorporate not only text, but moving graphics, video, and sound features.</p>
+<p>Scores of leading international computer, communications, and consumer electronics companies have licensed Java software for use in Internet-related products they are developing.</p>
+<p>Java WorkShop, Sun's first retail product, will be available at the discounted $99 price until Dec. 31, Larry Weber, Sun vice president and general manager for WorkShop products, said in a conference call.</p>
+<p>The low initial price -- the product's suggested price remains $295 -- reflects Sun's intention to broadly distribute the so-called software tools, Sun and industry executives said.</p>
+<p>&quot;Their goal is to have a Java tool on every desktop,&quot; said one computer industry source familiar with their strategy.</p>
+<p>To promote this, Sun is working on a number of methods for distributing Java WorkShop, including electronic downloading and selling retail stores and other outlets.</p>
+<p>The software, which is designed to have the look and feel of a World Wide Web browser, will work on Microsoft Corp.'s Windows 95 and NT systems as well as Sun's Solaris system.</p>
+<p>A major focus of the product is to extend the use of the software tools beyond software developers to graphic artists, &quot;Webmasters&quot; and Web authors and people engaged in publishing content on the Internet.</p>
+<p>&quot;This tool is much more integrated with the Internet than any other software tools for Java,&quot; said Weber, noting that it uses browser technology to make it easier for individuals who programme computers on a more casual basis.</p>
+<p>Sun has calculated that the broadest target for the product is a wide group of up to 25 million &quot;content users,&quot; including people who manipulate data within spreadsheets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

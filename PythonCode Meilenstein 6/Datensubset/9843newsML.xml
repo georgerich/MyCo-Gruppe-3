@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9843" id="root" date="1996-08-22" xml:lang="en">
+<title>BANGLADESH: Two die in clashes with police in Bangladesh.</title>
+<headline>Two die in clashes with police in Bangladesh.</headline>
+<dateline>DHAKA 1996-08-22</dateline>
+<text>
+<p>Bangladeshi students angered by the death of a friend in a road accident clashed with police in Bangladesh on Thursday, leaving two dead, including a policeman, and at least 50 people hurt, hospital sources said.</p>
+<p>The policeman was killed by a gunshot as officers came under attack from rampaging students in the the northern town of town, 300 km (180 miles) north of Dhaka, police said.</p>
+<p>Police fired back, killing Rafiqul Islam, a student at the local Azizul Huq college.</p>
+<p>Doctors at the hospital said at least 50 people, including six policemen, were injured in the clashes.</p>
+<p>They said police Inspector Faruque Hossain was admitted with bullet injuries and was in critical condition.</p>
+<p>Police fired tear gas and rubber bullets to quell the riot, triggered by a road accident earlier in the day which killed a student that police identified as Khairul Islam.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

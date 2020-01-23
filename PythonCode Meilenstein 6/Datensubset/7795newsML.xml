@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7795" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. initial claims rise in latest week.</title>
+<headline>U.S. initial claims rise in latest week.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The number of Americans filing first-time claims for state unemployment benefits rose by 6,000 last week, climbing for the third consecutive week, the Labour Department said on Thursday.</p>
+<p>New filings rose to 327,000 in the week ended Aug. 17 from 321,000 in the prior week. Wall Street economists had forecast initial claims of 331,000.</p>
+<p>The four-week moving average, which levels out the more-volatile weekly figures, totalled 314,000, up 1,500 from the previous week. The average is considered a more accurate measurement of employment trends.</p>
+<p>Although the four-week average still hovers near seven-year lows, the marginal increase for the week ended Aug. 17 halted a four-week slide in average claims.</p>
+<p>The total for those receiving ongoing benefits rose 55,000 to 2.521 million in the week ended Aug. 10, the latest period for which those figures are available. That compared with 2.466 million in the prior week.</p>
+<p>The department said three states reported increases in initial claims exceeding 1,000 on an unadjusted basis in the week ended Aug. 10, the latest period for which the data are available.</p>
+<p>They were California, with 1,918 additional new filings; Alabama, with 1,250; and Arkansas, with 1,129.</p>
+<p>Alabama reported more layoffs in the textile industry. California and Arkansas had no comment.</p>
+<p>Labour said two states reported decreases in initial claims exceeding 1,000, unadjusted, in the Aug. 10 week.</p>
+<p>They were Missouri, with 3,049 fewer new filings; and Ohio, with 1,145. Missouri cited fewer layoffs in the transportation industry. Ohio had no comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8840" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Ford reiterates desire to be targeted by UAW.</title>
+<headline>Ford reiterates desire to be targeted by UAW.</headline>
+<dateline>DEARBORN, Mich. 1996-08-22</dateline>
+<text>
+<p>Ford Motor Co said Thursday it supports the United Auto Workers decision to delay its choice of a strike target and reaffirmed its desire to lead Big Three contract bargaining with the union.</p>
+<p>Earlier today, the UAW said it had delayed identifying the automaker to allow union leaders to meet with top officers from General Motors Corp, Ford Motor Co and Chrysler Corp..</p>
+<p>&quot;The UAW leadership will decide where to begin bargaining; it's strictly their decision,&quot; Ford said in a statement.</p>
+<p>&quot;We want to be the target, and we believe the solid tradition of trust and openness between Ford and the UAW will serve us well throughout this bargaining process,&quot; it said.</p>
+<p>Ford was the target company in 1993 bargaining, which produced the current contract.</p>
+<p>The pact covering about 400,000 UAW hourly workers at the three companies expires September 14. Historically, the UAW has threatened the target company with a national strike if the pact expires without a new agreement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEARBORN, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

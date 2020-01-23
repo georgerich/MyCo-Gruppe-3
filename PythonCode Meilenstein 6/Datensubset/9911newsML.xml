@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9911" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australia govt says sure on Telstra sell down.</title>
+<headline>RTRS - Australia govt says sure on Telstra sell down.</headline>
+<dateline>CANBERRA 1996-08-22</dateline>
+<text>
+<p>Australia's conservative government said on Thursday it was confident of parliamentary approval for its planned sale of telecoms carrier Telstra Corp, but denied striking a deal with a Labor opposition defector.</p>
+<p>&quot;I am confident that we'll be able to persuade a majority of the (upper house) Senate in due course,&quot; Communications spokesman Richard Alston told Australian Broadcasting Corp television.</p>
+<p>Alston said the government had not supported Labor rebel Mal Colston in his bid for the Senate deputy presidency in return for supporting the Telstra sell-off.  </p>
+<p>The Liberal-National government does not have a majority in the Senate and needs the support of at least two non-government senators to pass legislation.</p>
+<p>Colston quit the Labor party on Tuesday to remain in the Senate as an independent, triggering speculation he could support the Telstra sale.</p>
+<p>Announcing his resignation, Colston said he accepted government mandates to carry out promised reforms.</p>
+<p>He was elected deputy president of the Senate on Tuesday after announcing his resignation.  </p>
+<p>Labor opposition communications spokesman Chris Schacht and Australian Democrats leader Cheryl Kernot said in the same interview they were not certain Colston had struck a deal to support the Telstra legislation.</p>
+<p>Labor and the Democrats have pledged to vote against the legislation in the Senate.</p>
+<p>Some senior government ministers have said Colston's defection makes Senate approval of the sell-off legislation easier.  </p>
+<p>But independent senator Brian Harradine told Australian Broadcasting Corp radio on Thursday that assessment could be wrong.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6560" id="root" date="1996-08-21" xml:lang="en">
+<title>PORTUGAL: Portugal's BFE profit rise helped by sale.</title>
+<headline>Portugal's BFE profit rise helped by sale.</headline>
+<dateline>LISBON 1996-08-21</dateline>
+<text>
+<p>Six months ending June 30</p>
+<p>(In billion escudos unless stated)</p>
+<p>    Cons net profit	  16.20     vs    6.60</p>
+<p>    Cons cashflow	    26.39     vs   19.35</p>
+<p>Note - Banco Fomento &amp; Exterior said that the net profit figure included profits from the sale of 9.8 million shares in Partest SA.  </p>
+<p>    Net profit before extraordinaries	  6.45    vs    6.59</p>
+<p>    Pre-tax profit before extraordinaries    8.07    vs    7.59</p>
+<p>    Pre-tax profit with extraordinaries     21.54    vs    7.59</p>
+<p>    Client loans	     693.07    vs    614.03</p>
+<p>    Client deposits	1,037.85    vs  1,004.74</p>
+<p>    Net liquid assets    1,743.02    vs  1,662.86</p>
+<p>The bank said that its cashflow over the first half was hurt by changes in Bank of Portugal regulations requiring the bank pension fund costs to be booked on a monthly basis instead of at the end of the year.</p>
+<p>The impact was close to 1.8 billion escudos, it said.</p>
+<p>($1=152.4 escudos)</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

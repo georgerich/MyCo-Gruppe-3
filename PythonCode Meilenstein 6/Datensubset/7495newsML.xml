@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7495" id="root" date="1996-08-21" xml:lang="en">
+<title>SWEDEN: Trygg-Hansa says reshuffle boosts H1.</title>
+<headline>Trygg-Hansa says reshuffle boosts H1.</headline>
+<dateline>STOCKHOLM 1996-08-21</dateline>
+<text>
+<p>Swedish insurer Trygg-Hansa on Wednesday reported a sharp jump in earnings for the first half of the year, saying a thorough reorganisation of the group had started to pay off.</p>
+<p>Trygg-Hansa's pre-tax profit increased to 1.52 billion crowns, a 27 percent improvement on the 1.20 billion crowns posted in the corresponding period last year.</p>
+<p>The increase was bolstered by a 29 percent jump in profits from the non-life insurance business, and by a sharply improved return on the group's asset portfolio.</p>
+<p>Capital gains and unrealised changes in value in the portfolio improved to 1.19 billion crowns from 848 million in the same 1995 period.</p>
+<p>Although a fall in direct yield on shares and bonds to 729 million crowns from 834 million offset some of the gains, the total return on capital improved to 1.82 billion crowns from 1.62 billion crowns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

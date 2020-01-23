@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7709" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Tai Ping Carpets posts interim net loss.</title>
+<headline>Tai Ping Carpets posts interim net loss.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   21.0 loss  vs 6.0 gain</p>
+<p>    Dividend (H.K. cents)    nil	  vs 2.0</p>
+<p>    Exceptional items	  19.71 loss vs nil</p>
+<p>    Net			    20.18 loss vs 6.08 profit</p>
+<p>    Turnover		     133.66     vs 122.74</p>
+<p>    Company name		 Tai Ping Carpets International Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Tai Ping manufactures carpets.</p>
+<p>Net is after an exceptional loss on provisions for slow moving stocks and doubtful debts.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

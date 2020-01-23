@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8715" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: UAL says orders 27 new Boeing jets.</title>
+<headline>UAL says orders 27 new Boeing jets.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>UAL Corp said its United Airlines unit ordered 27 new wide-body aircraft from Boeing Co valued at about $3.5 billion.</p>
+<p>The Boeing order is for 19 jumbo-sized 747-400s, six 757s and two 777s. The airline confirmed that it had additionally ordered 24 new narrow-body A319 aircraft from Airbus Industrie for about $900 million.</p>
+<p>The order values quoted by United are based on manufacturers' list prices, the airline said.</p>
+<p>&quot;United benefited from substantial discounts to the prices from both manufacturers,&quot; it said.  </p>
+<p>United said the planes will be part of its &quot;retire and replace&quot; program to update its fleet. &quot;By 2000, the program is expected to generate more than $100 million in annual operating cost savings, reducing fuel, maintenance and labor costs,&quot; United said.</p>
+<p>The program will also ensure that United meets certain noise reduction requirement.</p>
+<p>Delivery of all aircraft is scheduled to take place by 2002, United said.  </p>
+<p>United also said it placed orders with Pratt &amp; Whitney and International Aero Engines AG for engines to power the new jetliners. United Technologies Corp owns all of Pratt &amp; Whitney and 33 percent of International Aero Engines.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

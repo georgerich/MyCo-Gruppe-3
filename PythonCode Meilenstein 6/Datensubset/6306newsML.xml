@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6306" id="root" date="1996-08-21" xml:lang="en">
+<title>IRAN: Iran sentences man to death for pyramid scam.</title>
+<headline>Iran sentences man to death for pyramid scam.</headline>
+<dateline>TEHRAN 1996-08-21</dateline>
+<text>
+<p>An Iranian court has sentenced the head of an investment fund to death for defrauding depositors of $4 million in a pyramid scheme, a newspaper said on Wednesday.</p>
+<p>The daily Kayhan said the court in Tehran sentenced Eslam Kordlor, head of the Sahar va Elika investment firm, to death after convicting him of defrauding 11,000 depositors by running a pyramid scheme during the 1980-1988 Iran-Iraq war and &quot;jeopardising sound investment in the country.&quot;</p>
+<p>The ruling said the firm, which promised returns of 48 percent a year, owed depositors 12.1 billion rials ($4 million) after the court paid back part of the deposits by selling off Kordlor's properties, the newspaper reported.</p>
+<p>Kordlor has appealed the sentence handed down after the court found him a &quot;corrupter on earth&quot;, a conviction that often carries the death penalty under Iran's Islamic law.</p>
+<p>The pyramid scheme was one of many set up in the past few years in Iran which paid large returns for a short time to attract customers before collapsing. ($1=3,000 rials)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10830" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Novell Inc Q3 July 27 earnings summary.</title>
+<headline>Novell Inc Q3 July 27 earnings summary.</headline>
+<dateline>OREM, Utah 1996-08-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   $0.17		    $0.27</p>
+<p> Net			  58,759		  101,966</p>
+<p> Revs			365,091		  537,922</p>
+<p> Avg shrs		  352,129		  376,494</p>
+<p>			9  MONTHS</p>
+<p> Shr			   $0.18		    $0.75</p>
+<p> Net			  66,961		  179,353</p>
+<p> Revs			991,190		1,560,655</p>
+<p> Avg shrs		  362,052		  374,302</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Nine months 1996 net includes $18.4 million restructuring charge.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

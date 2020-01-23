@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3101" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: WCE canola ends mostly higher except August.</title>
+<headline>WCE canola ends mostly higher except August.</headline>
+<dateline>WINNIPEG 1996-08-20</dateline>
+<text>
+<p>WCE canola futures settled mostly higher except for spot August which ended on the downside.</p>
+<p>Concerns over an early frost in Canada and the United States have diminished but traders said they believe a weather premium is needed due to the fast approaching frost season.</p>
+<p>In export news, Canada sold 20,000 to 25,000 tonnes of canola to Japan in an overnight tender, traders said.</p>
+<p>Positive crop production reports, coupled with slack domestic crusher demand, tempered the gains, traders said.</p>
+<p>Renewed talk of frost affecting key canola growing regions of northern Alberta early next week generated some local and commission house buying interest, they said.</p>
+<p>August canola lost $5.00 at $460.00 per tonne while September firmed $0.30 to $423.50.</p>
+<p>Flaxseed futures were thinly traded with October up $1.20 at $389.20. Western domestic feed barley prices rose amid some followthrough buying after Monday's strong close.</p>
+<p>Short covering ahead of expiration Wednesday lifted August feed barley $4.80 at $162.40.</p>
+<p>October feed wheat was up $1.90 at $198.60 while feed peas were mainly lower in light trade.</p>
+<p>(All values in Canadian dollars/tonne except peas, oats, which are in U.S. dollars.)</p>
+<p>-- Doris Frankel 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

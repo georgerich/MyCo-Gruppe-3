@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12528" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: French consumer prices down final 0.2 pct in July.</title>
+<headline>French consumer prices down final 0.2 pct in July.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>National statistics institute INSEE gave the following final data. It said on August 12 that prices in July fell 0.2-0.3 percent from the previous month, giving a year-on-year rise of 2.2-2.3 percent.</p>
+<p>				    July	 June</p>
+<p> Month-on-month inflation   -0.2	 -0.1</p>
+<p> Year-on-year inflation	2.3	  2.3</p>
+<p> CPI Index (base 1990)     113.9	114.1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

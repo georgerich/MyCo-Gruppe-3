@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3286" id="root" date="1996-08-20" xml:lang="en">
+<title>ALBANIA: PRESS DIGEST - Albania - Aug 20.</title>
+<headline>PRESS DIGEST - Albania - Aug 20.</headline>
+<dateline>TIRANA 1996-08-20</dateline>
+<text>
+<p>The following are the main stories from Tuesday morning's Albanian newspapers. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>KOHA JONE</p>
+<p>- A major reshuffle at several Albanian ministries, including the foreign ministry, is expected in September, a source at the prime ministry said.</p>
+<p>- Eight political parties convened to discuss upcoming local elections. But opposition parties did not participate in the meeting which was initiated by the ruling Democrats.</p>
+<p>- The number of foreign tourists increased in Albania in the first half of 1996 despite shortcomings in the national infrastructure.</p>
+<p>- Albania's first airline, Albanian Airlines, went bankrupt with a deficit of $15 million after three years in operation.</p>
+<p>GAZETA SHQIPTARE</p>
+<p>- The opposition Socialist Party of jailed leader Fatos Nano plans to reduce the membership of its leadership at the second stage of its convention on August 24 and 25.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

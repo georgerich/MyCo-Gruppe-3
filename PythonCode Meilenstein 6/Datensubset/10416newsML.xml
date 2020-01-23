@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10416" id="root" date="1996-08-23" xml:lang="en">
+<title>NETHERLANDS: Dutch PTT has higher first half net profit.</title>
+<headline>Dutch PTT has higher first half net profit.</headline>
+<dateline>THE HAGUE 1996-08-23</dateline>
+<text>
+<p>The 45 percent government-owned Dutch PTT announced higher first half net profit on Friday and repeated a previous forecast of growth at the company for 1996.</p>
+<p>Post and telecoms group Koninklijke PTT Nederland NV said net profit in the first half to June 30 rose 8.5 percent to 1.209 billion guilders ($724 million) from 1.114 billion in the first half of 1995.</p>
+<p>The interim dividend rose to 1.00 guilders per share, up from the previous 0.90 guilders, while net sales rose to 9.94 billion guilders from 9.41 billion.</p>
+<p>Dutch PTT said the postal and telecoms units had both had a good first half with volumes increasing in all sectors and sales growing despite significant price cuts in telecommunications.</p>
+<p>&quot;Smaller additions to reorganisation provisions than in the first half of 1995 had a positive effect on the growth of operating income,&quot; the company said in a statement. ($1=1.669 Guilder)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

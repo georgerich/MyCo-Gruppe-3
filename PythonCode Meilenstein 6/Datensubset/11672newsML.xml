@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11672" id="root" date="1996-08-23" xml:lang="en">
+<title>ISRAEL: Netanyahu sets up National Security team.</title>
+<headline>Netanyahu sets up National Security team.</headline>
+<dateline>JERUSALEM 1996-08-23</dateline>
+<text>
+<p>Israeli Prime Minister Benjamin Netanyahu on Friday formed a White House-style National Security team to advise him on security issues.</p>
+<p>&quot;The prime minister in coordination with the defence minister has decided to set up a National Security team in the prime minister's office,&quot; Netanyahu's office said in a statement.</p>
+<p>The statement said the team would advise the prime minister on security issues including intelligence assessment, terrorism and strategic planning.</p>
+<p>Netanyahu won Israel's May election by pledging to bring peace with security following Moslem suicide bombings that killed 59 people in the Jewish state in February and March.</p>
+<p>The team, now comprised of four officials and due to be expanded, will be headed by Netanyahu's military adviser Major-General Zeev Livneh.</p>
+<p>The prime minister had announced at his first cabinet meeting in June that he would establish a National Security Council.</p>
+<p>Absent from the team was the director-general of the Defence Ministry, Major-General Reserve David Ivri, who Netanyahu had originally said would head it.</p>
+<p>Israeli media had reported at the time that Defence Minister Yitzhak Mordechai was upset that Ivri would be granted additional powers.</p>
+<p>&quot;The defence minister requested from the prime minister to retain Major-General Reserve David Ivri in the Defence Ministry due to his important role in the establishment,&quot; said the statement, adding that Netanyahu had responded positively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

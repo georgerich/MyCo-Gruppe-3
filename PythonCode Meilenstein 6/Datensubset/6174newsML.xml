@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6174" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: NZ govt to offer NZ$100 mln 02/01 bonds at tender.</title>
+<headline>NZ govt to offer NZ$100 mln 02/01 bonds at tender.</headline>
+<dateline>WELLINGTON 1996-08-22</dateline>
+<text>
+<p>The New Zealand government will offer only the February 2001 maturity in a NZ$100 million bond tender on August 29, the Reserve Bank said on Thursday.</p>
+<p>The bank also said it would buy NZ$50 million of 02/01s for its own portfolio.</p>
+<p>The tender is the first since the Debt Management Office announced it was halving the 1996-97 domestic bond programme to NZ$1 billion following the government's sale of Forestry Corporation.  </p>
+<p>Dealers speculated after the DMO's announcement that the cutback may mean no further issuance of November 2006 bonds. Net proceeds to the government from the sale of Forestry Corp to a Fletcher Challenge-led consortium totalled $1.6 billion, to be used for repaying debt.</p>
+<p>Details (amounts in millions of NZ dollars).</p>
+<p>    Maturity			    Amount</p>
+<p>    Feb 2001 (8.0 pct coupon)     NZ$100</p>
+<p>Bids close 11.30 a.m. on Thursday August 29 (2330 GMT Wednesday) and results will be announced at 1.00 p.m. (0100 GMT) the same day. -- Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

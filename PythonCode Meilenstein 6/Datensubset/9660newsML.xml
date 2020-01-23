@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9660" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Details of sweeping Republican welfare reform bill.</title>
+<headline>Details of sweeping Republican welfare reform bill.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The welfare reform bill signed into law by President Clinton Thursday makes the most dramatic changes in federal anti-poverty programmes in six decades. Following are highlights of the measure:</p>
+<p>-- Ends a 61-year guarantee of federal aid for poor children. Instead, Aid to Families with Dependent Children, the main federal cash welfare programme, and smaller programmes are folded into an annual block grant states would use to operate their own welfare programmes.</p>
+<p>-- Reduces spending by about $55 billion over six years, mainly by cutting Food Stamps and aid to legal immigrants.</p>
+<p>-- Imposes a five-year lifetime limit on welfare benefits. States could exempt up to 20 percent of their caseload for hardship reasons and set shorter time limits.</p>
+<p>-- Requires recipients to begin working two years after receiving welfare and mandates that 50 percent of single-parent families work 30 hours a week by 2002. States already running welfare work programmes under federally approved waivers could continue the programmes until the waivers expired.</p>
+<p>-- Reduces spending on Food Stamps, federal coupons redeemed for food at supermarkets, by $28 billion over six years and allows able-bodied individuals without children to receive Food Stamps for only three months in any three-year period, unless they are working part-time. Individuals can get another three months if they are laid off a job.</p>
+<p>-- Bars most federal aid including Medicaid and cash welfare to future legal immigrants for five years. Current immigrants could not receive disability and Food Stamps during their first five years in the United States and states have the option to deny other aid. Exceptions include refugees and immigrants who have generally worked for 10 years.</p>
+<p>-- Makes it more difficult for children to receive federal disability payments due to mental problems.</p>
+<p>-- Sets tough new rules to crack down on parents who do not pay child support.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10963" id="root" date="1996-08-23" xml:lang="en">
+<title>SOUTH AFRICA: Samancor contracts Finnish engineers.</title>
+<headline>Samancor contracts Finnish engineers.</headline>
+<dateline>JOHANNESBURG 1996-08-23</dateline>
+<text>
+<p>South Africa's Samancor and Outokumpu Engineering Contractors of Finland on Friday signed 106 million rand contract to build a pelletising and sintering plant at Samancor's ferrometals ferrochrome works.</p>
+<p>The companies said in a statement that, in addition to the 520,000 tonnes per annum pelletising and sintering plant, the contract would also see the construction of preheating shaft kilns at Samancor's works located at Witbank, east of Johannesburg.</p>
+<p>The plant would be completed towards the end of 1997 and the kilns installed during 1998.</p>
+<p>&quot;The contract involves the supply of technology, engineering design and certain proprietary equipment by Outokumpu. The value of the contract with Outokumpu engineering contractors is 106 million rand,&quot; the statement said.</p>
+<p>The project would reduce Samancor's need for scarce lumpy ore and would improve the overall utilisation of its chromite ore reserves. The use of the sintered ore and the preheating of raw materials would improve furnace efficiencies and output.</p>
+<p>-- Johannesburg newsroom +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

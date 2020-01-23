@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11411" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: KCBT wheat ends firm on short-covering, Egypt.</title>
+<headline>KCBT wheat ends firm on short-covering, Egypt.</headline>
+<dateline>KANSAS CITY, Mo. 1996-08-23</dateline>
+<text>
+<p>KCBT hard red winter wheat futures ended firm on short-covering, an overall lack of selling and talk Egypt was mulling a U.S. wheat purchase, traders said.</p>
+<p>Egypt confirmed after the close that it was taking tenders until Saturday for 50,000 tonnes of U.S. wheat for shipment in September or October. The wheat could be either U.S. hard red, soft white or soft red, spokesman in Cairo said.</p>
+<p>KCBT wheat closed 1-1/2 to 2-1/2 cents per bushel higher, with Sept up 1-1/2 cents at $4.83. December gained two cents per bushel to close at $4.80.</p>
+<p>&quot;We were lifted by short-covering early and I guess we saw some spillover strength from Chicago,&quot; a trader said.</p>
+<p>Refco and Prudential each bought a million December bushels, traders said. Benson Quinn and Wolcott and Lincoln each sold a million Dec. Prudential also reportedly bear-spread one million Dec/Sept bushels at between two and 2-1/4 cents per bushel.</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

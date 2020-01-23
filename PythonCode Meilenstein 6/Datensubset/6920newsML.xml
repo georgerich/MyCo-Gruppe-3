@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6920" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Pacific Gateway Exchange Inc Q2 net rises.</title>
+<headline>Pacific Gateway Exchange Inc Q2 net rises.</headline>
+<dateline>BURLINGAME, Calif. 1996-08-21</dateline>
+<text>
+<p>Thousands, except per share data</p>
+<p>			    Three Months		  Six Months</p>
+<p>			     ended			    ended</p>
+<p>		     Jun 30,	  Jun 30,    Jun 30,    Jun 30,</p>
+<p>			  1996	     1995	 1996	 1995</p>
+<p> Revenue	  $ 36,733	 $ 17,560   $ 68,973   $ 29,685</p>
+<p> Operating Income  1,356		890	2,125	1,792</p>
+<p> Net Income	    762		470	1,129	  950</p>
+<p>Net Earnings</p>
+<p>  per Share	   0.05	     0.03	 0.08	 0.07</p>
+<p>Average shares</p>
+<p>  outstanding     14,091	   14,100     14,091     14,100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGAME, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

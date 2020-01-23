@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11560" id="root" date="1996-08-23" xml:lang="en">
+<title>SRI LANKA: Crepe prices rise at Colombo auction.</title>
+<headline>Crepe prices rise at Colombo auction.</headline>
+<dateline>COLOMBO 1996-08-23</dateline>
+<text>
+<p>Crepe prices rose at the Colombo auction where 212 tonnes of crepe and 25 tonnes of sheet were on offer, brokers said on Friday.</p>
+<p>Best latex crepe one-x rose one rupee to 71 rupees per kilogram from last Tuesday while number one also firmed by one rupee to 70 rupees per kg. RSS1 was unchanged at 63 rupees, they said.</p>
+<p>Brokers said rubber prices, which have been stagnant over the past few weeks, seem to be on the rise. &quot;Demand seems to be picking up again as people return to work from holidays,&quot; a broker for Forbes &amp; Walker said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

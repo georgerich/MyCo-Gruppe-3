@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4748" id="root" date="1996-08-20" xml:lang="en">
+<title>TAIWAN: Taiwan money rates slide at mid-session.</title>
+<headline>Taiwan money rates slide at mid-session.</headline>
+<dateline>TAIPEI 1996-08-20</dateline>
+<text>
+<p>Taiwan's money rates slid at mid-session on Tuesday as liquidity remained stable following the central bank's persistent fund injection, dealers said.</p>
+<p>The overnight interbank rate was at 5.388 percent against Monday's 5.436 percent end, with 30-day commercial paper at 5.40-5.50 against 5.50. The central bank injected T$8.665 billion in funds into the banking system on Tuesday.</p>
+<p>Bond market investors adopted a wait-and-see attitude ahead of Tuesday's auction of 15-year T$30 billion government bond. Bond dealers expected the range of the yields at between 6.1850 and 6.2250. -- Julie Hu (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

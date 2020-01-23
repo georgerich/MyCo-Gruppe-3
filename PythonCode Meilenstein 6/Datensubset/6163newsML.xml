@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6163" id="root" date="1996-08-21" xml:lang="en">
+<title>GUATEMALA: U.S. lifts travel warning on Guatemala.</title>
+<headline>U.S. lifts travel warning on Guatemala.</headline>
+<dateline>GUATEMALA CITY 1996-08-20</dateline>
+<text>
+<p>The United States has lifted a 2 1/2-year-old travel warning that recommended against non-essential travel to Guatemala by U.S. tourists, the U.S. embassy said on Tuesday.</p>
+<p>&quot;As a result of the most recent review of conditions in Guatemala, the government of the United States has eliminated the travel warning that has been in effect since March 1994,&quot; the embassy said in a news release.</p>
+<p>The travel warning was issued after an American tourist was badly beaten by Guatemalans who believed she was trying to steal children.</p>
+<p>At the time many Guatemalans were caught up in a nationwide fear of foreigners snatching babies to sell their organs.</p>
+<p>Government officials and private citizens here consistently have complained about the travel warning, and the Guatemalan Tourism Institute has blamed the advisory for harming the tourism industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUATEMALA CITY"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

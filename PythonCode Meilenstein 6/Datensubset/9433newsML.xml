@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9433" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Hong Kong Duty Free Shoppers forms China alliance.</title>
+<headline>Hong Kong Duty Free Shoppers forms China alliance.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Travel retail group Duty Free Shoppers Hong Kong Ltd said on Thursday it formed a strategic alliance with Chinese organisations to bid for concessions at Hong Kong's new airport and to seek expansion in China.</p>
+<p>The new company, DFS China Partners Ltd, brings the DFS group into partnership with China Travel Service and Diaoyutai State Guest House, a unit of China's Foreign Affairs Ministry.</p>
+<p>The new group's first project would be to bid for retail concessions at Chek Lap Kok airport, which is due to start operation in Hong Kong in April 1998. Tendering opens in October.</p>
+<p>The Bank of China Hong Kong/Macau Regional Office would act as adviser to the group, it said.</p>
+<p>The DFS Group runs more than 180 duty free and general merchandise stores in airport terminals and downtown locations in 13 countries. Hong Kong, a British colony, reverts to China next July 1.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

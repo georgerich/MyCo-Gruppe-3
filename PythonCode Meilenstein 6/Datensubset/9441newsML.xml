@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9441" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: Cheung Kong lists H1 completed projects. [CORRECTED 11:04 GMT]</title>
+<headline>Cheung Kong lists H1 completed projects. [CORRECTED 11:04 GMT]</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>Hong Kong property giant Cheung Kong (Holdings) Ltd said on Thursday the following</p>
+<p>developments were completed in the first half of 1996 -</p>
+<p> Name		  Location    Total gross    Group's</p>
+<p>					 floor area     interest</p>
+<p> University	  Pokfulam    29,201 sq m     50 pct</p>
+<p> Heights					     (development</p>
+<p>							  interest)</p>
+<p> Lynwood Court     Yuen Long   178,300 sq m    48.25 pct</p>
+<p>Kingswood Villas</p>
+<p>(Blocks 1-10)</p>
+<p>The following are scheduled for completion in the second half of the year - (Corrects to make clear the projects listed below have still to be completed).</p>
+<p> Wayland House     Shek Pai Wan  6,000 sq m    50 pct</p>
+<p> Modern Warehouse  Kwun Tong    22,296 sq m   100 pct</p>
+<p>-- Hong Kong Newsroom (852) 2843-6352</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

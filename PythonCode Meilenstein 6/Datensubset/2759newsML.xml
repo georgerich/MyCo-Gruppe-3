@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2759" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Hurricane Dolly rakes Yucatan.</title>
+<headline>Hurricane Dolly rakes Yucatan.</headline>
+<dateline>MIAMI 1996-08-20</dateline>
+<text>
+<p>Hurricane Dolly raced over Mexico's Yucatan peninsula on Tuesday with 75 mph (120 kph) winds and up to 10 inches (25 cm) of rain, forecasters at the National Hurricane Center said.</p>
+<p>At 2 p.m. EDT (1800 GMT), the center of Hurricane Dolly was located at latitude 19.3 north, longitude 87.9 west, about 60 miles (96 km) north-northeast of Chetumal, Mexico, the hurricane center said.</p>
+<p>The storm was moving to the west-northwest at 13 mph (21 kph).</p>
+<p>It was expected to weaken slightly as it passed over the Yucatan peninsula, but forecasters said there was a good chance of strengthening once the storm moved over the warm waters of the Gulf of Mexico.</p>
+<p>Hurricane-force winds extended about 25 miles (40 km) from the center and tropical storm-force winds extended about 175 miles (280 km) from the center. The storm carried 5-10 inches (13-25 cm) of rain, forecasters said.</p>
+<p>Dolly was expected to approach the Texas-Mexico border on Thursday.</p>
+<p>A hurricane warning was in effect for the east coast of the Yucatan peninsula and parts of the Belize coast were under a tropical storm watch.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

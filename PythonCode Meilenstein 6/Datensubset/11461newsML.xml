@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11461" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Gasoline flotilla heads to U.S., soft prices ahead.</title>
+<headline>Gasoline flotilla heads to U.S., soft prices ahead.</headline>
+<byline>Ransdell Pierson</byline>
+<dateline>NEW YORK 1996-08-23</dateline>
+<text>
+<p>Over a dozen gasoline cargoes from Europe and South America are poised to penetrate U.S. markets starting Friday, adding more downward pressure on prices seen recently, New York gasoline traders said on Friday.</p>
+<p>&quot;I haven't seen so many boats coming in for quite a while, so this could put more pressure on cash prices,&quot; one trader said of at least 13 cargoes of conventional unleaded and reformulated grades expected by the first week of September.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4678" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Mycal -96/97 parent forecast.</title>
+<headline>Mycal -96/97 parent forecast.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Year to February 28, 1997</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    PREVIOUS	   ACTUAL</p>
+<p> (Parent)	     FORECAST	   FORECAST	  YEAR-AGO</p>
+<p> Revenues	     1.10 trln	  1.10 trln	  1.05 trln</p>
+<p> Current	     15.00		14.00		12.02</p>
+<p> Net		    9.00		 7.50		 5.66</p>
+<p>NOTE - Mycal Corporation is a major supermarket chain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

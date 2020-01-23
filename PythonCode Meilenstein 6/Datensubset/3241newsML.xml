@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3241" id="root" date="1996-08-20" xml:lang="en">
+<title>ESTONIA: Estonia shares sluggish amid summer slumber.</title>
+<headline>Estonia shares sluggish amid summer slumber.</headline>
+<dateline>TALLINN 1996-08-20</dateline>
+<text>
+<p>Shares on the Tallinn stock exchange were in lacklustre summertime mode on Tuesday, with volumes on the official list well down, traders said.</p>
+<p>Overall turnover was just 2.9 million kroons and the Tallinn stock exchange index dipped slightly, 0.06 percent, to 96.03.</p>
+<p>The largest turnover was in Forexbank, which traded around one million kroons worth of shares with its price easing to 77.30 kroons from 77.60 kroons.</p>
+<p>Activity remained good on the free market, with Tallinn Pharmaceuticals again the star attraction. It traded 1.14 million kroons worth shares and climbed to 33.70 kroons from 32 kroons.</p>
+<p>Other free market shares were quiet and overall turnover on the list was 1.71 million kroons.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

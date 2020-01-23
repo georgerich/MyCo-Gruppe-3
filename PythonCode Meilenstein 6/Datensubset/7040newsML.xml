@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7040" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post Business - Aug 21.</title>
+<headline>PRESS DIGEST - Washington Post Business - Aug 21.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>The Washington Post carried the following business stories on August 21:</p>
+<p>---</p>
+<p>WASHINGTON - ValuJet Airlines will not get approval to resume flying by Friday, its target date, and may have to wait until at least early September to restart operations.</p>
+<p>---</p>
+<p>WASHINGTON - Some analysts are concerned about the vagueness and credibility of the tax plan offered by Republican presidential candidate Bob Dole.</p>
+<p>---</p>
+<p>WASHINGTON - The Federal Reserve opted to make no change in short-term interest rates, suggesting officials are satisfied the economy is growing at a sustainable rate.</p>
+<p>---</p>
+<p>WASHINGTON - Consumers Union, publisher of Consumer Reports, asked the government to order a recall of some Acura SLXs and Isuzu Troopers which it said were prone to rolllover.</p>
+<p>---</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

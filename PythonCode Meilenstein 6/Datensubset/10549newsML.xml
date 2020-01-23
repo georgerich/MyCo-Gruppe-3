@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10549" id="root" date="1996-08-23" xml:lang="en">
+<title>FINLAND: RALLYING-ALMOST 30 INJURED IN 1,000 LAKES ACCIDENT.</title>
+<headline>RALLYING-ALMOST 30 INJURED IN 1,000 LAKES ACCIDENT.</headline>
+<dateline>HELSINKI 1996-08-23</dateline>
+<text>
+<p>Nearly 30 people were injured, some seriously, in an accident which halted the opening phase of the 1,000 Lakes Rally in Jyvaskyla, central Finland, on Friday.</p>
+<p>Rally organisers said 28 people were in hospital and two were undergoing surgery after Danish driver Karsten Richardt ploughed into a crowd of spectators during a two-km time trial at the event, the sixth round of the world championship.</p>
+<p>Richardt and his co-driver Ole Frederiksen lost control of their Mitsubishi, skidded down an escape road and crashed into a cordoned-off area for spectators.</p>
+<p>Organisers said Richardt's condition was not clear, but he was not thought to be among those seriously injured and most of the injuries were light, with two already out of hospital.</p>
+<p>The Finnish STT news agency said eight people needed surgery.</p>
+<p>The time trial was suspended as dusk approached because most of the remaining cars did not have auxiliary lights fitted.</p>
+<p>They were therefore given the time of the fastest runner before the stage was stopped, and overnight 60 cars are classified as tied for the lead.</p>
+<p>The rally is expected to resume on Saturday.</p>
+<p>A young woman was killed at last year's event when she walked in front of a car testing the course before the race began.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

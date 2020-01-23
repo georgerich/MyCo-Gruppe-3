@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6127" id="root" date="1996-08-21" xml:lang="en">
+<title>CHILE: Chile's Endesa mulls refinery - report.</title>
+<headline>Chile's Endesa mulls refinery - report.</headline>
+<dateline>SANTIAGO 1996-08-21</dateline>
+<text>
+<p>Chilean electricity generator Empresa Nacional de Electricidad (Endesa) is studying plans to build a copper refinery in northern Chile, reported newspaper El Diario Wednesday.</p>
+<p>&quot;We believe that the mining sector has a certain synergy with the electricity business and the idea is to participate in projects with an intensive use of this material, as is the case of refineries,&quot; said general manager Jaime Bauza.</p>
+<p>But any investment in the mining industry would be marginal to the company's power generation activities, he said.  </p>
+<p>&quot;Never will more than five percent of Endesa's assets be outside electricity generation,&quot; said Bauza.</p>
+<p>Chile, the world's largest copper producer, has seven refineries which can process up to 1.5 million tonnes of fine copper a year, said El Diario.</p>
+<p>Copper production is rising steeply with copper in concentrate output expected to grow to 3.4 million tonnes by the end of the decade from 2.1 million tonnes this year.</p>
+<p>Most of the concentrates are shipped abroad for processing in foreign smelters and refineries.</p>
+<p>-- Margaret Orgill, Santiago newsroom, 562-699-5595 x212</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

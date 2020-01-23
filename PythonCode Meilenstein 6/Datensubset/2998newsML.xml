@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2998" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Metal Recovery to redeem preferred stock.</title>
+<headline>Metal Recovery to redeem preferred stock.</headline>
+<dateline>EAST CHICAGO, Ind. 1996-08-20</dateline>
+<text>
+<p>Metal Recovery Technologies Inc said Tuesday it will redeem during the next four weeks its A preferred shares valued at about $675,000.</p>
+<p>The redemption is part of the company's plan to seek a return to Nasdaq listing.</p>
+<p>Metal Recovery said that conversion of about $2.5 million in loans by holders, the redemption and the start-up of production at an East Chicago plant will strengthen the company's balance sheet. This will allow Metal Recovery to fulfill Nasdaq listing requirements, the company said.</p>
+<p>Metal Recovery uses a process which removes zinc from galvanized scrap steel that yields 99.8 percent pure zinc and high quality reusable scrap steel.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EAST CHICAGO, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

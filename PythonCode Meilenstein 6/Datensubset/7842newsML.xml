@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7842" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: Full text of statement by Bundesbank's Tietmeyer.</title>
+<headline>Full text of statement by Bundesbank's Tietmeyer.</headline>
+<dateline>FRANKFURT 1996-08-22</dateline>
+<text>
+<p>This is the full text of the telephone statement made by Bundesbank President Hans Tietmeyer on Thursday explaining the German central bank's decision to cut the securities repurchase rate by 30 basis points to three percent. The unofficial translation was carried out by Reuters.</p>
+<p>&quot;The decision today to cut the repo rate from 3.30 to three was in line with our general policy. After our decision in April, I pointed out that we had lowered the corridor by bringing down the discount and the Lombard rate.</p>
+<p>&quot;I said we would then examine the situation to see if there was scope to reduce the relevant money market rates, that is the repo rate. In the subsequent months we examined these rates regularly. We decided there was scope which resulted today in the reduction in the repo rate.</p>
+<p>&quot;A decisive factor behind this decision was the development of M3 money supply and we could see a continuing approach towards the corridor we set out. In the last few months the rate was constantly moving closer to the corridor.</p>
+<p>&quot;Secondly the stability policy environment allowed for a cut in the repo rate. We examined indicators of pre-consumer inflation and we recognised that they posed no danger to price stability in the immediate future.</p>
+<p>&quot;Thirdly we think our decision is fitting in the general world context. Now we intend to watch further developments over the coming period. We believe that we have created clarity for the time being. The Bundesbank does not follow short-term policies but rather a stability-oriented policy.</p>
+<p>&quot;Naturally over the rest of the year, over a longer period, we shall examine how the situation develops. But with today's decision we have created clarity for the time being.&quot;</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

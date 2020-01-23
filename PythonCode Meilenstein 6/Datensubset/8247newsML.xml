@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8247" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Tosco Bayway, recently upgraded, undamaged.</title>
+<headline>Tosco Bayway, recently upgraded, undamaged.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Tosco Corp said Thursday that the crude unit at its 230,000 barrel per day (bpd) Bayway, New Jersey refinery was hardly damaged by a small fire there on Wednesday.</p>
+<p>The plant, which added an SDA (solvent deasphalter) unit 10 days ago, experienced a small amount of damage to some measuring instruments, according to Dwight Wiggins, president of Tosco Refining.</p>
+<p>&quot;A guy was putting a pressure gauge on a small bleeder to do a pressure survey. It started spewing hyrdocarbon and it was hot enough to catch fire,&quot; said Wiggins.  </p>
+<p>&quot;The guy was kind of red in the face but it was less than first degree, he said.</p>
+<p>The refinery has capacity to process between 240,000 and 250,000 barrels a day of crude oil and Wiggins noted that it recently added the 20,000 barrels a day SDA, which converts heavy no. 6 oil into feedstock for the catalytic cracker.</p>
+<p>&quot;We're real excited about it,&quot; said Wiggins. The addition of the SDA unit means that only about 5,000 barrels a day of no. 6 oil is produced, which sells at a discount of more than $4 a barrel to crude, while an additional 15,000 barrels of more valuable feed for the cat cracker unit is produced.  </p>
+<p>The unit's cat cracker has capacity to process 140,000 to 145,000 barrels a day. There is also a 30,000 bpd reformer unit and a 15,000 bpd alkylation section. -- Tony McAuley, New York Energy Desk + 1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

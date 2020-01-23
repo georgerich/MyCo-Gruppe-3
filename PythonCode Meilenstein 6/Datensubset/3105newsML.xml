@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3105" id="root" date="1996-08-20" xml:lang="en">
+<title>CANADA: Slight frost risk for Canadian grain next two days.</title>
+<headline>Slight frost risk for Canadian grain next two days.</headline>
+<dateline>WINNIPEG 1996-08-20</dateline>
+<text>
+<p>There is a slight risk of frost damage to Canadian grain in the foothills of Alberta on Wednesday morning and along the Saskatchewan/Manitoba border on Thursday, an Environment Canada meteorologist said.</p>
+<p>Brian Bukosi, of Environment Canada, said the outlook had become drier and cooler for Manitoba and Saskatchewan since Monday's forecasts, when only a slight risk of frost in Alberta was anticipated.</p>
+<p>&quot;There is a clear dry area and temperatures (at chest level) may be as low of 4.0 to 5.0 (Centigrade) so there is a slight risk of pockets of frost (in Manitoba/Saskatchewan),&quot; he said.</p>
+<p>Temperatures at chest level are normally around four degrees higher than at ground level, Bukosi said.</p>
+<p>The longer term outlook saw no other risk of frost in key grain growing areas up to Thursday August 29.</p>
+<p>--Nigel Hunt 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

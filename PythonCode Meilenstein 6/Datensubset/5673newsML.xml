@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5673" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Green groups say World Bank backtracks on energy.</title>
+<headline>Green groups say World Bank backtracks on energy.</headline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>A host of environmental advocacy groups charged Wednesday that the World Bank has weakened its commitment to promoting environmentally-friendly energy and electrical power projects.</p>
+<p>In a letter to World Bank president James Wolfensohn, the environmental groups complained that the bank issued recent positions on electrical power and on energy efficiency in non-binding &quot;good practices&quot; documents instead of as binding operational policies.  </p>
+<p>&quot;We believe that the Bank's actions reflect a lack of commitment to sustainable energy -- in stark contrast to its stated goals,&quot; said the letter from the Environmental Defense Fund, Greenpeace International, Climate Action Network and other advocacy groups.</p>
+<p>But bank officials denied that the bank has weakened its support for sustainable energy.</p>
+<p>&quot;The bank policy is there for electrical and energy efficiency -- that hasn't changed and it's binding for anyone in the bank,&quot; said Henri Bretaudeau, senior external affairs counselor in the bank's Industry and Energy Department.  </p>
+<p>Bretaudeau and other bank officials said the World Bank board in 1992 adopted the sustainable energy policies to make the bank's lending more selective and incorporate conservation and energy from renewable sources, and they still stand.</p>
+<p>These documents that are more specific and focused than the board's policies were issued to guide project manangers, not as rigid rules, the officials said.</p>
+<p>&quot;Simply, instead of ratifying policy every time we learn a new lesson, we incorporate our practices on the ground,&quot; a bank spokesman said.  </p>
+<p>But Karan Capoor of the Environmental Defense Fund said the bank had indicated the documents would be binding operational policies, then bank officials changed their mind at the last minute.</p>
+<p>&quot;The World Bank's issuing of new energy policies as non-binding 'good practices' stands in stark contrast to where the rest of the world is moving: binding urgent action on global climate change,&quot; Capoor said.  </p>
+<p>He said the bank's attitude could weaken &quot;the resolve of governments worldwide&quot; to negotiate legally binding targets to reduce emissions frm burning fossil fuels that trap heat in the earth's atmosphere.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

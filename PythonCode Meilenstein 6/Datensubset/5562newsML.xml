@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5562" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: US late cash prods nurse wounds from bearish EIAs.</title>
+<headline>US late cash prods nurse wounds from bearish EIAs.</headline>
+<dateline>NEW YORK 1996-08-21</dateline>
+<text>
+<p>Led by gasoline, U.S. spot products fell sharply by late Wednesday as differentials and September futures wilted following release earlier in the day of unexpectedly bearish EIA data.</p>
+<p>New York Harbor conventional unleaded M2-grade gasoline fell 1.50 cents as differentials weakened 0.75 cent. Diffs on A2-grade reformulated eased a half cent, with offers at 0.75 cent over September futures, players said.</p>
+<p>&quot;There's a lot of conventional in the harbor,&quot; one East Coast trader said, adding many sellers weren't advertising for fear of appearing overly eager. &quot;But if they know you're interested, they'll make an offer,&quot; the trader added.</p>
+<p>Gulf Coast conventional unleaded M1-grade gasoline lost about 1.40 cents, players said, with bids for any-August material at about 6.00 cents below the print.</p>
+<p>The EIA weekly report, based on a wider polling sample than API data released Tuesday, showed a 200,000-barrel increase in gasoline stocks for the week ending August 16.</p>
+<p>The API report, by contrast, showed a more bullish 864,000-barrel drawdown in U.S. gasoline stocks. But for New York Harbor, it showed a bearish 2.2 million build in reformulated gasoline.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

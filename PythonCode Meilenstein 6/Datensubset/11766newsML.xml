@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11766" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: CBOT rice closes higher on technical rebound.</title>
+<headline>CBOT rice closes higher on technical rebound.</headline>
+<dateline>CHICAGO 1996-08-22</dateline>
+<text>
+<p>Choppy trading continued and CBOT rice futures ended higher on a technical rebound, traders said.</p>
+<p>&quot;There is critical support in the nearby month at $9.90 to $9.95 per cwt,&quot; a trader said. The session low for nearby September was $9.99 per cwt.</p>
+<p>Traders also said the dwindling stocks of rice worldwide was supportive. But reports of excellent yields in the early harvesting of U.S. rice limited gains.</p>
+<p>Rice futures closed one to five cents per cwt higher, with September up three at $10.07 per cwt.</p>
+<p>Rice futures volume was estimated at 550 contracts, up from 290 Wednesday, according to the CBOT.</p>
+<p>Rice options volume was estimated at 50 contracts, down from 62 Wednesday.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7096" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: German ZEW details 6-mth major nations forecasts.</title>
+<headline>German ZEW details 6-mth major nations forecasts.</headline>
+<dateline>MANNHEIM, Germany 1996-08-21</dateline>
+<text>
+<p>The following table lists the economic and market forecasts for the six months from August 21 issued by the ZEW Zentrum fuer Europaeische Wirtschaftsforschung GmbH research institute. The averages are compiled from a survey of 308 firms conducted from August 5-20.</p>
+<p>    INFLATION RATES		Base    Forecast</p>
+<p>    Germany			    1.6     1.7</p>
+<p>    U.S.				 3.0     3.3</p>
+<p>    Japan				0.6     0.9</p>
+<p>    Britain			    2.2     2.3</p>
+<p>    France			     2.2     2.2</p>
+<p>    Italy				3.6     3.6</p>
+<p>SHORT-TERM RATES (Three-month interbank rates)</p>
+<p>    Germany			    3.3     3.3</p>
+<p>    U.S.				 5.1     5.5</p>
+<p>    Japan				0.7     1.2</p>
+<p>    Britain			    5.8     5.9</p>
+<p>    France			     4.0     4.0</p>
+<p>    Italy				8.6     8.5</p>
+<p>LONG-TERM RATES</p>
+<p>    Germany			    6.3     6.5</p>
+<p>    U.S.				 6.5     6.9</p>
+<p>    Japan				3.2     3.7</p>
+<p>    Britain			    7.8     8.0</p>
+<p>    France			     6.3     6.5</p>
+<p>    Italy				9.4     9.5</p>
+<p>BOURSE</p>
+<p>    German DAX		     2,540   2,600</p>
+<p>    U.S. Dow Jones		 5,690   5,640</p>
+<p>    Japan Nikkei		  20,900  21,900</p>
+<p>    Britain FT-SE 100	    3,830   3,830</p>
+<p>    France CAC-40		  1,990   2,070</p>
+<p>    Italy MIBtel		   9,600  10,100</p>
+<p>EXCHANGE RATES VS MARK</p>
+<p>    Swiss franc		     1.23    1.21</p>
+<p>    U.S. dollar		     1.48    1.55</p>
+<p>    Japanese yen		    1.38    1.40</p>
+<p>    British pound		   2.30    2.32</p>
+<p>    French franc		    2.93    2.93</p>
+<p>    Italian lira		    0.98    0.97</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANNHEIM, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

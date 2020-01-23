@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10576" id="root" date="1996-08-23" xml:lang="en">
+<title>MALAYSIA: BADMINTON-MALAYSIAN OPEN BADMINTON RESULTS.</title>
+<headline>BADMINTON-MALAYSIAN OPEN BADMINTON RESULTS.</headline>
+<dateline>KUALA LUMPUR 1996-08-23</dateline>
+<text>
+<p>Results in the Malaysian</p>
+<p>Open badminton tournament on Friday (prefix numbers denote</p>
+<p>seedings):</p>
+<p>Men's singles, quarter-finals</p>
+<p>2-Ong Ewe Hock (Malaysia) beat 5/8-Hu Zhilan (China) 15-2 15-10</p>
+<p>9/16-Luo Yigang (China) beat Jason Wong (Malaysia) 15-5 15-6</p>
+<p>Ijaya Indra (Indonesia) beat P.Kantharoopan (Malaysia) 15-6 5-4</p>
+<p>9/16-Chen Gang (China) beat 9/16-Hermawan Susanto (Indonesia)</p>
+<p>15-9 15-7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

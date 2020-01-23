@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11348" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Texas/w Okla feedlot cattle market slow - USDA.</title>
+<headline>Texas/w Okla feedlot cattle market slow - USDA.</headline>
+<dateline>AMARILLO 1996-08-23</dateline>
+<text>
+<p>Trade was slow in the panhandle area Friday, USDA said. Slaughter steers and heifers not well tested. Feedlots reporting moderate inquiry.</p>
+<p>Sales reported on 200 slaughter steers and 300 heifers following weekly movement of 155,700 head.</p>
+<p>Note - all cattle prices based on net weights FOB the feedlot after a 4 percent shrink.</p>
+<p>Slaughter Steers - Select and Choice 2-3 1150-1200 lbs 68.00. Slaughter Heifers - Select and Choice 2-3 1050-1150 lbs 68.00. Confirmed -  500  Week Ago - 16,600   Year Ago - 1,000</p>
+<p>--Chicago newsdesk 312 408 8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMARILLO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

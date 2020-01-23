@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9435" id="root" date="1996-08-22" xml:lang="en">
+<title>CAMBODIA: Cambodia asks World Bank to increase loans.</title>
+<headline>Cambodia asks World Bank to increase loans.</headline>
+<dateline>PHNOM PENH 1996-08-22</dateline>
+<text>
+<p>Cambodia wants the World Bank to increase its annual loan credits to the country to $85 million from the current $75 million, a finance ministry official said on Thursday.</p>
+<p>The World Bank launched its first $225 million three-year loan programme to Cambodia in July 1993 and has said it wants to continue this programme with a focus on health, agriculture and some infrastructure development projects.</p>
+<p>The official said the request for more loans was made by Finance Minister Keat Chhon during a four-day visit here by six executives of the bank.</p>
+<p>&quot;The World Bank delegation left today, the visit was very successful,&quot; the official said without giving details.</p>
+<p>The delegation's visit followed an announcement earlier this year by the bank that it intends to open a resident mission in the Cambodian capital by the end of the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAMPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHNOM PENH"/>
+<dc element="dc.creator.location.country.name" value="CAMBODIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

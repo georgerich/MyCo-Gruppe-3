@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6216" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Foreigners neutral on Japan shares via Big Four.</title>
+<headline>Foreigners neutral on Japan shares via Big Four.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Orders placed by foreign investors through Japan's &quot;Big Four&quot; securities houses before the start of stock trading on Thursday reflected a net neutral stance, market sources said.</p>
+<p>Foreign investors placed 8.0 million shares of sell orders against 8.0 million of buys.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

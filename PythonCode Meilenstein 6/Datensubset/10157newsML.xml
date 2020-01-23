@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10157" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: PCIBank says court halts annual meeting.</title>
+<headline>PCIBank says court halts annual meeting.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>PCI Bank said on Thursday the Philippine Supreme Court had issued a temporary restraining order preventing the bank from holding its annual stockholders' meeting on Friday.  </p>
+<p>A PCI Bank official said the restraining order was issued pending the resolution of a legal dispute over the ownership of sequestered PCI Bank shares.</p>
+<p>The PCI Bank shares in question involve one seat on the 11-member board.</p>
+<p>The Lopez family, which has interests in electricity generating and broadcasting, is trying to recover the shares that were taken over by members of the Romualdez family.</p>
+<p>Imelda Marcos, wife of the late president Ferdinand Marcos, is a member of the Romualdez family.</p>
+<p>The government sequestered the disputed shares after the Marcoses were overthrown in a popular revolt in 1986. Scores of legal disputes involving companies linked to the Marcoses and their associates are still pending before Philippine courts.</p>
+<p>Trans-Middle East Corp, which represents the Romualdez family, had asked the Supreme Court for the order halting PCI Bank's annual meeting.</p>
+<p>This is the fourth straight year that Romualdez family interests have been able to block the PCI Bank, one of the country's largest, from holding its shareholders' meeting.</p>
+<p>PCI Bank is controlled by the Lopez and Gokongwei families.  </p>
+<p>On the agenda for the annual meeting was a proposal to raise the bank's foreign ownership limit to 40 percent from the current 30, which has already been reached.</p>
+<p>Shareholders were also to have voted on raising the bank's authorised capital stock to 4.5 billion pesos from 2.6 billion pesos.</p>
+<p>A PCI Bank official said the bank has asked the Supreme Court to reconsider the order.</p>
+<p>-- Manila newsroom (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

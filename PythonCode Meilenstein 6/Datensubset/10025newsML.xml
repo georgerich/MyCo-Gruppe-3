@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10025" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: All months of Tokyo corn futures end higher.</title>
+<headline>All months of Tokyo corn futures end higher.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>All months of Tokyo corn futures closed higher on Thursday, as local investors were encouraged by stronger sentiment in the soybean market, traders said.</p>
+<p>Prices were 140 to 290 yen higher, with benchmark September 1997 up 150 yen at 18,110 yen per tonne. Daily volume was 47,173 lots.</p>
+<p>The market was mixed in early morning as individual investors were unable to find clear direction, the traders said. &quot;Soybean price rallies in Chicago and Tokyo encouraged investors to buy corn by the afternoon session,&quot; a brokerage house trader said.  </p>
+<p>The spot September contract on the CBOT Project A trading system rose to $3.65-3/4 per bushel by 0813 GMT, against $3.66-1/4 at Wednesday's close.</p>
+<p>The September contract on the CBOT soybean project A trading system was traded at $7.97 at 0813 GMT, against $8.00-1/4 at Wednesday's close. Light selling emerged during Tokyo afternoon, following the price rallies overnight, the traders said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

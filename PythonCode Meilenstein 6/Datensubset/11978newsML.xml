@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11978" id="root" date="1996-08-23" xml:lang="en">
+<title>SPAIN: Spain's Rato says Buba move good for Spain.</title>
+<headline>Spain's Rato says Buba move good for Spain.</headline>
+<dateline>MADRID 1996-08-23</dateline>
+<text>
+<p>The Bundesbank's decision to cut its repo rate yesterday improved the economic outlook for Spain, Economy Minister Rodrigo Rato said.</p>
+<p>&quot;It's extraordinarily positive news for the Spanish economy,&quot; he said.</p>
+<p>Asked about the Bank of Spain's decision to leave its key rate unchanged at 7.25 percent at this morning's repo tender he said it was an autonomous decision for the bank to take.</p>
+<p>&quot;The government can only say: we are going to fight against inflation and we are going to fight against the deficit,&quot; he told a news conference after Friday's cabinet meeting.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

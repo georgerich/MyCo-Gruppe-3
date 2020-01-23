@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3961" id="root" date="1996-08-20" xml:lang="en">
+<title>UK: Commerzbank adds 100 mln marks to 2001 Corex bond.</title>
+<headline>Commerzbank adds 100 mln marks to 2001 Corex bond.</headline>
+<dateline>LONDON 1996-08-20</dateline>
+<text>
+<p>The following Corex issue was increased by lead manager Commerzbank AG.</p>
+<p> BORROWER   COMMERZBANK AG</p>
+<p> AMT   *900 MLN DEM   COUPON   **4.55	MATURITY    25.APR.01</p>
+<p> TYPE    REX-LINKED   ISS PRICE  99.70     PAY DATE    26.AUG.96</p>
+<p> LAST MOODY AA2	 LAST S&amp;P   AA-	 FULL FEES   =</p>
+<p> LISTING    FRFT	DENOMS (K) ONE	 SALE LIMITS =</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES</p>
+<p> GOV LAW    GERMAN    HOME CTRY  GERMANY   TAX PROVS   =</p>
+<p> NOTES    *INCREASED BY 100 MILLION MARKS, ORIGINALLY LAUNCHED</p>
+<p>	   ON 29.MAR.96 AND INCREASED SIX TIMES SINCE.</p>
+<p>	   **PAYS AN ANNUAL FLOATING COUPON LINKED TO THE REX 10</p>
+<p>	   YEAR INDEX TIMES 70 PCT ON A 30/360 DAY BASIS.</p>
+<p>- London Newsroom +44 171 542 8863</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

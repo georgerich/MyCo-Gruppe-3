@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4516" id="root" date="1996-08-20" xml:lang="en">
+<title>NEW ZEALAND: Mercury ups Power NZ stake to 31.8 pct.</title>
+<headline>Mercury ups Power NZ stake to 31.8 pct.</headline>
+<dateline>WELLINGTON 1996-08-20</dateline>
+<text>
+<p>New Zealand's Mercury Energy said on Tuesday it had raised its stake in Power New Zealand Ltd to 31.8 percent from 30.6 percent.</p>
+<p>Mercury said it had bought 312,048 ordinary shares between December 21, 1995 and August 13, 1996 at $4.50 per share. It bought 1,598,184 shares at $8.00 during a stand in the market from August 14-19.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

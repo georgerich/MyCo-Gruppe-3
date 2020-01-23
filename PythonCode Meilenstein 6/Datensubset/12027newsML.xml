@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12027" id="root" date="1996-08-23" xml:lang="en">
+<title>SWEDEN: Swedish Match H1 pretax falls 34 pct.</title>
+<headline>Swedish Match H1 pretax falls 34 pct.</headline>
+<dateline>STOCKHOLM 1996-08-23</dateline>
+<text>
+<p>Swedish Match reports for six months to June 30, compared with the first half of 1995.</p>
+<p>					(million crowns unless stated)</p>
+<p> Pre-tax profit			     572  vs    863</p>
+<p> Sales					3,581  vs  3,627</p>
+<p> Operating profit before one-offs     741  vs    588</p>
+<p> Operating costs			  2,703  vs  2,892</p>
+<p> Depreciation				 147  vs    159</p>
+<p> Associate interests			 10  vs     12</p>
+<p> Extraordinary items	   CHARGE   123  vs    325  CREDIT</p>
+<p> Operating profit			   618  vs    913</p>
+<p> Dividends received			 nil  vs	2</p>
+<p> Interest net		    CHARGE    56  vs     37  CHARGE</p>
+<p> Other financial items, net  CREDIT    10  vs     15  CHARGE</p>
+<p> Tax					    174  vs    259</p>
+<p> Minority interests			 nil  vs	1  CHARGE</p>
+<p> Net profit				   398  vs    603</p>
+<p>NOTE -- Full comapny name of tobacco company is Swedish Match AB. The company was listed in May after former owner Volvo paid out shares to Volvo shareholders as a bonus dividend.</p>
+<p>-- Stockholm newsroom +46-8-7001017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

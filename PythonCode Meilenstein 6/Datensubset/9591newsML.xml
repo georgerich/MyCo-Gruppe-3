@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9591" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. to attend child sex exploitation meeting.</title>
+<headline>U.S. to attend child sex exploitation meeting.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The United States will send officials from four departments to a conference in Sweden next week on ways to stop the sexual exploitation of children, the Justice Department said on Thursday.</p>
+<p>Assistant Attorney General Laurie Robinson will head the U.S. delegation, which also includes representatives from the departments of Labour, State and Defence.</p>
+<p>The five-day World Congress on Commercial Sexual Exploitation of Children begins Aug. 27 in Stockholm.</p>
+<p>&quot;This important conference will strengthen our ability to bring the exploiters of children to justice. Adults who prey on children will find no safe haven anywhere in the world,&quot; Attorney General Janet Reno said in a statement.</p>
+<p>The conference follows a scandal in Belgium this week over the kidnapping and sexual abuse of children.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

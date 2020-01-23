@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7353" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Riken Corundum - 1996 parent forecast.</title>
+<headline>Riken Corundum - 1996 parent forecast.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Year to December 31, 1996</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    ACTUAL</p>
+<p> (Parent)	     FORECAST	  YEAR-AGO</p>
+<p> Sales		  4.70		 4.34</p>
+<p> Current	    110    mln	 181    mln</p>
+<p> Net		  280    mln	  92    mln</p>
+<p> EPS		   28.00 yen	   9.18 yen</p>
+<p> Ord div		5.00 yen	   5.00 yen</p>
+<p>NOTE - Riken Corundum Co Ltd is a major producer of sandpaper.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

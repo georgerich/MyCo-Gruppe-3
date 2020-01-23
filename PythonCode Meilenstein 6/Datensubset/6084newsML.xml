@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6084" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Dolly seen picking up steam toward Gulf of Mexico.</title>
+<headline>Dolly seen picking up steam toward Gulf of Mexico.</headline>
+<dateline>CANCUN, Mexico 1996-08-21</dateline>
+<text>
+<p>Tropical depression Dolly, after crashing into Mexico's Yucatan peninsula on Tuesday, threatens to pick up steam as it moves out from land into the Gulf of Mexico, authorities said on Wednesday.</p>
+<p>Dolly, downgraded temporarily from a tropical storm, has slowly ploughed its way westerly across the Yucatan, home to hundreds of Mayan ruins, dumping heavy rains and causing flooding but no casualties.</p>
+<p>&quot;A total of 86 residents of the village of Punta Felipe have been left homeless, but we have no reports of deaths,&quot; a spokesman for the Quintana Roo Civil Protection Agency said after touring the affected area.</p>
+<p>Dolly is still veering westerly toward the Gulf of Mexico from low-lying lagoons in Mexico's Yucatan peninsula where it is currently located, the National Meterological Service said.</p>
+<p>The tropical depression is seen picking up steam again and returning to tropical storm status once it moves out into open seas.</p>
+<p>&quot;Around 1900 local 0001 GMT, Dolly will be a tropical storm again and will be centred in the Gulf of Mexico about 83 km (52 miles) north northwest of Isla Aguada in the state of Campeche, and 98 km (61 miles) north of Ciudad del Carmen, also in Campeche,&quot; the service said in an update.</p>
+<p>Packing sustained winds of 34 mph (55 kmh) and gusts of 48 mph (75 kmh), Dolly is still whipping up heavy seas and dumping heavy rains across the south of Mexico.</p>
+<p>The storm is causing rains of more than 2.8 inches (7 cm) in the states of Quintana Roo, Yucatan, Campeche, Tabasco, Chiapas, Oaxaca and Veracruz, and landslides in Chiapas, the weather service said, adding that flooding alerts had been issued in low-lying areas of Yucatan, Campeche and Tabasco.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANCUN, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

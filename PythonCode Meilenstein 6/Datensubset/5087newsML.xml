@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5087" id="root" date="1996-08-21" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia's ACCC says looking at Australis.</title>
+<headline>RTRS-Australia's ACCC says looking at Australis.</headline>
+<dateline>SYDNEY 1996-08-21</dateline>
+<text>
+<p>Australia's competition regulatory agency, The Australian Competition and Consumer Commission (ACCC), said it will proceed to assess the trade practices law implications of plans for a group of investors to inject equity finance into pay-tv operator Australis Media Ltd.</p>
+<p>The ACCC said it had not yet reached a view on the joint venture agreement announced on Tuesday.  </p>
+<p>&quot;Meetings have been arranged with the principle parties to the arrangements over the next few days,&quot; ACCC chairman Alan Fells said in a statement.</p>
+<p>&quot;The commission at this stage has not formed a view on the joint venture agreement and will need to examine all details of the arrangements before doing so,&quot; Fells said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

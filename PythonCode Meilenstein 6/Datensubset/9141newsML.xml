@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9141" id="root" date="1996-08-22" xml:lang="en">
+<title>SLOVAKIA: Slovak banks stable, loan problems linger - c.bank.</title>
+<headline>Slovak banks stable, loan problems linger - c.bank.</headline>
+<dateline>BRATISLAVA 1996-08-22</dateline>
+<text>
+<p>The National Bank of Slovakia (NBS) said on Thursday that, despite its overall stability, the country's banking sector has a lasting problem with loss-making loans.</p>
+<p>&quot;The economic position of the banking sector may be characterised as stable (since March 31). However, it is necessary to state that the problems with loan repayment are lasting and are accumulating into losses,&quot; the NBS said in a statment, issued after its regular board meeting.</p>
+<p>&quot;The insolvency of debtors...also brings banks to posting ficticious profits,&quot; the statement added.</p>
+<p>It said reserve creation for covering such losses currently exhausts a third of the banks' own capital.</p>
+<p>Basic capital of the Slovak banking sector, including foreign-bank branches, totalled over 25 billion crowns as of the end of 1995.</p>
+<p>-- Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

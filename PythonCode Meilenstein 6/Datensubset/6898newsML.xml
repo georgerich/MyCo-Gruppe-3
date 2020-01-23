@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6898" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Celox gets U.S. patent notice.</title>
+<headline>Celox gets U.S. patent notice.</headline>
+<dateline>HOPKINS, Minn. 1996-08-21</dateline>
+<text>
+<p>Celox Laboratories Inc said Wednesday it recently received a notice of allowance from the United States Patent and Trademark Office for a patent covering ViaStem, its bone marrow transplantation product.</p>
+<p>The company said it expects to receive the patent within the next two months.</p>
+<p>ViaStem was developed to improve the storage of stem cells from bone marrow or peripheral blood while a patient receives chemotherapy and/or radiation treatment for immunologic disorders or malignant disease.</p>
+<p>It added that ViaStem could potentially be used in other clinical situations including preservation of umbilical cord blood and platelets.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOPKINS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

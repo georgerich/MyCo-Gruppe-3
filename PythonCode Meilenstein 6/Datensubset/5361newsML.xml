@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5361" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: TENNIS-RESULTS AT HAMLET CUP.</title>
+<headline>TENNIS-RESULTS AT HAMLET CUP.</headline>
+<dateline>COMMACK, New York 1996-08-20</dateline>
+<text>
+<p>Results from the</p>
+<p>Waldbaum Hamlet Cup tennis tournament on Tuesday (prefix</p>
+<p>number denotes seeding):</p>
+<p>Vincent Spadea (U.S.) beat Andrei Chesnokov (Russia) 7-6</p>
+<p>(10-8) 6-4</p>
+<p>Jan Kroslak (Slovakia) beat Nicolas Pereira (Venezuela) 7-6</p>
+<p>(10-8) 3-6 6-3</p>
+<p>5-Andrei Medvedev (Ukraine) beat Alexander Volkov (Russia) 4</p>
+<p>-6 6-2 6-2</p>
+<p>3-Richey Reneberg (U.S.) beat Shuzo Matsuoka (Japan) 6-4 6-2</p>
+<p>Adrian Voinea (Romania) beat 7-Hendrik Dreekman (Germany) 6-3</p>
+<p>6-4</p>
+<p>Michael Joyce (U.S.) beat Javier Frana (Argentina) 6-3 6-7</p>
+<p>(5-7) 7-6 (7-3)</p>
+<p>Fernon Wibier (Netherlands) beat Stephane Simian (France) 6-3</p>
+<p>7-6 (8-6)</p>
+<p>Jonathan Stark (U.S.) beat 4-Jan Siemerink (Netherlands) 6-4</p>
+<p>6-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COMMACK, New York"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

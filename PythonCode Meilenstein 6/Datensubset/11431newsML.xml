@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11431" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. cold storage stocks - USDA.</title>
+<headline>U.S. cold storage stocks - USDA.</headline>
+<text>
+<p>WASHINGTON, Aug 23 (Reuter) U.S. Agriculture Department report of cold storage stocks, in 1,000 lbs:</p>
+<p> Frozen Pork:	  07/31/96   06/30/96--Rev from   07/31/95</p>
+<p> -Picnics, Bone-In	6,377	7,246     7,246	8,957</p>
+<p> -Hams, Boneless	 28,251     26,772    26,813     27,103</p>
+<p> -Hams, Bone-In	  50,368     53,062    53,246     83,228</p>
+<p> -Bellies		  28,533     56,767    56,767     47,055</p>
+<p> -Loins		    12,401     11,927    11,869     15,534</p>
+<p> -Spareribs		35,440     36,963    36,987     23,653</p>
+<p> -Trimmings		27,807     28,159    28,150     38,064</p>
+<p> -Other Pork	     80,236     76,653    76,663     92,435</p>
+<p>    (1,000 lbs):     07/31/96   06/30/96--Rev from   07/31/95</p>
+<p> Total Frozen Pork    321,537    351,829   352,021    408,305</p>
+<p> Frozen Beef	    291,033    306,683   305,907    359,295</p>
+<p> Other Frozen Meat     18,204     18,995    19,105     20,188</p>
+<p> Canned Hams	     10,201	9,537     9,564     14,452</p>
+<p> Other Canned Meat	  524	  836	 836	1,333</p>
+<p> Total Red Meats	641,499    687,880   687,433    803,573</p>
+<p> Frzn Whole Broilers   36,816     39,497    40,011     30,215</p>
+<p> Frzn Whole Turkeys   475,169    436,799   436,884    452,964</p>
+<p> Frzn Turkey Parts    229,076    227,448   225,902    198,157</p>
+<p>Total Frzn Poultry 1,326,835  1,332,339 1,332,093  1,173,823  </p>
+<p>Total frozen poultry also includes hens, other chicken and ducks. Whole broilers also include fryers and roasters.</p>
+<p>    (1,000 lbs)	07/31/96   06/30/96--Rev from   07/31/95</p>
+<p> Butter		    31,716     29,711    29,452     68,338</p>
+<p> -Govt.-Owned Butter	797	  804	 804     21,200</p>
+<p>The department said frozen pork belly stocks in July were at their lowest level for any July since 1976.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

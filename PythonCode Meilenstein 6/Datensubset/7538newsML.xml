@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7538" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: AVA sees higher 96 profit due to lower tax.</title>
+<headline>AVA sees higher 96 profit due to lower tax.</headline>
+<dateline>BIELEFELD, Germany 1996-08-21</dateline>
+<text>
+<p>German food retail group AVA Allgemeine Handelsgesellschaft der Verbraucher AG said on Wednesday it expected a clear rise in 1996 profit due to a fall in tax payments.</p>
+<p>Pre-tax profit fell 27 percent to 22 million marks in the first six months while group sales, excluding its 40 percent owned Stuttgart-based affiliate Nanz, rose by 4.8 percent to 4.3 billion marks,  AVA said in a statement.  </p>
+<p>On a same-store basis, group sales rose 1.4 percent, AVA said. The company said the first-half earnings decline was caused by start-up costs for new sites.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIELEFELD, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

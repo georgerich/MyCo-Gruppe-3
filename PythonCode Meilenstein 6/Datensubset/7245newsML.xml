@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7245" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: Steel &amp; Tube result reflects Motorcorp divestment.</title>
+<headline>Steel &amp; Tube result reflects Motorcorp divestment.</headline>
+<dateline>WELLINGTON 1996-08-21</dateline>
+<text>
+<p>Steel and Tube Ltd said on Wednesday its lower profit reflected its divestment of Motorcorp Holdings in June 1995.</p>
+<p>It also reflected the negative impact of the cyclical downturn in the forest products industry on the profit results of A.J. Forsyth and Co Ltd, in which Steel and Tube bought a 51 percent stake in November 1995.</p>
+<p>Steel and Tube earlier reported an annual net profit of NZ$25.3 million, down from $27.4 million last year.</p>
+<p>Sales increased by $19.4 million to $355.1 million.  </p>
+<p>The directors declared a final dividend of 20 cents per share, bringing the total dividend for the year to 40 cents per share.</p>
+<p>Steel &amp; Tube is just over half owned by Tubemakers of Australia.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

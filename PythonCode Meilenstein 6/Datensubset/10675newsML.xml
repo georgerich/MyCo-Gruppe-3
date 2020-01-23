@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10675" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Pentagon rejects Chinese bid to block Taiwan sale.</title>
+<headline>Pentagon rejects Chinese bid to block Taiwan sale.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>Rejecting a demand by China, the U.S. Defense Department notified Congress on Friday of plans to sell Stinger missiles, launchers and other weapons to Taiwan.</p>
+<p>&quot;The sale of this equipment will not affect the basic military balance in the region,&quot; the Pentagon told Congress.</p>
+<p>China had demanded on Aug. 15 that the sale be cancelled, saying the United States had made a &quot;solemn commitment to China on the question of selling weapons to Taiwan.&quot;</p>
+<p>&quot;We demand the U.S. side ... cancel plans to sell missiles to Taiwan to prevent creating new damage to Sino-U.S. relations,&quot; a Chinese foreign ministry spokesman said then.</p>
+<p>But U.S. officials said the weapons were defensive and so were permitted by agreements with China.</p>
+<p>The Pentagon said Taiwan wanted to buy 1,299 Stinger missiles, 74 guided missile launchers, 74 flight trainer Stinger missiles, 96 Humvee vehicles and 500 rounds of .50 caliber ammunition for an estimated $420 million.</p>
+<p>The notification made no mention of China's demand that the sale be cancelled, but U.S. officials said it was the sale to which China referred.</p>
+<p>The principal contractors are the Hughes Missile Systems Co., Boeing Missile and Space Systems Co. and AM General.</p>
+<p>Such sales must be made through the Defense Department, not directly by contractors, and Congress must be notified in case it wants to veto the sale.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

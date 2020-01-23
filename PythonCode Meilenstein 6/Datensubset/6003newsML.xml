@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6003" id="root" date="1996-08-21" xml:lang="en">
+<title>HUNGARY: Warsaw airport cargo trade up 21.3 pct in May y/y.</title>
+<headline>Warsaw airport cargo trade up 21.3 pct in May y/y.</headline>
+<dateline>BUDAPEST 1996-08-21</dateline>
+<text>
+<p>Cargo trade at Okecie International Airport in Warsaw increased 21.3 percent in May 1996 from May 1995, according to data provided to Reuters.</p>
+<p>Data were supplied by the airport's cargo handling agent, LOT Ground Services Sp z oo, owned 51 percent by Polish state-owned airline Polskie Linie Lotnicze LOT SA and 49 percent by the  Polish Airports State Enterprise (PPL).</p>
+<p> CARGO TRADE (in tonnes)		 MAY 96   MAY 95 PCT CHANGE</p>
+<p>--------------------------------------------------------------</p>
+<p> TOTAL TRADE				3,015.5  2,486.3	+21.3</p>
+<p> --chartered flights			 43.5    110.2	-60.5</p>
+<p> --scheduled flights domestic	   282.4    258.0	 +9.5</p>
+<p> --scheduled flights international  2,198.4  1,829.4	+20.2</p>
+<p> --trucks				     491.2    288.7	+70.1</p>
+<p> TOTAL EXPORTS			    1,048.6    910.2	+15.2</p>
+<p> --chartered flights			  6.2	0.0	    -</p>
+<p> --scheduled flights domestic	   261.8    239.3	 +9.4</p>
+<p> --scheduled flights international    654.3    591.1	+10.7</p>
+<p> --trucks				     126.3     79.8	+58.3</p>
+<p> TOTAL IMPORTS			    1,966.9  1,576.1	+24.8</p>
+<p> --chartered flights			 37.3    110.2	-66.2</p>
+<p> --scheduled flights domestic	    20.6     18.7	+10.2</p>
+<p> --scheduled flights international  1,544.1  1,238.3	+24.7</p>
+<p> --trucks				     364.9    208.9	+74.7</p>
+<p> TRADE BALANCE			     -918.3   -665.9	    -</p>
+<p> --chartered flights			-31.1   -110.2	    -</p>
+<p> --scheduled flights domestic	  +241.2   +220.6	    -</p>
+<p> --scheduled flights international   -889.8   -647.2	    -</p>
+<p> --trucks				    -238.6   -129.1	    -</p>
+<p>--------------------------------------------------------------</p>
+<p>NOTE - In the trade balance, positive numbers indicate export surpluses; negative numbers indicate export deficits. Chartered flights include supplemental scheduled flights.</p>
+<p>-- Ryan Tutak, Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

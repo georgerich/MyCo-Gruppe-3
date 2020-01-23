@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6227" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: S.Korea unveils major securities liberalisation.</title>
+<headline>S.Korea unveils major securities liberalisation.</headline>
+<dateline>SEOUL 1996-08-22</dateline>
+<text>
+<p>South Korea announced sweeping reforms of its securities market on Thursday, including the abolition of quotas on new stock issues.</p>
+<p>Quotas on initial public offerings (IPOs) will be scrapped on September 1, according to a statement by the Ministry of Finance and Economy.</p>
+<p>The package adopts many of the proposals recommended by the Korea Securities Research Institute in July.</p>
+<p>From September 1, the government will also lift controls on capital increases by local firms and financial institutions. But it will maintain the current level of control over state-run corporations when they are privatised.  </p>
+<p>Requirements for IPOs and capital increases will also be tightened from this date. All companies seeking to list or increase their capital will be required to have more than a 50 percent return on paid-in capital over three years, an asset value of more than 15,000 won ($18.3) per share and earnings per share (EPS) of more than 10,000 won.</p>
+<p>The current standard is a 30 percent return on capital, an asset value of 7,500 won per share, and EPS of 5,000 won.</p>
+<p>Large companies which paid an average dividend of 400 won or more per share over the past three years, will be free to increase their share capital.  </p>
+<p>Smaller firms will be required to pay an average dividend of 300 won per share, a ministry official said.</p>
+<p>Issuing companies must disclose their future dividend policy at the time of new stock issues.</p>
+<p>To liberalise the pricing of IPO issues, the government said it would remove the mandatory pricing guidelines set by the Securities Exchange Commission, effective September 1.</p>
+<p>In an effort to prevent the dominance of equity financing by the nation's large conglomerates, the government will impose limits on the nation's top 10 conglomerates.  </p>
+<p>The Korea Stock Exchange currently stipulates that investors deposit securities and cash equal to 40 percent of the value of stock they want to buy.</p>
+<p>Margin trading in stocks on the second tier of the bourse will be also allowed from September 1.</p>
+<p>The government will permit home trading from personal computers from the first half of next year, allowing investors to place and receive confirmation of orders through their terminals.</p>
+<p>Some rules require a revision of the Securities Exchange Law and the government will submit the necessary amendments to parliament in October.</p>
+<p>From September 1, annual capital increases by a company affiliated with one of the top 10 conglomerates will be restricted to four percent of the total outstanding value of the stock or 100 billion won, whichever is larger.</p>
+<p>The daily share price fluctuation limit will be expanded to eight percent from November and to 10 percent in the first half of 1997, compared with six percent currently.</p>
+<p>From September 1, securities houses will be allowed to set their own margin requirements for stock purchases, the ministry official said.</p>
+<p>-- Seoul newsroom (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

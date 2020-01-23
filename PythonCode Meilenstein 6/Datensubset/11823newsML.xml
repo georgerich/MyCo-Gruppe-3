@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11823" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: CFCF suspends special shareholders meeting.</title>
+<headline>CFCF suspends special shareholders meeting.</headline>
+<dateline>MONTREAL 1996-08-23</dateline>
+<text>
+<p>CFCF Inc said on Friday today's special general meeting of shareholders has been suspended but the suspension does not invalidate the acquisition by Groupe Videotron Ltd of CFCF.</p>
+<p>Shareholders were to meet today to approve the amalgamation deal under which a subsidiary of Videotron had acquired all multiple voting shares and 99.75 percent of the subordinate voting shares.</p>
+<p>CFCF said the decision to suspend the meeting comes further to a decision rendered by the Quebec securities commission in response to a petition made by certain CFCF debentureholders. The QSC will disclose its motives for the decision next week.</p>
+<p>CFCF said the suspension does not impact the pending CRTC application.</p>
+<p>It said it and Videotron will announce their response to the QSC decision after deliberation.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

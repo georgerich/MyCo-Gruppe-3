@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8344" id="root" date="1996-08-22" xml:lang="en">
+<title>SWEDEN: Swedbank H1 confirms sector recovery.</title>
+<headline>Swedbank H1 confirms sector recovery.</headline>
+<dateline>STOCKHOLM 1996-08-22</dateline>
+<text>
+<p>Swedish commercial bank Swedbank reported on Thursday a healthy leap in profits for the first half of 1996, with income rising, credit losses falling and profitability back to pre-crisis levels.</p>
+<p>Operating profit for the period rose 46 percent to 2.47 billion crowns ($373.5 million), Swedbank said in a statement, an improvement of 782 million crowns on the 1.69 billion posted for the first half of 1995.</p>
+<p>All of the Swedish banks that have so far published their half-year profits have reported a normalisation of credit loss levels, and Swedbank was no exception.</p>
+<p>The bank's loan losses for the period fell to 905 million crowns from 1.35 billion, and loan losses expressed as a percentage of total lending volume is now down at 0.5 percent, close to the level that prevailed before the credit crash of the early 1980s. ($ = 6.613 Swedish Crowns)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

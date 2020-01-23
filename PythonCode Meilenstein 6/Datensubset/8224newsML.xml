@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8224" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: VERITAS forms pact with Microsoft.</title>
+<headline>VERITAS forms pact with Microsoft.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-22</dateline>
+<text>
+<p>VERITAS Software Thursday said it formed a strategic licensing, development and marketing relationship with Microsoft Corp for the delivery of its volume manager disk and storage management software in Microsoft's fast-growing operating system.</p>
+<p>In a statement, VERITAS will create enhanced disk and volume management capabilities to be embedded in future versions of Windows NT Server, making VERITAS the first external provider of enterprise storage technologies for the platform.  </p>
+<p>VERITAS also said it will independently deliver additional capabilities in versions of its products for Windows NT Server 4.0 and other versions of the operating system in the future. VERITAS Volume Manager, a product that allows large groups of disks in client/server environments to be optimized for storage, capacity and performance is currently installed in tens of thousands of customer sites through its 50 OEM partners and network of resellers on the UNIX platform.</p>
+<p>Pricing was not announced.</p>
+<p>Veritas shares were up 3-3/4 to 44 in morning trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8695" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Microsoft says solves Explorer problems.</title>
+<headline>Microsoft says solves Explorer problems.</headline>
+<dateline>REDMOND, Wash. 1996-08-22</dateline>
+<text>
+<p>Microsoft Corp said Thursday it has fixed two problems users had with the company's Internet Explorer 3.0 software.</p>
+<p>The company has posted an updated version of the software setup routine that needs less temporary hard disk space for installation. The new downloads include the new setup automatically. Users who have already downloaded the Internet Explorer are not affected by this issue.</p>
+<p>The company will post a patch file at http://www.microsoft.com/ie/ at 2200 PDT Thursday (0500 GMT) to correct an issue with some Web sites that require users to enter a user name and password.</p>
+<p>All Internet Explorer 3.0 users are encouraged to install the patch, which can be done automatically by visiting a page on the Microsoft Internet Explorer Web site and downloading one automatic-update file, Microsoft said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

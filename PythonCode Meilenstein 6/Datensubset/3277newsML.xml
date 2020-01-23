@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3277" id="root" date="1996-08-20" xml:lang="en">
+<title>SLOVAKIA: Slovak govt one-yr bond average yield hits 8.94pct.</title>
+<headline>Slovak govt one-yr bond average yield hits 8.94pct.</headline>
+<dateline>BRATISLAVA 1996-08-20</dateline>
+<text>
+<p>The average accepted yield at an auction of one-year Slovak government bonds was 8.94 percent, the National Bank of Slovakia (NBS) said on Tuesday.</p>
+<p>The NBS said it accepted all bids in the auction, the first for one-year government bonds, which totalled 6.12 billion crowns.  </p>
+<p>Issuer: Slovak Ministry of Finance</p>
+<p>Date of issue: August 22, 1996</p>
+<p>Maturity date: August 22, 1997</p>
+<p>Denomination: 100,000 Slovak crowns</p>
+<p>Coupon: 9.0 percent p.a., payable semi-annually</p>
+<p>Total demand (in nominal value): 6.12 billion crowns</p>
+<p>Accepted demand (in nominal value): 6.12 billion crowns</p>
+<p>Minimum yield: 8.415 percent</p>
+<p>Average yield: 8.944 percent</p>
+<p>Maximum yield: 9.000 percent</p>
+<p>-- Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

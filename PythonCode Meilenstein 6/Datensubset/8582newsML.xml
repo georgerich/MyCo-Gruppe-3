@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8582" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: BASEBALL-MAJOR LEAGUE RESULTS WEDNESDAY.</title>
+<headline>BASEBALL-MAJOR LEAGUE RESULTS WEDNESDAY.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games played on Wednesday (home team in CAPS):</p>
+<p>	     American League</p>
+<p> California	7  NEW YORK	  1</p>
+<p> DETROIT	   7  Chicago	   4</p>
+<p> Milwaukee	10  MINNESOTA	 7</p>
+<p> BOSTON	    6  Oakland	   4</p>
+<p> BALTIMORE	10  Seattle	   5</p>
+<p> Texas	    10  CLEVELAND	 8 (in 10)</p>
+<p> Toronto	   6  KANSAS CITY     2</p>
+<p>	     National League</p>
+<p> CHICAGO	   8  Florida	   3</p>
+<p> SAN FRANCISCO  12  New York	 11</p>
+<p> ATLANTA	   4  Cincinnati	3</p>
+<p> Pittsburgh	5  HOUSTON	   2</p>
+<p> COLORADO	 10  St Louis	  2</p>
+<p> Philadelphia    6  LOS ANGELES     0</p>
+<p> SAN DIEGO	 7  Montreal	  2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

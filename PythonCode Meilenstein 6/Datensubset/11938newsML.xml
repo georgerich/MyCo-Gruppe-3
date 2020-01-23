@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11938" id="root" date="1996-08-23" xml:lang="en">
+<title>FRANCE: French wheat prices deflated by EU tender result.</title>
+<headline>French wheat prices deflated by EU tender result.</headline>
+<dateline>PARIS 1996-08-23</dateline>
+<text>
+<p>French wheat prices eased on Friday, reflecting the market's disappointment over the latest round of European Union grain tenders, dealers said on Friday.</p>
+<p>Wheat into Rouen was quoted at 895 francs per tonne for August delivery and 890 francs on September-December delivery, down five francs on the previous session.</p>
+<p>Wheat had risen on Thursday ahead of the tender as traders bid through France to export over 300,000 tonnes of wheat.</p>
+<p>But the EU's grain panel parted with only 155,350 tonnes of wheat at the tender.</p>
+<p>&quot;This is not enough to support (prices),&quot; one dealer said.</p>
+<p>Although the award was the largest this season, traders had expected the EU to be more generous ahead of a larger than expected grain harvest.</p>
+<p>European Commission officials are estimating this year's harvest at around 190 million tonnes, member country oficials said on Friday. This is at least 14 million tonnes up on 1995.</p>
+<p>Fob Moselle wheat for August-December was unchanged at 900 francs, helped by fears of quality problems in Germany, where rain is disrupting the harvest.</p>
+<p>MATIF wheat futures failed to trade on Friday after clearing their first contract expiry earlier in the week.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

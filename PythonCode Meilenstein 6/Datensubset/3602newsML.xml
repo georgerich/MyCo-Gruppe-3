@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3602" id="root" date="1996-08-20" xml:lang="en">
+<title>CYPRUS: Cyprus accepts corn, wheat tenders.</title>
+<headline>Cyprus accepts corn, wheat tenders.</headline>
+<dateline>NICOSIA 1996-08-20</dateline>
+<text>
+<p>The Cyprus Grain Commission said on Tuesday it had accepted a tender of Oriac Incorporated, Cairo, for 18,000 tonnes of corn at $182.48 per tonne.</p>
+<p>In a statement, it said it had also accepted a tender of Finagrain S.A. for 12,000 tonnes of European milling wheat at $190.69 per tonne.</p>
+<p>The prices were cost and freight free out of Limassol port, Cyprus, the commission said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

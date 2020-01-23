@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12030" id="root" date="1996-08-23" xml:lang="en">
+<title>GREECE: Bank/Greece cuts its o/n intervention bid by 20bps.</title>
+<headline>Bank/Greece cuts its o/n intervention bid by 20bps.</headline>
+<dateline>ATHENS 1996-08-23</dateline>
+<text>
+<p>The Bank of Greece cut its overnight intervention bid rate by 20 basis points to 12.60 percent on Friday following the Bundesbank's move to cut its repo rate by 30 basis points on Thursday.  </p>
+<p>&quot;The central bank decided to slash its intervention bid rate in overnight funds by 20 basis points to 12.60 percent in line with other European central banks such as Denmark's and Finland's this morning,&quot; a high-level central bank official told Reuters. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

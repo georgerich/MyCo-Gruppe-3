@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6772" id="root" date="1996-08-21" xml:lang="en">
+<title>TURKEY: Istanbul gold trade booms amid free market demand.</title>
+<headline>Istanbul gold trade booms amid free market demand.</headline>
+<dateline>ISTANBUL 1996-08-21</dateline>
+<text>
+<p>Istanbul gold trade boomed on Wednesday on the back of ample free market demand but prices remained steady due to quiet world markets, dealers said.</p>
+<p>Traded volume jumped by 65 percent to 1,811 kilograms. Gold rose by $0.05 and 450 lira to end at $388.25 per ounce and 1,074,800 lira per gram.</p>
+<p>Dealers said increased demand from the free market had caused activity to enliven on the Istanbul Gold Exchange.</p>
+<p>Free market demand has been lively for the past month and a half as jewellery sales have increased with the summer season and higher number of tourists.</p>
+<p>There was 1,386 kilos of trade in the morning and 425 kilos in the afternoon.</p>
+<p>Of the total trade, 65 percent was in lira terms and the rest in dollars. --Istanbul Newsroom, +90-212-275 0875</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

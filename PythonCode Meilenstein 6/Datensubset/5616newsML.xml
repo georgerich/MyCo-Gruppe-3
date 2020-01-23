@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5616" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Superconductor Tech files stock offer.</title>
+<headline>Superconductor Tech files stock offer.</headline>
+<dateline>SANTA BARBARA, Calif. 1996-08-21</dateline>
+<text>
+<p>Superconductor Technologies Inc said Wednesday it has filed with the Securities and Exchange Commission for a public offering of two million shares of common stock.</p>
+<p>Underwriters have been granted an option to purchase 300,000 shares of stock to cover over-allotments.</p>
+<p>Proceeds will be used to purchase capital equipment, fund product development and for working capital and other general corporate purposes.</p>
+<p>Managing underwriters for the offering are Rauscher Pierce Refsnes Inc, Van Kasper &amp; Co and H.C. Wainwright Co Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA BARBARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

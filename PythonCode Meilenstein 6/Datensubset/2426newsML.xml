@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2426" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Aust Prov News H1 net profit A$11.56m.</title>
+<headline>RTRS-Aust Prov News H1 net profit A$11.56m.</headline>
+<dateline>BRISBANE 1996-08-20</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>		     (million A$ unless stated)</p>
+<p>    Net				     11.56 vs 10.29</p>
+<p>    Dividend (cents)		     3.50 vs 3.20</p>
+<p>NOTE: Australian Provincial Newspapers Holdings Ltd is a publisher and is about 49 percent owned by Irish businessman Tony O'Reilly through family interests and his main newspaper group, Independent Newspapers Plc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

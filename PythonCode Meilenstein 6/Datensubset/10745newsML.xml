@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10745" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: U.S. debt futures end lower, break out of ranges.</title>
+<headline>U.S. debt futures end lower, break out of ranges.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>U.S. debt futures fell sharply, as the yield curve steepened dramatically due to concerns that U.S. economic growth was strengthening more than anticipated, traders and analysts said.</p>
+<p>&quot;It puts the September FOMC (Federal Open Market Committee) meeting right back into the spotlight,&quot; one floor trader said.</p>
+<p>The two- to five-year note yield spread has widened eight basis points in two weeks to 0.40 basis points.</p>
+<p>&quot;That's a hefty rise,&quot; said Jim Donnelly, chief market strategist at Technical Data.  </p>
+<p>Donnelly said the two-year note to 30-year Treasury bond yield spread remained steep around the 0.85 basis point level.</p>
+<p>U.S. July durable goods data, coupled with a lower than expected rise in weekly U.S. jobless claims, raised concerns that strong economic growth in the third quarter would contribute to inflationary pressures.</p>
+<p>Traders on the floor attributed Technical Data's consensus surveys on the September 7 employment reports to the sell-off. In Technical Data's consensus survey, the median range for August nonfarm payrolls was 175,000 to 275,000, with 238,000 as the average, Donnelly said.  </p>
+<p>The surveys also showed a range of estimates for the unemployment rate at 5.2 percent to 5.4 percent.</p>
+<p>Donnelly said the consensus forecasts were largely based on the last four weekly jobless claims and the four-week average, which still remains near seven-year lows.</p>
+<p>The minutes of the Federal Open Market Committee's July 2-3 meeting, which were released after the close of pit trade, showed the FOMC voted 11 to one to keep short-term rates steady with a bias toward tightening.</p>
+<p>However, they said a tightening bias was not a tightening commitment.  </p>
+<p>The FOMC also said the most likely economic scenario was one of subdued inflation and a slower economic expansion.</p>
+<p>However, traders and analysts alike said the market was pricing-in concerns of rising inflation pressures and was now re-focusing its attention on the September 24 FOMC meeting.</p>
+<p>&quot;Some managed futures guys (funds) got short,&quot; one trader said, referring to heavy selling in Eurodollars from one large fund.</p>
+<p>March Eurodollars dropped below 94.00 and tested a trendline level of 93.99, while December Eurodollars finally broke below its 15-day price range to 94.13.  </p>
+<p>One foreign-based firm sold nearly 20,000 five-year notes and forced locals in the bond pit to cover long positions which they had established at the 109-24/32 to 109-25/32 area.</p>
+<p>The expiration of September bond options also contributed to the selling pressure, traders said.</p>
+<p>They also noted spread activity between U.S. bonds and notes, and U.S. bonds and foreign bonds.</p>
+<p>At the end of pit trade, September bonds were down 1-01/32 at 109-17/32, 10-year notes were down 20/32 at 107-23/32, five-year notes were down 14/32 at 105-51/64, March Eurodollars were down nine bps at 94.01.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

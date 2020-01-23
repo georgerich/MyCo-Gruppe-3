@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3211" id="root" date="1996-08-20" xml:lang="en">
+<title>RUSSIA: Russia grain harvest at 36 mln T by Aug 17 - agency.</title>
+<headline>Russia grain harvest at 36 mln T by Aug 17 - agency.</headline>
+<dateline>MOSCOW 1996-08-20</dateline>
+<text>
+<p>Russia had harvested and threshed 36.3 million tonnes of grain by August 17, against 34.2 million tonnes at the same time last year, Interfax news agency quoted an agriculture ministry official as saying on Tuesday.</p>
+<p>Ivan Gridasov, head of the ministry's department of plant cultivation, said farmers had gathered 21.2 million hectares of grain, or 44 percent of the total sown area.</p>
+<p>Interfax did not specify whether the threshed grain was clean or bunker weight.</p>
+<p>Grain yields are averaging 1.71 tonnes per hectare, 0.26 tonnes higher than year-ago levels, he said.</p>
+<p>The harvest is drawing to a close in many regions.</p>
+<p>Gridasov said over 85 percent of the sown area had been harvested in Russia's Krasnodar and Stavropol regions, and the republics of North Ossetia, Adygeya, Dagestan and Kabardino-Balkaria.</p>
+<p>But the harvest was still well behind year-ago levels in the Urals, Tatarstan and the Tula and Tyumen regions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

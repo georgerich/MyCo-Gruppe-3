@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6124" id="root" date="1996-08-21" xml:lang="en">
+<title>VENEZUELA: Caracas stocks hit record high despite rates rise.</title>
+<headline>Caracas stocks hit record high despite rates rise.</headline>
+<dateline>CARACAS 1996-08-21</dateline>
+<text>
+<p>Caracas stocks pushed ahead, despite a five-point increase in interest rates, to close at a record high in a session propelled by foreign buying of oversold blue chips, traders said.</p>
+<p>The market's 19-share  index gained 0.62 percent to end at 4,610.37, busting technical resistance at the previous twelve-month high of 4,582.03, according to preliminary figures from the exchange.</p>
+<p>Among traded issues, 28 stocks rose, eight fell and five closed flat.  </p>
+<p>Nearly 14 million shares traded worth 2.23 billion bolivars ($4.7 million).</p>
+<p>&quot;Interest was particularly high in Mavesa and Sivensa,&quot; said Activalores broker Gonzalo Alonso.</p>
+<p>Food company Mavesa gained 5.95 bolivars to end at 117.95, while steel producer Sivensa added 10.00 bolivars to 310.00.</p>
+<p>Brokers see the upwards trend of the past three days being sustained -- despite the rise in TEM yields at today's auction.</p>
+<p>&quot;It's been a while since interest rates had any strong effect on the bolsa,&quot; said one trader.</p>
+<p>-- Silene Ramirez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

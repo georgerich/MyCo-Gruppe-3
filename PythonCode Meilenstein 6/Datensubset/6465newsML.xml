@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6465" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Premier Laser gets FDA clearance.</title>
+<headline>Premier Laser gets FDA clearance.</headline>
+<dateline>IRVINE, Calif. 1996-08-21</dateline>
+<text>
+<p>Premier Laser Systems Inc said Wednesday it has received U.S. Food and Drug Administration clearance to market its teeth whitening system.</p>
+<p>Premier said it has already signed a joint marketing agreement with  Stardent International Labs Inc for its argon laser product.</p>
+<p>&quot;As this portion of the cosmetic dentistry market continues to grow nationwide we believe that the combination of our MOD laser and commercially available bleaching components will generate measurable revenues,&quot; said Chief Executive Officer Colette Cozean.</p>
+<p>She said that the Premier system was more affordable than competing products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

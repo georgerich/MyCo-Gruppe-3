@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8020" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: UK GDP rises unrevised 0.4 pct in Q2 1996.</title>
+<headline>UK GDP rises unrevised 0.4 pct in Q2 1996.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>The Office for National Statistics (ONS) issued the following provisional, seasonally adjusted data on Gross Domestic Product (GDP) in the second quarter of 1996. (Index base 1990, constant prices, pvs estimates in brackets)</p>
+<p>					Q2		Q1 1996</p>
+<p>    Index			   107.9 (107.9) 107.4 (107.4)</p>
+<p>    Pct change on qtr	   0.4     (0.4) 0.4     (0.4)</p>
+<p>    Pct change yr/yr	    1.8     (1.8) 1.9     (1.9)</p>
+<p>IMPLIED GDP DEFLATOR AT FACTOR COST</p>
+<p>    Index			   121.0	   120.2</p>
+<p>    Pct change on qtr	   0.7	     0.6</p>
+<p>    Pct change yr/yr	    1.8	     2.0</p>
+<p>GDP AT MARKET PRICES (MONEY GDP)</p>
+<p>    Index			   131.7	   130.3</p>
+<p>    Pct change on qtr	   1.1	     1.0</p>
+<p>    Pct change yr/yr	    3.9	     4.1</p>
+<p>GDP EX OIL AND GAS EXTRACTION (constant prices)</p>
+<p>    Pct change on qtr	   0.3   (0.3)   0.4   (0.4)</p>
+<p>    Pct change yr/yr	    1.7   (1.7)   1.9   (1.9)</p>
+<p>CONSUMER SPENDING AT MARKET PRICES</p>
+<p>    pct change qtr/qtr	  0.7</p>
+<p>pct change qtr/yr ago qtr 2.3  </p>
+<p>OUTPUT DATA</p>
+<p>					   Index     Q2/Q1    Q2/Q2 95</p>
+<p>    Mining/quarrying inc oil     143.6	1.4	 5.6</p>
+<p>    Electricity, gas, water	122.9	0.8	 5.5</p>
+<p>    Manufacturing (rvsd defn)    101.5	UNCH	UNCH</p>
+<p>    Total production		 106.8	0.2	 1.1</p>
+<p>    Distribution,hotels,catering 106.1	0.9	 1.6</p>
+<p>    Total service industries     110.8	0.7	 2.7</p>
+<p>    Agriculture etc		   92.1     -7.3	-9.2</p>
+<p>    Construction			88.9     -0.3	-0.6</p>
+<p>GROSS FIXED CAPITAL FORMATION</p>
+<p>    pct change qtr/qtr	     2.1</p>
+<p>    pct change qtr/yr ago qtr    2.2</p>
+<p>GENERAL GOVT FINAL CONSUMPTION</p>
+<p>    pct change qtr/qtr	     0.7</p>
+<p>    pct change qtr/yr ago qtr    1.0</p>
+<p>NOTE - market forecast for the second estimate of second quarter GDP was 0.4 pct qtr/qtr, 2.0 pct yr/yr -- unchanged from the original figures published on July 26.</p>
+<p>The ONS said spending on durable goods grew more strongly than services in the second quarter.  </p>
+<p>Stockbuilding fell from 1.5 billion stg to 0.4 billion stg in the second quarter. That was equivalent to a 0.7 percentage point fall in quarter-on-quarter GDP, the ONS said.</p>
+<p>The fall in agriculture output was partly due to the BSE crisis, with cattle not being slaughtered for the market. Without the BSE crisis, the ONS said GDP growth would have been about 0.1 percentage point higher.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

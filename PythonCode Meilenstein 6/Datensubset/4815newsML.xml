@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4815" id="root" date="1996-08-20" xml:lang="en">
+<title>JAPAN: Foreigners net sellers of Japan stock via 11 firms.</title>
+<headline>Foreigners net sellers of Japan stock via 11 firms.</headline>
+<dateline>TOKYO 1996-08-20</dateline>
+<text>
+<p>Orders placed by foreign investors through 11 foreign securities houses before the start of stock trading on Tuesday showed a net selling stance of 3.0 million shares, market sources said.</p>
+<p>Foreign investors' buy orders totalled 17.70 million shares while sell orders amounted to 20.70 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

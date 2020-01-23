@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9400" id="root" date="1996-08-22" xml:lang="en">
+<title>PHILIPPINES: Manila gives Citibank derivatives license.</title>
+<headline>Manila gives Citibank derivatives license.</headline>
+<dateline>MANILA 1996-08-22</dateline>
+<text>
+<p>The Philippine Central Bank said on Thursday it had approved the application of Citibank NA to offer financial derivatives contracts to its local clients.</p>
+<p>&quot;Citibank's authority covers all kinds of derivatives activities in both its regular and foreign currency deposit unit books,&quot; Central Bank Governor Gabriel Singson said.</p>
+<p>Singson said in a statement Citibank was the first to get a licence to offer financial derivatives contracts in the Philippines. Twelve other banks had also applied, he said.</p>
+<p>--Manila newsroom (632) 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

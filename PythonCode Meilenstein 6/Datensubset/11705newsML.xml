@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11705" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: RTRS-BHP Copper restarts San Manuel smelter.</title>
+<headline>RTRS-BHP Copper restarts San Manuel smelter.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>BHP Copper, part of Australia's Broken Hill Proprietary Co Ltd, said its San Manuel smelter in Arizona has been restarted and tonnage lost during the shutdown would be minimal.</p>
+<p>&quot;It's back on stream - it started up last night and it's running well,&quot; a BHP Copper official said on Thursday.</p>
+<p>BHP shut the smelter for nine days following electrical problems that resulted from the statewide power outage on August 10. A shutdown was originally scheduled for October but this was brought forward due to the power outage.</p>
+<p>San Manuel produces just over 360,000 short tons of anode.</p>
+<p>The smelter produces anode which is converted into cathode at the refinery.</p>
+<p>&quot;Through most of the shutdown we were producing cathode because we had anode available. We basically ran down our anode stockpile,&quot; the BHP official said.</p>
+<p>Refinery cathode output was reduced slightly but will return to full output once anode production catches up. San Manuel normally produces more anode than the refinery can consume.</p>
+<p>&quot;The U.S. market is holding pretty strongly, and the rod market is particular is good and cathode is tight,&quot; the BHP official said. &quot;Asian premiums at the moment are very strong - $130 a tonne is a good premium even with the Shanghai freight.&quot;</p>
+<p>Most of San Manuel's cathode production is consumed by BHP's own rod mill.</p>
+<p>-- New York Commodities 212-859-1646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

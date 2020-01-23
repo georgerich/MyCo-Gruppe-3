@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8215" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: RESEARCH ALERT - Lehman starts SNET.</title>
+<headline>RESEARCH ALERT - Lehman starts SNET.</headline>
+<text>
+<p>-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating, his office said.</p>
+<p>-- The analyst set a 12-month price target of $45 and a fiscal 1996 year earnings estimate of $3.09 per share, his office said.</p>
+<p>-- The analyst also set an earnings estimate for the 1997 year, but the figure was not immediately available.</p>
+<p>-- Southern New England closed at 38-1/2 Wednesday.</p>
+<p>-- E. Auchard, Wall Street bureau, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

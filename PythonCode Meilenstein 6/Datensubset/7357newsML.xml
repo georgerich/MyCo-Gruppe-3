@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7357" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Canon Electronics - 6mth parent results.</title>
+<headline>Canon Electronics - 6mth parent results.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 30.81		vs	   29.82</p>
+<p> Operating	  505    mln	  vs	   93    mln</p>
+<p> Current	    469    mln	  vs	  107    mln</p>
+<p> Net		  223    mln	  vs	   63    mln</p>
+<p> EPS		    8.08 yen	  vs	    2.29 yen</p>
+<p> Shares	     28 million	  vs	  28 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Canon Electronics Inc is a producer of camera units and magnetic heads.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

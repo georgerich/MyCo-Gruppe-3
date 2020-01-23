@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4047" id="root" date="1996-08-20" xml:lang="en">
+<title>LEBANON: SOLIDERE shares slightly down.</title>
+<headline>SOLIDERE shares slightly down.</headline>
+<dateline>BEIRUT 1996-08-20</dateline>
+<text>
+<p>SOLIDERE shares fell slightly on Tuesday on the privately-operated Beirut Secondary Market (BSM).</p>
+<p>The A series shares -- distributed to former holders of property rights in the Beirut central district SOLIDERE is rebuilding -- closed at $104.625 from $104.75 on Monday.</p>
+<p>B series shares -- issued in a $650-million subscription in January 1994 -- closed at $106.00, down from $106.125.</p>
+<p>Turnover on the BSM, which trades only SOLIDERE shares, dropped to 8,522 from Monday's 10,718 with value at $671,944, down from $1,123,699.</p>
+<p>On the Beirut Stock Exchange only 6,900 shares of Ciments Libanais were traded at $1.1875 each.</p>
+<p>There was no trade in any of the three other listed companies: Ciments Blancs, Eternit and Uniceramic.</p>
+<p>The BLOM Stock Index which covers both markets fell 0.1 percent to 901.83 while the LISPI index fell 0.03 percent to 81.52.</p>
+<p>-Beirut editorial (961 1) 864148 353078 861723</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

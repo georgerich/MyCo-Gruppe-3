@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8217" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: BP Ohio FCC seen shut 2 more weeks-regulator.</title>
+<headline>BP Ohio FCC seen shut 2 more weeks-regulator.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>BP America's catalytic cracker at its Lima, Ohio refinery will likely be down for at least two more weeks, an Ohio environmental regulator said.</p>
+<p>&quot;They're speculating about two weeks. I think it's more their sense. I don't believe they really know,&quot; said a regulator with the Ohio Environmental Protection Agency referring to BP America estimates.</p>
+<p>The cracker was shut last Thursday due to a fire, and traders have said the unit will be out 10 more days.</p>
+<p>But BP America, a unit of British Petroleum Co Plc, declined to comment on the status of the cat cracker.</p>
+<p>Gasoline traders noted Midwest gasoline prices have been especially strong in the wake of the outage.</p>
+<p>Crude traders said BP's Lima unit was out selling prompt crude, linking the sales to the loss of overall capacity.</p>
+<p>The cat cracker, with a capacity of 38,500 barrels per day (bpd), was shut after a fire broke out last Thursday at the base of the cat cracker unit.</p>
+<p>The Lima refinery has an overall capacity of 155,000 bpd.</p>
+<p>-- Oliver Ludwig, New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

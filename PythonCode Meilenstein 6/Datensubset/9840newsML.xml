@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9840" id="root" date="1996-08-22" xml:lang="en">
+<title>SRI LANKA: Sri Lanka seeks to rebuild image, attract tourists.</title>
+<headline>Sri Lanka seeks to rebuild image, attract tourists.</headline>
+<dateline>COLOMBO 1996-08-22</dateline>
+<text>
+<p>Sri Lanka will launch a $4 million campaign to attract investors and tourists by stressing that a 13 year-long ethnic war has been largely limited to the country's north and east.</p>
+<p>Media and Tourism Minister Dharmasiri Senanayake told a news conference on Thursday the government had to counter moves by separatist Tamil guerrillas to tarnish Sri Lanka's image.</p>
+<p>&quot;Presently we suffer from a problem of disinformation,&quot; he said. &quot;These reports are exaggerated.&quot;</p>
+<p>Tourist arrivals to the Indian Ocean island dropped by 39.6 percent in April from a year ago, the Ceylon Tourist Board said. Sri Lanka had 403,101 tourists last year.</p>
+<p>The armed forces have battled the Liberation Tigers of Tamil Eelam since 1983 in a war largely contained in the north and east and away from attractions such as the southern beaches, the central hill country and the ancient kingdoms in the north-central region.</p>
+<p>The rebels, however, have also hit economic targets. A suicide bomb attack on the Central Bank in Colombo in January killed almost 100 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

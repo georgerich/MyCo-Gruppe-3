@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6907" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Spartech Corp Q3 August 3 net rises.</title>
+<headline>Spartech Corp Q3 August 3 net rises.</headline>
+<dateline>ST. LOUIS, Mo. 1996-08-21</dateline>
+<text>
+<p>Third Quarter		   Nine Months</p>
+<p>		    1996     1995  Change   1996     1995  Change</p>
+<p> Sales	   $101,223 $90,891   11% $287,019 $265,798    8%</p>
+<p>Operating Earnings</p>
+<p>			9,406   6,305   49%   25,307   18,424   37%</p>
+<p>Interest Expense</p>
+<p>			1,376   1,285    7%    3,577    3,779  (5%)</p>
+<p>Income Tax Provision</p>
+<p>			3,010   1,200  151%    8,149    3,750  117%</p>
+<p> Net Earnings     5,020   3,820   31%   13,581   10,895   25%</p>
+<p>Fully Diluted Earnings</p>
+<p>Per Common Share*</p>
+<p>			 0.20    0.16   25%     0.55     0.45   22%</p>
+<p>		     (In Thousands, Except Per Share Data)</p>
+<p>NOTE: *All of the company's preferred stockholders converted their securities into common stock effective May 1, 1995, and therefore, only fully diluted earnings per common share are presented on this schedule.</p>
+<p>	     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

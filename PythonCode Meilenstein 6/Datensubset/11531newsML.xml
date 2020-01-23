@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11531" id="root" date="1996-08-23" xml:lang="en">
+<title>INDIA: Brisk demand for all teas at Calcutta auction.</title>
+<headline>Brisk demand for all teas at Calcutta auction.</headline>
+<dateline>CALCUTTA, India 1996-08-23</dateline>
+<text>
+<p>There was brisk demand for all varieties at this week's Calcutta tea auction, traders said on Friday.</p>
+<p>In all 66,751 packages, including 5,179 packages of Darjeeling tea, were on offer.</p>
+<p>In CTCs, good and medium Dooars were easier by one rupee.</p>
+<p>In the orthodox variety, whole leaf grades were dearer by two rupees to three rupees.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

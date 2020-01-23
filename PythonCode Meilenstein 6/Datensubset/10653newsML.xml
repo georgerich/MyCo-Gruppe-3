@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10653" id="root" date="1996-08-23" xml:lang="en">
+<title>CANADA: Imperial cuts Canada heavy oil prices.</title>
+<headline>Imperial cuts Canada heavy oil prices.</headline>
+<text>
+<p>COMPANY	 EFF DATE   BOW RIVER   HARDISTY     MEDIUM,</p>
+<p>(CDLR/M3)			BLEND     MEDIUM**     CROMER</p>
+<p>IMPERIAL	08/23/96    162.00	  --	  170.00</p>
+<p>SHELL CANADA  08/23/96	--	  169.70	170.70</p>
+<p>SUNCOR	  08/20/96	--	    --	  174.00</p>
+<p>PETRO-CANADA  08/12/96	--	  165.00*	 --</p>
+<p>KOCH OIL	08/16/96    169.00	176.00	177.00</p>
+<p>Bow River Blend, Hardisty.....24.9 API, 2.1 pct sulphur Hardisty Medium...............29.3 API, 1.6 pct sulphur</p>
+<p>*Petro-Can Hardisty Medium....25.7 API, 2.1 pct sulphur Medium at Cromer, Man.........29.3 API, 2.0 pct sulphur</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

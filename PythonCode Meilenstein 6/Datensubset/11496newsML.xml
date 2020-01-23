@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11496" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: Bremen coffee market sees higher Brazil prices.</title>
+<headline>Bremen coffee market sees higher Brazil prices.</headline>
+<dateline>BREMEN, Germany 1996-08-23</dateline>
+<text>
+<p>Brazil differentials in the German coffee import market rose as exporters raised prices as a result of firm domestic markets, traders said on Friday.</p>
+<p>Sluggish roaster buying focused on first quarter 1997.</p>
+<p>Fob Bremen Brazils were quoted at $124 per 50 kg compared with $116 charged last week for Sept/Nov.</p>
+<p>Elsewhere, arabica prices rose $2-3 on the week in line with futures' net gains, although London and New York futures today took a weaker course after Thursday highs.</p>
+<p>Indonesian robustas were reduced by $3 to $74.00 and competitive Ugandan robusta offers were also in the market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BREMEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6257" id="root" date="1996-08-21" xml:lang="en">
+<title>CHINA: China warns autumn flooding only just begun.</title>
+<headline>China warns autumn flooding only just begun.</headline>
+<dateline>BEIJING 1996-08-21</dateline>
+<text>
+<p>China warned its provinces on Wednesday that severe flooding that has killed thousands of people since June was just the start of seasonal deluges.</p>
+<p>&quot;The autumn flooding has just begun,&quot; the Xinhua Daily Telegraph quoted the State Anti-Flood and Drought Headquarters as saying on Wednesday. &quot;The flood-fighting situation we are now facing is still very grim.&quot;</p>
+<p>The headquarters warned that river banks in inundated areas had been weakened by recent storms and floods, raising the danger of heavier flooding in the future.</p>
+<p>Storms and floods across much of southwestern, central and northeastern China have killed at least 2,700 people, injured more than 32,200 and caused more than 52.4 billion yuan ($6.2 billion) in damage.</p>
+<p>&quot;Water levels in the middle and lower reaches of the Yangtze River and its tributaries are still above alert levels; flood waters in the Yellow River have still not emptied into the sea,&quot; the headquarters said.</p>
+<p>The group said northeastern provinces were particularly vulnerable. &quot;There is still the possibility of huge floods along the Songhua and Liao rivers in the northeast,&quot; the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

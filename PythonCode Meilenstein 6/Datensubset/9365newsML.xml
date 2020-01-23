@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9365" id="root" date="1996-08-22" xml:lang="en">
+<title>HONG KONG: UPS wins Thai traffic rights.</title>
+<headline>UPS wins Thai traffic rights.</headline>
+<dateline>HONG KONG 1996-08-22</dateline>
+<text>
+<p>United Parcel Service of America Inc (UPS) won the right to operate five flights a week from Bangkok, UPS engineering director for Asia, Mark Sobolewski told Reuters.</p>
+<p>The start-up date for the flights and the exact routings to and from Thailand have not yet been finalised, he said in an interview.</p>
+<p>Sobolweski added the new flights will enhance the company's growing Asian network, and will position it to service the Indo-China region as well as connecting to India and Europe.</p>
+<p>UPS has also started construction of a new US$4 million Asia-Pacific hub in Taipei, due to open in March 1997.</p>
+<p>The U.S. global package distribution company, which began its Asian operations in 1988, said it recorded an annual average volume growth rate in the Asia-Pacific region of 30-35 percent in recent years.</p>
+<p>--  By Jim Gilchrist, Air Cargo Newsroom Tel +44 171 542 8982 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

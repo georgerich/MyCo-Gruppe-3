@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11325" id="root" date="1996-08-23" xml:lang="en">
+<title>TAIWAN: Taiwan BSPA buys 108,000T U.S. soybeans at tender.</title>
+<headline>Taiwan BSPA buys 108,000T U.S. soybeans at tender.</headline>
+<dateline>TAIPEI 1996-08-23</dateline>
+<text>
+<p>The Kaohsiung division of Taiwan's Breakfast Soybean Procurement Association bought two 54,000-tonne shipments of U.S. soybeans from Zennoh and Agrex at a tender on Friday, traders said.  </p>
+<p>The shipments were bought on a cost-and-freight basis.</p>
+<p>Details for the tender, as supplied by traders, are as follow:</p>
+<p> Position  Size  Shipment/Location	  Price/futures</p>
+<p>		     U.S. Gulf  Pacific N.W.</p>
+<p>    1     54,000 Nov 10-24  Nov 25-Dec 9  85.70 US cents/Jan 97</p>
+<p>    2     54,000 Dec  5-19  Dec 20-Jan 3  89.80 US cents/Jan 97</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

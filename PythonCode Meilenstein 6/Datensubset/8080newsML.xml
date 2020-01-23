@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8080" id="root" date="1996-08-22" xml:lang="en">
+<title>TURKEY: Turkish brokerage Erciyes allowed to resume trade.</title>
+<headline>Turkish brokerage Erciyes allowed to resume trade.</headline>
+<dateline>ISTANBUL 1996-08-22</dateline>
+<text>
+<p>Turkey's regulatory Capital Markets Board (SPK) allowed brokerage house Erciyes Menkul Degerler to resume its trading activities on Thursday, after three months of suspension, the brokerage said.</p>
+<p>The SPK decided last week that the brokerage had fulfilled its requests after its activities were suspended on May 7 due to improper use of securities and breach of rules in loan-based transactions, it said in a written statement sent to the Istanbul Stock Exchange.</p>
+<p>Of the 100 brokerages now operating on the Istanbul Stock Exchange, Bogazici and Tur Securities are currently under suspension.</p>
+<p>-- Istanbul Newsroom, +90-212-25 0875</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

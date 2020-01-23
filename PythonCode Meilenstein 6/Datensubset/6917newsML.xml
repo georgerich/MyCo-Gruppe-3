@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6917" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Goody's Q2 shr profit up slightly.</title>
+<headline>Goody's Q2 shr profit up slightly.</headline>
+<dateline>KNOXVILLE, Tenn 1996-08-21</dateline>
+<text>
+<p>GOODY'S FAMILY CLOTHING INC.</p>
+<p>			 Unaudited Statements of Operations</p>
+<p>		    (In thousands, except earnings per share)</p>
+<p>			     Thirteen Weeks Ended</p>
+<p>			     8/03/96	 7/29/95</p>
+<p>Sales		     $183,411	$155,130</p>
+<p>Net earnings	     $ 1,362	 $   917</p>
+<p>Earnings per share     $  0.08	 $  0.06</p>
+<p>Weighted average shares</p>
+<p> outstanding		16,126	  16,124</p>
+<p>NOTE - Net earnings for 1996 second quarter reflects a pre-tax charge of $691,000 in the closing of a Franklin, Tenn., store by August 31.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KNOXVILLE, Tenn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

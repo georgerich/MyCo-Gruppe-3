@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5637" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Fay's Inc Q2 net rises.</title>
+<headline>Fay's Inc Q2 net rises.</headline>
+<dateline>LIVERPOOL, N.Y. 1996-08-21</dateline>
+<text>
+<p>Thirteen Weeks     Thirteen Weeks</p>
+<p>			    Ended		    Ended</p>
+<p>		  July 27, 1996	  July 29, 1995</p>
+<p>Revenues	$253,563,000	    $236,845,000</p>
+<p>Income from Continuing Operations</p>
+<p>		   1,446,000		     669,000</p>
+<p>Income from Discontinued Operations</p>
+<p>			 -0-			 304,000</p>
+<p>Net Income	$1,446,000		  $973,000</p>
+<p>Income from Continuing Operations</p>
+<p>			    $.07			 $.03</p>
+<p>Income from Discontinued Operations</p>
+<p>				-0-			 .02</p>
+<p>Net Income		$.07			 $.05</p>
+<p>Average Shares Outstanding     21,373,680		 20,858,472</p>
+<p>	   Twenty-Six Weeks	  Twenty-Six Weeks</p>
+<p>	   Ended			 Ended</p>
+<p>	   July 27, 1996	     July 29, 1995</p>
+<p>Revenues  $502,117,000		$472,457,000</p>
+<p>Income from Continuing Operations</p>
+<p>		 3,515,000		   2,156,000</p>
+<p>Loss from Discontinued Operations</p>
+<p>		  -0-			  (412,000)</p>
+<p>Net Income  $3,515,000		  $1,744,000</p>
+<p>Income from Continuing Operations</p>
+<p>		  $.17				$.10</p>
+<p>Loss from Discontinued Operations</p>
+<p>		   -0-			     (.02)</p>
+<p>Net Income    $.17				$.08</p>
+<p>Average Shares outstanding</p>
+<p>		 21,220,015		 20,793,640</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERPOOL, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

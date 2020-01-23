@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4875" id="root" date="1996-08-20" xml:lang="en">
+<title>MALTA: Malta union and bank to talk on dispute.</title>
+<headline>Malta union and bank to talk on dispute.</headline>
+<dateline>VALLETTA 1996-08-20</dateline>
+<text>
+<p>Malta's Mid-Med Bank and the Malta Union of Bank Employees have agreed to return to the negotiating table after a bruising two-week industrial dispute which led to a two-day strike.</p>
+<p>The dispute arose over renewal of a collective agreement on working conditions. The union said the bank's proposals for a new agreement were &quot;morally reprehensible&quot; and had been refusing to meet the bank.</p>
+<p>The two sides held a conciliation meeting before the chairman of an industrial tribunal on Monday when they decided to withdraw all their proposals and start from scratch. The union said it was lifting all industrial actions.</p>
+<p>Bank workers went on strike on Friday and Saturday.</p>
+<p>The workers had also been opening branches late and refusing to service cash machines. Mid-Med Bank is Malta's largest bank and the only commercial bank where government has a controlling stake.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

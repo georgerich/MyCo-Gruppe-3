@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9476" id="root" date="1996-08-22" xml:lang="en">
+<title>LEBANON: Lebanon's mid-year banking activity up - Bank.</title>
+<headline>Lebanon's mid-year banking activity up - Bank.</headline>
+<dateline>BEIRUT 1996-08-22</dateline>
+<text>
+<p>The consolidated balance sheet of Lebanon's commercial banks' rose to 30,963 billion Lebanese pounds in mid-1996, Lebanon's Banks Association said in its latest bulletin.</p>
+<p>The consolidated sheet of Lebanon's 82 banks stood at 29,055 billion pounds at the end of 1995, the bulletin said.</p>
+<p>Deposits rose to 26,578 billion pounds from 25,145 billion pounds at the end of 1995, it said.</p>
+<p>Lebanese pound deposits rose to 10,873 billion pounds at the end of June from 9,255 billion pounds at the end of 1995.</p>
+<p>Deposits in foreign currencies grew by $660 million to $9.990 billion in June compared with $9.230 billion at the end of 1995.</p>
+<p>Dollarisation of bank deposits registered 59.07 percent against 61.76 percent at the end 1995.</p>
+<p>Loans and credits to the private sector rose by 1,274 billion pounds at the end of June over the end December 1995 -- increasing to 11,969 billion pounds from 10,695 billion.</p>
+<p>($1= 1,563 Lebanese pounds)</p>
+<p>-Beirut editorial (961 1) 864148 645456 353078 861723</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

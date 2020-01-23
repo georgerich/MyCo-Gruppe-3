@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12484" id="root" date="1996-08-23" xml:lang="en">
+<title>GERMANY: Toepfer maintains 1996 German grain crop estimate.</title>
+<headline>Toepfer maintains 1996 German grain crop estimate.</headline>
+<dateline>HAMBURG 1996-08-23</dateline>
+<text>
+<p>Germany's 1996 grain crop will be above 40 million tonnes compared with 39.9 million last year, grain trader Alfred Toepfer said in its latest monthly newsletter.</p>
+<p>Toepfer last month gave a precise 40.6 million tonnes estimate.</p>
+<p>Today's comments said the rise over 1995 would be more or less pronounced, but a precise figure was not given.</p>
+<p>Harvesting was one or two weeks late and disrupted by rain in central and southern regions while the north was too dry, Toepfer said.</p>
+<p>Cold temperatures were delaying ripening but yields looked better than expected.</p>
+<p>Wheat and rye crops were of good quality but falling numbers, which measure baking qualities, looked significantly lower than last year, Toepfer said.</p>
+<p>--Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

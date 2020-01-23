@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7015" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Clinton lead halved in Calif. after GOP convention.</title>
+<headline>Clinton lead halved in Calif. after GOP convention.</headline>
+<dateline>SAN FRANCISCO 1996-08-21</dateline>
+<text>
+<p>President Clinton's lead over Republican Bob Dole in California was halved to 10 points following the Republican convention, according to an opinion poll published Wednesday.</p>
+<p>The poll by the independent Field Institute found that the Democratic ticket of Clinton and Vice President Al Gore led the Republican ticket of Dole and his running mate Jack Kemp 45 percent to 35 percent in a four-way presidential match-up.</p>
+<p>The match-up also included Texas billionaire Ross Perot, who is running for his new Reform Party, and Ralph Nader of the Green Party.</p>
+<p>The Field Institute poll was completed August 19, following last week's Republican convention in San Diego.</p>
+<p>In July, the division of likely voter sentiment in California was 48 percent for Clinton vs. 28 percent for Dole, the Field Institute said.</p>
+<p>California, with 54 electoral votes, is regarded as essential to Clinton's re-election chances in the Nov. 5 election. Clinton has underscored the importance of the state with numerous visits throughout his presidency.</p>
+<p>In the current survey, Clinton captured 77 percent of the votes from the state's rank-and-file Democrats while Dole won 70 percent of Republican votes, the poll found.</p>
+<p>The survey was conducted August 14 to 19 among 707 registered voters in California, of whom 531 were deemed more likely to vote in the November election. The margin of error was plus or minus 4.5 percentage points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

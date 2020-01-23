@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5203" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Michigan sues tobacco firms for $14 billion.</title>
+<headline>Michigan sues tobacco firms for $14 billion.</headline>
+<dateline>LANSING, Mich 1996-08-21</dateline>
+<text>
+<p>Michigan became the 13th state to take the tobacco industry to court, filing a lawsuit Wednesday seeking $14 billion in damages from major tobacco firms and their wholesale distributors.</p>
+<p>Michigan Attorney General Frank Kelley said the suit, which names 28 separate defendants, sought $2 billion in restitution to the state for past smoking-related health care costs, $2 billion for future anticipated health care costs and $10 billion in punitive damages.  </p>
+<p>The suit, filed in Ingham County Circuit Court in Lansing, also asks the court to order tobacco companies to:</p>
+<p>- Disclose all research information on the effects of smoking that relates to public health issues.</p>
+<p>- Pay for a corrective public education campaign on the impact of smoking and nicotine addiction and pay for smoking cessation programs.</p>
+<p>- Issue corrective statements on the health risks of smoking and stop advertising that targets children.</p>
+<p>- Pay civil penalties for violations of the Consumer Protection and Antitrust Reform acts and pay reasonable attorney fees and costs.</p>
+<p>&quot;Every year in Michigan, thousands of addicted smokers die from using tobacco company products precisely as the merchants of death have designed and intended for those products to be used,&quot; Kelley said in a statement.</p>
+<p>&quot;Through a well-organized campaign of fraud, lies, intimidation and deception, the tobacco companies have avoided legal responsibility for engineering, manufacturing and selling the most deadly and harmful consumer product in history while reaping billions of dollars in profit,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANSING, Mich"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

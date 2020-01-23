@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2854" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: COREStaff Inc acquires Pacific Data Group.</title>
+<headline>COREStaff Inc acquires Pacific Data Group.</headline>
+<dateline>HOUSTON, Texas 1996-08-20</dateline>
+<text>
+<p>CORESTaff Inc said Tuesday it had acquired Pacific Data Group,  which it described as the largest independent information technology company in Oregon for undisclosed terms.</p>
+<p>COREStaff said it had signed a defnitive agreement to acquire all of the company's issued and outstanding stock in cash.</p>
+<p>The temporary staffing company said it expected to close the acquisition by August 31 without giving any more details.</p>
+<p>It said the founders of Pacific Data Group would keep running the business.</p>
+<p>COREStaff said the addition of the acquired company to its information technology group COMSYS would boost pro forma 1995 revenues to about $220 million.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

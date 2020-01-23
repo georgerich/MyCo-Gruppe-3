@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4279" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Pizza Inn Q4 net rises.</title>
+<headline>Pizza Inn Q4 net rises.</headline>
+<dateline>DALLAS 1996-08-20</dateline>
+<text>
+<p>Pizza Inn Inc</p>
+<p>			     Financial Highlights</p>
+<p>		     (in thousands, except per share amounts)</p>
+<p> Fourth Quarter	   June 30, 1996	     June 25, 1995</p>
+<p> Revenue			  $19,838			 $16,049</p>
+<p> Net income			 1,220			     898</p>
+<p> Earnings per share		0.09			    0.06</p>
+<p> Weighted average shares     13,950			  13,970</p>
+<p> 12 Months	     June 30, 1996		  June 25, 1995</p>
+<p> Revenue			  $69,441			 $62,044</p>
+<p> Net income			 3,908			   3,198</p>
+<p>  Excluding gain		  3,908			   2,848</p>
+<p> Earnings per share		0.28			    0.22</p>
+<p>  Excluding gain		   0.28			    0.20</p>
+<p> Weighted average shares     14,007			  14,234</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

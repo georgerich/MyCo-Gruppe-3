@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9561" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: World market price for upland cotton - USDA.</title>
+<headline>World market price for upland cotton - USDA.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>USDA announced the prevailing world market price for upland cotton at 60.90 cents per lb, effective through midnight ET Aug. 29.</p>
+<p>The price is adjusted to U.S. quality allocation for Strict Low Middling, 1-1/16 inch upland cotton.</p>
+<p>Because the AWP is above the 1994, 1995 and 1996 base quality loan rates of 50.00, 51.92 and 51.92 cts per lb, respectively, the loan repayment rate is equal to the loan rate, adjusted for the specific quality and location plus applicable interest and storage charges.  </p>
+<p>USDA noted in accordance with new rules published in the Federal Register last month, the Step 2 payment rate for exporters from now on will be determined as of the date the cotton is shipped.</p>
+<p>This week, Step 2 payments are prohibited because the USNE price, adjusted by the value of the Step 2 payment rate in effect last week, exceeded the NE price by more than 1.25 cents per pound for 10 consecutive weeks, USDA said.  </p>
+<p>USDA said this week's AWP was determined as follows (cents/lb):</p>
+<p> Northern European Price --  75.81</p>
+<p>	  Average U.S. spot</p>
+<p>	   market location --  12.72</p>
+<p>  SLM 1-1/16 inch cotton --   2.00</p>
+<p>   Average U.S. location --   0.19</p>
+<p>	 Total adjustments -- -14.91</p>
+<p>    Adjusted World Price --  60.90</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8257" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Americast signs $1 bln contract with Zenith.</title>
+<headline>Americast signs $1 bln contract with Zenith.</headline>
+<text>
+<p>LOS ANGELES, Calif, Aug 22 (Reuter) Programming venture Americast said Thursday it had signed a $1 billion contract with Zenith Electronics Corp to buy at least three million digital set-top boxes for its home entertainment service.  </p>
+<p>Americast, a consortium among Ameritech Corp, South Corp, GTE Corp, SBC Communications and The Walt Disney Co, said the non-exclusive contract was part of its strategy to develop and market the next generation in home entertainment.</p>
+<p>Production of the boxes was to begin during the first half of 1997, it added.</p>
+<p>Americast cited Zenith as saying the boxes would allow the consortium to deploy four kinds of video networks: &quot;wireless cable&quot; (MMDS), hybrid fiber-coax, switched digital video (fiber to the curb) and direct broadcast satellite.</p>
+<p>Americast said Southern New England Telecommunications Corp had signed a letter of intent under which it would join the consortium as a partner.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

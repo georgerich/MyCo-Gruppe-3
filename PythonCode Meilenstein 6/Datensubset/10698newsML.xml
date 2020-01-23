@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10698" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: IPO FILING - Boston Biomedica Inc.</title>
+<headline>IPO FILING - Boston Biomedica Inc.</headline>
+<dateline>WASHINGTON 1996-08-23</dateline>
+<text>
+<p>Company Name		  Boston Biomedica Inc</p>
+<p>Stock symbol			BBII.O</p>
+<p>Estimated price range	   n/a</p>
+<p>Total shares to be offered    n/a</p>
+<p>Shrs offered by company	 n/a</p>
+<p>Shrs offered by shareholders  n/a Shrs outstanding after IPO    n/a</p>
+<p>Lead Underwriters    Oscar Gruss &amp; Son Inc and Kaufman Bros.</p>
+<p>L.P.</p>
+<p>Underwriters' over-allotment  n/a</p>
+<p>Business: West Bridgewater, Mass.,-based company makes quality-control products for in vitro diagnostic test kits used to detect, analyze and monitor infectious diseases such as AIDS, hepatitis and Lyme disease.</p>
+<p>Use of Proceeds: To repay debt, and for capital expenditures and general corporate purposes, including working capital and potential acquisitions.</p>
+<p>Financial Data in 000s:     1995		 1994</p>
+<p>   - Revenue		 $12,271	     $10,723</p>
+<p>   - Net Income		  103		    97</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

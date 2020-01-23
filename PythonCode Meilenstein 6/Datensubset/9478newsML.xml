@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9478" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Two U.S. military planes crash, one pilot missing.</title>
+<headline>Two U.S. military planes crash, one pilot missing.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>Two U.S. military reserve planes crashed in the same region in separate incidents on Thursday and the pilot of one was missing, officials said.</p>
+<p>An official spokesman said a Marine Reserve F/A-18 fighter attack plane, on a routine air training exercise, crashed in the Atlantic after disappearing from the radar screen near Wallops Island, Virginia. There was no indication yet what had happened to the pilot.</p>
+<p>The Coast Guard said later it found debris in the Atlantic about 40 miles (65 km) east of Ocean City, Maryland, which is about 40 miles (65 km) north of Wallops Island.</p>
+<p>In eastern Maryland, less than 100 miles (160 km) from the first crash, an Air National Guard A-10 Thunderbolt tankbuster plane crashed and the pilot was taken to a hospital, Guard spokesman John Hoffman said. There was no immediate word on the pilot's condition.</p>
+<p>Hoffman said the A-10 plane was on a &quot;functional check flight&quot; when it crashed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

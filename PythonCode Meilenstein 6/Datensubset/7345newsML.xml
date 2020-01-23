@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7345" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Tokyo stocks end up for 3rd day in row.</title>
+<headline>Tokyo stocks end up for 3rd day in row.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Tokyo stocks ended higher for the third straight day on Wednesday, relieved by the U.S. Federal Reserve's decision to leave interest rates steady.</p>
+<p>But brokers said the market lacked energy to test higher levels.</p>
+<p>The key 225-share Nikkei average closed up 148.01 points or 0.70 percent at 21,275.02, off a high of 21,391.00 set earlier in the day. Its September futures gained 80 points to 21,260.</p>
+<p>&quot;One of the drags on the market has disappeared,&quot; said Haruo Nakaharu,a  strategist at Toyo Securities Co Ltd. He was referring to Tuesday's Federal Open Market Committee meeting.  </p>
+<p>Gainers were led by iron/steel, fisheries, sea transport, banks and pharmaceuticals.</p>
+<p>The key retreating sectors were warehouses, electric power, services and credit/lease.</p>
+<p>Brokers said no individual issues led today's rally.</p>
+<p>Blue-chip Fuji Photo Film Co Ltd gained 150 yen to close at 3,450.</p>
+<p>Matsushita-Kotobuki Electronics Industries Ltd advanced 160 yen to end at 2,760, after the company raised its earnings forecast on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

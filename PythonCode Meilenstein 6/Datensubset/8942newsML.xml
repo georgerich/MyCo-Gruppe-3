@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8942" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: North Sea diffs slow to reflect sharp Brent gains.</title>
+<headline>North Sea diffs slow to reflect sharp Brent gains.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Paper Brent heaved further away from recent lows on Thursday, but the forward market's renewed strength was barely visible in differentials for North Sea physical grades, traders said.</p>
+<p>&quot;There are still a couple of weak (physical) sellers out there so we've yet to see (Brent gains) reflected in grade differentials,&quot; said one North Sea equity holder.</p>
+<p>Oct Brent paper made sharp gains to stand up 50 cents up at $20.72 by mid-afternoon.</p>
+<p>Sep/Oct Brent was out almost 10 cents on the day so far trading at +58 cents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

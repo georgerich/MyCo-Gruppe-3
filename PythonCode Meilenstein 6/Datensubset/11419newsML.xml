@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11419" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: CME traders say USDA cattle data neutral-bullish.</title>
+<headline>CME traders say USDA cattle data neutral-bullish.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>CME traders said monthly cattle data from the leading seven producing states issued by the U.S. Department of Agriculture on Friday were neutral to mildly bullish for live cattle futures.</p>
+<p>The main supportive impact came from news that July placements at 106 percent of a year ago were below the average analyst projection in a Reuter survey of 110.5 percent.  </p>
+<p>The report put the number of cattle on feed (in lots of 1,000 head or more) at 86 percent of a year ago, as of August 1, little changed from the average projection of 86.2 percent in the Reuter survey.</p>
+<p>July marketings at 99 percent were below the average analysts' projection of 102.4 percent but the total was not expected to be particularly bearish as recent movement has been very heavy.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

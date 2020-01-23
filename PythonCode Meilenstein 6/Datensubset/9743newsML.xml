@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9743" id="root" date="1996-08-22" xml:lang="en">
+<title>PORTUGAL: Portuguese bond report.</title>
+<headline>Portuguese bond report.</headline>
+<dateline>LISBON 1996-08-22</dateline>
+<text>
+<p>Bonds surged, although they slightly trailed Spain, on hopes that the Bank of Portugal will follow the Bundesbank in cutting the repo rate.</p>
+<p>&quot;The (German) rate cut gave a boost to the periphery markets and we went up with Spain,&quot; said one trader.</p>
+<p>&quot;Tomorrow there could be some initial profit-taking in periphery markets, particularly if the central banks (Spain and Portugal) disappoint and do not ease monetary policy,&quot; said another trader. But even in this case, the retreat would not be too great and the markets would find support a little below current levels, he added.  </p>
+<p>&quot;The spreads would not change much,&quot; he added, referring to the yield gap between the Spanish and the Portuguese 10-year cash bonds.</p>
+<p>The trader added that if Spain and Portugal cut, then the markets could push higher and the spread narrow below 10 basis points.</p>
+<p>According to analysts polled by Reuters, the Bank of Portugal could cut its 7.5 percent repo by up to 25 basis points on Friday.</p>
+<p>--Sergio Goncalves, Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

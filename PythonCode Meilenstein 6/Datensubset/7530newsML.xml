@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7530" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: Cap Gemini first-half sales up 21.6 pct.</title>
+<headline>Cap Gemini first-half sales up 21.6 pct.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996.</p>
+<p>(All figures in millions of French francs)</p>
+<p>    Turnover					 6,678    vs    5,493</p>
+<p>	- second quarter			   3,580    vs    2,797</p>
+<p>NOTE - The computer services and consultancy group said in a note in the BALO legal bulletin that second-quarter turnover included one month's sales from Gemini Consulting. The group increased its stake in Gemini Consulting to 100 percent from 34 percent on May 24. Cap Gemini said that without Gemini Consulting, sales would have risen 17.5 percent in the first quarter and 19.9 percent in the second qurter.</p>
+<p>-- Paris newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

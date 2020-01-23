@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8336" id="root" date="1996-08-22" xml:lang="en">
+<title>SPAIN: PRESS DIGEST - Spain - Aug 22.</title>
+<headline>PRESS DIGEST - Spain - Aug 22.</headline>
+<text>
+<p>Headlines from major national newspapers. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>EL PAIS</p>
+<p>- Prime Minister Jose Maria Aznar avoids discussing future of party's leader in Catalonia Aleix Vidal-Quadras</p>
+<p>EL MUNDO</p>
+<p>- Russian &quot;falcons&quot; bombard Grozni implacably</p>
+<p>DIARIO 16</p>
+<p>- ETA offensive in Galicia with explosive devices in Santiago and Bayona</p>
+<p>ABC</p>
+<p>- Football down a tube (television coverage deal)</p>
+<p>CINCO DIAS</p>
+<p>- Heavy buying of Pryca shares in the stock market</p>
+<p>EXPANSION</p>
+<p>- Revaluation of assets with conservative criteria</p>
+<p>GACETA DE LOS NEGOCIOS</p>
+<p>- Carrefour invests 30 billion to control 69 percent of Pryca (had 63.8 percent)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

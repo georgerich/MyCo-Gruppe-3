@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9060" id="root" date="1996-08-22" xml:lang="en">
+<title>SENEGAL: Volume of trade at Senegal's port falls.</title>
+<headline>Volume of trade at Senegal's port falls.</headline>
+<dateline>DAKAR 1996-08-22</dateline>
+<text>
+<p>The volume of goods handled by Senegal's port of Dakar fell more than 13 percent in the first six months of 1996, Dakar's Chamber of Commerce and Industry said.</p>
+<p>The Chamber said in a statement Thursday the total dropped from 3.03 million tonnes in the first six months of 1995 to 2.6 million tonnes during the same period this year.</p>
+<p>Dakar handles more than 90 percent of Senegal's exports.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAKAR"/>
+<dc element="dc.creator.location.country.name" value="SENEGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

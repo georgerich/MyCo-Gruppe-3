@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8716" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Resource mortgage loans down 1 pct.</title>
+<headline>Resource mortgage loans down 1 pct.</headline>
+<dateline>COLUMBIA, S.C. 1996-08-22</dateline>
+<text>
+<p>Resource Bancshares Mortgage Group Inc said on Thursday that its July 1996 mortgage loan production was $775.3 million, a 1 percent decrease from the July 1995 production of $786.6 million.</p>
+<p>For the seven months ended July 31, 1996, mortgage loan production was $6.4 billion, a 150% increase over the same period for 1995, the company said.</p>
+<p>The company said its locked mortgage loan pipeline was $768.0 million at July 31, 1996, compared to $957.2 million at July 31, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

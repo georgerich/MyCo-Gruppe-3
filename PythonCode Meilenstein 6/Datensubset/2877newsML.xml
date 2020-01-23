@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2877" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Renaissance Entertainment Q1 shr loss.</title>
+<headline>Renaissance Entertainment Q1 shr loss.</headline>
+<dateline>BOULDER, Colo 1996-08-20</dateline>
+<text>
+<p>Financial Summary (Unaudited)</p>
+<p>		     (In Thousands, Except Per Share Amounts)</p>
+<p>			   Three Months Ended June 30</p>
+<p>						 1996		   1995</p>
+<p> Sales				  $5,316,083	   $4,486,726</p>
+<p> Net Operating Income (Loss)   (1,290,804)		184,703</p>
+<p>Net Income (Loss) Before Taxes</p>
+<p>					 (1,304,764)		172,389</p>
+<p>Net Income (Loss) to Common</p>
+<p>   Shareholders		    (1,304,764)		 56,424</p>
+<p>Net Income (Loss) Per</p>
+<p>   Common Share			   (0.30)		   0.02</p>
+<p>Weighted Average Number</p>
+<p>  of Shares Outstanding	    3,996,189	    3,750,297</p>
+<p>NOTE: Full company name is Renaissance Entertainment Corp.</p>
+<p>Increase in 1996 Q1 sales mainly reflects initial seven- week run of Virginia Renaissance Faire.</p>
+<p>Operating loss in Q1 1996 reflects losses incurred at opening of Virginia Faire and decrease in revenues at Southern California Faire.</p>
+<p>-- New York Newsdesk, 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

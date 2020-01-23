@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11127" id="root" date="1996-08-23" xml:lang="en">
+<title>ALBANIA: PRESS DIGEST - Albania - Aug 23.</title>
+<headline>PRESS DIGEST - Albania - Aug 23.</headline>
+<dateline>TIRANA 1996-08-23</dateline>
+<text>
+<p>The following are the main stories from Friday morning's Albanian newspapers. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>KOHA JONE</p>
+<p>- The government may have to cut public sector jobs because the European Union did not grant $25 million in financial assistance for balance of payments. The move has not been confirmed by any official institution.</p>
+<p>- Based on their monitoring work at the last general elections, the U.S. International Republican Institute is making suggestions to Albanian political parties on ways to improve the electoral process ahead of the upcoming local poll.</p>
+<p>- A boycott of the local elections this fall could lead to early general elections, a newspaper commentary says.</p>
+<p>GAZETA SHQIPTARE</p>
+<p>- A national folk music competition is to be held in the southern town of Saranda in September.</p>
+<p>- The reconstruction of Tirana's electrical power supply system will take until 1998.</p>
+<p>RILINDJA DEMOKRATIKE</p>
+<p>- The European Union is to assist Albania's economic programme from 1996-1999 with aid of 140 million ECUs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

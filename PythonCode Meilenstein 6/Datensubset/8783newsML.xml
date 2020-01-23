@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8783" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: N.Y. business loans fell $290 mln August 14 week.</title>
+<headline>N.Y. business loans fell $290 mln August 14 week.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>Commercial and industrial loans at the seven major New York banks, excluding acceptances, fell $290 million to $40,725 million in the week ended August 14, the Federal Reserve Bank of New York said.</p>
+<p>Including acceptances, loans fell $288 million to $40,953 million.</p>
+<p>Commercial paper outstanding nationally fell $4,976. million to $728,321 million.</p>
+<p>-- N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

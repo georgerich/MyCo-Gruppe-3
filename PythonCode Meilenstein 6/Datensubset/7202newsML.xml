@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7202" id="root" date="1996-08-21" xml:lang="en">
+<title>NEW ZEALAND: New Zealand dollar ends higher, seen range-trading.</title>
+<headline>New Zealand dollar ends higher, seen range-trading.</headline>
+<dateline>WELLINGTON 1996-08-21</dateline>
+<text>
+<p>The New Zealand dollar hitched a ride with the Australian currency to close higher on Wednesday, and dealers said it looked content to range trade for the time being.</p>
+<p>S&amp;P said they had put Australia on creditwatch positive after Tuesday's budget.</p>
+<p>&quot;Pretty much tracking closely the Aussie,&quot; one dealer said of the Kiwi. &quot;Aussie made a reasonable recovery, testing the 70 cent (U.S.) area, and with that Kiwi has been able to chug on up,&quot; he said.  </p>
+<p>The Kiwi closed at US$0.6902/09, up from its 0.6894/01 open. However, at 65.44 the Kiwi was a touch weaker on its Trade-Weighted Index, having opened at 65.48.</p>
+<p>&quot;The Kiwi has been lacking a bit of its own momentum just lately. There's obviously been a lot of interest rate buying over the last week, and that's kept us in a healthy tone,&quot; one dealer said.</p>
+<p>&quot;We're just sort of ranging before we find out which way Aussie's going.&quot; The Australian currency closed at US$0.7897/02.</p>
+<p>Dealers expected the Kiwi to trade a 0.6890-6920 range overnight.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

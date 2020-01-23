@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5537" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: DataWorks Corp to acquire DCD Corp.</title>
+<headline>DataWorks Corp to acquire DCD Corp.</headline>
+<dateline>SAN DIEGO 1996-08-21</dateline>
+<text>
+<p>DataWorks Corp said Wednesday it signed a definitive agreement to acquire all of the outstanding stock of DCD Corp.</p>
+<p>DataWorks said it expected the acquisition to be completed in the fourth quarter.</p>
+<p>DataWorks plans to issue up to 1.8 million shares of its common stock to pay for the acquisition.</p>
+<p>The stock rose 3-1/2 to a year-high of 22-3/4 on Wednesday.</p>
+<p>DCD, based in Minneapolis, develops business management software for the make-to-order manufacturing segment.</p>
+<p>DataWorks, based in San Diego, is a supplier of software for discrete and repetitive midrange manufacturers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

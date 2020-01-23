@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12346" id="root" date="1996-08-23" xml:lang="en">
+<title>PHILIPPINES: Philippine flour mills buy 33,500 T U.S. wheat.</title>
+<headline>Philippine flour mills buy 33,500 T U.S. wheat.</headline>
+<dateline>MANILA 1996-08-23</dateline>
+<text>
+<p>Philippine flour mills bought 33,500 tonnes of U.S. wheat for September shipment late on Thursday, Manila traders said.</p>
+<p>&quot;One flour mill bought 7,500 tonnes of western white wheat for $4.51 a bushel and 16,000 tonnes of dark northern spring wheat with 13.5 percent protein content for $4.61 per bushel,&quot; one trader said on Friday.  </p>
+<p>Traders said another flour mill bought 5,000 tonnes each of western white and dark northern spring wheat with 14 percent protein content.</p>
+<p>Prices for the wheat orders were not immediately available.</p>
+<p>Last week, Philippine flour mills bought 75,000 tonnes of U.S. wheat also for September shipment.</p>
+<p>--Manila newsroom (632) 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I41600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

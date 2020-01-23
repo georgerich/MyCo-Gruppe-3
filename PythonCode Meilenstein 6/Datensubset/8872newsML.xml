@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8872" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: FAA to announce changes to 737 flight controls.</title>
+<headline>FAA to announce changes to 737 flight controls.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>The Federal Aviation Administration said it would hold a briefing at 1400 EDT (1800 GMT) on Thursday to announce proposed changes to the flight control systems of the widely-used Boeing Co 737 aircraft.</p>
+<p>Following several unexplained crashes of 737s, the FAA earlier this year conducted a five-month investigation of the plane's control systems, but found nothing that could be blamed for the accidents.</p>
+<p>The study, however, called for some modifications of the systems, to be announced on Thursday.</p>
+<p>Officials said that none of the modifications were considered urgent, with airlines in some cases being given up to 18 months to make the changes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

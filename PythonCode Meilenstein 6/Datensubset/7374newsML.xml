@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7374" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Avon Products - 6mth parent results.</title>
+<headline>Avon Products - 6mth parent results.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 14.12		vs	   16.19</p>
+<p> Operating   loss 161    mln	  vs	prft 702 mln</p>
+<p> Current	loss 83    mln	  vs	prft 796 mln</p>
+<p> Net	    loss 82    mln	  vs	loss 269 mln</p>
+<p> EPS	     loss 1.32 yen	  vs     loss 4.33 yen</p>
+<p> Shares	     62 million	  vs	  62 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Avon Products Co Ltd produces and sells cosmetics in Japan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

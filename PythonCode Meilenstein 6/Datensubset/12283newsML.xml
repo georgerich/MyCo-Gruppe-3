@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12283" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Longchamp - 6mth parent results.</title>
+<headline>Longchamp - 6mth parent results.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  6.62		vs	    7.41</p>
+<p> Operating     loss 1.07		vs   loss 486    mln</p>
+<p> Current	 loss 1.13		vs   loss 615    mln</p>
+<p> Net	     loss 1.18		vs   loss 718    mln</p>
+<p> EPS	    loss 55.65 yen	  vs    loss 34.02 yen</p>
+<p> Shares	     21 million	  vs	  21 million</p>
+<p>NOTE - Longchamp Co Ltd is a medium-scale maker of printed cloth for women&quot;s wear.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

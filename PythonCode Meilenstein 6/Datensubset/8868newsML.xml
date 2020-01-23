@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8868" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Kushner-Locke gets $8 mln ABC contract.</title>
+<headline>Kushner-Locke gets $8 mln ABC contract.</headline>
+<dateline>LOS ANGELES 1996-08-22</dateline>
+<text>
+<p>Kushner-Locke Co said Thursday it had secured an $8 million contract from ABC Television to produce the first six episodes, including the pilot episode, of a new series called &quot;Gun.&quot;</p>
+<p>Kushner-Locke will retain foreign distribution rights to the series, which has Robert Altman and Jim Sadwith as executive producers .</p>
+<p>&quot;Gun&quot; follows the trail of a pearl-handled, semi-automatic pistol as it passes in and out of the hands of a different set of characters in each week's episode.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I9741112">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4903" id="root" date="1996-08-20" xml:lang="en">
+<title>GERMANY: German July M3 slows to 8.6 pct from 9.6.</title>
+<headline>German July M3 slows to 8.6 pct from 9.6.</headline>
+<dateline>FRANKFURT 1996-08-20</dateline>
+<text>
+<p>The Bundesbank gave the following data for German M3 money supply growth in July</p>
+<p>						  July 96	  June 96</p>
+<p>Annualised vs average Q4 1995	    8.6	     9.6</p>
+<p>Non-annualised vs average Q4 1995	5.6	     5.5</p>
+<p>Note - The Bundesbank's target range for 1996 M3 money supply growth is four percent to seven percent.</p>
+<p>Analysts polled by Reuters predicted seasonally-adjusted, annualised July M3 growth versus the average of the 1995 final quarter in a range of 8.5 to 9.2 percent. Forecasts averaged 8.8 percent.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

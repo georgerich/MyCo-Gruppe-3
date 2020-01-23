@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6354" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: PaineWebber's winning scale on Oregon Bond Bank.</title>
+<headline>PaineWebber's winning scale on Oregon Bond Bank.</headline>
+<text>
+<p>AMT: 6,000,000	DATE: 08/21/96	NYC Time: 1200	CUSIP: 68607K</p>
+<p>ISSUER: Oregon Bond Bank						ST: OR</p>
+<p>ISSUE: Special Public Works Fund, 1996 Ser A (See Notes)    TAX STAT:Exempt-REV</p>
+<p>M/SP/F: A/A/NR							    BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 08/15/96							     SURE BID: Y</p>
+<p>DUE: 1/1/98-17						SR MGR: PaineWebber</p>
+<p>1ST CPN: 01/01/97					   DOLLAR BID: 98.161</p>
+<p>CALL: 1/1/05 @ 102, dtp 1/1/07			  TIC 5.547</p>
+<p>DELIVERY: 9/6/96 approx				   ORDERS: 1.5 HRS</p>
+<p>PAYING AGENT: Wells Fargo Bank, N.A., Portland</p>
+<p>L.O.: Preston Gates &amp; Ellis, Portland</p>
+<p>F.A.: None</p>
+<p>LAST SALE: $4,800,000 8/29/95 @ 5.6602% TIC 13 yrs 2 mos avg; BBI 6.08%</p>
+<p>NOTES: Oregon Economic Development Dept, Governmental Purpose</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     30,000     4.100     4.100		 .250</p>
+<p>1999		    180,000     4.250     4.250		 .250</p>
+<p>2000		    185,000     4.400     4.400		 .250</p>
+<p>2001		    200,000     4.550     4.550		 .250</p>
+<p>2002		    220,000     4.700     4.700		 .250</p>
+<p>2003		    230,000     4.800     4.800		 .250</p>
+<p>2004		    240,000     4.900     4.900		 .250</p>
+<p>2005		    250,000     5.000     5.000		 .250</p>
+<p>2006		    265,000     5.000     5.100		 .250</p>
+<p>2007		    280,000     5.125     5.200		 .250</p>
+<p>2008		    300,000     5.250     5.300		 .250</p>
+<p>2009		    310,000     5.375     5.400		 .250</p>
+<p>2010		    330,000     5.400     5.450		 .250</p>
+<p>2011		    350,000     5.400     5.500		 .250</p>
+<p>2012		    375,000     5.500     5.550		 .250</p>
+<p>2013		    405,000     5.500     5.600		 .250</p>
+<p>2014		    425,000     5.500     5.650		 .250</p>
+<p>2015		    445,000     5.500     5.700		 .250</p>
+<p>2016		    485,000     5.500     5.750		 .250</p>
+<p>2017		    495,000     5.500     5.750		 .250</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

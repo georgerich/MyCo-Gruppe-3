@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2729" id="root" date="1996-08-20" xml:lang="en">
+<title>ALBANIA: Albanian Airlines denies bankruptcy report.</title>
+<headline>Albanian Airlines denies bankruptcy report.</headline>
+<dateline>TIRANA 1996-08-20</dateline>
+<text>
+<p>Albania's first and only national carrier Albanian Airlines denied a newspaper report on Tuesday which claimed the company was suspending flights in September because it was going bankrupt.</p>
+<p>&quot;It is absolutely not true that Albanian Airlines is going bankrupt,&quot; the company's sales manager Feliks Baci told Reuters. &quot;We are fully booked every day.&quot;</p>
+<p>Albania's largest-circulation daily Koha Jone alleged in its Tuesday edition that Albania's national carrier could be on the verge of bankruptcy after making losses of $15 million.</p>
+<p>&quot;Losses were planned. They do not stop our business,&quot; Baci said, adding the group had expected to have several million dollars of losses in the first four years of operation. &quot;This is normal when starting up this kind of company,&quot; he said.</p>
+<p>Baci declined to give specific figures. He said the company's board would meet on Tuesday and Wednesday to discuss details of the company's future operations.</p>
+<p>Albanian Airlines was founded in 1992 as a joint venture between Albania's state tourism agency Albtransport and Austria's Tyrolean Airways. Both companies owned a 50 percent stake in the airline.</p>
+<p>Albanian Airlines was subsequently bought for $2 million in 1995 by the Kuwaiti Al Kharafi Group, which paid off all the company's previous debts. Al Kharifi currently owns 95 percent of the company, while the Albanian government retains a five percent stake.</p>
+<p>Albanian Airlines makes 12 flights a week to Munich, Bologna, Rome and Istanbul.</p>
+<p>The company has about 150 employees.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

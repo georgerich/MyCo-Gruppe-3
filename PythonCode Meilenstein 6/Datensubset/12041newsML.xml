@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12041" id="root" date="1996-08-23" xml:lang="en">
+<title>DENMARK: Rate cuts sign of new European growth - Lykketoft.</title>
+<headline>Rate cuts sign of new European growth - Lykketoft.</headline>
+<dateline>COPENHAGEN 1996-08-23</dateline>
+<text>
+<p>Denmark's Finance Minister Mogens Lykketoft said on Friday that the latest wave of European interest rate cuts was a sign of renewed growth, vital for export-dependent Denmark.</p>
+<p>&quot;This can only strengthen the impression that things are going the right way,&quot; Lykketoft told Reuters.</p>
+<p>&quot;It is vital for Denmark that the nascent upturn in Europe and specially in Germany is growing stronger. It is of key importance for Denmark that the German trend improves,&quot; he said.</p>
+<p>Denmark's central bank on Friday cut its 14-day certificate of deposit (CD) rate to 3.50 point from 3.70 percent.</p>
+<p>The move followed rate cuts by Germany, France, Austria, Belgium and the Netherlands on Thursday.</p>
+<p>--Uffe Hansen, Copenhagen newsroom, 45-33-969658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6448" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: U.S. Navy probes wires cut on nuclear submarine.</title>
+<headline>U.S. Navy probes wires cut on nuclear submarine.</headline>
+<dateline>NEW LONDON, Conn. 1996-08-21</dateline>
+<text>
+<p>The Navy said on Wednesday it was investigating the severing of electrical wires aboard a nuclear submarine.</p>
+<p>&quot;The Navy is looking into the possible deliberate, wrongful destruction of government property aboard the fast attack submarine U.S.S. San Juan,&quot; Lt. John Wallach, a public information officer at the New London Naval Base, said.</p>
+<p>He said several wires in a supply cabinet aboard the 360-foot (120-metre) submarine were found to have been cut during a routine inspection on June 12. &quot;There was never any danger to the nuclear reactor, never any danger to the safety of the crew. Repairs were effected pretty quickly and she got back to business,&quot; he said.</p>
+<p>Federal agents from the Navy Criminal Investigation Service were conducting the probe, begun when a watch commander spotted a non-functioning indicator light. Upon examination, it was discovered that several wires in the supply cabinet behind the panel had been cut, Wallach said.</p>
+<p>He played down a suggestion that it was sabotage. &quot;First, that assumes falsely that a human being did this and number two, a sinister motive. The investigation is still going on.&quot;</p>
+<p>The U.S.S. San Juan and its crew of 130 is based at New London but is currently at sea, Wallach said, adding: &quot;She has been out to sea several times since the incident.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW LONDON, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

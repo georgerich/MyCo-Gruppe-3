@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3873" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: INDIA GOVERNMENT SECURITIES - Aug 20.</title>
+<headline>INDIA GOVERNMENT SECURITIES - Aug 20.</headline>
+<text>
+<p>Government	 Indicative	 Coupon	    Yield to</p>
+<p>   Securities	 Market Price     Dates	     maturity</p>
+<p>			  (Range)				  Apprx pct.</p>
+<p>   13.50 pct, 1997    101.65/70	Mar   1/Sep  1     13.38</p>
+<p>   13.50 pct, 1998    100.83/88	Apr  18/Oct 18     13.67</p>
+<p>   13.62 pct, 1998    100.17/22	Jul  31/Dec 31     13.60</p>
+<p>   00.00 pct, 1999     72.17/22	-------------	13.99</p>
+<p>   13.70 pct, 1999    100.50/55	Jun   6/Dec  6     13.75</p>
+<p>   00.00 pct, 2000(III)58.80/85	--------------     14.11</p>
+<p>   12.50 pct, 2004     94.45/55	Mar  23/Sep 23     13.97</p>
+<p>* Note: These rates are based on a consensus of rates being</p>
+<p>offered by leading banks, corporates.</p>
+<p># To contribute to this daily composite rate, please telephone Samir Shah at Money Desk on (022) 265-9000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7506" id="root" date="1996-08-21" xml:lang="en">
+<title>BELGIUM: Belgian central bank leaves rates unchanged.</title>
+<headline>Belgian central bank leaves rates unchanged.</headline>
+<dateline>BRUSSELS 1996-08-21</dateline>
+<text>
+<p>The Belgian National Bank said in its daily official interest rate announcement that it left key rates unchanged.</p>
+<p>The central rate for primary dealers of government debt is 3.20 percent, the end-of-day rate for all others 4.45 percent.</p>
+<p>The emergency lending rate, an open-ended overnight facility for all financial institutions, is 6.00 percent.</p>
+<p>The discount rate stands at 2.50 percent.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8170" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Aug 22.</title>
+<headline>PRESS DIGEST - New York Times front page - Aug 22.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page on Thursday:</p>
+<p>* U.S. Defense Department says it is exploring the &quot;plausibility&quot; that American troops were exposed to Iraqi nerve gas during the Gulf War.</p>
+<p>* The man accused of masterminding the 1993 bombing of the World Trade Center defends himself against charges of plotting to blow up U.S. airliners in Asia.</p>
+<p>* Kremlin leaders joust with Russian army over Chechnya.</p>
+<p>* Late baseball great Mickey Mantle's legend lives on through marketing.</p>
+<p>* President Bill Clinton is set to approve curbs on cigarette marketing to youths.</p>
+<p>* Oil companies buy an army to tame Colombia's rebels.</p>
+<p>* Christians wrestle with question of whether non-believers can be saved.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

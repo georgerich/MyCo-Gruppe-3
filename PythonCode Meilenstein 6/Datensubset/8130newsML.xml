@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8130" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: U.S. cotton stocks -- Census.</title>
+<headline>U.S. cotton stocks -- Census.</headline>
+<dateline>WASHINGTON 1996-08-22</dateline>
+<text>
+<p>U.S. Census Bureau domestic and foreign cotton stocks at factories and warehouses (bales):</p>
+<p>	 IN CONSUMING	IN PUBLIC   MLNS OF ACTIVE SPINDLES</p>
+<p>	ESTABLISHMENTS	STORAGE     USING 100 PCT COTTON</p>
+<p>  Jul 96  :  605,864     1,883,597	 2.677</p>
+<p>  Jun 96  :  608,987     2,582,820	 2.674</p>
+<p>  Jul 95  :  712,667     1,744,958	 2.888</p>
+<p>R--Revised.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

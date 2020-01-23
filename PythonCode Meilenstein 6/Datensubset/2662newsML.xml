@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2662" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: BASEBALL-MAJOR LEAGUE STANDINGS AFTER MONDAY'S GAMES.</title>
+<headline>BASEBALL-MAJOR LEAGUE STANDINGS AFTER MONDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>Major League Baseball</p>
+<p>standings after games played on Monday (tabulate under won,</p>
+<p>lost, winning percentage and games behind):</p>
+<p>			AMERICAN LEAGUE</p>
+<p>			EASTERN DIVISION</p>
+<p>			 W    L   PCT  GB</p>
+<p> NEW YORK	   71   52  .577   -</p>
+<p> BALTIMORE	  65   58  .528   6</p>
+<p> BOSTON	     61   64  .488  11</p>
+<p> TORONTO	    56   69  .448  16</p>
+<p> DETROIT	    42   82  .339  29 1/2</p>
+<p>			CENTRAL DIVISION</p>
+<p> CLEVELAND	  75   50  .600   -</p>
+<p> CHICAGO	    69   57  .548   6 1/2</p>
+<p> MINNESOTA	  62   62  .500  12 1/2</p>
+<p> MILWAUKEE	  59   67  .468  16 1/2</p>
+<p> KANSAS CITY	58   68  .460  17 1/2</p>
+<p>			WESTERN DIVISION</p>
+<p> TEXAS		72   53  .576   -</p>
+<p> SEATTLE	    64   59  .520   7</p>
+<p> OAKLAND	    62   65  .488  11</p>
+<p> CALIFORNIA	 57   67  .460  14 1/2</p>
+<p>TUESDAY, AUGUST 20 SCHEDULE</p>
+<p>OAKLAND AT BOSTON		 </p>
+<p>TEXAS AT CLEVELAND		</p>
+<p>CHICAGO AT DETROIT		</p>
+<p>SEATTLE AT BALTIMORE	    </p>
+<p>CALIFORNIA AT NEW YORK	  </p>
+<p>TORONTO AT KANSAS CITY	  </p>
+<p>MILWAUKEE AT MINNESOTA	  </p>
+<p>			NATIONAL LEAGUE</p>
+<p>			EASTERN DIVISION</p>
+<p>			 W    L   PCT  GB</p>
+<p> ATLANTA	    77   46  .626   -</p>
+<p> MONTREAL	   67   56  .545  10</p>
+<p> FLORIDA	    58   67  .464  20</p>
+<p> NEW YORK	   58   68  .460  20 1/2</p>
+<p> PHILADELPHIA     50   75  .400  28</p>
+<p>			CENTRAL DIVISION</p>
+<p> ST LOUIS	   67   57  .540   -</p>
+<p> HOUSTON	    67   58  .536     1/2</p>
+<p> CINCINNATI	 62   60  .508   4</p>
+<p> CHICAGO	    61   62  .496   5 1/2</p>
+<p> PITTSBURGH	 52   72  .419  15</p>
+<p>			WESTERN DIVISION</p>
+<p> SAN DIEGO	  68   59  .535   -</p>
+<p> LOS ANGELES	66   58  .532     1/2</p>
+<p> COLORADO	   63   62  .504   4</p>
+<p> SAN FRANCISCO    53   69  .434  12 1/2</p>
+<p>TUESDAY, AUGUST 20 SCHEDULE</p>
+<p>FLORIDA AT CHICAGO		</p>
+<p>NEW YORK AT SAN FRANCISCO     </p>
+<p>CINCINNATI AT ATLANTA	   </p>
+<p>PITTSBURGH AT HOUSTON	   </p>
+<p>ST LOUIS AT COLORADO	    </p>
+<p>PHILADELPHIA AT LOS ANGELES  </p>
+<p>MONTREAL AT SAN DIEGO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

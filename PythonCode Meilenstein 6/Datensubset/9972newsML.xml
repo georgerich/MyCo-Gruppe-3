@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9972" id="root" date="1996-08-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-Alliance lifts gold mine resource.</title>
+<headline>RTRS-Alliance lifts gold mine resource.</headline>
+<dateline>SYDNEY 1996-08-22</dateline>
+<text>
+<p>Alliance Gold Mines NL said on Thursday that testing has increased the gold resource base to 70,000 ounces at its Union Hill North prospect in the Maldon goldfields of Victoria state.</p>
+<p>The delineation of new indicated and inferred resources from the Eaglehawk Reef area of the deposit has added 56,000 ounces to the overall resource figure, the company said.</p>
+<p>The company a month ago announced a resource of 14,000 ounces of contained gold in the Linscotts Reef area of Union Hill North.  </p>
+<p>The new Eaglehawk Reef resource is about 50 metres east of Linscotts Reef and some 25 metres east of the Union Hill Decline, which the company has recently extended.</p>
+<p>Alliance said more definition work at Union Hill North is in progress and that it expects resources to be further upgraded.</p>
+<p>-- Sydney Newsroom 61- 29373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

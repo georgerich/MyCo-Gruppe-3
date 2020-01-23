@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6515" id="root" date="1996-08-21" xml:lang="en">
+<title>FRANCE: N.France grain harvest nearly over, yields up.</title>
+<headline>N.France grain harvest nearly over, yields up.</headline>
+<dateline>PARIS 1996-08-21</dateline>
+<text>
+<p>The grain harvest is 90 percent complete in northern France and should be over by the end of the week though rainfall is slowing down combining pace, crop analysts said on Wednesday.</p>
+<p>In Picardie, the country's second wheat and third barley area, initial results suggest good cloud cover and scattered showers in early July and August have boosted wheat yields to high levels.</p>
+<p>&quot;Yieldwise, it is an outstanding year for wheat,&quot; an analyst for the local ONIC office told Reuters.</p>
+<p>Recent thunderstorms have kept farmers away from the fields but the delays have given grain extra time to mature, he said.</p>
+<p>The region which covers the Oise, Aisne and Somme areas is now expecting wheat yields of 8.5 tonnes per hectare on average against 7.6 tonnes last year.</p>
+<p>But the drought that hit most of northern France in the spring has led to a wide range of yields with a few two-hectare patches turning yields as high as 12-13 tonnes and lighter soils yields as low as 4.5-5 tonnes.</p>
+<p>ONIC expects Picardie's wheat area to rise to 488,000 hectares from 465,000 last year.</p>
+<p>Spring barley yields are forecast at 7.6-7.8 tonnes per hectare against last year's 7.1 tonnes and rapeseed yields are expected to reach 4.0 tonnes per hectare against 3.3 last year.</p>
+<p>Quality details were scarce at this stage but mid-August rain may have lowered specific weight, the analyst said.</p>
+<p>High temperatures did boost protein content in winter barley to over 12.5 percent, a level usually rejected by the malting industry.</p>
+<p>But spring barley was fine for malting with protein content of 11-11.5 percent, unchanged from last year. --Dominique Vidalon, Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

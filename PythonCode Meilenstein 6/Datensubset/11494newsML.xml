@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11494" id="root" date="1996-08-23" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Fire said to kill five on Japanese trawler.</title>
+<headline>Fire said to kill five on Japanese trawler.</headline>
+<dateline>DUBLIN 1996-08-23</dateline>
+<text>
+<p>Fire killed five crew members of a Japanese trawler in the Atlantic west of Ireland on Friday, Irish state broadcastter RTE said.</p>
+<p>It said one crew member was injured in the blaze, which apparently started after a gas explosion.</p>
+<p>Port officials in the Western Irish port of Galway could not confirm that the five men had died but said they had heard reports that five people had been injured.</p>
+<p>The stricken vessel was heading for Galway under its own power, the officials said.</p>
+<p>The vessel was among 30 being shadowed by Irish fisheries protection vessels after two trawlers were detained and escorted to port on suspicion of illegal fishing inside Ireland's territorial waters.</p>
+<p>They were stopped after long-line tuna fishing tackle was found inside the &quot;Irish Box&quot; -- Ireland's 200-mile territorial waters.</p>
+<p>The skipper of one vessel, the Minato Maru, was charged with illegal fishing in the southern town of Bandon on Friday and was ordered to appear in court again on November 4.</p>
+<p>A second vessesl, whose name was not known, was being escorted to the port of Castletownbeare in the southern region of Cork, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

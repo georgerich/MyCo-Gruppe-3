@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11871" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Everest merges into Guardian International.</title>
+<headline>Everest merges into Guardian International.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-08-23</dateline>
+<text>
+<p>Everest Security Systems Corp said on Friday it would merge with Hollywood, Fla.-based Guardian International Inc, and Guardian management will take control of the surviving company.</p>
+<p>The company will change its name to Guardian International Inc after the merger, which needs final approval from Guardian's lending institution.</p>
+<p>Everest has bought 100 percent of Guardian and will invest an additional $10 million within 60 days of the closing. Other terms were not disclosed.</p>
+<p>Guardian is a supplier of security monitoring and monitored security systems in the southeast United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

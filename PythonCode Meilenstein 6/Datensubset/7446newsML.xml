@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7446" id="root" date="1996-08-21" xml:lang="en">
+<title>SOUTH KOREA: Bank of Korea intervenes to ease won's fall.</title>
+<headline>Bank of Korea intervenes to ease won's fall.</headline>
+<dateline>SEOUL 1996-08-21</dateline>
+<text>
+<p>The central bank of Korea intervened in the interbank market in Wednesday morning trading to slow the won's fall against the dollar, dealers said.  </p>
+<p>The central bank denied the intervention as it always does.</p>
+<p>Traders said the central bank intervened when the won hit a low of 820 to the dollar and the local currency was pushed back up to an intraday high of 818.50 won.</p>
+<p>&quot;It's a sign that the central bank doesn't want the dollar to rise above 820,&quot; said a local trader. &quot;That level will play as a resistance for a while.&quot;</p>
+<p>Prior to the intervention, the won had been falling pressured by short dollar covering and import settlements.</p>
+<p>--Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

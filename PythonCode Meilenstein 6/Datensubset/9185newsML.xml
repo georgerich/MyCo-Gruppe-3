@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9185" id="root" date="1996-08-22" xml:lang="en">
+<title>HUNGARY: CESI jumps to new high, all three markets firmer.</title>
+<headline>CESI jumps to new high, all three markets firmer.</headline>
+<dateline>BUDAPEST 1996-08-22</dateline>
+<text>
+<p>The CESI Central European Share Index soared to a new high at 1,495.58 points, up 16.01 on Thursday, the Budapest Stock Exchange said.</p>
+<p>The index rose as all the three markets closed higher.</p>
+<p>The index, which has been published since February 1, reflects trends of 50 shares on the Budapest, Prague and Warsaw bourses.</p>
+<p>-- Budapest newsroom (36 1) 266 2410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6357" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: PRESALE - Peekskill City School District, N.Y..</title>
+<headline>PRESALE - Peekskill City School District, N.Y..</headline>
+<text>
+<p>AMT: 1,200,000	DATE: 08/27/96	NYC Time: 1100	CUSIP: 705404</p>
+<p>ISSUER: Peekskill City School District			    ST: NY</p>
+<p>ISSUE: School District Serial, Series 1996			TAX STAT:Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 09/01/96							     SURE BID: N</p>
+<p>DUE: 8/1/97-06						SR MGR:</p>
+<p>1ST CPN: 02/01/97</p>
+<p>CALL: Non-Callable					  TIC</p>
+<p>DELIVERY: 9/5/96 approx				   ORDERS:</p>
+<p>PAYING AGENT: School District Treasurer's Office, Peekskill</p>
+<p>L.O.: Squire, Sanders &amp; Dempsey, New York City</p>
+<p>F.A.: Public Finance Associates, Hopewell Junction</p>
+<p>LAST SALE: $4,640,000 FGIC 6/20/95 @ 5.1613% NIC; 8 yrs 4 mos Avg; BBI- 5.86%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    100,000</p>
+<p>1998		    105,000</p>
+<p>1999		    115,000</p>
+<p>2000		    120,000</p>
+<p>2001		    125,000</p>
+<p>2002		    130,000</p>
+<p>2003		    135,000</p>
+<p>2004		    135,000</p>
+<p>2005		    135,000</p>
+<p>2006		    100,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

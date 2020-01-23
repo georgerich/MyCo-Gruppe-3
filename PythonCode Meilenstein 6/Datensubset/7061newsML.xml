@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7061" id="root" date="1996-08-21" xml:lang="en">
+<title>GERMANY: Duesseldorf(DUS) to open 1.5mln mark rail halt.</title>
+<headline>Duesseldorf(DUS) to open 1.5mln mark rail halt.</headline>
+<dateline>FRANKFURT 1996-08-21</dateline>
+<text>
+<p>Duesseldorf Airport said it will invest up to 1.5 million marks on a new rail halt for one of its temporary departure terminals.</p>
+<p>Airport authority Flughafen Duesseldorf GmbH (FDG) said in a statement the new S-Bahn local railway halt for Terminal E will go into operation on October 31.</p>
+<p>Terminal E is one of two temporary departure terminals which will open on November 1 and will be used for charter airline operations.</p>
+<p>More than 30 international carriers, including German charter airline LTU International Airways, will be based there.</p>
+<p>The airport's passenger terminal was gutted in a fire on April 11 and flights have since been handled in large tents and former cargo buildings.</p>
+<p>From November 1, scheduled airlines are due to transfer to the re-fitted C pier. --Air Cargo Newsroom Tel +44 171 542 7706 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

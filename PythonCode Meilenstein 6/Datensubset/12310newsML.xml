@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12310" id="root" date="1996-08-23" xml:lang="en">
+<title>JAPAN: Sansui Electric - 6mth parent results.</title>
+<headline>Sansui Electric - 6mth parent results.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Six months to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  4.40		vs	    4.26</p>
+<p> Operating   loss 259    mln	  vs   loss 255    mln</p>
+<p> Current     loss 254    mln	  vs   loss 494    mln</p>
+<p> Net	   loss 332    mln	  vs   loss 606    mln</p>
+<p> EPS	     loss 1.47 yen	  vs     loss 2.67 yen</p>
+<p> Shares	    241 million	  vs	 227 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Sansui Electric Co Ltd is an audio goods maker.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

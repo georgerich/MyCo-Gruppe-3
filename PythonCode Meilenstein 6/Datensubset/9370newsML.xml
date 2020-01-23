@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9370" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Nippon Steel to pay less commission to trade firms.</title>
+<headline>Nippon Steel to pay less commission to trade firms.</headline>
+<dateline>TOKYO 1996-08-23</dateline>
+<text>
+<p>Nippon Steel Corp said on Friday that it would pay less commission to trading houses for exporting its steel from October.  </p>
+<p>Steel makers export their steel through trading houses and the traders receive payments from buyers in dollars. The trading houses convert the payments into yen for the steel makers, and receive a commission for these transactions.</p>
+<p>Nippon Steel will cut its foreign exchange commission to 0.1 yen per dollar from one yen per dollar, a company spokesman said. He said other steel makers were planning a similar cut in commission payments to trading houses.</p>
+<p>The Japanese business daily Nihon Keizai Shimbun said the move would reduce the amount Nippon Steel pays in commission by four billion yen, but the spokesman did not confirm the figure.  </p>
+<p>In order to lessen the impact on trading houses' earnings, Nippon Steel may need to reduce commissions gradually, taking a few years to complete the cut, the spokesman said.</p>
+<p>The cut is part of Nippon Steel's overall review of its contract terms with trading houses, he said.</p>
+<p>&quot;The review is part of the cost-cutting efforts we have been making company-wide for the last few years,&quot; the spokesman said.</p>
+<p>The foreign exchange commission rate has not changed since the time the yen's value was fixed at 360 to the dollar, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

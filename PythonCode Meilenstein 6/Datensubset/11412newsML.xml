@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11412" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: CME lumber futures close mixed at new highs.</title>
+<headline>CME lumber futures close mixed at new highs.</headline>
+<dateline>CHICAGO 1996-08-23</dateline>
+<text>
+<p>CME lumber futures closed mixed with the two nearbys up after posting new contract highs and reaching the highest price level in two years.</p>
+<p>September posted a new high of $401.80 and November $367.00 per tbf. Futures ended $4.40 higher to $3.40 lower with September up most at $400.90 and November up $2.80 at $362.50 per tbf.</p>
+<p>Much of the strength came from continued strong cash.</p>
+<p>&quot;Futures are at a discount and cash showing no signs of breaking,&quot; said Neil Schmaedick, Smith Barney Forest Products analyst.</p>
+<p>Schmaedick also cited arbitrage trading where wholesalers are selling and then buying futures because of the discount futures hold to cash.</p>
+<p>Random Length quoted cash spruce at $414 per tbf, up $2 from midweek and $3 above last Friday's level.</p>
+<p>--Jerry Bieszk 312-408-8725</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11196" id="root" date="1996-08-23" xml:lang="en">
+<title>ARGENTINA: Argentine monthly oilseed crushings.</title>
+<headline>Argentine monthly oilseed crushings.</headline>
+<dateline>BUENOS AIRES 1996-08-23</dateline>
+<text>
+<p>Argentine mills crushed 1,472,642 tonnes of oilseed in June 1996 against 1,415,751 tonnes in June 1995, the Agriculture Secretariat said. (Breakdown in tonnes, year-earlier in brackets).</p>
+<p> Soybean	     1,014,367    (841,906)</p>
+<p> Sunflowerseed	 362,954    (487,956)</p>
+<p> Linseed		  10,194     (11,562)</p>
+<p> Groundnutseed	  11,210     (10,182)</p>
+<p> Cottonseed	     73,917     (64,145)</p>
+<p>Output in June was as follows:</p>
+<p> ..............Oils...................Meals</p>
+<p> Soybean     180,611    (143,753)    827,174     (665,351)</p>
+<p> Sunflower   142,492    (192,963)    147,441     (200,681)</p>
+<p> Linseed	 1,135	(3,835)	  nil	   (nil)</p>
+<p> Groundnut     4,413	(3,891)	6,259	 (5,618)</p>
+<p> Cottonseed   11,293	(9,710)     34,519	(29,356)</p>
+<p> .......................Expellers</p>
+<p> Soybean    3,162   (5,451)  Groundnut   nil	  (nil)</p>
+<p> Sunflower    422     (333)  Cottonseed  nil	  (nil)</p>
+<p> Linseed    2,363   (7,748)</p>
+<p>Crushings from January to June, with the same period in 1995 in brackets, were:</p>
+<p> Soybean	     4,112,934    (3,490,600)</p>
+<p> Sunflowerseed     2,936,629    (2,650,989)</p>
+<p> Linseed		  91,499	 (81,269)</p>
+<p> Groundnutseed	  38,613	 (29,450)</p>
+<p> Cottonseed	    237,196	(225,889)</p>
+<p>Output in January through June (1995 in brackets):</p>
+<p> ..............Oils...................Meals</p>
+<p> Soybean     743,271    (591,941)  3,341,069  (2,726,579)</p>
+<p>Sunflower 1,129,588  (1,057,608)  1,197,055  (1,147,984)</p>
+<p> Linseed	27,708     (26,748)	  nil	  (nil)</p>
+<p> Groundnut    15,063     (11,534)     22,436     (16,311)</p>
+<p> Cottonseed   35,997     (34,770)    109,517    (100,849)</p>
+<p> .......................Expellers</p>
+<p> Soybean    19,680 (29,640)   Groundnut   nil	  (nil)</p>
+<p> Sunflower   2,987  (2,114)   Cottonseed  nil	  (nil)</p>
+<p> Linseed    54,544 (53,829)</p>
+<p>-- Buenos Aires Newsroom +541-318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

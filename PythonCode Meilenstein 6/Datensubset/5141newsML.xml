@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5141" id="root" date="1996-08-21" xml:lang="en">
+<title>HONG KONG: Silver Eagle year net loss HK$25.47 mln.</title>
+<headline>Silver Eagle year net loss HK$25.47 mln.</headline>
+<dateline>HONG KONG 1996-08-21</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   54.0 loss  vs 572.0 loss (adjusted)</p>
+<p>    Dividend (H.K. cents)    nil	  vs nil</p>
+<p>    Exceptional items	  28.0 gain  vs 40.93 loss</p>
+<p>    Net			    25.47 loss vs 155.16 loss</p>
+<p>    Turnover		     139.38     vs 314.37</p>
+<p>    Company name		 Silver Eagle Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Silver Eagle manufacturers and retails footwear.</p>
+<p>Net is after an exceptional gain on a writeback of provision for doubtful recovery of accounts receivable from a major customer.</p>
+<p>Comparative loss per share has been adjusted for 20-into-1 share consolidation of September 1995.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

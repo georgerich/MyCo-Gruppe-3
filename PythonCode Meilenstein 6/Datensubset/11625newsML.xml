@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11625" id="root" date="1996-08-23" xml:lang="en">
+<title>UK: LPG stays firm on strong crude and high US prices.</title>
+<headline>LPG stays firm on strong crude and high US prices.</headline>
+<dateline>LONDON 1996-08-23</dateline>
+<text>
+<p>Liquefied petroleum gas (LPG) remained firm in Europe in the week ending on Friday, boosted by high U.S. prices. But though prices in the Middle East and East Asia were also firm, trade in eastern markets was much thinner.</p>
+<p>The key Mont Belvieu market in the U.S. has been strong enough to lure Algerian cargoes transatlantic, with two butane cargoes for September delivery recently sold.</p>
+<p>&quot;For European sellers from the North Sea with 20kt vessels, the U.S. price is still not exciting, but Algerians with large 40kt vessels would rather go to the U.S. than to north Europe,&quot; said a trader.  </p>
+<p>As a result, the North Sea market remains balanced to tight, dealers said, with both propane and butane prices seeing modest gains over the week.</p>
+<p>Several large trades were reported, with propane done at $193 cif Germany (20kt) and $192.50 cif Germany (5kt). Butane was done at $191.50 cif Germany (15kt).</p>
+<p>A 20kt butane cargo was sold into Pembroke in Wales on a formula of 33 percent fixed price of $194 a tonne; 33 percent BPAP-related; and 33 percent related to two separate independent price quotations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

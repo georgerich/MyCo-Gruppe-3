@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10093" id="root" date="1996-08-22" xml:lang="en">
+<title>JAPAN: Takamizawa -95/96 parent results.</title>
+<headline>Takamizawa -95/96 parent results.</headline>
+<dateline>TOKYO 1996-08-22</dateline>
+<text>
+<p>Year to June 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 30.47		vs	   29.46</p>
+<p> Operating	    1.36		vs	    1.42</p>
+<p> Current		1.31		vs	    1.16</p>
+<p> Net		  639    million    vs	  584    million</p>
+<p> EPS		   76.54 yen	  vs	   81.70 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares		9 million	  vs	   8 million</p>
+<p> Ord div	     10.00 yen	  vs	   10.00 yen</p>
+<p> -Commem div	  3.00 yen	  vs	    2.00 yen</p>
+<p>NOTE - Takamizawa Co Ltd is the full company name.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

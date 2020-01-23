@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2723" id="root" date="1996-08-20" xml:lang="en">
+<title>FINLAND: NOKIA ADS ENDS AT $39-5/8 (FIM 177.12).</title>
+<headline>NOKIA ADS ENDS AT $39-5/8 (FIM 177.12).</headline>
+<dateline>HELSINKI 1996-08-20</dateline>
+<text>
+<p>Nokia's A share ADS closed $0-3/8 lower at $39-5/8 in New York on Monday.</p>
+<p>Its Wall Street closing equals about 177.12 markka. In Helsinki on Monday Nokia closed down 1.30 markka at 177.70.</p>
+<p>Valmet's ADS (two shares) closed $0-1/4 lower at $32 on Wall Street overnight. The price equals about 71.52 markka. In Helsinki, Valmet closed 0.20 markka down at 72.20 markka.</p>
+<p>Rauma's ADS closed down $0-1/8 at $20-1/4 on Wall Street. The price equals about 90.51 markka. In Helsinki on Monday, Rauma closed 2.50 markka higher at 92.50.</p>
+<p>-- Helsinki newsroom +358-0-680 50 248</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I32754">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

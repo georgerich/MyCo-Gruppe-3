@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6871" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: GC Cos Q3 shr $1.07 vs $1.02.</title>
+<headline>GC Cos Q3 shr $1.07 vs $1.02.</headline>
+<dateline>CHESTNUT HILL, Mass. 1996-08-21</dateline>
+<text>
+<p>GC Companies, Inc.</p>
+<p>	   (In thousands except for per share amounts)</p>
+<p>	    (Unaudited)	    Nine months    Three months</p>
+<p>				     Ended July 31,  Ended July 31,</p>
+<p>				   1996	1995     1996	 1995</p>
+<p> Total Revenues	    359,350  349,898  137,301    138,852</p>
+<p> Total Costs		 331,642  325,767  122,140    124,222</p>
+<p> Corporate expenses	  4,679    5,217    1,544	1,910</p>
+<p> Operating earnings	 23,029   18,914   13,617     12,720</p>
+<p>Investment income</p>
+<p>  (loss), net		  (302)	486    1,061	1,105</p>
+<p> Interest expense	    (457)    (470)    (148)	(171)</p>
+<p>Loss on disposition</p>
+<p>  of theatre assets	  (739)    (259)    (246)	 (41)</p>
+<p>Earnings before</p>
+<p>  income taxes		21,531   18,671   14,284     13,613</p>
+<p> Income taxes		(8,828)  (7,655)  (5,856)    (5,581)</p>
+<p> Net earnings		 12,703   11,016    8,428	8,032</p>
+<p> Avg shrs outstanding	7,851    7,858    7,852	7,865</p>
+<p> Net earnings per share     1.62     1.40     1.07	 1.02</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHESTNUT HILL, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

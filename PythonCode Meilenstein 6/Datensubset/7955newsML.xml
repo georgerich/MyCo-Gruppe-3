@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7955" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: London timecharter fixtures.</title>
+<headline>London timecharter fixtures.</headline>
+<dateline>LONDON 1996-08-22</dateline>
+<text>
+<p>Cape Africa - (built 1991) 149,533 dwt 13 on 45 plus two del Kaohsiung mid September trip via NSW redel UK $9,000 daily British Steel.</p>
+<p>Pacific Prospect - (built 1993) 73,360 dwt 14 on 32 del USNH 7-14/8 September two to four months redel Atlantic $8,600/$8,650 daily plus $100,000 bb Docenave.</p>
+<p>Albacore - (built 1977) 71,730 dwt 14 on 32 plus 1.5 del Hay Point 1-5/9 two to three loaded legs redel At;antic $3,750 first forty days $7,500 daily for balance Docenave.  </p>
+<p>Sun P - (built 1981) 65,738 dwt 14 on 39 del Vlaardingen spot trip via Aaheim 7-10 days redel Rotterdam $8,350 daily B. Skaugen.</p>
+<p>Atlantic Statesman - 65,015 dwt 14 on 39 plus one del USG 2-20/9 trip redel Taiwan $11,000 daily plus $150,000 bb K Line.</p>
+<p>Noble Fortune - (built 1974) 64,173 dwt 13 on 32 plus 2.5 del North China spot/prompt trip via Qinhuangdao redel South Korea approx. $5,000 daily Yukong (amended).</p>
+<p>Waimea - (built 1984) 61,751 dwt 14 on 35.5 plus two del passing Skaw prompt trip via St Lawrence redel Egyptian Med $6,800 daily NNC.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

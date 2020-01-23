@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2914" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Daktronics Inc Q1 July 27 net higher.</title>
+<headline>Daktronics Inc Q1 July 27 net higher.</headline>
+<dateline>BROOKINGS, S.D. 1996-08-20</dateline>
+<text>
+<p>Three months ending</p>
+<p>					  Jul 27, 1996     Jul 29, 1995</p>
+<p> Net Sales				   $17,022	    $12,446</p>
+<p> Cost of goods sold			 12,614		9,710</p>
+<p> Gross profit				  4,408		2,736</p>
+<p>Operating expenses:</p>
+<p> Selling					 2,056		1,736</p>
+<p> General and administrative		  649		  534</p>
+<p> Product design and development	    571		  469</p>
+<p> --						3,276		2,739</p>
+<p> Operating income (loss)		   1,132		  (3)</p>
+<p>Nonoperating income (expense):</p>
+<p> Interest expense			    (204)		 (46)</p>
+<p> Interest income				  93		   80</p>
+<p> Other						60		   55</p>
+<p> Income before income tax		  1,081		   86</p>
+<p> Income tax expense			    441		   43</p>
+<p> Net income					640		   43</p>
+<p> Average shares				4,228		4,254</p>
+<p> Earnings per share			    .15		  .01</p>
+<p>	   Amounts in thousands except earnings per share</p>
+<p>		     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BROOKINGS, S.D."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

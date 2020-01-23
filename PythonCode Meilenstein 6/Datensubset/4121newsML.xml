@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4121" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: U.S. cocoa bean, product imports - Commerce.</title>
+<headline>U.S. cocoa bean, product imports - Commerce.</headline>
+<dateline>WASHINGTON 1996-08-20</dateline>
+<text>
+<p>Commerce report of cocoa bean and cocoa product imports, in tonnes:</p>
+<p>		     June96   May 96   June95</p>
+<p> Cocoa Beans-X   20,970   28,557   20,065</p>
+<p>Cocoa Paste --</p>
+<p> - Not Defatted     923    1,269    1,400</p>
+<p> - Defatted	 3,614    3,550    3,002</p>
+<p> Cocoa Butter-Y   5,577    6,091    4,506</p>
+<p> Cocoa Powder     5,487    4,379    4,021</p>
+<p>Note-Cocoa products contain no sugar or milk products. X-Whole or broken, raw or roasted. Y-Includes fat and oil.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

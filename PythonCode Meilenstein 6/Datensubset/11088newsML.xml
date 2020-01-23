@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11088" id="root" date="1996-08-23" xml:lang="en">
+<title>YUGOSLAVIA: Rate on Yugo c-bank bonds jumps to 102.88 pct.</title>
+<headline>Rate on Yugo c-bank bonds jumps to 102.88 pct.</headline>
+<dateline>BELGRADE 1996-08-23</dateline>
+<text>
+<p>The Yugoslav central bank raised the interest rate on its short-term bonds sharply and halved the paper's maturity on Friday, the Belgrade bourse said.</p>
+<p>Bourse spokesman Milko Stimac said the National Bank of Yugoslavia (NBY) offered 40 million dinars in 30-day bonds at 102.88 percent annual interest rate at Friday's auction.</p>
+<p>This compared with the previous 60.7 percent annual rate set when the NBY launched its first 60-day bonds in late June.</p>
+<p>Stimac told Reuters the bank sold bonds worth just over three million dinars at Friday's sale.</p>
+<p>One trader said a possible reason behind the sharp rise in the bond's interest rate and its truncated maturity was that the central bank had taken a jump in July inflation to 6.6 percent into account.</p>
+<p>&quot;They (the bank) apparently now need more money and they have realised that low interest rates on longer-dated paper attract no investors,&quot; another trader said.</p>
+<p>No-one at the central bank was immediately available for comment.</p>
+<p>A market analyst said that the jump in the rate on NBY bonds could be followed by a rise in the discount rate, which has been unchanged at 4.5 percent since June.</p>
+<p>The central bank sets the discount rate each month using a basket that includes interest rates on the open money market, price rises, expected monetary developments, credit demand and money supply.</p>
+<p>The central bank vice-governor Ratko Banovic recently said the NBY would keep the discount rate as its key instrument in regulating market liquidity.</p>
+<p>-- Gordana Filipovic, Belgrade newsroom, +381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

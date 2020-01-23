@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7818" id="root" date="1996-08-22" xml:lang="en">
+<title>GERMANY: Suedzucker says optimistic for 1996.</title>
+<headline>Suedzucker says optimistic for 1996.</headline>
+<dateline>WUERZBURG, Germany 1996-08-22</dateline>
+<text>
+<p>Germany's Suedzucker AG said on Thursday it was optimistic for the 1996 year, repeating a forecast for sales to rise 2.5 perent to 7.7 billion marks.</p>
+<p>Suedzucker management board chairman Theo Spettmann told the annual shareholder meeting: &quot;We remain confident that we can expect a marked rise in profits.&quot;</p>
+<p>He said the company continued to expect good domestic sugar sales.</p>
+<p>Shareholders at the meeting approved a one for seven capital rise.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WUERZBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

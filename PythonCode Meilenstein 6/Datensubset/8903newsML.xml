@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8903" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: Ontrack Data files to offer 2.7 mln shares.</title>
+<headline>Ontrack Data files to offer 2.7 mln shares.</headline>
+<dateline>EDEN PRAIRIE, Minn. 1996-08-22</dateline>
+<text>
+<p>Ontrack Data International Inc said Thursday it filed a registration statement with the Securities and Exchange Commission for the sale of 2.7 million shares of common stock.</p>
+<p>Shares to be sold include 2.0 million from the company and 700,000 by selling shareholders.</p>
+<p>Ontrack said it expects the share offering to be priced at $10 to $12 a share. After the offering, it will have 9,602,674 shares outstanding.</p>
+<p>The shares will be sold through an underwriting group led by Montgomery Securities, Dain Bosworth Inc and Volpe, Welty and Co.</p>
+<p>Ontrack, which offers data recovery services, said it will grant underwriters an option to purchase up to an additional 405,000 shares to cover any over-allotments.</p>
+<p>The company said it will use proceeds from the offering for working capital and other general corporate purposes.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDEN PRAIRIE, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

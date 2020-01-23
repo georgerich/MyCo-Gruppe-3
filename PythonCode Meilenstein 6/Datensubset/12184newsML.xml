@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12184" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian wool prices rise slightly in week.</title>
+<headline>RTRS-Australian wool prices rise slightly in week.</headline>
+<dateline>SYDNEY 1996-08-23</dateline>
+<text>
+<p>The Australian wool market rose slightly at auction sales in Sydney, Adelaide and Fremantle this week, the Australian Council of Wool Exporters said.</p>
+<p>The eastern market indicator rose two cents to 614 cents a kg clean, while, after a two week close, the western market indicator rose seven cents to 556 cents a kg clean.</p>
+<p>The council said prices for 23 micron and finer Merino fleece wool rose by three to five cents a kg this week with some choice lots of 20 micron fleece returning extreme prices.  </p>
+<p>&quot;A small group of buyers are continuing to compete strongly for 19.5 to 20.5 micron best to spinners style wool with staple strength of 35 newtons/kilotex or stronger,&quot; the council said.</p>
+<p>After a meeting in Melbourne this week wool industry sectors reached a consensus regarding changes to stockpile disposal arrangements.</p>
+<p>The majority agreed to recommend that the legislation governing stockpile disposal be modified to allow the sale of a minimum of 90,000 and a maximum of 250,000 bales per quarter.</p>
+<p>Sales next week are in Sydney and Melbourne with 57,053 bales on offer.  -- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

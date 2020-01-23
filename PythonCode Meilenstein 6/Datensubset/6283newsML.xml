@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6283" id="root" date="1996-08-21" xml:lang="en">
+<title>JAPAN: Shimpo sets terms of Euroyen CB.</title>
+<headline>Shimpo sets terms of Euroyen CB.</headline>
+<dateline>TOKYO 1996-08-21</dateline>
+<text>
+<p>BORROWER - Shimpo Industrial Co Ltd</p>
+<p>LEAD MGR - Fuji Bank Schweiz AG</p>
+<p> TYPE Euroyen convertible  ISSUE NO	  AMT   4.5 bln yen</p>
+<p> COUPON nil		    ISSU PRICE	MATURITY 06.Sep.00</p>
+<p>CONV PRICE 1,804 yen</p>
+<p> CONV FROM 20.Sep.96	 CONV TO 30.Aug.00</p>
+<p> LAST MOODY		    PAY DATE 06.Sep.96   INT PAY</p>
+<p> LAST S&amp;P			SIGN DATE 21.Aug.96  SUB DATE</p>
+<p> LAST JCR			LAST JBRI		LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

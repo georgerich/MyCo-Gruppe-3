@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2568" id="root" date="1996-08-20" xml:lang="en">
+<title>SWITZERLAND: Swiss jobs firm Adia to merge with Ecco of France.</title>
+<headline>Swiss jobs firm Adia to merge with Ecco of France.</headline>
+<dateline>LAUSANNE, Switzerland</dateline>
+<text>
+<p>Shareholders of Swiss temporary employment firm Adia on Tuesday approved a merger with Ecco of France that will create one of the world's biggest personnel companies.</p>
+<p>The new firm, Adecco SA, will rival the world's biggest personnel firm, Manpower Inc. of the United States, although it will have only a small share of the U.S. market.</p>
+<p>Shareholders voted in favour of the move at a special meeting by approving a capital increase for Adia. The capital increase is intended to fulfil an Adia offer of share swaps or cash for Ecco shares, making way for Adia capital to become the stock of the new company.</p>
+<p>Adecco shares will be listed on the Swiss Exchange and as American Depositary Receipts on the U.S. Nasdaq market. Adecco shares will also be listed in Paris in place of Ecco.</p>
+<p>Adia said Adecco's market share will be 27 percent in France, 21 percent in Australia, 26 percent in Switzerland, 27 percent in Spain, and 4 percent in the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAUSANNE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

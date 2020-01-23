@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11199" id="root" date="1996-08-23" xml:lang="en">
+<title>VENEZUELA: Occidental raises Venezuela crude output.</title>
+<headline>Occidental raises Venezuela crude output.</headline>
+<dateline>CAMPO ALTURITAS, Venezuela 1996-08-23</dateline>
+<text>
+<p>U.S. oil company Occidental Petroleum Co has raised production from fields in western Venezuela to 25,500 barrels per day (bpd) thanks to a successful drilling campaign, Venezuelan oil officials said.</p>
+<p>Occidental unit, Occidental de Hidrocarburos Inc, operates five fields in Venezuela's Zulia state under an operating agreement with Petroleos de Venezuela unit Maraven signed in 1994.</p>
+<p>Occidental's production of 31 and 32-degree API crude from the area has grown from 17,000 bpd in 1995 and should reach 40,000 bpd next year, Herrol Hosein, Maraven's head of Maraven's operating agreements said during an organized visit to the area.</p>
+<p>-- Omar Lugo, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMPO ALTURITAS, Venezuela"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

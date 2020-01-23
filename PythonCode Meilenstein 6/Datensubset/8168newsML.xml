@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8168" id="root" date="1996-08-22" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times business - Aug 22.</title>
+<headline>PRESS DIGEST - New York Times business - Aug 22.</headline>
+<dateline>NEW YORK 1996-08-22</dateline>
+<text>
+<p>The New York Times reported the following business stories on Thursday:</p>
+<p>* Lloyd's of London is on the brink of getting a new lease on life.</p>
+<p>* Yield on the benchmark 30-year Treasury bond rises to its highest point in three weeks, boosted by concerns that the Federal Reserve might still raise interest rates this year.</p>
+<p>The 30-year bond was down 14/32 to a price of 99 to yield 6.83 percent, up from 6.79 percent on Tuesday.</p>
+<p>* Cost-cutting pays off as Kmart Corp reports a profit.</p>
+<p>* Corporate bond market is booming.</p>
+<p>* The Dow Jones Industrial Average falls 31.44 points to 5,689.82. The Nasdaq composite index closes at 1,126.84, up 2.17 points.</p>
+<p>* Study finds that Proscar, a prostate medication made by Merck and Co Inc, is ineffective. However, Abbott Laboratories Inc's Hytrin significantly eased men's discomfort, the findings showed.</p>
+<p>* President Bill Clinton will approve curbs on cigarette marketing to youths.</p>
+<p>* Venture capital firm forms $100 million fund to invest in software and related products based on the Java programming language.</p>
+<p>* AT&amp;T Corp awards extra responsibilities to  Young &amp; Rubicam and True North Communications Inc's CFCB/Leber Katz Partners ad agencies in a decision that could generate billings of at least $100 million.</p>
+<p>* British financial executives are worried about what will happen if Britain does not join the European Monetary Union.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

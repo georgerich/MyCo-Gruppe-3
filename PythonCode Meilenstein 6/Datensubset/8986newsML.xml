@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8986" id="root" date="1996-08-22" xml:lang="en">
+<title>UK: LPC- Skanska Capital ups loan to $700mln.</title>
+<headline>LPC- Skanska Capital ups loan to $700mln.</headline>
+<text>
+<p>LONDON, Aug 22 (LPC) - Skanska Capital AB has increased the size of its new revolving credit to $700 million, according to arrangers Chase Investment bank and Deutsche Morgan Grenfell.</p>
+<p>The deal, which refinances existing debt as well as providing new money, was launched at $650 million but upped after banks offered commitments of more than $800 million. The deal is guaranteed by Skanska AB.</p>
+<p>Signing is slated for Tuesday, September 3 in Malmo, Sweden. The credit has a seven-year tenor and is priced 18 bps over LIBOR with a commitment fee of 8.5 bps.</p>
+<p>--LPC Newsroom 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

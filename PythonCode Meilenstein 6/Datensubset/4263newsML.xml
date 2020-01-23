@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4263" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Sprint enters Internet provider arena.</title>
+<headline>Sprint enters Internet provider arena.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-20</dateline>
+<text>
+<p>Sprint Corp said on Tuesday that it chose Netscape Communications Corp to provide the World Wide Web browser for its newly launched Internet service, Sprint Internet Passport.</p>
+<p>Sprint said it will also include Netscape Navigator in its retail Internet systems, and said Netscape will feature Sprint as an Internet service provider in Netscape's retail Internet systems.</p>
+<p>Sprint, already the world's largest carrier of Internet traffic, according to the company, said its service will include the Navigator software, access speeds up to 28.8 kilobits per second (kbps) and a rebate certificate for a 28.8 kbps modem, and local dial access in 212 U.S. cities.</p>
+<p>A pricing plan was not announced.</p>
+<p>The announcement moves Sprint into an arena already occupied by AT&amp;T Corp and MCI Communications Corp, as well as several regional Bell operating companies.</p>
+<p>--New York Newsdesk, 212/859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

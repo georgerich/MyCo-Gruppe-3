@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7511" id="root" date="1996-08-21" xml:lang="en">
+<title>NORWAY: Hafslund H1 profits slip on lower output.</title>
+<headline>Hafslund H1 profits slip on lower output.</headline>
+<dateline>OSLO 1996-08-21</dateline>
+<text>
+<p>Norwegian energy group Hafslund ASA on Wednesday attributed a 28 percent decline in first half operating profits to low water levels for hydropower production.</p>
+<p>Hafslund's production fell 19 percent in the six month period to 985 gigawatt hours (GWh) compared with 1,211 GWh a year ago.</p>
+<p>Operating profit amounted to 103 million crowns against 143 million crowns in the first half of 1995. Pre-tax profits slipped 30 million crowns to 150 million crowns.</p>
+<p>&quot;The decline in operating profit is caused by substantially lower water level in the Glomma River in the first six months of 1996 compared with last year,&quot; Hafslund said in a statement.</p>
+<p>Norwegian power production has fallen in the first half of the year due to a shortfall of rain and snowfall last winter, which has resulted in low water levels in the country's reservoirs for hydroelectric production.</p>
+<p>Hafslund said electricity prices in the spot market were stable and high due to the low precipitation. Avergae spot level for the period to June 30 was 0.238 crowns per kilowatt hour (kWh) compared with 0.128 kWh last year.</p>
+<p>The group posted earnings per share (EPS) for the first half of 1.12 crowns.</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

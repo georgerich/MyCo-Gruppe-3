@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3374" id="root" date="1996-08-20" xml:lang="en">
+<title>CUBA: Cuban party admits crisis has weakened its support.</title>
+<headline>Cuban party admits crisis has weakened its support.</headline>
+<dateline>HAVANA 1996-08-20</dateline>
+<text>
+<p>The ruling Communist Party said on Tuesday that Cuba's economic crisis had generated uncertainty, contradictions and increased crime in society and weakened popular support for one-party socialist rule.</p>
+<p>It was a rare public admission of diminished support by the party, which previously insisted it enjoyed near-unanimous backing among the island's 11 million inhabitants.</p>
+<p>The party's Central Committee said in a political analysis that economic reforms introduced to counter the recession caused by the collapse of trade and aid ties with the former Soviet bloc had created social inequalities.</p>
+<p>This, in turn, has led to &quot;contradictions&quot; such as &quot;a weakening of support for the Revolution in some social groups and persons, above all in those who attribute the cause of the crisis to our mistakes,&quot; the party said.</p>
+<p>Other effects listed in the analysis, published in the official newspaper Granma, included an increase in crimes against state and personal property and the appearance of &quot;entities not committed to state or government action,&quot; an apparent reference to emerging private-sector groups.</p>
+<p>The party said it had noted some Cubans searching &quot;in other societies for the solution to aspirations of wellbeing and consumption&quot; -- that is, wanting to leave the country.</p>
+<p>In addition, the economic crisis has created &quot;feelings of insecurity, fear, suspicion, confusion, disillusionment, searching for paths of personal salvation, exacerbation of individualism and selfishness,&quot; the document said.</p>
+<p>&quot;The majority of the population and Cuban workers do not see a return to capitalism as the solution to our problems.&quot; But many Cubans do not fully understand that economic reforms being introduced to beat the crisis need to be gradual, orderly and managed, it said.</p>
+<p>It said a significant number of Cubans had doubts about the efficiency of socialism in providing goods and services. Others saw the reforms as a &quot;supposed surrender to capitalism and its economic formulas,&quot; it said, adding, &quot;This view is not only mistaken but unfair.&quot;</p>
+<p>Cuba's leaders have made clear that only &quot;elements of capitalism&quot; are being introduced, such as management, financing and market techniques, the document said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

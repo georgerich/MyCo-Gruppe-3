@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11483" id="root" date="1996-08-23" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Gas leak kills 5 Japanese trawlermen off Ireland.</title>
+<headline>Gas leak kills 5 Japanese trawlermen off Ireland.</headline>
+<byline>Michael Brown</byline>
+<dateline>BANDON, Ireland 1996-08-23</dateline>
+<text>
+<p>Five men died and one was injured when gas leaked from a refrigerator aboard a Japanese trawer off western Ireland on Friday, defence officials said.</p>
+<p>The vessel was among 40 being shadowed by the Irish navy after two trawlers were arrested on suspicion of fishing illegally inside Ireland's 200 mile &quot;Irish Box&quot; waters.</p>
+<p>Defence officials said an Irish navy vessel, the LE Aisling, was on its way to see if it could assist the vessel on which the accident happened but said the ship was not damaged and was making its own way to the port of Galway.</p>
+<p>They said it appeared that gas had leaked into the engine room of the trawler, which has a crew of about 30, but the leak had been stopped and there was no further risk on board.</p>
+<p>&quot;As far as we know the leak has stopped. They shut everything down and it appears alright now,&quot; said Geoff Livingstone of the Inshore Rescue Service.</p>
+<p>The accident happened on the day that the captain of the Minato Maru, the first Japanse vessel detained inside Irish waters, was charged with illegal fishing, attempted illegal fishing and entering Irish international waters.</p>
+<p>Tsukasa Nagasawa pleaded not guilty through an interpreter when he appeared in court in Bandon after being escorted to the port of Castletownbeare in the southern region of Cork.</p>
+<p>Nagasawa was freed on bail of close to 300,000 Irish pounds ($450,000) and was ordered to return to court on November 4 for trial. The vessel will be held for 48 hours until a bond is posted, court officials said.</p>
+<p>A second Japanese ship was being escorted to Castletownbeare and its captain was expected to appear in court over the weekend to face similar charges.</p>
+<p>The incidents brought to 29 the number of vessels detained by fisheries protection vessels since Ireland clamped down on illegal fishing last year. Most have involved Spanish vessels.</p>
+<p>Tuna, which is popular in Japan, is caught on miles of lines with baited hooks left on floats in feeding waters and marked by a radio tranmsitter. The lines can be hauled in later.</p>
+<p>The Irish government has stepped up its campaign against illegal fishing by reinforcing its fisheries protection fleet and mounting air searches of its vast waters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANDON, Ireland"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

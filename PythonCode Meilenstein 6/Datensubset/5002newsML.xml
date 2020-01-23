@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="5002" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Lloyd's asks for dismissal of recovery plan suit.</title>
+<headline>Lloyd's asks for dismissal of recovery plan suit.</headline>
+<byline>Lorrie Grant</byline>
+<dateline>RICHMOND, Va.</dateline>
+<text>
+<p>Lloyd's of London asked a U.S. judge on Tuesday to dismiss a suit by investors seeking to block the 300-year-old insurance market's recovery plan.</p>
+<p>Lloyd's also said it was willing to allow those investors to sue in Britain if fraud was found in its restructuring.</p>
+<p>Tens of thousands of investors in Lloyd's worldwide -- known as Names -- were anxiously awaiting the outcome of the Virginia case, in which U.S. investors have applied for an injunction to stop the recovery plan.</p>
+<p>Under the rescue proposal, Lloyd's was to reinsure billions of dollars in liabilities, including pollution and asbestosis-related claims in the United States, into a new company called Equitas.</p>
+<p>The proposal also includes a 3.2 billion British pound ($4.95 billion) cash offer to the Names designed to offset the cost of Equitas. The investors must vote on the proposal by Aug. 28.</p>
+<p>The suit, which names 93 plaintiffs, seeks to block the plan until more detailed financial information is released.</p>
+<p>Arguing to have the suit dismissed, Lloyd's attorney Harvey Pitt told U.S. District Court Judge Robert Payne that the case did not belong in his court.</p>
+<p>&quot;This case has no business in this court,&quot; Pitt told the court. &quot;I have never seen a case where none of the witnesses, plaintiffs or defendants live in the eastern district of Virginia.&quot;</p>
+<p>Pitt said Lloyd's Chief Executive Officer Ronald Sandler, who was on the witness stand for four hours Tuesday, was prepared to stipulate that if the judge dismissed the case and fraud later was found to be a part of the restructuring, the plaintiffs could sue in Britain.</p>
+<p>Earlier, Sandler answered questions from lawyers and from Payne as he sought to defend Lloyd's complex, multibillion-dollar restructuring plan to settle massive insurance losses. Sandler has said the plan, known as R&amp;R for reconstructional and renewal, is critical to Lloyd's solvency.</p>
+<p>Payne questioned Sandler for about an hour, asking about Lloyd's plans to pay its liabilities and what would happen if its investments made more money than was needed to pay off those liabilities.</p>
+<p>&quot;Most (Lloyd's officials) believe that some time over 30 years the liability will be extinguished,&quot; Sandler said, adding that any money left over would go to charities.</p>
+<p>When asked by the judge who the benefactors would be, Sandler said he was not able to answer.</p>
+<p>Payne told Sandler firmly that the company needed to have a plan for the disposition of leftover assets and that he would need to be told who the benefactors would be.</p>
+<p>Payne also asked whether Lloyd's was able to pay the total premium if U.S. investors did not back the recovery plan. Sandler said he was unable to answer.</p>
+<p>The plantiffs' motion for an injunction, filed in July, said Lloyd's had not provided investors with adequate financial statements for Equitas, had not provided substantive information as to who will run Equitas, about reserves and other funding requirements and how funds and proceeds would be used.</p>
+<p>Payne earlier criticised the U.S. Securities and Exchange Commission for refusing to determine whether Lloyd's should be subject to U.S. securities laws.</p>
+<p>The legal challenge was complicated on Friday by the SEC's neutral position on this issue. Payne said the SEC would have a second opportunity to respond to his request for a ruling.</p>
+<p>Separately Tuesday, Lloyd's received a boost from another court case in New York, which dismissed action brought against the market by four Names. They had claimed that Lloyd's knew long ago the extent of liabilities faced by Names.</p>
+<p>&quot;We are pleased by this decision. Names entered into their commitments under U.K. law and we are pleased that U.S. courts continue to recognise this,&quot; said Lloyd's U.S. executive, Peter Lane.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

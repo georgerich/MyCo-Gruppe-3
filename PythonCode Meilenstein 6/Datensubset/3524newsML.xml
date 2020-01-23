@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3524" id="root" date="1996-08-20" xml:lang="en">
+<title>PHILIPPINES: Philippine peso closes a shade higher on inflows.</title>
+<headline>Philippine peso closes a shade higher on inflows.</headline>
+<dateline>MANILA 1996-08-20</dateline>
+<text>
+<p>The Philippine peso closed a shade higher at 26.189 on Tuesday from 26.191 as dollars continued to stream in to investments in long-term securities, traders said.</p>
+<p>The day's average was 26.190 pesos versus 26.194 pesos on Monday. Volume dipped to $134.35 million from $136.60 million.  </p>
+<p>&quot;More money is rushing into long-term bills before interest rates really drop,&quot; said a dealer. Central Bank Governor Gabriel Singson had said year-on-year inflation could fall below 6.5 percent in September. Inflation reached 8.9 percent in July.</p>
+<p>The same dealer said more dollars are expected to come in if the U.S. Fed this Tuesday decides not to raise interest rates.</p>
+<p>- LILIAN KARUNUNGAN (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

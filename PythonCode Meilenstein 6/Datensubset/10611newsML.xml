@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10611" id="root" date="1996-08-23" xml:lang="en">
+<title>SWEDEN: ICE HOCKEY-RUSSIAN PLAYER TO BE CHARGED AFTER SWEDISH BRAWL.</title>
+<headline>ICE HOCKEY-RUSSIAN PLAYER TO BE CHARGED AFTER SWEDISH BRAWL.</headline>
+<dateline>STOCKHOLM 1996-08-23</dateline>
+<text>
+<p>A Russian ice hockey player was detained by police on Friday after a violent brawl at a friendly match between NH-90 from Nykoping in southern Sweden and the Russian team Torpedo Jaroslava.</p>
+<p>Local prosecutor Olof Ostberg said Jaroslava back Sergei Gorbachev would be charged with assault and battery after he knocked down NH-90's Tobias Borg from behind and repeatedly punched him in the face after the final whistle.</p>
+<p>Gorachev's team mates prevented the referees from intervening to stop the brawl after a bad-tempered clash which NH-90 won 2-0. The player was detained by police as the Russian team tried to leave the Nykoping rink on the team bus.</p>
+<p>&quot;He'll be tried today or tomorrow. He could face up to a year in jail,&quot; Ostberg said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

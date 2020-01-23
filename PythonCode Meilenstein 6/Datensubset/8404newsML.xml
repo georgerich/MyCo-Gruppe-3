@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="8404" id="root" date="1996-08-22" xml:lang="en">
+<title>FRANCE: France reports mixed bids for EU wheat, barley.</title>
+<headline>France reports mixed bids for EU wheat, barley.</headline>
+<dateline>PARIS 1996-08-22</dateline>
+<text>
+<p>European grain exporters bid through France on Thursday for 323,750 tonnes of soft wheat with taxes or refunds in the main European Union export tender on Thursday, French cereals office ONIC said.</p>
+<p>They also bid for 41,000 tonnes of taxed or subsidised soft wheat in a secondary tender for African, Caribbean and Pacific importers and sought 100,000 tonnes of barley for general export, it said in a trade announcement.</p>
+<p>An ONIC official said afterwards the barley bids were all for export refunds between 19.48 and 27.25 Ecus per tonne.  </p>
+<p>Following is the breakdown of bids. Bids for taxes or </p>
+<p>refunds (ref.) are in Ecus per tonne.</p>
+<p>		     --- Aug 22 ---		 --- Aug 8 ---</p>
+<p> MAIN TENDER Tonnage   Range of Bids    Tonnage  Range of Bids</p>
+<p> Soft wheat  278,750    0.30-3.08  Tax  123,550  0.01-5.07 Tax</p>
+<p> Soft wheat   45,000    0.87-3.27  Ref.  21,000  0.99-4.95 Ref.</p>
+<p> Barley	100,000   19.48-27.25 Ref. No bids</p>
+<p> ACP TENDER  Tonnage   Range of Bids    Tonnage  Range of Bids</p>
+<p> Soft wheat   10,000    0.02-0.27  Tax   18,200  Tax, not given</p>
+<p> Soft wheat   31,000    3.90-5.00  Ref.  47,000  3.00-12.74 Ref.</p>
+<p>-- Paris newsroom +331 4221 5146</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

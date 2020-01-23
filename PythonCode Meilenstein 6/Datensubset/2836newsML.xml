@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="2836" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Sprint says Internet can top long distance share.</title>
+<headline>Sprint says Internet can top long distance share.</headline>
+<byline>Susan Nadeau</byline>
+<dateline>CHICAGO 1996-08-20</dateline>
+<text>
+<p>Sprint Corp said Tuesday that it sees its market share in the Internet service provider arena topping its position in the long-distance market, which it said averages 10 to 12 percent.</p>
+<p>&quot;We have an objective of fast growth and high share, higher than the approximate 10th share that we have in long-distance,&quot; Jim Dodd, vice president of Internet Access Services, said in an interview. &quot;We think we can.&quot;</p>
+<p>Earlier, Kansas City-based Sprint introduced its consumer Internet access service, called Sprint Internet Passport.  </p>
+<p>The communications company will first offer the service to 200,000 of its current long-distance customers to &quot;test-drive&quot; it for free before doing a nationwide launch in 60 to 90 days, Dodd said. The service is priced at $19.50 a month for unlimited use or $1.50 an hour, as the customer prefers.</p>
+<p>Sprint, which is already a major provider of Internet access to commercial services such as America Online Inc, said it will now use its infrastructure for its own service.  </p>
+<p>Sprint plans to add content and high-quality service to give it an edge over other service providers, and offer long-distance and Internet package deals.</p>
+<p>&quot;We're pretty confident going in that we have the best economics of any major provider because of our cost structure and existing data networking capabilities,&quot; Dodd said, adding the company is currently discussing plans with software providers and companies in the entertainment arena.  </p>
+<p>Sprint's service will initially support only the Netscape browser, but Dodd said the company is currently in talks with Microsoft Corp to include its Explorer browser as well.</p>
+<p>&quot;In our first release we won't support the Microsoft browser, but we expect them to be a part of our service shortly,&quot; Dodd said.  </p>
+<p>Sprint is entering the general consumer market after its prime competitors AT&amp;T Corp and MCI Communications Corp already have their services in place. But analysts said in the long run the unrushed entrance into the market is not likely to hurt the company.</p>
+<p>&quot;Some others got not very good press,&quot; said Bette Massick Colombo, an analyst for Bear Stearns &amp; Co. &quot;The fact that they are taking their time is okay. I don't think they've lost ground.&quot;  </p>
+<p>Massick Colombo said the service may help Sprint retain customers in the long run, and expects only slight pressure on earnings in the short term as the Sprint gets the service up and running.</p>
+<p>&quot;I think it's important to have a full-service package,&quot; she said. &quot;They have one of the most advanced data networks in the world.&quot;</p>
+<p>Sprint is also planning to provide intranet packages for international businesses. Intranets are company-wide networks based on the Internet protocol.</p>
+<p>&quot;In the upcoming months you will see all sorts of integrated activity,&quot; Dodd said. &quot;We've been in the Internet, in fact profitable and making money in the Internet business, longer than anybody.&quot;</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

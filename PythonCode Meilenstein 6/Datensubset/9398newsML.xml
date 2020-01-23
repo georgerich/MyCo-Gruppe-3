@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9398" id="root" date="1996-08-22" xml:lang="en">
+<title>CAMBODIA: Australia to give Cambodia A$30 mill aid for 96/97.</title>
+<headline>Australia to give Cambodia A$30 mill aid for 96/97.</headline>
+<dateline>PHNOM PENH 1996-08-22</dateline>
+<text>
+<p>Australia will provide more than A$30 million (US$23.7 million) in development assistance to Cambodia in 1996-97, an Australian embassy statement said on Thursday.</p>
+<p>&quot;The allocation for financial year 1996-97 will allow major new projects identified in health and in the justice system to begin this year as planned,&quot; it said, adding that the aid reaffirmed Canberra's commitment to Cambodia's reconstruction.</p>
+<p>The Southeast Asian nation was devastated by war and revolution in the 1970s and 1980s and has been rebuilding since a 1991 peace pact, hampered by a continuing insurgency.</p>
+<p>The statement said Australia's 1996-97 aid budget announced on Tuesday contained bilateral allocation of A$22.3 million to Cambodia. The estimated total aid flow to Cambodia, including regional and humanitarian funding, is A$30.8 million.</p>
+<p>Australia, which played an important role in the Cambodian peace process, is a major aid donor to this country.</p>
+<p>(US$1 = A$1.26)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="KAMPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHNOM PENH"/>
+<dc element="dc.creator.location.country.name" value="CAMBODIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

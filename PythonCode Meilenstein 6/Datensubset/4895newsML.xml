@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4895" id="root" date="1996-08-20" xml:lang="en">
+<title>FINLAND: Finnish Dec CPI seen up 1.5 pct yr/yr - committee.</title>
+<headline>Finnish Dec CPI seen up 1.5 pct yr/yr - committee.</headline>
+<dateline>HELSINKI 1996-08-20</dateline>
+<text>
+<p>Finnish consumer prices are expected to be 1.5 percent higher year-on-year in December, a government appointed committee said in a report released on Tuesday.</p>
+<p>The so-called incomes policy working group, comprising experts at the finance ministry, trade unions and employer lobbies, also said the earnings index would be 3.2 percent higher year-on-year in the final quarter of 1996.</p>
+<p>The findings of the committee are used to determine whether index clauses in incomes settlements are triggered.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

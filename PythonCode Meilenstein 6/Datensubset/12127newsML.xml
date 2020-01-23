@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12127" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia Senate jeopardises rate cut - Howard.</title>
+<headline>RTRS-Australia Senate jeopardises rate cut - Howard.</headline>
+<dateline>CANBERRA 1996-08-23</dateline>
+<text>
+<p>Australian Prime Minister John Howard said the possibility of lower interest rates was being jeopardised by Parliament's upper house where opposition parties planned to scrutinise the 1996/97 budget.</p>
+<p>&quot;Every time the Senate hacks away at the budget, they hack away at the lower interest rate environment,&quot; Howard told reporters on Thursday night after attending a Liberal Party function.  </p>
+<p>Senior ministers have repeatedly warned since the fiscally-tight budget was handed down on Tuesday night that the chance of lower official rates could be hampered in the Senate.</p>
+<p>The budget contained sharp spending cuts in areas such as the labour market to reduce the deficit to about A$5.6 billion.</p>
+<p>The conservative government's plan for reform of the industrial relations environment and to partially sell Telstra has also been opposed by parties in the Senate such as the Greens and Australian Democrats as well as the official opposition, the Labor Party. Official cash rates were last cut on July 31 to 7.0 percent. -- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

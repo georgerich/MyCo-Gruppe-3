@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11492" id="root" date="1996-08-23" xml:lang="en">
+<title>NETHERLANDS: Stork's Fokker Aviation wins first order.</title>
+<headline>Stork's Fokker Aviation wins first order.</headline>
+<dateline>NAARDEN, Netherlands 1996-08-23</dateline>
+<text>
+<p>Industrial systems and services group Stork NV said on Friday Fokker Aviation had won an order from McDonnell Douglas Helicopter Systems worth 150 million guilders.</p>
+<p>It is the first major order won by Fokker Aviation, the maintenance and services arm of bankrupt planemaker Fokker, since being taken over by Stork in July, the company said in a statement.  </p>
+<p>Stork said the order was for &quot;Improved Extended forward Avionics Bays&quot; (IEFABS). An initial production run of 296 IEFABS would be made over a period of six years, Stork said.</p>
+<p>--Amsterdam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAARDEN, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

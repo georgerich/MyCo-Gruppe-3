@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3755" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: FCOJ futures settle lower on mixed selling.</title>
+<headline>FCOJ futures settle lower on mixed selling.</headline>
+<dateline>NEW YORK 1996-08-20</dateline>
+<text>
+<p>FCOJ futures consolidated after three consecutive days of gains to settle weaker on local and trade selling, floor sources said.</p>
+<p>They noted light speculative buying at the lows.</p>
+<p>The benchmark September contract closed above Friday's high of 120.00 cents a lb, however, leading market sources to label the activity a minor correction, and to forecast higher near-term prices.</p>
+<p>Analysts pegged the next level of resistance between 124.00 and 125.00 basis the September contract.</p>
+<p>September finished at 120.75, off 1.25, having ranged from 122.10 to 119.90. November closed 1.05 weaker at 115.10, while the remaining months settled 0.85 higher to 0.05 lower.</p>
+<p>Volume was estimated at 4,000 lots.</p>
+<p>--Suzanne Rostler, New York Commodities Desk 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

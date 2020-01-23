@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="10164" id="root" date="1996-08-22" xml:lang="en">
+<title>SINGAPORE: SingTel handphone unit to invest S$100m.</title>
+<headline>SingTel handphone unit to invest S$100m.</headline>
+<dateline>SINGAPORE 1996-08-22</dateline>
+<text>
+<p>Singapore Telecommunications Ltd (SingTel) unit Singapore Telecom MobileLink will invest Singapore $100 million to upgrade its two digital handphone systems, the Straits Times newspaper said on Thursday.</p>
+<p>It quoted SingTel president and chief executive officer Lee Hsien Yang as saying in an interview that: &quot;There are a number of programmes underway to upgrade our in-building coverage. You will see a significant improvement in October or November of this year.&quot;</p>
+<p>Lee said steps were being taken to upgrade the global system for mobile communications and the personal communications network system.</p>
+<p>The S$100 million would be invested over the next two years, the Straits Times said.</p>
+<p>-- Singapore newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

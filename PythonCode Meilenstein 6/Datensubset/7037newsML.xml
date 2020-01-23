@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="7037" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Clinton to sign health insurance measure.</title>
+<headline>Clinton to sign health insurance measure.</headline>
+<byline>Gene Gibbons</byline>
+<dateline>WASHINGTON 1996-08-21</dateline>
+<text>
+<p>President Clinton, who promised health insurance for everyone when he campaigned for the White House in 1992, on Wednesday signs a bill into law that will help people who have health insurance to keep it.</p>
+<p>Sponsored by Republican Sen. Nancy Kassebaum of Kansas and Democratic Sen. Edward Kennedy of Massachusetts, the bill generally protects those who change jobs or become ill from losing their medical benefits.</p>
+<p>The bill also sets up 750,000 Medical Savings Accounts to replace current conventional health insurance policies for employees of small companies or self-employed people. It also gives the self-employed a bigger tax break on health care costs.</p>
+<p>Clinton will sign the measure at a White House ceremony attended by health care professionals, members of Congress and ordinary citizens whom the bill will help.</p>
+<p>While the ceremony will cast the president in a favourable light by doing something about a widely-felt domestic problem, it will also be a vivid reminder of the collapse of his drive for universal health care coverage in 1994.</p>
+<p>More than 37 million Americans currently lack insurance.</p>
+<p>Asked if Clinton considered the bill a partial payoff on his campaign promise of four years ago, White House spokesman Mike McCurry said yes, &quot;but there is more that must be done.&quot;</p>
+<p>&quot;The Kassebaum-Kennedy measure, by expanding portability, by really instituting some controls and some new procedures on health care administrative costs, does take a very important incremental step,&quot; the spokesman said.</p>
+<p>But McCurry acknowledged that the bill does not address the question of the uninsured, and said health care reform will be a &quot;very important part&quot; of Clinton's second-term agenda.</p>
+<p>He said Clinton, who faces a challenge from Republican Bob Dole and independent Ross Perot in the Nov. 5 presidential election, would lay out more specifics of his agenda when he accepts renomination at the Democratic convention next week.</p>
+<p>Clinton plans to campaign on a three-day whistlestop train trip to the Chicago convention.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

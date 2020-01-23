@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3914" id="root" date="1996-08-20" xml:lang="en">
+<title>INDIA: Indian annualised interest rate on forward dollars.</title>
+<headline>Indian annualised interest rate on forward dollars.</headline>
+<dateline>BOMBAY 1996-08-20</dateline>
+<text>
+<p>The following are monthly annualised interest rates on forward dollar premia quoted by banks and brokers at 1600 IST.</p>
+<p>The rates are spot/one month to spot/six months.</p>
+<p>	    O/N = 7.68%				    O/N = 7.67%</p>
+<p>	    T/N =10.24%				    T/N =10.23%</p>
+<p>		   Aug 20, 1996			 Aug 19, 1996</p>
+<p>	  1 month forward = 10.24%	 1 month forward = 8.19%</p>
+<p>	  2 month forward = 10.75%	 2 month forward = 8.70%</p>
+<p>	  3 month forward = 10.92%	 3 month forward = 9.21%</p>
+<p>	  4 month forward = 11.18%	 4 month forward = 9.55%</p>
+<p>	  5 month forward = 11.61%	 5 month forward =10.16%</p>
+<p>	  6 month forward = 11.39%	 6 month forward =10.26%</p>
+<p>-- Bombay newsroom, 91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

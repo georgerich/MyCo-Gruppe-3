@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6809" id="root" date="1996-08-21" xml:lang="en">
+<title>DUBAI: Reuters 16th Ex-Dubai air cargo market report.</title>
+<headline>Reuters 16th Ex-Dubai air cargo market report.</headline>
+<dateline>DUBAI 1996-08-21</dateline>
+<text>
+<p>Below are the current average ex- Dubai air cargo market rates in United Arab Emirates dirhams per kg for a 100 kg shipment, with volume-to-weight ratio of six-to-one:</p>
+<p>				August 21		  July 24</p>
+<p>				  EUROPE</p>
+<p>DXB-LHR			   3.57			3.60</p>
+<p>DXB-FRA			   3.57			3.60</p>
+<p>			 ASIA PACIFIC</p>
+<p>DXB-SIN			   3.90			3.90</p>
+<p>DXB-HKG			   3.90			3.90</p>
+<p>				 AFRICA</p>
+<p>DXB-NBO			   3.93			3.95</p>
+<p>			UNITED STATES</p>
+<p>DXB-JFK			   5.80			5.80</p>
+<p>DXB-LAX			   6.60			6.60</p>
+<p>*The rates quoted in the report were obtained by Reuter journalists on a confidential basis from a range of airlines, large forwarders and smaller air cargo agents.</p>
+<p>*The tariffs represent average rates calculated from a range of prices and are indicative of current market activity.</p>
+<p>*A UAE dirham is fixed at a rate of $0.27.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

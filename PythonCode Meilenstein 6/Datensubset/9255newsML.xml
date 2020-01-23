@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="9255" id="root" date="1996-08-22" xml:lang="en">
+<title>MEXICO: Mexico's Autlan announces stock-split offer.</title>
+<headline>Mexico's Autlan announces stock-split offer.</headline>
+<dateline>MEXICO CITY 1996-08-22</dateline>
+<text>
+<p>Mexican mining firm Compania Minera Autlan SA de CV said on Thursday it planned to offer shareholders a stock split during a September 10 meeting.</p>
+<p>Autlan said in a statement through the Mexican Stock Exchange that it would offer two B shares for each A or B share in circulation. B shares are ordinary shares with voting rights, the company said.</p>
+<p>It offered no other details on the proposal.</p>
+<p>-- David Luhnow, Mexico City newsroom 525 7289565</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

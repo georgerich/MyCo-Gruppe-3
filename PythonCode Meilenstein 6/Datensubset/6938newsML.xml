@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6938" id="root" date="1996-08-21" xml:lang="en">
+<title>USA: Winners Entertainment Inc Q2 profit vs loss.</title>
+<headline>Winners Entertainment Inc Q2 profit vs loss.</headline>
+<dateline>CHESTER, W.Va. 1996-08-21</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>				  June 30		   June 30</p>
+<p>			     1996	1995	 1996	  1995</p>
+<p> Total Revenue    8,523,000  6,221,000 16,101,000  10,824,000</p>
+<p>Operating Income (Loss)</p>
+<p>			  665,000  (754,000)    611,000 (1,951,000)</p>
+<p>Net Income (Loss)  105,000 (1,066,000) (115,000) (2,646,000)</p>
+<p>Net Income (Loss) Per Share</p>
+<p>				.01	(.07)	(.01)	 (.17)</p>
+<p>Weighted Average Number</p>
+<p>of Shares Outstanding</p>
+<p>		     18,274,708 15,260,481 18,217,246  16,033,815</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHESTER, W.Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12112" id="root" date="1996-08-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian bond spreads edge in vs US, Canada.</title>
+<headline>RTRS-Australian bond spreads edge in vs US, Canada.</headline>
+<dateline>SYDNEY 1996-08-23</dateline>
+<text>
+<p>---------------------------------------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 89 (- 05)   125 (- 02) * FUTURES   66.5 (+ 00.5)</p>
+<p> CAD	126 (- 05)    62 (- 02) * CASH	78   (UNCH)</p>
+<p> NZD	-96 (+ 05)   -17 (+ 02) *</p>
+<p>---------------------------------------------------------</p>
+<p>The Australian/U.S. 10-year bond yield spread narrowed slightly on Friday and was sharply down on the week, traders said.</p>
+<p>The margin was again testing the 125 basis points level seen earlier this week which followed the positive response to the 1996/97 budget statement and Standard &amp; Poor's revised outlook on Australia to positive.</p>
+<p>However, local action was fairly light as the market wound down ahead of the weekend and after a busy trading week.</p>
+<p>The 10-year spread to Canada was also tighter, despite the long-end rally there on Thursday after the Bank of Canada shaved 25 basis points off its key Bank Rate to 4.25 percent.</p>
+<p>However, New Zealand continued to outpace the local market on the back of recent Eurokiwi bond issues and on the possibility of more to come, traders added.</p>
+<p>-- Colin Brinsden 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

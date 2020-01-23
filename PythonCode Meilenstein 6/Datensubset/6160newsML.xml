@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="6160" id="root" date="1996-08-21" xml:lang="en">
+<title>MEXICO: Banco de Mexico monetary aggregates to July.</title>
+<headline>Banco de Mexico monetary aggregates to July.</headline>
+<dateline>MEXICO CITY 1996-08-20</dateline>
+<text>
+<p>Banco de Mexico on Tuesday released its preliminary monetary aggregates up to July. All figures are in billions of pesos:</p>
+<p>			 Jun95   Jul95   Dec95   Jun96   Jul96</p>
+<p>M1		     124.5   128.5   165.4   180.0   184.5</p>
+<p>Notes/coins	   43.5    43.2    60.7    56.7    56.0</p>
+<p>Checking accts	81.0    85.3   104.7   123.3   128.5</p>
+<p>M4		     750.8   754.4   880.1   988.4 1,003.1</p>
+<p>Bank deposits</p>
+<p>    -private	 485.5   489.5   566.6   627.7   640.3</p>
+<p>    -development    45.8    51.0    76.5    91.6    90.3</p>
+<p>Securities</p>
+<p>    -government    110.4   102.0   104.6   122.6   123.9</p>
+<p>    -private	  27.5    27.5    23.2    22.4    22.2</p>
+<p>Retirement savings  38.1    41.2    48.5    67.4    70.4</p>
+<p>M1 measures notes and coints in circulation and checking accounts</p>
+<p>M4 measures notes and coins in circulation as well as deposits in the banking system, holdings of private and government securities and funds in the Retirement Savings System (SAR).</p>
+<p>-- Henry Tricks, Mexico City newsroom +525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

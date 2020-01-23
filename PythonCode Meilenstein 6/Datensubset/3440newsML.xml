@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="3440" id="root" date="1996-08-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-No hurry for election - Australia's Howard.</title>
+<headline>RTRS-No hurry for election - Australia's Howard.</headline>
+<dateline>CANBERRA 1996-08-21</dateline>
+<text>
+<p>Australian Prime Minister John Howard said on Wednesday he was in no hurry for a fresh election.</p>
+<p>&quot;I'm in no hurry to have an election,&quot; Howard told radio 2GB.</p>
+<p>Some political analysts believe Howard, elected in March for a three-year term, may be forced to call an early election because of parliamentary obstruction of key reforms.  </p>
+<p>Australia's constitution allows a government to call an election if parliament blocks legislation twice within three months.</p>
+<p>Howard's Liberal-National government does not have a majority in the 76-seat upper house, the Senate, and needs the support of at least two non-government senators to pass legislation.</p>
+<p>But the Labor opposition and minor parties have pledged to block key reforms, including the partial sale of government telecoms giant Telstra Corp.  </p>
+<p>An election called because of blocked legislation allows a joint sitting of both houses after the polls.</p>
+<p>Political analysts believe Howard would win an early election with a lower-house majority big enough to guarantee passage of his reforms through a joint sitting.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="11850" id="root" date="1996-08-23" xml:lang="en">
+<title>USA: Florida rules against State Farm on limits.</title>
+<headline>Florida rules against State Farm on limits.</headline>
+<dateline>TALLAHASSEE, Fla. 1996-08-22</dateline>
+<text>
+<p>The Florida Supreme Court said Thursday that the statute of limitations for filing personal injury protection claims should be calculated beginning after an insurer fails to pay, not at the time of an accident, ruling against State Farm Mutual Automobile Insurance Co.</p>
+<p>In February 1989, State Farm denied personal injury protection claims to a couple whose daughter had died from injuries sustained in a December 1988 traffic accident in Miami. The couple filed a lawsuit in February 1994 demanding the benefits.</p>
+<p>State Farm moved to dismiss the case, saying the lawsuit was filed after the five-year statute of limitations had expired. A trial court agreed and dismissed the case. But an appeals court ruled the clock had begun ticking upon the breach of the contract, which it said occurred in February 1989.</p>
+<p>The Court ruled that the defining moment is when the insurer refuses to pay, differentiating from claims involving uninsured motorists' protection, which begin at the time of an accident.</p>
+<p>With its decision, the high court said it was attempting to stop confusion brought about by conflicting appellate court rulings over when the clock begins to tick on personal injury claims.</p>
+<p>A State Farm spokeswoman said the company did not have an immediate comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="I8200316">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLAHASSEE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

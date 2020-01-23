@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="4252" id="root" date="1996-08-20" xml:lang="en">
+<title>USA: Tylan sees Q3 loss after nonrecurring items.</title>
+<headline>Tylan sees Q3 loss after nonrecurring items.</headline>
+<dateline>SAN DIEGO 1996-08-20</dateline>
+<text>
+<p>Tylan General Inc said Monday it expects to post a net loss in the third quarter because of increased legal and investment-banking fees and continued rescheduling of orders by its customers.</p>
+<p>The company also will be taking a one-time charge of $4.1 million from its acquisition of Span Instruments. Tylan also will take a restructuring charge of about $150,000 from recent staff reductions.</p>
+<p>Including those nonrecurring items, the company expects to report a net loss per share of between $0.20 and $0.22 for the quarter. Excluding those items, the company expects earnings per share to be between $0.10 and $0.12 for the third quarter, which ended July 28.</p>
+<p>The third-quarter results are expected to be released Aug 28.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
