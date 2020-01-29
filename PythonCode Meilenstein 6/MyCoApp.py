@@ -10,8 +10,10 @@ import numpy as np
 from tensorflow import keras
 
 word_index = json.load(open("dict.json"))
-ergbnisliste = []
+ergebnisliste = []
 querytext = ''
+globaltext = ''
+textliste =[]
 model = keras.models.load_model("model.h5")
 model.summary()
 
@@ -20,8 +22,8 @@ app = Flask(__name__)
 
 
 def results():
-    global ergbnisliste
-    ergbnisliste = []
+    global ergebnisliste
+    ergebnisliste = []
     print('Start')
     # build a request object
     req = request.get_json(force=True)
@@ -68,25 +70,32 @@ def results():
     dir = 'D:/Downloads/rcv1/rcv/'
     for file in glob.iglob(os.path.join(dir, '*/*.xml')):
         if isDocRelevant(file, eingabeGefiltert) == "yes":
-            ergbnisliste.append(file)
-            print(ergbnisliste)
-            print(len(ergbnisliste))
+            ergebnisliste.append(file)
+            textliste.append(globaltext)
+            if len(ergebnisliste)> 10:
+                break
+            print(ergebnisliste)
+            print(len(ergebnisliste))
 
     # return {'fulfillmentText': "Die Antwort auf die Eingabe wird auf \"http://localhost:5000/\" ausgegeben"}
 
 
 def isDocRelevant(file, tokenized_anfrage):
+
     with open(file):  # hier startet die Arbeit am Artikel
         print(file)
         tree = ET.parse(file)
-
+        global globaltext
+        globaltext= ''
         text = ""
         for node in tree.iter('text'):
             for elem in node.iter():
                 if not elem.tag == node.tag:
                     # print("{}: {}".format(elem.tag, elem.text))
                     text = text + elem.text + "  "
+                    globaltext = globaltext +elem.text+ " "
                     text = text.lower()  # nur Kleinbuchstaben
+
         text = text.replace(", ", " ")  # Einige Zeichen werden ersetzt
         text = text.replace("'", "")
         text = text.replace(". ", " ")
@@ -94,6 +103,7 @@ def isDocRelevant(file, tokenized_anfrage):
         text = text.replace(")", "")
         text = text.replace(": ", "")
         text = text.replace("\" ", "")
+
         tokenized_dokument = word_tokenize(text)  # Liste mit den Worten eines Dokuments ['german', 'bundesbank']
         # print(tokenized_dokument)
         # in der folgenden WHile Schleife wird ['german', 'bundesbank'] umgeformt,
@@ -127,8 +137,8 @@ def isDocRelevant(file, tokenized_anfrage):
 @app.route('/webhook', methods=['GET', 'POST'])
 def webhook():
     print(datetime.datetime.now(),'Webhook wurde ausgelöst')
-    global ergbnisliste
-    ergbnisliste = []
+    global ergebnisliste
+    ergebnisliste = []
     results()
     # return response
     return make_response(
@@ -139,9 +149,10 @@ def webhook():
 @app.route('/')
 def index():
     print(datetime.datetime.now(),'Seite wurde upgedatet')
-    global ergbnisliste
+    global ergebnisliste
     #print(ergbnisliste)
-    return render_template('index.html', list=ergbnisliste, begriff=querytext)
+    global textliste
+    return render_template('index.html', list=ergebnisliste,text = textliste, begriff=querytext)
 
 
 # run the app
