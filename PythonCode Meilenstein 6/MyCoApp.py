@@ -13,7 +13,8 @@ word_index = json.load(open("dict.json"))
 ergebnisliste = []
 querytext = ''
 globaltext = ''
-textliste =[]
+textliste = []
+#trainiertes Model laden.
 model = keras.models.load_model("model.h5")
 model.summary()
 
@@ -27,18 +28,9 @@ def results():
     print('Start')
     # build a request object
     req = request.get_json(force=True)
-
-    # fetch action from json
-    # action = req.get('queryResult').get('action')
-    # print(action)
-    # print(req)
-    # topic = req.get('queryResult').get('parameters').get('Topic')
-    # geocountry = str(req.get('queryResult').get('parameters').get('geo-country'))
-    # subtopic = req.get('queryResult').get('parameters').get('Subtopic')
-    # topic1 = req.get('queryResult').get('parameters').get('Topic1')
-    # print(topic1,subtopic,geocountry,topic)
-
+    # Stopwords und Wörter aus der Phrase der Eingabe definieren
     stopWords = set(stopwords.words("english"))
+
     stopWords2 = "tell", "something", "know", "let", "show", "let´s", "lets", "give", "see", "some", "news", "new", \
                  "talk", "information", "give", "want", "learn", "year", "place", "say"
     eingabeGefiltert = []
@@ -55,6 +47,7 @@ def results():
     anfrage = anfrage.replace("\" ", "")
     tokenized_anfrage = word_tokenize(anfrage)
 
+    #oben definierte Stopwörter und Phrasen entfernen
     for x in tokenized_anfrage:
         if x not in stopWords2 and x not in stopWords:
             eingabeGefiltert.append(x)
@@ -72,7 +65,7 @@ def results():
         if isDocRelevant(file, eingabeGefiltert) == "yes":
             ergebnisliste.append(file)
             textliste.append(globaltext)
-            if len(ergebnisliste)> 10:
+            if len(ergebnisliste) > 10:
                 break
             print(ergebnisliste)
             print(len(ergebnisliste))
@@ -86,14 +79,15 @@ def isDocRelevant(file, tokenized_anfrage):
         print(file)
         tree = ET.parse(file)
         global globaltext
-        globaltext= ''
+        globaltext = ''
         text = ""
+        # Inhalte des geladenen Dokuments laden
         for node in tree.iter('text'):
             for elem in node.iter():
                 if not elem.tag == node.tag:
                     # print("{}: {}".format(elem.tag, elem.text))
                     text = text + elem.text + "  "
-                    globaltext = globaltext +elem.text+ " "
+                    globaltext = globaltext + elem.text + " "
                     text = text.lower()  # nur Kleinbuchstaben
 
         text = text.replace(", ", " ")  # Einige Zeichen werden ersetzt
@@ -128,7 +122,7 @@ def isDocRelevant(file, tokenized_anfrage):
         # #print(encode)
         predict = model.predict(encode)
     relevant = 'no'
-    if [np.argmax(predict)] == [1]:
+    if [np.argmax(predict)] == [1]:  # Vergleichen ob das relevant flag gesetzt wurde
         relevant = 'yes'
     return relevant
 
@@ -136,9 +130,11 @@ def isDocRelevant(file, tokenized_anfrage):
 # create a route for webhook
 @app.route('/webhook', methods=['GET', 'POST'])
 def webhook():
-    print(datetime.datetime.now(),'Webhook wurde ausgelöst')
+    print(datetime.datetime.now(), 'Webhook wurde ausgelöst')
     global ergebnisliste
     ergebnisliste = []
+    global textliste
+    textliste = []
     results()
     # return response
     return make_response(
@@ -148,11 +144,10 @@ def webhook():
 # default route
 @app.route('/')
 def index():
-    print(datetime.datetime.now(),'Seite wurde upgedatet')
+    print(datetime.datetime.now(), 'Seite wurde upgedatet')
     global ergebnisliste
-    #print(ergbnisliste)
     global textliste
-    return render_template('index.html', list=ergebnisliste,text = textliste, begriff=querytext)
+    return render_template('index.html', list=ergebnisliste, text=textliste, begriff=querytext)
 
 
 # run the app
