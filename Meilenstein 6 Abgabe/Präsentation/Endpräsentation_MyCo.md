@@ -30,14 +30,14 @@ Philipp Stransky, Michael Schulz, Christoph Zeltwanger, Lisa Kryszewski, Georg E
 
 
 **1.0 Erläuterung unseres Zielsystems**
-![Abb. 2: Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb2.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb2.JPG)
 
 
 **2.0 Use Case Sprachassistent**
-![Abb.7: Sprachassistent](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb7.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb7.JPG)
 
 **3.0 Klassendiagramm Gesprächskontext**
-![Abb.6: Gesprächskontext](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb6.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb6.JPG)
 
 **4.0 Erzeugung der Trainingsdaten**
 
@@ -50,9 +50,9 @@ Philipp Stransky, Michael Schulz, Christoph Zeltwanger, Lisa Kryszewski, Georg E
     
 -   Notation verschiedenster Trainingsdaten zum trainieren des Netzes
 
-![Abb.5.1: Themensuche für Trainingsdaten Teil 1](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.1.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb51.JPG)
 
-![Abb.5.2: Themensuche für Trainingsdaten Teil 2](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.2.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb51.JPG)
 
 **5.0 Training des Netzes**
 -   Dokumente mit Wordindex umwandeln
@@ -74,7 +74,7 @@ Philipp Stransky, Michael Schulz, Christoph Zeltwanger, Lisa Kryszewski, Georg E
 
 -   relevante Dokumente werden in einer Liste ausgegeben
 
-![Abb.16: Netz](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb16.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb16.JPG)
 
 
 
