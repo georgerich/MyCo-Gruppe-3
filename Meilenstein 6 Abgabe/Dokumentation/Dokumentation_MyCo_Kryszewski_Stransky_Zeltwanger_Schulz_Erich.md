@@ -189,10 +189,10 @@ Damit ein Neuronales Netz Input in form von Wörtern verarbeiten kann muss diese
 	3.4 Trainingsdaten
 Um ein neuronales Netz zu Trainieren, benötigt man Trainingsdaten. Die Erstellung der Trainingsdaten wurden aus dem Reuters-Datensatz “rcv1” die ersten vier Ordner ausgewählt. Auf Basis dieser, in den Ordnern erhaltenen, Dokumente wurden die Trainingsdaten erstellt. Trainingsdaten bestehen aus einer “Anfrage”, damit ist der Input zu verstehen nach dem ein Nutzer suchen könnte. Zu jeder Anfrage wurden von hand einige Dokumente aus dem Datensatz herausgesucht die passend zu der gestellten Anfrage sind. Um diese Aufgabe etwas geschickter zu gestalten wurde ein Skript geschrieben in welchen nach bestimmten Keywörtern im gesamten Datensatz gesucht werden konnte (siehe Abb. 5.1 + 5.2).
 
-![Abb. 5.1: Themensuche für Trainingsdaten Teil 1](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.1.JPG)
+![Abb. 5: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.1.JPG))
 Abb.5.1: Themensuche Trainingsdaten
 
-![Abb. 5.2: Themensuche für Trainingsdaten Teil 2](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.2.JPG)
+![Abb. 5: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.1.JPG)
 Abb. 5.1: Themensuche Trainingsdaten
 
 
@@ -245,11 +245,13 @@ Im folgenden Kapitel werden die erstellten Diagramme dargestellt. Die Diagramme 
 
 	  5.1 Gesprächskontext
 
-![Abb.6: Gesprächskontext](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb6.JPG)
+![Abb. 6: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb6.JPG)
+Abb. 6: Gesprächskontext
 
 Die folgende Abbildung (s. Abb.7 ) zeigt den Use Case “Sprachassistent”.
 
-![Abb.7: Sprachassistent](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb7.JPG)
+![Abb. 7: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb7.JPG)
+Abb. 7: Sprachassistent
 
 ---
 | Name       | Dokumentenanfrage           | 
@@ -384,11 +386,13 @@ Im Folgenden wird in einer Klickanleitung beschrieben, wie man einen Intent anle
 
 Als erstes klickt man in der linken Menüleiste auf den Punkt Intent (s. Abb. 8) und oben auf den Button “Create Intent”.
 
-![Abb.8: Create Intent](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb8.JPG)
+![Abb. 8: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb8.JPG)
+Abb. 8: Create Intent 
 
 Im unteren Bereich sieht man die bereits ausgewählten bzw. angelegten Intents. Hier zum Beispiel “Book a flight ticket”, “Default Fallback Intent” und “Default Welcome Intent”. Wenn man auf den Button Create Intent geklickt hat, öffnet sich ein neuer Intent (s. Abb. 9)
 
-![Abb.9: Neuer Intent](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb9.JPG)
+![Abb. 9: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb9.JPG)
+Abb. 9: Neuer Intent
 
 Als muss man dem Intent in der obersten Zeile einen Namen geben. In dem Abbildungs Beispiel hat der Intent den Namen “Find Subject”.
 
@@ -397,7 +401,8 @@ Unter dem Punkt “Training Phrases” werden mögliche Eingaben des Users vorde
 Man hat außerdem die Möglichkeit Antworten auf Eingaben zu definieren (s. Abb. 10).
 
 
-![Abb.10: Responses](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb10.JPG)
+![Abb. 10: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb10.JPG)
+Abb. 10: Responses
 
 In unserem Beispiel wurden keine Antworten für dieses Intent hinzugefügt, da es sonst Probleme mit der Übergabe der Daten gibt. Wichtig ist für unser Intent außerdem unter dem Punkt Fulfillment den Punkt “Enable webhook call for this intent” aktiv zu setzen.
 
@@ -407,7 +412,8 @@ Dieser von uns angelegte Intent, erkennt finance, politics, technology, science 
 
 Entities werden benötigt, um in einem Intent ein Thema zu erkennen. im Folgenden wird beschrieben, wie man ein Intent anlegen kann.
 
-![Abb.11: Entity anlegen](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb11.JPG)
+![Abb. 11: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb11.JPG)
+Abb. 11: Entity anlegen
 
 Um ein Entity anzulegen klickt man in der linken Menüleiste auf den Punkt Entities (s. Abb. 11). Als erstes wird dem Entity ein Name gegeben, welcher in unserem Fall Topic ist. wir haben hier die Topics financ, politic, tech, scien und health definiert. Für jedes Topic wurden mehrer mögliche Schreibweisen definiert. Im Anschluss kann im Intent auf dieses Entity verwiesen werden und dadurch die Themen erkannt werden, über die gesprochen werden möchte.
 
@@ -415,12 +421,14 @@ Um ein Entity anzulegen klickt man in der linken Menüleiste auf den Punkt Entit
 
 Einen Agent benötigt man um Intents und Entities anlegen zu können. Einen Agent kann man durchaus als Projekt bezeichnen. Das Anlegen wird im Folgenden beschrieben (s. Abb.12).
 
-![Abb.12: Anlegen von Agents](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb12.JPG)
+![Abb. 12: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb12.JPG)
+Abb. 12: Anlegen von Agents
 
 Um einen neuen Agent anzulegen, muss man in der linken Menüleiste das Dropdown Menü öffnen und unten auf “Create new Agent” klicken. Daraufhin öffnet sich folgendes Fenster (s. Abb. 13).
 
 
-![Abb.13: Create new Agents](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb13.JPG)
+![Abb. 13: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb13.JPG)
+Abb. 13: Create New Agents
 
 Hier kann man den Agent benennen, die Sprache und die Zeitzone einstellen. Im Anschluss klickt man auch “Create” und der Agent ist erstellt.
 
@@ -473,7 +481,8 @@ Für eine erfolgreiche Inbetriebnahme des Projektes gilt es die Installationshin
     
 -   "ngrok http 5000" in der Kommandozeile ausführen (s.Abb. 15)
 
-![Abb.14: nGrok http 5000](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb14.JPG)
+![Abb. 14: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb14.JPG)
+Abb. 14: ngrok http 5000
 
 -   Markierte URL kopieren oder aufschreiben
     
@@ -528,7 +537,8 @@ Diese gestellten Anfragen werden über die Actions Console mittels Google Assist
 
 Für das Testing selbst spricht man folgenden Befehl in den Google Home Speaker “Okay Google, talk to my test app” nach dieser Ausführung erfolgt eine Abfrage via dem Google Home Speaker in Form einer Begrüßung. Nun spricht man seine Anfrage aus. Die Anfrage wird nun an das Python Skript weitergeleitet welches im Hintergrund läuft und auf den Webhook wartet. Abschließend führt das Skript die Suche nach dem Begriff durch und gibt die für relevant befundenen Dokumente auf html-Seite localhost:5000 aus.
 
-![Abb.15: Testumgebung](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb15.JPG)
+![Abb. 15: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb15.JPG)
+Abb. 15: Testumgebung
 
 
 ## **7.0 Zusammenfassung**
