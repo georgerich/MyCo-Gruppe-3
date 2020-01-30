@@ -104,7 +104,7 @@ Datum: 30.01.2020
 Ziel des Projektes ist es im Rahmen der Vorlesung CloudComputing des Masterstudiengangs Wirtschaftsinformatik einen selbstlernenden Sprachassistent zu konzipieren, welcher auf Basis des Google Home entwickelt wird. Dieser hat das Ziel einen Gesprächsverlauf durchzuführen und dem Nutzer als Recherchetool zu dienen. Anhand der Spracheingabe sollen Themen ermittelt werden, welche dem Nutzer in einer Liste von relevanten Dokumenten ausgegeben werden. Dabei soll das Zielsystem in drei Teilbereiche untergliedert sein (s. Abb. 1). Die Spracheingabe des Nutzers soll an den Sprachassistenten weitergeleitet werden um einen Gesprächskontext aufzubauen. Dabei soll sich das System zudem vergangene Anfragen merken und somit trainiert werden.
 
 ![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb1.JPG) 
-
+Abb.1: Grobstruktur Zielsystem
 
 
 **1.1 Rahmenbedingungen**
@@ -119,7 +119,7 @@ Ein weiterer Punkt ist es das sich die Teammitglieder gegenseitig, jedoch anonym
 **1.2 Beschreibung des Zielsystems**
 
 ![Abb. 2: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb2.JPG) 
-
+Abb. 2: Zielsystem
 
 In Abbildung 2 beschreiben wir unser Zielsystem und dessen Aufbau. Das System soll wie folgt aufgebaut sein. Die Eingabe erfolgt über einen Google Home der mit Dialogflow verbunden ist. Dialogflow soll die Eingabe des Users erkennen. Aus der Eingabe werden dann anhand eines Wortindexes aus den Worten Zahlen, die in einem Array abgebildet werden, umgewandelt. Ngrok baut einen Tunnel zwischen dem lokalen Host und dem Server durch den die Eingabe gesendet wird. Flask nimmt dann die Eingabe, die von Dialogflow gesendet wurde, entgegen und leitet sie weiter an Python Skript. Aus der Eingabe wird dann in Pythonskript anhand eines Wortindexes aus den Worten Zahlen, die in einem Array abgebildet werden, umgewandelt. In dem Python Skript wird ein neuronales Netz erzeugt dessen Input aus dem Array mit den Zahlen die durch den Wortindex erzeugt wurden und den einzelnen Dokumenten, deren Inhalt mit Hilfe des Wortidexes auch in Zahlen umgewandelt wird und als Array in das Netz hineingegeben wird. Als Output des neuronalen Netzes gibt es nur zwei Neuronen, eis für relevant und eins für nicht relevant. Flask leitet dann die als relevant gekennzeichneten Ausgabe von Python Skript über den immer noch bestehenden Tunnel von Ngrok an eine HTML-Seite.Auf dieser HTML Seite wir eine Liste mit allen relevanten Dokumenten an den User ausgegeben.
 
@@ -171,14 +171,15 @@ Nach Abschluss der vorherigen Meilensteine erfolgt im siebten Meilenstein die De
 Wie auch in Meilenstein fünf, erfolgt in Meilenstein acht ebenfalls ein erneutes und abschließendes Peer-Feedback um die Teammitglieder abschließend zu bewerten und den Dozenten ein finales Fazit über die Arbeitsweise und Projektarbeit während des Projektes zu geben.
 Die Projektarbeit unterteilt sich in 3 Meilensteine mit mehreren Unteraufgaben (s. Abb. 5). Auf diese wird im folgenden Kapitel näher eingegangen und diese beschrieben.
 
-![Abb. 3: Meilensteine](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb3.JPG)
-
+![Abb. 3: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb3.JPG)
+Abb.3: Meilensteine
 
 ## **3.0 Theoretische Grundlagen**
 
 	  3.1 Neuronales Netz
 	  
-![Abb.4: Neuronales Netz](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb4.JPG)
+![Abb. 4: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb4.JPG)
+Abb.4: Neuronales Netz
 
 Ein neuronales Netz ist eine Ansammlung von einzelnen Informationsverarbeitung Einheiten, auch Neuronen genannt, die schichtweise in einer Netzarchitektur angeordnet sind. Neuronen eines künstlichen neuronalen Netzes sind schichtweise in sogenannten Layern angeordnet. Das neuronale Netz besteht aus dem Embedding Layer oder Input Layer, in das ein Array aus Zahlen gesteckt wird, das durch das Umwandeln der Anfrage mit Hilfe des Wortindex entsteht. Außerdem wird ein Dokument, ebenfalls mit Hilfe des Wortindexes in ein Zahlenarry umgewandelt, in das neuronale Netz gesteckt. Dieses Embedding Layer besteht im vorliegenden Netz aus 210 Neuronen. Zwischen dem Input Layer und dem Output Layer kann eine vielzahl von Hidden Layern eingesetzt werden. In diesem Fall ist es ein Hidden Layer. Im Hidden Layer der dem Embedding Layer nachfolgt gibt es noch 125 Neuronen, die sich dann im Output Layer auf zwei Neuronen reduzieren. Hier gibt es ein Neuron für “relevant”, also sprich das Dokument aus dem Embedding Layer ist für die Anfrag aus dem Embedding Layer relevant oder “nicht relevant”, also das Dokument ist nicht relevant für die Anfrage. Hierbei gibt das Netz aber nicht relevant oder nicht relevant aus sondern gibt bei jeweils einem Output Neuron eine 1 (trifft zu) und 0 (trifft nicht zu) aus. Gibt das Neuron for relevant eine 1 und das Neuron für nicht relevant eine 0 aus, ist das Dokument für die Anfrage relevant.
 
@@ -188,10 +189,11 @@ Damit ein Neuronales Netz Input in form von Wörtern verarbeiten kann muss diese
 	3.4 Trainingsdaten
 Um ein neuronales Netz zu Trainieren, benötigt man Trainingsdaten. Die Erstellung der Trainingsdaten wurden aus dem Reuters-Datensatz “rcv1” die ersten vier Ordner ausgewählt. Auf Basis dieser, in den Ordnern erhaltenen, Dokumente wurden die Trainingsdaten erstellt. Trainingsdaten bestehen aus einer “Anfrage”, damit ist der Input zu verstehen nach dem ein Nutzer suchen könnte. Zu jeder Anfrage wurden von hand einige Dokumente aus dem Datensatz herausgesucht die passend zu der gestellten Anfrage sind. Um diese Aufgabe etwas geschickter zu gestalten wurde ein Skript geschrieben in welchen nach bestimmten Keywörtern im gesamten Datensatz gesucht werden konnte (siehe Abb. 5.1 + 5.2).
 
-![Abb.5.1: Themensuche für Trainingsdaten Teil 1](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.1.JPG)
+![Abb. 5.1: Themensuche für Trainingsdaten Teil 1](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.1.JPG)
+Abb.5.1: Themensuche Trainingsdaten
 
-![Abb.5.2: Themensuche für Trainingsdaten Teil 2](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.2.JPG)
-
+![Abb. 5.2: Themensuche für Trainingsdaten Teil 2](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb5.2.JPG)
+Abb. 5.1: Themensuche Trainingsdaten
 
 
 4.0 Hinweise für Entwickler
