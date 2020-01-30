@@ -117,7 +117,7 @@ Ein weiterer Punkt ist es das sich die Teammitglieder gegenseitig, jedoch anonym
 
 **1.2 Beschreibung des Zielsystems**
 
-![Abb. 2: Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb2.JPG)
+![Abb. 2: Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/tree/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb2.jpeg) 
 
 In Abbildung 2 beschreiben wir unser Zielsystem und dessen Aufbau. Das System soll wie folgt aufgebaut sein. Die Eingabe erfolgt über einen Google Home der mit Dialogflow verbunden ist. Dialogflow soll die Eingabe des Users erkennen. Aus der Eingabe werden dann anhand eines Wortindexes aus den Worten Zahlen, die in einem Array abgebildet werden, umgewandelt. Ngrok baut einen Tunnel zwischen dem lokalen Host und dem Server durch den die Eingabe gesendet wird. Flask nimmt dann die Eingabe, die von Dialogflow gesendet wurde, entgegen und leitet sie weiter an Python Skript. Aus der Eingabe wird dann in Pythonskript anhand eines Wortindexes aus den Worten Zahlen, die in einem Array abgebildet werden, umgewandelt. In dem Python Skript wird ein neuronales Netz erzeugt dessen Input aus dem Array mit den Zahlen die durch den Wortindex erzeugt wurden und den einzelnen Dokumenten, deren Inhalt mit Hilfe des Wortidexes auch in Zahlen umgewandelt wird und als Array in das Netz hineingegeben wird. Als Output des neuronalen Netzes gibt es nur zwei Neuronen, eis für relevant und eins für nicht relevant. Flask leitet dann die als relevant gekennzeichneten Ausgabe von Python Skript über den immer noch bestehenden Tunnel von Ngrok an eine HTML-Seite.Auf dieser HTML Seite wir eine Liste mit allen relevanten Dokumenten an den User ausgegeben.
 
