@@ -189,11 +189,11 @@ Damit ein Neuronales Netz Input in form von Wörtern verarbeiten kann muss diese
 	3.4 Trainingsdaten
 Um ein neuronales Netz zu Trainieren, benötigt man Trainingsdaten. Die Erstellung der Trainingsdaten wurden aus dem Reuters-Datensatz “rcv1” die ersten vier Ordner ausgewählt. Auf Basis dieser, in den Ordnern erhaltenen, Dokumente wurden die Trainingsdaten erstellt. Trainingsdaten bestehen aus einer “Anfrage”, damit ist der Input zu verstehen nach dem ein Nutzer suchen könnte. Zu jeder Anfrage wurden von hand einige Dokumente aus dem Datensatz herausgesucht die passend zu der gestellten Anfrage sind. Um diese Aufgabe etwas geschickter zu gestalten wurde ein Skript geschrieben in welchen nach bestimmten Keywörtern im gesamten Datensatz gesucht werden konnte (siehe Abb. 5.1 + 5.2).
 
-![Abb. 5: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb51.JPG))
+![Abb. 5: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb51.JPG)
 Abb.5.1: Themensuche Trainingsdaten
 
 ![Abb. 5: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb52.JPG)
-Abb. 5.1: Themensuche Trainingsdaten
+Abb. 5.2: Themensuche Trainingsdaten
 
 
 4.0 Hinweise für Entwickler
