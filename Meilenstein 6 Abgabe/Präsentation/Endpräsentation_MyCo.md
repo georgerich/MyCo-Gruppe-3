@@ -52,7 +52,7 @@ Philipp Stransky, Michael Schulz, Christoph Zeltwanger, Lisa Kryszewski, Georg E
 
 ![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb51.JPG)
 
-![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb51.JPG)
+![Abb. 1: Grobstruktur Zielsystem](https://github.com/georgerich/MyCo-Gruppe-3/blob/master/Meilenstein%206%20Abgabe/Bilder_Final_Dokumentation/Abb52.JPG)
 
 **5.0 Training des Netzes**
 -   Dokumente mit Wordindex umwandeln
